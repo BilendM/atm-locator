@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#2c3e50">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <title>ATM Locator</title>
+    <link rel="manifest" href="manifest.json">
+    <link rel="apple-touch-icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect fill='%232c3e50' width='192' height='192' rx='20'/%3E%3Ctext x='96' y='120' font-family='Arial' font-size='80' fill='white' text-anchor='middle'%3E%24%3C/text%3E%3C/svg%3E">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="app">
+        <header class="app-header">
+            <h1>ATM Locator</h1>
+            <div class="connection-status" id="connectionStatus">
+                <span class="status-dot"></span>
+                <span class="status-text">Online</span>
+            </div>
+        </header>
+
+        <div class="controls">
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="Search ATM locations...">
+                <button id="clearSearch">×</button>
+            </div>
+            
+            <div class="filters">
+                <select id="cityFilter">
+                    <option value="">All Cities</option>
+                </select>
+                <select id="bankFilter">
+                    <option value="">All Banks</option>
+                </select>
+            </div>
+            
+            <button id="locateBtn" class="locate-btn">
+                <svg viewBox="0 0 24 24" width="20" height="20">
+                    <path fill="currentColor" d="M12 8c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm8.94 3c-.46-4.17-3.77-7.48-7.94-7.94V1h-2v2.06C6.83 3.52 3.52 6.83 3.06 11H1v2h2.06c.46 4.17 3.77 7.48 7.94 7.94V23h2v-2.06c4.17-.46 7.48-3.77 7.94-7.94H23v-2h-2.06zM12 19c-3.87 0-7-3.13-7-7s3.13-7 7-7 7 3.13 7 7-3.13 7-7 7z"/>
+                </svg>
+                My Location
+            </button>
+        </div>
+
+        <div id="map"></div>
+
+        <div class="stats" id="stats">
+            <span id="atmCount">0 ATMs found</span>
+        </div>
+
+        <div id="atmList" class="atm-list hidden">
+            <div class="list-header">
+                <h2>Nearby ATMs</h2>
+                <button id="closeList">×</button>
+            </div>
+            <div id="listContent" class="list-content"></div>
+        </div>
+
+        <button id="toggleList" class="toggle-list-btn">
+            <svg viewBox="0 0 24 24" width="24" height="24">
+                <path fill="currentColor" d="M3 13h2v-2H3v2zm0 4h2v-2H3v2zm0-8h2V7H3v2zm4 4h14v-2H7v2zm0 4h14v-2H7v2zM7 7v2h14V7H7z"/>
+            </svg>
+        </button>
+    </div>
+
+    <div id="atmModal" class="modal">
+        <div class="modal-content">
+            <button class="modal-close">&times;</button>
+            <h3 id="modalTitle"></h3>
+            <div id="modalContent"></div>
+            <div class="modal-actions">
+                <button id="navigateBtn" class="btn-primary">
+                    <svg viewBox="0 0 24 24" width="16" height="16">
+                        <path fill="currentColor" d="M21.71 11.29l-9-9c-.39-.39-1.02-.39-1.41 0l-9 9c-.39.39-.39 1.02 0 1.41l9 9c.39.39 1.02.39 1.41 0l9-9c.39-.38.39-1.01 0-1.41zM14 14.5V12h-4v3H8v-4c0-.55.45-1 1-1h5V7.5l3.5 3.5-3.5 3.5z"/>
+                    </svg>
+                    Navigate
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
