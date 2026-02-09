@@ -380,64 +380,132 @@ class ATMLocator {
 
     locateUser() {
         if (!navigator.geolocation) {
-            alert('Geolocation is not supported by your browser');
+            this.showLocationError('Geolocation is not supported by your browser');
             return;
         }
 
-        document.getElementById('locateBtn').innerHTML = `
-            <svg viewBox="0 0 24 24" width="20" height="20" class="spin">
-                <path fill="currentColor" d="M12 6v3l4-4-4-4v3c-4.42 0-8 3.58-8 8 0 1.57.46 3.03 1.24 4.26L6.7 14.8c-.45-.83-.7-1.79-.7-2.8 0-3.31 2.69-6 6-6zm6.76 1.74L17.3 9.2c.44.84.7 1.79.7 2.8 0 3.31-2.69 6-6 6v-3l-4 4 4 4v-3c4.42 0 8-3.58 8-8 0-1.57-.46-3.03-1.24-4.26z"/>
-            </svg>
-            Locating...
-        `;
+        this.isLocating = true;
+        this.updateLocateButton(true);
 
-        navigator.geolocation.getCurrentPosition(
-            (position) => {
-                this.userLocation = {
-                    lat: position.coords.latitude,
-                    lng: position.coords.longitude
-                };
-
-                // Remove existing user marker
-                if (this.userMarker) {
-                    this.map.removeLayer(this.userMarker);
-                }
-
-                // Add user location marker
-                const icon = L.divIcon({
-                    className: 'user-location-marker user-location-pulse',
-                    iconSize: [16, 16]
-                });
-
-                this.userMarker = L.marker([this.userLocation.lat, this.userLocation.lng], { icon })
-                    .addTo(this.map)
-                    .bindPopup('Your Location');
-
-                // Center map on user
-                this.map.setView([this.userLocation.lat, this.userLocation.lng], 14);
-
-                // Update list with distances
-                this.updateList();
-
-                document.getElementById('locateBtn').innerHTML = `
-                    <svg viewBox="0 0 24 24" width="20" height="20">
-                        <path fill="currentColor" d="M12 8c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm8.94 3c-.46-4.17-3.77-7.48-7.94-7.94V1h-2v2.06C6.83 3.52 3.52 6.83 3.06 11H1v2h2.06c.46 4.17 3.77 7.48 7.94 7.94V23h2v-2.06c4.17-.46 7.48-3.77 7.94-7.94H23v-2h-2.06zM12 19c-3.87 0-7-3.13-7-7s3.13-7 7-7 7 3.13 7 7-3.13 7-7 7z"/>
-                    </svg>
-                    My Location
-                `;
-            },
-            (error) => {
-                console.error('Geolocation error:', error);
-                alert('Could not get your location. Please check your location permissions.');
-                document.getElementById('locateBtn').innerHTML = `
-                    <svg viewBox="0 0 24 24" width="20" height="20">
-                        <path fill="currentColor" d="M12 8c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm8.94 3c-.46-4.17-3.77-7.48-7.94-7.94V1h-2v2.06C6.83 3.52 3.52 6.83 3.06 11H1v2h2.06c.46 4.17 3.77 7.48 7.94 7.94V23h2v-2.06c4.17-.46 7.48-3.77 7.94-7.94H23v-2h-2.06zM12 19c-3.87 0-7-3.13-7-7s3.13-7 7-7 7 3.13 7 7-3.13 7-7 7z"/>
-                    </svg>
-                    My Location
-                `;
-            },
-            { enableHighAccuracy: true, timeout: 10000, maximumAge: 0 }
+        // Try with high accuracy first
+        this.getLocationWithFallback(
+            { enableHighAccuracy: true, timeout: 15000, maximumAge: 0 },
+            { enableHighAccuracy: false, timeout: 10000, maximumAge: 60000 }
         );
+    }
+
+    getLocationWithFallback(highAccuracyOptions, fallbackOptions) {
+        navigator.geolocation.getCurrentPosition(
+            (position) => this.handleLocationSuccess(position),
+            (error) => {
+                console.warn('High accuracy location failed, trying fallback...', error);
+                // Try with lower accuracy
+                navigator.geolocation.getCurrentPosition(
+                    (position) => this.handleLocationSuccess(position),
+                    (error) => this.handleLocationError(error),
+                    fallbackOptions
+                );
+            },
+            highAccuracyOptions
+        );
+    }
+
+    handleLocationSuccess(position) {
+        this.userLocation = {
+            lat: position.coords.latitude,
+            lng: position.coords.longitude,
+            accuracy: position.coords.accuracy
+        };
+
+        // Remove existing user marker
+        if (this.userMarker) {
+            this.map.removeLayer(this.userMarker);
+        }
+
+        // Add user location marker
+        const icon = L.divIcon({
+            className: 'user-location-marker user-location-pulse',
+            iconSize: [16, 16]
+        });
+
+        this.userMarker = L.marker([this.userLocation.lat, this.userLocation.lng], { icon })
+            .addTo(this.map)
+            .bindPopup(`Your Location<br><small>Accuracy: ${Math.round(this.userLocation.accuracy)}m</small>`);
+
+        // Center map on user
+        this.map.setView([this.userLocation.lat, this.userLocation.lng], 14);
+
+        // Update list with distances
+        this.updateList();
+
+        this.isLocating = false;
+        this.updateLocateButton(false);
+    }
+
+    handleLocationError(error) {
+        this.isLocating = false;
+        this.updateLocateButton(false);
+
+        let errorMessage = '';
+        let errorDetails = '';
+
+        switch(error.code) {
+            case error.PERMISSION_DENIED:
+                errorMessage = 'Location access denied';
+                errorDetails = 'Please enable location permissions in your browser settings. On iOS: Settings → Privacy → Location Services → Safari';
+                break;
+            case error.POSITION_UNAVAILABLE:
+                errorMessage = 'Location unavailable';
+                errorDetails = 'Could not get your location. Please check that location services are enabled and try again.';
+                break;
+            case error.TIMEOUT:
+                errorMessage = 'Location request timed out';
+                errorDetails = 'The request took too long. Please check your connection and try again.';
+                break;
+            default:
+                errorMessage = 'Could not get your location';
+                errorDetails = 'An unexpected error occurred. Please try again.';
+        }
+
+        console.error('Geolocation error:', error.code, error.message);
+        this.showLocationError(errorMessage, errorDetails);
+    }
+
+    showLocationError(title, details = '') {
+        // Create custom error modal
+        const modal = document.createElement('div');
+        modal.className = 'location-error-modal';
+        modal.innerHTML = `
+            <div class="location-error-content">
+                <div class="location-error-icon">📍</div>
+                <h3>${title}</h3>
+                <p>${details}</p>
+                <button onclick="this.closest('.location-error-modal').remove()">OK</button>
+            </div>
+        `;
+        modal.addEventListener('click', (e) => {
+            if (e.target === modal) modal.remove();
+        });
+        document.body.appendChild(modal);
+    }
+
+    updateLocateButton(isLocating) {
+        const btn = document.getElementById('locateBtn');
+        if (isLocating) {
+            btn.innerHTML = `
+                <svg viewBox="0 0 24 24" width="20" height="20" class="spin">
+                    <path fill="currentColor" d="M12 6v3l4-4-4-4v3c-4.42 0-8 3.58-8 8 0 1.57.46 3.03 1.24 4.26L6.7 14.8c-.45-.83-.7-1.79-.7-2.8 0-3.31 2.69-6 6-6zm6.76 1.74L17.3 9.2c.44.84.7 1.79.7 2.8 0 3.31-2.69 6-6 6v-3l-4 4 4 4v-3c4.42 0 8-3.58 8-8 0-1.57-.46-3.03-1.24-4.26z"/>
+                </svg>
+                Locating...
+            `;
+        } else {
+            btn.innerHTML = `
+                <svg viewBox="0 0 24 24" width="20" height="20">
+                    <path fill="currentColor" d="M12 8c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm8.94 3c-.46-4.17-3.77-7.48-7.94-7.94V1h-2v2.06C6.83 3.52 3.52 6.83 3.06 11H1v2h2.06c.46 4.17 3.77 7.48 7.94 7.94V23h2v-2.06c4.17-.46 7.48-3.77 7.94-7.94H23v-2h-2.06zM12 19c-3.87 0-7-3.13-7-7s3.13-7 7-7 7 3.13 7 7-3.13 7-7 7z"/>
+                </svg>
+                My Location
+            `;
+        }
     }
 
     calculateDistance(loc1, atm) {
