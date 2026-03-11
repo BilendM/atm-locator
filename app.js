@@ -161,26 +161,7 @@ class ATMLocator {
     }
 
     async scanDataFiles() {
-        const existingFiles = [];
-        
-        // Try listing directory first
-        try {
-            const response = await fetch('data/');
-            const text = await response.text();
-            const fileMatches = text.match(/href="([^"]*\.json)"/g);
-            
-            if (fileMatches) {
-                for (const match of fileMatches) {
-                    const filename = match.replace('href="', '').replace('"', '');
-                    existingFiles.push(`data/${filename}`);
-                }
-                return existingFiles;
-            }
-        } catch (e) {
-            console.log('Directory listing not available, using fallback');
-        }
-        
-        // Fallback: check each known file
+        // GitHub Pages doesn't support directory listing, use fallback directly
         const patterns = [
             'data/rt-bank-erbil.json',
             'data/rt-bank-slemani.json',
@@ -188,6 +169,8 @@ class ATMLocator {
             'data/cihan-bank.json',
             'data/nbi-bank.json',
         ];
+        
+        const existingFiles = [];
         
         for (const file of patterns) {
             try {

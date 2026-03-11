@@ -26,8 +26,6 @@ self.addEventListener('install', (event) => {
         }
       }
       return self.skipWaiting();
-    }).catch((e) => {
-      console.error('Service worker install failed:', e);
     })
   );
 });
