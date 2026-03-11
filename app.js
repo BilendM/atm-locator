@@ -121,18 +121,20 @@ class ATMLocator {
     async loadData() {
         try {
             const dataFiles = await this.scanDataFiles();
+            
             const loadedData = [];
             
             for (const file of dataFiles) {
                 try {
                     const response = await fetch(file);
+                    
                     if (response.ok) {
                         const data = await response.json();
                         const parsed = this.parseATMData(data, file);
                         loadedData.push(...parsed);
                     }
                 } catch (e) {
-                    console.warn(`Could not load ${file}:`, e);
+                    console.warn(`Error loading ${file}:`, e);
                 }
             }
 
@@ -144,8 +146,8 @@ class ATMLocator {
             this.filteredData = [...this.atmData];
             
             console.log('Loaded ATMs:', this.atmData.length);
-            console.log('Banks found:', [...this.banks]);
-            console.log('Cities found:', [...this.cities]);
+            console.log('Banks:', [...this.banks]);
+            console.log('Cities:', [...this.cities]);
             
             this.extractCitiesAndBanks();
             this.populateFilters();
@@ -161,6 +163,7 @@ class ATMLocator {
     async scanDataFiles() {
         const existingFiles = [];
         
+        // Try listing directory first
         try {
             const response = await fetch('data/');
             const text = await response.text();
@@ -171,24 +174,28 @@ class ATMLocator {
                     const filename = match.replace('href="', '').replace('"', '');
                     existingFiles.push(`data/${filename}`);
                 }
+                return existingFiles;
             }
         } catch (e) {
-            const patterns = [
-                'data/rt-bank-erbil.json',
-                'data/rt-bank-slemani.json',
-                'data/rt-bank-duhok.json',
-                'data/cihan-bank.json',
-                'data/nbi-bank.json',
-            ];
-            
-            for (const file of patterns) {
-                try {
-                    const response = await fetch(file, { method: 'HEAD' });
-                    if (response.ok) {
-                        existingFiles.push(file);
-                    }
-                } catch (err) {}
-            }
+            console.log('Directory listing not available, using fallback');
+        }
+        
+        // Fallback: check each known file
+        const patterns = [
+            'data/rt-bank-erbil.json',
+            'data/rt-bank-slemani.json',
+            'data/rt-bank-duhok.json',
+            'data/cihan-bank.json',
+            'data/nbi-bank.json',
+        ];
+        
+        for (const file of patterns) {
+            try {
+                const response = await fetch(file, { method: 'HEAD' });
+                if (response.ok) {
+                    existingFiles.push(file);
+                }
+            } catch (err) {}
         }
 
         return existingFiles;
