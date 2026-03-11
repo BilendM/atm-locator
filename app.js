@@ -64,10 +64,21 @@ class ATMLocator {
             zoom: 12,
             zoomControl: true,
             attributionControl: true,
+            bounceZoom: true,
             // Enable rotation on mobile (two-finger rotate)
-            rotate: isMobile,
-            rotateControl: isMobile
+            rotate: true,
+            rotateControl: true
         });
+
+        // Force rotation control to show on mobile for better UX
+        if (isMobile && this.map.rotateControl) {
+            this.map.removeControl(this.map.rotateControl);
+            this.map.rotateControl = L.control.rotate({
+                position: 'topleft',
+                keepCurrentZoomLevel: true,
+                showCompass: true
+            }).addTo(this.map);
+        }
 
         // Bank colors for markers
         this.bankColors = {
@@ -496,6 +507,15 @@ class ATMLocator {
             this.setMapStyle(newTheme);
         });
 
+        // Filter sheet toggle
+        document.getElementById('filterToggle').addEventListener('click', () => {
+            document.getElementById('filterSheet').classList.remove('hidden');
+        });
+
+        document.getElementById('closeFilterSheet').addEventListener('click', () => {
+            document.getElementById('filterSheet').classList.add('hidden');
+        });
+
         // Locate button
         document.getElementById('locateBtn').addEventListener('click', () => {
             this.locateUser();
@@ -681,22 +701,22 @@ class ATMLocator {
 
         const heading = this.heading || 0;
         const coneSvg = `
-            <svg width="80" height="80" viewBox="0 0 80 80" style="transform: rotate(${heading}deg);">
+            <svg width="45" height="45" viewBox="0 0 45 45" style="transform: rotate(${heading}deg);">
                 <defs>
                     <linearGradient id="coneGradient" x1="0%" y1="0%" x2="0%" y2="100%">
-                        <stop offset="0%" style="stop-color:#3498db;stop-opacity:0.8" />
-                        <stop offset="100%" style="stop-color:#3498db;stop-opacity:0.1" />
+                        <stop offset="0%" style="stop-color:#3498db;stop-opacity:0.9" />
+                        <stop offset="100%" style="stop-color:#3498db;stop-opacity:0.2" />
                     </linearGradient>
                 </defs>
-                <polygon points="40,5 60,75 40,65 20,75" fill="url(#coneGradient)" stroke="white" stroke-width="2"/>
+                <polygon points="22.5,2 38,43 22.5,35 7,43" fill="url(#coneGradient)" stroke="white" stroke-width="1.5"/>
             </svg>
         `;
 
         const icon = L.divIcon({
             className: 'heading-marker',
             html: coneSvg,
-            iconSize: [80, 80],
-            iconAnchor: [40, 40]
+            iconSize: [45, 45],
+            iconAnchor: [22.5, 22.5]
         });
 
         this.headingMarker = L.marker([this.userLocation.lat, this.userLocation.lng], { icon })
