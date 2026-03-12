@@ -1,0 +1,37 @@
+{
+  "Sulaymaniyah": {
+    "ATM_1": {
+      "address": {
+        "en": "Ranya",
+        "ar": "ڕانیە - شەقامی پێنجی ئازار نزیک نەخۆشخانەی منداڵبوونی ڕانیە",
+        "ku": "ڕانیە - شەقامی پێنجی ئازار نزیک نەخۆشخانەی منداڵبوونی ڕانیە"
+      },
+      "map_link": "https://maps.app.goo.gl/UbsaVCMzJo5wnjuQ6",
+      "lat": 36.261807,
+      "lng": 44.867657,
+      "quantity": 1
+    },
+    "ATM_2": {
+      "address": {
+        "en": "Suli",
+        "ar": "سلێمانی - نزیک قوتابخانەی ئامادەیی تافانی کچان",
+        "ku": "سلێمانی - نزیک قوتابخانەی ئامادەیی تافانی کچان"
+      },
+      "map_link": "https://maps.app.goo.gl/N75iXoiPJSjqhdnQ7",
+      "lat": 35.544035,
+      "lng": 45.434825,
+      "quantity": 1
+    },
+    "ATM_3": {
+      "address": {
+        "en": "Peshkawtn",
+        "ar": "سلێمانی - بەرامبەر پارکی شەهیدان",
+        "ku": "سلێمانی - بەرامبەر پارکی شەهیدان"
+      },
+      "map_link": "https://maps.app.goo.gl/jQ4Cqk1u9N2EZBSX8",
+      "lat": 35.556136,
+      "lng": 45.456174,
+      "quantity": 1
+    }
+  }
+}

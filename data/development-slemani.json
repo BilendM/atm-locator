@@ -1,0 +1,15 @@
+{
+  "Sulaymaniyah": {
+    "ATM_1": {
+      "address": {
+        "en": "Kalar",
+        "ar": "کەلار - بەرامبەر پارکی کەلاری کۆن",
+        "ku": "کەلار - بەرامبەر پارکی کەلاری کۆن"
+      },
+      "map_link": "https://maps.app.goo.gl/XUayzREiiiZ3YRwF7",
+      "lat": 34.63793,
+      "lng": 45.31123,
+      "quantity": 1
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Duhok": {
+    "ATM_1": {
+      "address": {
+        "en": "Azadi",
+        "ar": "دهۆک - KRO بەرامبەر Maximall",
+        "ku": "دهۆک - KRO بەرامبەر Maximall"
+      },
+      "map_link": "https://maps.app.goo.gl/PXuvDsUnEVfCtBYEA",
+      "lat": 36.867816,
+      "lng": 42.969997,
+      "quantity": 1
+    },
+    "ATM_2": {
+      "address": {
+        "en": "Silav",
+        "ar": "دهۆک - بەرامبەر تەربیا گشتی",
+        "ku": "دهۆک - بەرامبەر تەربیا گشتی"
+      },
+      "map_link": "https://maps.app.goo.gl/jVauzzZKcXWuJ2BGA",
+      "lat": 36.852925,
+      "lng": 43.00155,
+      "quantity": 1
+    },
+    "ATM_3": {
+      "address": {
+        "en": "Milan",
+        "ar": "دهۆک - بەردەم حدیقە دهۆک مۆڵ",
+        "ku": "دهۆک - بەردەم حدیقە دهۆک مۆڵ"
+      },
+      "map_link": "https://maps.app.goo.gl/mpRM2SLwuwVY7YN38",
+      "lat": 36.865927,
+      "lng": 42.958589,
+      "quantity": 1
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "Result": {
+    "Locations": [
+      {
+        "LocationName": "فرع دهوك ",
+        "LocationType": 1,
+        "Phone": "",
+        "WorkingDays": "",
+        "NormalTimings": "",
+        "FridayTimings": "",
+        "SaturdayTimings": "",
+        "BreakTimings": "",
+        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3192.450165553145!2d42.975720710814485!3d36.85564226445747!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDUxJzIwLjMiTiA0MsKwNTgnNDEuOSJF!5e0!3m2!1sen!2sjo!4v1700751987742!5m2!1sen!2sjo",
+        "Currencies": null,
+        "CurrenciesId": null
+      }
+    ]
+  }
+}

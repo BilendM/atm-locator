@@ -1,0 +1,125 @@
+{
+  "Duhok": {
+    "ATM_1": {
+      "address": {
+        "en": "Shahidani",
+        "ar": "دهۆک - نێزیک مزگەفتا ڕۆناهی",
+        "ku": "دهۆک - نێزیک مزگەفتا ڕۆناهی"
+      },
+      "map_link": "https://maps.app.goo.gl/QoyHikfu3c81YeNh6",
+      "lat": 36.849928,
+      "lng": 42.988668,
+      "quantity": 1
+    },
+    "ATM_2": {
+      "address": {
+        "en": "Akre",
+        "ar": "ئاکرێ - خرگا",
+        "ku": "ئاکرێ - خرگا"
+      },
+      "map_link": "https://maps.app.goo.gl/CaLCcX1MDMkriekH9",
+      "lat": 36.754094,
+      "lng": 43.898677,
+      "quantity": 1
+    },
+    "ATM_3": {
+      "address": {
+        "en": "Akre",
+        "ar": "ئاکرێ - خواندنگەها رزگاری",
+        "ku": "ئاکرێ - خواندنگەها رزگاری"
+      },
+      "map_link": "https://maps.app.goo.gl/YWPuApQVua7fBN3j9",
+      "lat": 36.729328,
+      "lng": 43.871761,
+      "quantity": 1
+    },
+    "ATM_4": {
+      "address": {
+        "en": "Akre",
+        "ar": "ئاکرێ - جادا گشتی بەردەم پارکا ئاکرێ",
+        "ku": "ئاکرێ - جادا گشتی بەردەم پارکا ئاکرێ"
+      },
+      "map_link": "https://maps.app.goo.gl/dzKcvxY9NtKJAoYU6",
+      "lat": 36.725695,
+      "lng": 43.843476,
+      "quantity": 1
+    },
+    "ATM_5": {
+      "address": {
+        "en": "Ibrahim",
+        "ar": "زاخۆ - بەردەم نەخۆشخانا بێدارێ",
+        "ku": "زاخۆ - بەردەم نەخۆشخانا بێدارێ"
+      },
+      "map_link": "https://maps.app.goo.gl/sVdbBuniKHR3tAos8",
+      "lat": 37.146063,
+      "lng": 42.645656,
+      "quantity": 1
+    },
+    "ATM_6": {
+      "address": {
+        "en": "Zagros",
+        "ar": "زاخۆ - تەنیشت ڕێڤەبەرییا ئاسایشا زاخۆ",
+        "ku": "زاخۆ - تەنیشت ڕێڤەبەرییا ئاسایشا زاخۆ"
+      },
+      "map_link": "https://maps.app.goo.gl/TMx7sfRrdHGRX2Nw5",
+      "lat": 37.139109,
+      "lng": 42.710782,
+      "quantity": 1
+    },
+    "ATM_7": {
+      "address": {
+        "en": "Technical",
+        "ar": "زاخۆ - بەرامبەر کۆچکا هونەری",
+        "ku": "زاخۆ - بەرامبەر کۆچکا هونەری"
+      },
+      "map_link": "https://maps.app.goo.gl/rLFbvvgjFvfzXpux6",
+      "lat": 37.166566,
+      "lng": 42.688999,
+      "quantity": 1
+    },
+    "ATM_8": {
+      "address": {
+        "en": "Silav",
+        "ar": "ئامێدی - بەردەم سولاڤ بانک",
+        "ku": "ئامێدی - بەردەم سولاڤ بانک"
+      },
+      "map_link": "https://maps.app.goo.gl/eZcM9ngJxUZQ6QbH6",
+      "lat": 37.088391,
+      "lng": 43.487396,
+      "quantity": 1
+    },
+    "ATM_9": {
+      "address": {
+        "en": "Shekhan",
+        "ar": "شێخان - دبن ڕێڤەبەرییا ئاسایشا شێخان دا",
+        "ku": "شێخان - دبن ڕێڤەبەرییا ئاسایشا شێخان دا"
+      },
+      "map_link": "https://maps.app.goo.gl/k4BJuG1SFdqRbrMd8",
+      "lat": 36.697814,
+      "lng": 43.350828,
+      "quantity": 1
+    },
+    "ATM_10": {
+      "address": {
+        "en": "Niniveh",
+        "ar": "دهۆک - سەر مزگەفتا سەباح ئەترۆشی دا",
+        "ku": "دهۆک - سەر مزگەفتا سەباح ئەترۆشی دا"
+      },
+      "map_link": "https://maps.app.goo.gl/G8tZegAA7yMWrNw9A",
+      "lat": 36.873244,
+      "lng": 42.931431,
+      "quantity": 1
+    },
+    "ATM_11": {
+      "address": {
+        "en": "Directorate",
+        "ar": "دهۆک - تەنیشت ڕێڤەبەرییا تاپۆ یا دهۆکێ",
+        "ku": "دهۆک - تەنیشت ڕێڤەبەرییا تاپۆ یا دهۆکێ"
+      },
+      "map_link": "https://maps.app.goo.gl/6yheg6b66JcRhhtf6",
+      "lat": 36.845636,
+      "lng": 42.982578,
+      "quantity": 1
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "Baghdad": {
+    "ATM_16": {
+      "address": {
+        "en": "Al Karrada Area, Al Arasat Street, BBAC Building"
+      },
+      "lat": 33.2951635,
+      "lng": 44.4289513,
+      "title": "Baghdad",
+      "type": "branch"
+    },
+    "ATM_54": {
+      "address": {
+        "en": "Baghdad, Al Jadrieh, Al Jamia Street, Opposite Coral Baghdad Hotel (ATM 24/7)"
+      },
+      "lat": 33.28341711995275,
+      "lng": 44.393861148884454,
+      "title": "Baghdad - Al Jadrieh Mall",
+      "type": "ATM"
+    },
+    "ATM_53": {
+      "address": {
+        "en": "Al Warda Hypermarket,Al Waseq Street, Karrada District, Baghdad"
+      },
+      "lat": 33.3093560845806,
+      "lng": 44.4287203284332,
+      "title": "Baghdad - Warda Hypermarket",
+      "type": "ATM"
+    },
+    "ATM_2": {
+      "address": {
+        "en": "Al Karrada Area, Al Arasat Street, BBAC Building"
+      },
+      "lat": 33.2952216740767,
+      "lng": 44.4311474014828,
+      "title": "Baghdad Branch (ATM 24/7)",
+      "type": "ATM"
+    },
+    "ATM_48": {
+      "address": {
+        "en": "Al Mansour Street, Al Mansour - Baghdad"
+      },
+      "lat": 33.31789,
+      "lng": 44.34594,
+      "title": "Baghdad, Babylon Mall",
+      "type": "ATM"
+    },
+    "ATM_60": {
+      "address": {
+        "en": "Dream City Mall, Rabihi Street (ATM, 24/7)"
+      },
+      "lat": 33.3185743615073,
+      "lng": 44.4452145697216,
+      "title": "Baghdad, Dream City Mall",
+      "type": "ATM"
+    },
+    "ATM_59": {
+      "address": {
+        "en": "Karadah - alarasat street (ATM 24/7)"
+      },
+      "lat": 33.2952216740767,
+      "lng": 44.4311474014828,
+      "title": "Baghdad, Karadah - alarasat street",
+      "type": "ATM"
+    },
+    "ATM_61": {
+      "address": {
+        "en": "Yarmouk Hotel (ATM 24/7)"
+      },
+      "lat": 33.3003526556542,
+      "lng": 44.3425687602304,
+      "title": "Baghdad, Yarmouk Hotel",
+      "type": "ATM"
+    }
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "Sulaymaniyah": {
+    "ATM_1": {
+      "address": {
+        "en": "Beside Sulaymaniyah Municipality",
+        "ar": "بجانب بلدية السليمانية",
+        "ku": "بەردەم شارەوانی سلێمانی"
+      },
+      "map_link": "https://maps.app.goo.gl/3tL4rTmNamRsEKFv8",
+      "lat": 35.5623437,
+      "lng": 45.4077282,
+      "quantity": 3
+    },
+    "ATM_2": {
+      "address": {
+        "en": "Cihan University - Information Room - Woloba",
+        "ar": "جامعة جيهان - غرفة الاستعلامات - ولوبة",
+        "ku": "زانکۆی جيهان - گەڕەکی ولوبە - ژووری پرسگە"
+      },
+      "map_link": "https://maps.app.goo.gl/BTvNGVLHjCrNRziw5",
+      "lat": 35.528377,
+      "lng": 45.41716,
+      "quantity": 1
+    },
+    "ATM_3": {
+      "address": {
+        "en": "Shkarka Road",
+        "ar": "طريق شكركة",
+        "ku": "شەقامی شەکرەکە"
+      },
+      "map_link": "https://maps.app.goo.gl/2hZRU43QoQ1LKFXF6",
+      "lat": 35.5647566,
+      "lng": 45.3810855,
+      "quantity": 3
+    },
+    "ATM_4": {
+      "address": {
+        "en": "Kalar Branch - Kalar District - Hama Rash Street / Near Old Baghdad Garage or Mustafa Beg Roundabout",
+        "ar": "فرع كلار -قضاء كلار- شارع حمه ره ش / قرب كراج قديم بغداد او فلكة مصطفى بك",
+        "ku": "لقی کەلار- کەلار - شەقامی حەمە ڕه ش / نزیک گەراجی کۆنی بغداد یان فلکەی مستەفا بەگ"
+      },
+      "map_link": "https://maps.app.goo.gl/Xx5hTykHW7DBHyTA7",
+      "lat": 34.611969,
+      "lng": 45.31593,
+      "quantity": 1
+    },
+    "ATM_5": {
+      "address": {
+        "en": "Near New Bakrajoo Stadium",
+        "ar": "قرب ملعب بكرجو الجديد",
+        "ku": "نزیک یاریگای بەکرەجۆی تازە"
+      },
+      "map_link": "https://maps.app.goo.gl/Pf34NJHsZj7Bkfh88",
+      "lat": 35.5594474,
+      "lng": 45.356723,
+      "quantity": 2
+    },
+    "ATM_6": {
+      "address": {
+        "en": "Ranya District - Near Ranjderan Primary School",
+        "ar": "قضاء رانية - قرب ابتدائية رنجدران",
+        "ku": "قەزای ڕانیە - نزیک قوتابخانەی ڕەنجدەرانی بنەڕەتی"
+      },
+      "map_link": "https://maps.app.goo.gl/gZHruT7VjCiDnGYP6",
+      "lat": 36.25239957,
+      "lng": 44.87177966,
+      "quantity": 3
+    },
+    "ATM_7": {
+      "address": {
+        "en": "Ranya District - Opposite Darwaza Park",
+        "ar": "قضاء رانية - مقابل دروازة بارك",
+        "ku": "قەزای ڕانیە - بەرامبەر پاڕکی دەروازە"
+      },
+      "map_link": "https://maps.app.goo.gl/C9RTj1ThUPgP8MHc7",
+      "lat": 36.243033,
+      "lng": 44.879083,
+      "quantity": 2
+    },
+    "ATM_8": {
+      "address": {
+        "en": "Kalar District - Hama Rash Street - Near Kalar District Municipality",
+        "ar": "قضاء كلار - شارع حمه رش - قرب بلدية قضاء كلار",
+        "ku": "قەزای کەلار - شەقامی حەمەڕەش - تەنیشت قایمقامیەتی قەزای کەلار"
+      },
+      "map_link": "https://maps.app.goo.gl/6AhTmj98JC9ngJp6A",
+      "lat": 34.619611,
+      "lng": 45.325122,
+      "quantity": 2
+    },
+    "ATM_9": {
+      "address": {
+        "en": "Cihan Motors - Service Department - King Mahmoud Circular Street",
+        "ar": "جيهان موتورز- قسم الأدوات- شارع الملك محمود الدائرى",
+        "ku": "چواریانی مەلیک محمود - باڵەخانەی جيهان مۆتۆرز - بەشی خزمەتگوزاری"
+      },
+      "map_link": "https://maps.app.goo.gl/otnrNkdd4toj87g38",
+      "lat": 35.545111,
+      "lng": 45.45517,
+      "quantity": 1
+    },
+    "ATM_10": {
+      "address": {
+        "en": "City Star Mall - Ground Floor - Salim Street",
+        "ar": "ستى ستار مول - الطابق الارضي - شارع سالم",
+        "ku": "سیتی ستار مۆڵ - شەقامی سالم -نهۆمی خوارەوە"
+      },
+      "map_link": "https://maps.app.goo.gl/tonNxXxMccNgYFGx9",
+      "lat": 35.558227,
+      "lng": 45.427414,
+      "quantity": 1
+    },
+    "ATM_11": {
+      "address": {
+        "en": "Family Mall - King Mahmoud Circular Street - First Floor - Opposite Carrefour Hypermarket",
+        "ar": "فاملي مول - شارع الملك محمود الدائرى-طابق الاول - مقابيل كارفور هايبر ماركت",
+        "ku": "فاملی مۆڵ - نهۆمی یەکەم - بەرامبەر كارفور هایپەر ماركێت - شەقامی مەلیک محمود"
+      },
+      "map_link": "https://maps.app.goo.gl/vMifv1WZduxwYdtE7",
+      "lat": 35.541306,
+      "lng": 45.427981,
+      "quantity": 1
+    },
+    "ATM_12": {
+      "address": {
+        "en": "Sulaymaniyah Branch - King Mahmoud Intersection - Opposite Khabat School",
+        "ar": "فرع السليمانية - تقاطع ملك محمود - مقابل مدرسة خبات",
+        "ku": "لقی سلێمانی - چواریانی مەلیک محمود - بەرامبەر قوتابخانەی خەبات"
+      },
+      "map_link": "https://maps.app.goo.gl/6MqknYtRBegNZoLy5",
+      "lat": 35.536831,
+      "lng": 45.442091,
+      "quantity": 1
+    },
+    "ATM_13": {
+      "address": {
+        "en": "Kalar District - Life Hospital",
+        "ar": "قضاء كلار - مستشفى لايف",
+        "ku": "کەلار - نەخۆشخانەی لايڤ"
+      },
+      "map_link": "https://maps.app.goo.gl/BddaKaJPkFDJrHbR9",
+      "lat": 34.630235,
+      "lng": 45.313342,
+      "quantity": 1
+    },
+    "ATM_14": {
+      "address": {
+        "en": "Majidi Mall - Raparin Street - B Floor - Special ATM Area",
+        "ar": "ماجدي مول - شارع رابرين -طابق B - مكان خاص للصرافات الالية",
+        "ku": "شەقامی ڕاپەڕین - باڵەخانەی ماجیدی مۆڵ - نهۆمی B - شوێنی تایبەت بە ئامێرەکانی ATM"
+      },
+      "map_link": "https://maps.app.goo.gl/HxUhLskyShpjioCG9",
+      "lat": 35.564564,
+      "lng": 45.371365,
+      "quantity": 1
+    },
+    "ATM_15": {
+      "address": {
+        "en": "Sharazoor District - Opposite Sharazoor Bank",
+        "ar": "قضاء شارزوور - مقابل مصرف شارزوور",
+        "ku": "قەزای شارەزوور - بەرامبەر بانکی شارەزوور"
+      },
+      "map_link": "https://maps.app.goo.gl/2bRVuqVRqijt41cp7",
+      "lat": 35.318761,
+      "lng": 45.677123,
+      "quantity": 2
+    },
+    "ATM_16": {
+      "address": {
+        "en": "Chamchamal District - Near Chamchamal District Municipality",
+        "ar": "قضاء جمجمال - قرب بلدیة قضاء جمجمال",
+        "ku": "نزیک قایمقامیەتی قەزای چەمچەماڵ"
+      },
+      "map_link": "https://maps.app.goo.gl/jcybAQQnNkzfSxL86",
+      "lat": 35.533102,
+      "lng": 44.831677,
+      "quantity": 2
+    },
+    "ATM_17": {
+      "address": {
+        "en": " Chamchamal District - Opposite Civil Defense",
+        "ar": " قضاء جمجمال - مقابل الدفاع المدني",
+        "ku": "قەزای چەمچەماڵ - بەردەم بەرگری شارستانی"
+      },
+      "map_link": "https://maps.app.goo.gl/jEKUGkjWoZcFACH18",
+      "lat": 35.523472,
+      "lng": 44.81799,
+      "quantity": 2
+    },
+    "ATM_18": {
+      "address": {
+        "en": "Ranya",
+        "ar": "ڕانیە، شەقامی رانیە-چوارقورنە، نزیک بەرێوەبەرایەتی گشتی شارەوانیەکانی ڕاپەڕین",
+        "ku": "ڕانیە، شەقامی رانیە-چوارقورنە، نزیک بەرێوەبەرایەتی گشتی شارەوانیەکانی ڕاپەڕین"
+      },
+      "map_link": "https://www.google.com/maps?q=36.2432502918218,44.8790277999999",
+      "lat": 36.24325,
+      "lng": 44.879028,
+      "quantity": 1
+    },
+    "ATM_19": {
+      "address": {
+        "en": "Chamchamal",
+        "ar": "چەمچەماڵ - نزیک سەرۆکایەتی زانکۆی چەرمۆ",
+        "ku": "چەمچەماڵ - نزیک سەرۆکایەتی زانکۆی چەرمۆ"
+      },
+      "map_link": "https://www.google.com/maps?q=35.535123,44.836914",
+      "lat": 35.535123,
+      "lng": 44.836914,
+      "quantity": 1
+    },
+    "ATM_20": {
+      "address": {
+        "en": "Chamchamal",
+        "ar": "چەمچەماڵ - نزیک بەرگری شارستانی چەمچەماڵ",
+        "ku": "چەمچەماڵ - نزیک بەرگری شارستانی چەمچەماڵ"
+      },
+      "map_link": "https://www.google.com/maps?q=35.523588328575,44.8180170865425",
+      "lat": 35.523588,
+      "lng": 44.818017,
+      "quantity": 1
+    },
+    "ATM_21": {
+      "address": {
+        "en": "Slemani,",
+        "ar": "سلێمانی، شەقامی سالم، بەردەم سەرۆکایەتی شارەوانی سلێمانی",
+        "ku": "سلێمانی، شەقامی سالم، بەردەم سەرۆکایەتی شارەوانی سلێمانی"
+      },
+      "map_link": "https://maps.app.goo.gl/Mn9UguNsdYcKi8dJ8",
+      "lat": 35.56279,
+      "lng": 45.40775,
+      "quantity": 1
+    },
+    "ATM_22": {
+      "address": {
+        "en": "Slemani,",
+        "ar": "سلێمانی، شەقامی سلێمانی - کەرکوک، بەرامبەر بینای پارێزگای سلێمانی",
+        "ku": "سلێمانی، شەقامی سلێمانی - کەرکوک، بەرامبەر بینای پارێزگای سلێمانی"
+      },
+      "map_link": "https://maps.app.goo.gl/UEx5NX31DSREqaXR6",
+      "lat": 35.567664,
+      "lng": 45.382235,
+      "quantity": 1
+    },
+    "ATM_23": {
+      "address": {
+        "en": "Sharazoor",
+        "ar": "شارەزوور - بەردەم بانکی شارەزوور",
+        "ku": "شارەزوور - بەردەم بانکی شارەزوور"
+      },
+      "map_link": "https://www.google.com/maps?q=35.318898,45.677308",
+      "lat": 35.318898,
+      "lng": 45.677308,
+      "quantity": 1
+    },
+    "ATM_24": {
+      "address": {
+        "en": "Kalar,",
+        "ar": "سلێمانی، کەلار، جیهان بانک",
+        "ku": "سلێمانی، کەلار، جیهان بانک"
+      },
+      "map_link": "https://maps.app.goo.gl/8JKJd1bqUR5bdTYv8",
+      "lat": 34.611966,
+      "lng": 45.315841,
+      "quantity": 1
+    },
+    "ATM_25": {
+      "address": {
+        "en": "Slemani,",
+        "ar": "سلێمانی، بەکرەجۆ، بەرامبەر فەرمانگەی دادنووسی سلێمانی",
+        "ku": "سلێمانی، بەکرەجۆ، بەرامبەر فەرمانگەی دادنووسی سلێمانی"
+      },
+      "map_link": "https://maps.app.goo.gl/VGxT62saHyNTTRfe6",
+      "lat": 35.558512,
+      "lng": 45.350146,
+      "quantity": 1
+    }
+  }
+}

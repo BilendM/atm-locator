@@ -1,7 +1,6 @@
 {
   "result": [
     {
-      "id": "5be956f7-46df-4ed8-c47e-08de3e0ab0a6",
       "title": "Dokan",
       "type": "ATM",
       "latitude": 35.9322,
@@ -15,7 +14,6 @@
       "workingHours": []
     },
     {
-      "id": "5871c496-ab5d-49f0-c47d-08de3e0ab0a6",
       "title": "Charmo",
       "type": "ATM",
       "latitude": 35.5324,
@@ -29,7 +27,6 @@
       "workingHours": []
     },
     {
-      "id": "22141f16-71ff-42c0-c47c-08de3e0ab0a6",
       "title": "Sharazoor District Council",
       "type": "ATM",
       "latitude": 35.3174,
@@ -43,7 +40,6 @@
       "workingHours": []
     },
     {
-      "id": "042499f7-4e65-43df-c47b-08de3e0ab0a6",
       "title": "chamchamal retirement office",
       "type": "ATM",
       "latitude": 35.51885,
@@ -57,7 +53,6 @@
       "workingHours": []
     },
     {
-      "id": "93b1ce14-4bcf-43e8-c47a-08de3e0ab0a6",
       "title": "chamchamal university",
       "type": "ATM",
       "latitude": 35.53381,
@@ -71,7 +66,6 @@
       "workingHours": []
     },
     {
-      "id": "9d3fc835-ea6c-4c72-c479-08de3e0ab0a6",
       "title": "ranya maternity",
       "type": "ATM",
       "latitude": 35.549244,
@@ -85,7 +79,6 @@
       "workingHours": []
     },
     {
-      "id": "62c4e08f-b374-4dd2-c478-08de3e0ab0a6",
       "title": "politechnic university",
       "type": "ATM",
       "latitude": 35.54923376749003,
@@ -99,7 +92,6 @@
       "workingHours": []
     },
     {
-      "id": "fb616f1f-a2e7-4d41-c477-08de3e0ab0a6",
       "title": "shahid park",
       "type": "ATM",
       "latitude": 35.58057338741248,
@@ -113,7 +105,6 @@
       "workingHours": []
     },
     {
-      "id": "14ad42fb-8897-4705-c476-08de3e0ab0a6",
       "title": "mawlana park",
       "type": "ATM",
       "latitude": 35.54404885169963,
@@ -127,7 +118,6 @@
       "workingHours": []
     },
     {
-      "id": "a28ddf62-0d6d-473b-c474-08de3e0ab0a6",
       "title": "Tasluja",
       "type": "ATM",
       "latitude": 35.5935,
@@ -141,7 +131,6 @@
       "workingHours": []
     },
     {
-      "id": "ad0a16a0-285d-4360-c473-08de3e0ab0a6",
       "title": "Penjwen",
       "type": "ATM",
       "latitude": 35.62661,
@@ -155,7 +144,6 @@
       "workingHours": []
     },
     {
-      "id": "aee02429-4353-48a9-c472-08de3e0ab0a6",
       "title": "Chwarta",
       "type": "ATM",
       "latitude": 35.71871,
@@ -169,7 +157,6 @@
       "workingHours": []
     },
     {
-      "id": "8007b967-f518-4ce6-c471-08de3e0ab0a6",
       "title": "Halebjai Taza",
       "type": "ATM",
       "latitude": 35.31114,
@@ -183,7 +170,6 @@
       "workingHours": []
     },
     {
-      "id": "7c15a319-6869-46aa-c470-08de3e0ab0a6",
       "title": "Said Sadiq",
       "type": "ATM",
       "latitude": 35.35516,
@@ -197,7 +183,6 @@
       "workingHours": []
     },
     {
-      "id": "6c243838-7968-4ce1-c46f-08de3e0ab0a6",
       "title": "halabja bank",
       "type": "ATM",
       "latitude": 35.17541,
@@ -211,7 +196,6 @@
       "workingHours": []
     },
     {
-      "id": "281ae578-6aea-4c2a-c46e-08de3e0ab0a6",
       "title": "Darbandikhan - city center ST",
       "type": "ATM",
       "latitude": 35.11145,
@@ -225,7 +209,6 @@
       "workingHours": []
     },
     {
-      "id": "6f399dbb-bec9-4f43-c46d-08de3e0ab0a6",
       "title": "sharawani ST - kalar",
       "type": "ATM",
       "latitude": 34.62623,
@@ -239,7 +222,6 @@
       "workingHours": []
     },
     {
-      "id": "fddbae44-c7d3-4107-c46c-08de3e0ab0a6",
       "title": "Chwarqurna",
       "type": "ATM",
       "latitude": 36.192646,
@@ -253,7 +235,6 @@
       "workingHours": []
     },
     {
-      "id": "699b1d37-effe-4a39-c46b-08de3e0ab0a6",
       "title": "Kewarash",
       "type": "ATM",
       "latitude": 36.235458,
@@ -267,7 +248,6 @@
       "workingHours": []
     },
     {
-      "id": "f495b718-173e-403b-c46a-08de3e0ab0a6",
       "title": "Qaladza",
       "type": "ATM",
       "latitude": 36.19265,
@@ -281,7 +261,6 @@
       "workingHours": []
     },
     {
-      "id": "38fe0dd4-c187-4595-c469-08de3e0ab0a6",
       "title": "Allay Harem",
       "type": "ATM",
       "latitude": 35.56122571195219,
@@ -295,7 +274,6 @@
       "workingHours": []
     },
     {
-      "id": "604c9e4e-86f5-4bae-c468-08de3e0ab0a6",
       "title": "Malkandi",
       "type": "ATM",
       "latitude": 35.56784,
@@ -309,7 +287,6 @@
       "workingHours": []
     },
     {
-      "id": "adc54f91-73ec-4daa-c467-08de3e0ab0a6",
       "title": "Kurdsat",
       "type": "ATM",
       "latitude": 35.58808,
@@ -323,7 +300,6 @@
       "workingHours": []
     },
     {
-      "id": "f16d1af5-de9b-45d0-c466-08de3e0ab0a6",
       "title": "darwaza ST",
       "type": "ATM",
       "latitude": 36.24468,
@@ -337,7 +313,6 @@
       "workingHours": []
     },
     {
-      "id": "ab970ec7-3860-407b-c465-08de3e0ab0a6",
       "title": "AU 773 - 3",
       "type": "ATM",
       "latitude": 35.55362,
@@ -351,7 +326,6 @@
       "workingHours": []
     },
     {
-      "id": "0e9b2ef3-db7c-446d-c464-08de3e0ab0a6",
       "title": "AU 780 - 1",
       "type": "ATM",
       "latitude": 35.53659,
@@ -365,7 +339,6 @@
       "workingHours": []
     },
     {
-      "id": "a11cb76d-90b4-4717-c463-08de3e0ab0a6",
       "title": "AU 633 - 35",
       "type": "ATM",
       "latitude": 35.56591,
@@ -379,7 +352,6 @@
       "workingHours": []
     },
     {
-      "id": "d7a43133-533f-4ef2-c462-08de3e0ab0a6",
       "title": "AU 689 - 1",
       "type": "ATM",
       "latitude": 35.55626,
@@ -393,7 +365,6 @@
       "workingHours": []
     },
     {
-      "id": "4738d1c3-b18f-48a0-c461-08de3e0ab0a6",
       "title": "AU 673 - 43",
       "type": "ATM",
       "latitude": 35.580634547115395,
@@ -407,7 +378,6 @@
       "workingHours": []
     },
     {
-      "id": "3b792c48-0bab-4fd2-c460-08de3e0ab0a6",
       "title": "Zanko – Slemani",
       "type": "ATM",
       "latitude": 35.568023830814795,
@@ -421,7 +391,6 @@
       "workingHours": []
     },
     {
-      "id": "562036a4-bdcc-4c42-c45f-08de3e0ab0a6",
       "title": "Tanjaro",
       "type": "ATM",
       "latitude": 35.548482486854404,
@@ -435,7 +404,6 @@
       "workingHours": []
     },
     {
-      "id": "fc1f064c-3754-4a30-c45e-08de3e0ab0a6",
       "title": "sarwari RD",
       "type": "ATM",
       "latitude": 35.5836482896182,
@@ -449,7 +417,6 @@
       "workingHours": []
     },
     {
-      "id": "34ce5bb4-eb59-4b90-c45d-08de3e0ab0a6",
       "title": "ibrahim basha st",
       "type": "ATM",
       "latitude": 35.55630217011554,
@@ -463,7 +430,6 @@
       "workingHours": []
     },
     {
-      "id": "55c0df3f-89eb-496e-c45c-08de3e0ab0a6",
       "title": "Baban Bank-SV",
       "type": "ATM",
       "latitude": 35.565305511285935,
@@ -477,7 +443,6 @@
       "workingHours": []
     },
     {
-      "id": "38c18432-9a59-48db-c45b-08de3e0ab0a6",
       "title": "zanko st",
       "type": "ATM",
       "latitude": 35.56478433121323,
@@ -491,7 +456,6 @@
       "workingHours": []
     },
     {
-      "id": "1ce8a3a6-f6c0-4db3-c45a-08de3e0ab0a6",
       "title": "Near Bank Cihan",
       "type": "ATM",
       "latitude": 34.61960035153972,
@@ -505,7 +469,6 @@
       "workingHours": []
     },
     {
-      "id": "9680b39e-dc16-4239-c459-08de3e0ab0a6",
       "title": "municipality Sulaimani",
       "type": "ATM",
       "latitude": 35.562790399102255,
@@ -519,7 +482,6 @@
       "workingHours": []
     },
     {
-      "id": "cabe6739-551e-4902-c458-08de3e0ab0a6",
       "title": "Majidi Mall Sulaimaniyah",
       "type": "ATM",
       "latitude": 35.56615519511911,
@@ -533,7 +495,6 @@
       "workingHours": []
     },
     {
-      "id": "0741e18f-6211-48f3-c457-08de3e0ab0a6",
       "title": "Safra Market",
       "type": "ATM",
       "latitude": 35.56744626707871,
@@ -547,7 +508,6 @@
       "workingHours": []
     },
     {
-      "id": "537b53e5-3162-4ac2-c456-08de3e0ab0a6",
       "title": "ABC Towers",
       "type": "ATM",
       "latitude": 35.53533962093903,
@@ -561,7 +521,6 @@
       "workingHours": []
     },
     {
-      "id": "95138eda-8fea-4f03-c455-08de3e0ab0a6",
       "title": "HighQ laboratory",
       "type": "ATM",
       "latitude": 35.58990604397077,
@@ -575,7 +534,6 @@
       "workingHours": []
     },
     {
-      "id": "c9e8b403-5ebe-44a3-80b3-08db6bd67390",
       "title": "المدينة الطبية / كرميان",
       "type": "ATM",
       "latitude": 34.61859,
@@ -589,7 +547,6 @@
       "workingHours": []
     },
     {
-      "id": "e39b122b-c0cc-4281-de51-08da38ee963d",
       "title": " راند كلري",
       "type": "ATM",
       "latitude": 35.56274,
@@ -603,7 +560,6 @@
       "workingHours": []
     },
     {
-      "id": "58cd50d2-cce4-42e2-de50-08da38ee963d",
       "title": "فاملي مول - السليمانية",
       "type": "ATM",
       "latitude": 35.54237754632534,
@@ -617,7 +573,6 @@
       "workingHours": []
     },
     {
-      "id": "b4c6e4b7-5b31-4d37-cd2e-08dbad1b4b50",
       "title": "سولي فيو",
       "type": "ATM",
       "latitude": 35.58990604397077,
@@ -631,7 +586,6 @@
       "workingHours": []
     },
     {
-      "id": "4ff11b5c-6dc0-4129-cc38-08dc14dc8546",
       "title": "زارا ماركيت ",
       "type": "ATM",
       "latitude": 35.56015751917198,
@@ -645,7 +599,6 @@
       "workingHours": []
     },
     {
-      "id": "cfee2d21-eb09-478d-efec-08dca49024f5",
       "title": "الثقافة والفن ",
       "type": "ATM",
       "latitude": 36.252392419119175,
@@ -659,7 +612,6 @@
       "workingHours": []
     },
     {
-      "id": "4f66394a-ec8b-4541-ca1e-08dcc5a12ed1",
       "title": "sulaimanya-kirkuk road",
       "type": "ATM",
       "latitude": 35.56489119725663,
@@ -673,7 +625,6 @@
       "workingHours": []
     },
     {
-      "id": "aea6bdba-498e-4f45-ca1d-08dcc5a12ed1",
       "title": "Bakrajo",
       "type": "ATM",
       "latitude": 35.55985430207887,
@@ -687,7 +638,6 @@
       "workingHours": []
     },
     {
-      "id": "14ea0922-eefe-4e6d-ca22-08dcc5a12ed1",
       "title": "كلار",
       "type": "ATM",
       "latitude": 34.66246,
@@ -701,7 +651,6 @@
       "workingHours": []
     },
     {
-      "id": "62fa1f83-448c-4bef-16d4-08dcd1812301",
       "title": "فرع سليمانية - ATM",
       "type": "ATM",
       "latitude": 35.57141407829362,
@@ -715,7 +664,6 @@
       "workingHours": []
     },
     {
-      "id": "4b776f2c-09f5-4b15-ff05-08dcecf4fc1d",
       "title": "جمجمال - 1",
       "type": "ATM",
       "latitude": 35.53349535905743,
@@ -729,7 +677,6 @@
       "workingHours": []
     },
     {
-      "id": "1a2a93da-fa96-4f89-ff06-08dcecf4fc1d",
       "title": "جمجمال - 2",
       "type": "ATM",
       "latitude": 35.52360659304133,
@@ -743,7 +690,6 @@
       "workingHours": []
     },
     {
-      "id": "d23f489a-ab74-4235-efef-08dca49024f5",
       "title": "Darwaza Road",
       "type": "ATM",
       "latitude": 36.243267939280365,
@@ -755,11 +701,447 @@
       "email": null,
       "managerName": null,
       "workingHours": []
+    },
+    {
+      "title": "ڕانیە، شەقامی رانیە-چوارقورنە، نزیک بەرێوەبەرایەتی گشتی شارەوانیەکانی ڕاپەڕین",
+      "type": "ATM",
+      "latitude": 36.24325,
+      "longitude": 44.879028,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Ranya",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "چەمچەماڵ - نزیک سەرۆکایەتی زانکۆی چەرمۆ",
+      "type": "ATM",
+      "latitude": 35.535123,
+      "longitude": 44.836914,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Chamchamal",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "چەمچەماڵ - نزیک بەرگری شارستانی چەمچەماڵ",
+      "type": "ATM",
+      "latitude": 35.523588,
+      "longitude": 44.818017,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Chamchamal",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "سلێمانی، شەقامی سالم، بەردەم سەرۆکایەتی شارەوانی سلێمانی",
+      "type": "ATM",
+      "latitude": 35.56279,
+      "longitude": 45.40775,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Slemani,",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "سلێمانی، شەقامی سلێمانی - کەرکوک، بەرامبەر بینای پارێزگای سلێمانی",
+      "type": "ATM",
+      "latitude": 35.567664,
+      "longitude": 45.382235,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Slemani,",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "سلێمانی، کەلار، جیهان بانک",
+      "type": "ATM",
+      "latitude": 34.611966,
+      "longitude": 45.315841,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Kalar,",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "سلێمانی، بەکرەجۆ، بەرامبەر فەرمانگەی دادنووسی سلێمانی",
+      "type": "ATM",
+      "latitude": 35.558512,
+      "longitude": 45.350146,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Slemani,",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "پەیمانگای کلتوری کوردی",
+      "type": "ATM",
+      "latitude": 35.56155,
+      "longitude": 45.42936,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Kurdish",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "بەرامبەر بانکی خوێن",
+      "type": "ATM",
+      "latitude": 35.564769,
+      "longitude": 45.444579,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Blood",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "شەقامی سالم، پەروەردەی سلێمانی",
+      "type": "ATM",
+      "latitude": 35.565368,
+      "longitude": 45.398944,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Salim",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "شەقامی ابراهیم پاشا، قوتابخانەی گۆیژە",
+      "type": "ATM",
+      "latitude": 35.556273,
+      "longitude": 45.45115,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Goizha",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "سەروەری، قوتابخانەی US",
+      "type": "ATM",
+      "latitude": 35.583761,
+      "longitude": 45.405194,
+      "openTime": null,
+      "closeTime": null,
+      "description": "United",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "شەقامی مەلیک مەحموود، نزیک هەڵەبجە گروپ",
+      "type": "ATM",
+      "latitude": 35.548587,
+      "longitude": 45.410105,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Halabja",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "مزگەوتی قازی محمد",
+      "type": "ATM",
+      "latitude": 35.568176,
+      "longitude": 45.438953,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Mamostayan",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "شەقامی مەلیک مەحموود، نەخۆشخانەی ڤێتێرنەری",
+      "type": "ATM",
+      "latitude": 35.580735,
+      "longitude": 45.401385,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Sulaimany",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "باخی گشتی",
+      "type": "ATM",
+      "latitude": 35.556302,
+      "longitude": 45.43375,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Public",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "شەقامی سالم، مطعم طبیخ",
+      "type": "ATM",
+      "latitude": 35.565888,
+      "longitude": 45.394243,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Tabeekh",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "کانی با، پەیمانگای ناشناڵ",
+      "type": "ATM",
+      "latitude": 35.536714,
+      "longitude": 45.46694,
+      "openTime": null,
+      "closeTime": null,
+      "description": "National",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "بەکرەجۆ، بەڕێوبەرایەتی کار و کاروباری کۆمەڵایەتی",
+      "type": "ATM",
+      "latitude": 35.553716,
+      "longitude": 45.363938,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Elderly",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "باخچەی هیوا، نزیک بەڕێوەبەرێتی پەروەردەی پشدەر",
+      "type": "ATM",
+      "latitude": 36.19266,
+      "longitude": 45.13151,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Hiwa",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "باخچەی ڕاپەڕین",
+      "type": "ATM",
+      "latitude": 36.244612,
+      "longitude": 44.880341,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Raparin",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "بەڕێوەبەرایەتی گشتی تەندروستی ڕاپەڕین",
+      "type": "ATM",
+      "latitude": 36.235495,
+      "longitude": 44.868759,
+      "openTime": null,
+      "closeTime": null,
+      "description": "General",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "بەڕێوەبەرایەتی ناحیەی چوارقوڕنە",
+      "type": "ATM",
+      "latitude": 36.213747,
+      "longitude": 44.827223,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Chwarqwrna",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "شەقامی مامۆستایان، قوتابخانەی ڕیسپێکت",
+      "type": "ATM",
+      "latitude": 35.563768,
+      "longitude": 45.437997,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Respect",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "چەمچەماڵ - باخچەی گشتی",
+      "type": "ATM",
+      "latitude": 35.53242,
+      "longitude": 44.83336,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Charmo",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "ڕزگاری - دەزگای شەهیدان",
+      "type": "ATM",
+      "latitude": 34.6589,
+      "longitude": 45.24284,
+      "openTime": null,
+      "closeTime": null,
+      "description": "AU",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "کەلار - بەڕێوەبەرایەتی گەنجینەی گەرمیان",
+      "type": "ATM",
+      "latitude": 34.63488,
+      "longitude": 45.32178,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Germian",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "دەربەندیخان - نزیک ئاسایشی دەربەندیخان",
+      "type": "ATM",
+      "latitude": 35.10683,
+      "longitude": 45.68768,
+      "openTime": null,
+      "closeTime": null,
+      "description": "AU",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "دوکان - هۆڵی شەهیذ ڕەسول حەمە زێڕ",
+      "type": "ATM",
+      "latitude": 35.93222,
+      "longitude": 44.96672,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Dokan",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "سلێمانی - پارکی مەولانا",
+      "type": "ATM",
+      "latitude": 35.544084,
+      "longitude": 45.427674,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Xabat",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "سلێمانی - بەرامبەر پارکی مەلیک مەحمود",
+      "type": "ATM",
+      "latitude": 35.580632,
+      "longitude": 45.449426,
+      "openTime": null,
+      "closeTime": null,
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "شارەزوور - بەردەم فەرمانگەی ڕۆشنبیری و هونەری شارەزوور",
+      "type": "ATM",
+      "latitude": 35.317346,
+      "longitude": 45.681845,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Sharazoor",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "ڕانیە - شەقامی پێنجی ئازار نزیک نەخۆشخانەی منداڵبوونی ڕانیە",
+      "type": "ATM",
+      "latitude": 36.261807,
+      "longitude": 44.867657,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Ranya",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "کفری - بەردەم قایمقامییەتی قەزای کفری",
+      "type": "ATM",
+      "latitude": 34.69482,
+      "longitude": 44.95735,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Kfri",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
     }
-  ],
-  "targetUrl": null,
-  "success": true,
-  "error": null,
-  "unAuthorizedRequest": false,
-  "__abp": true
+  ]
 }

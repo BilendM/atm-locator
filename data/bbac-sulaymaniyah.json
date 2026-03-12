@@ -1,0 +1,130 @@
+{
+  "Sulaymaniyah": {
+    "ATM_17": {
+      "address": {
+        "en": "King Mahmood Street, 60 Meter Road near Talary Hunar, Shazad Building"
+      },
+      "lat": 35.5694613,
+      "lng": 45.3883083,
+      "title": "Sulaymaniyah",
+      "type": "branch"
+    },
+    "ATM_32": {
+      "address": {
+        "en": "Kirkuk-Sulaimani Road, Facing the American University of Iraq - Sulaimani (AUS), Ground Floor"
+      },
+      "lat": 35.572700082567,
+      "lng": 45.3535293672099,
+      "title": "Sulaymaniah, Magma Square (ATM SUBJECT TO MALL OPERATING HOURS)",
+      "type": "ATM"
+    },
+    "ATM_31": {
+      "address": {
+        "en": "Sulaimani-Kirkuk Road, Ground Floor"
+      },
+      "lat": 35.5654677118745,
+      "lng": 45.3710801818254,
+      "title": "Sulaymaniah, Majidi Mall (ATM SUBJECT TO MALL OPERATING HOURS)",
+      "type": "ATM"
+    },
+    "ATM_3": {
+      "address": {
+        "en": "King Mahmood Street, 60 Meter Road near Talary Hunar, Shazad Building"
+      },
+      "lat": 35.5694911429432,
+      "lng": 45.3903768734764,
+      "title": "Sulaymaniyah Branch (ATM 24/7)",
+      "type": "ATM"
+    },
+    "ATM_58": {
+      "address": {
+        "en": "City Star Mall (ATM, 24/7)"
+      },
+      "lat": 35.5578773614846,
+      "lng": 45.4277188206117,
+      "title": "Sulaymaniyah, City Star Mall",
+      "type": "ATM"
+    },
+    "ATM_18": {
+      "address": {
+        "en": "King Mahmoud Street beside Sharazoor Terminal, First Floor opposite Carrefour"
+      },
+      "lat": 35.5406133393073,
+      "lng": 45.301657829689,
+      "title": "Sulaymaniyah, Family Mall (ATM SUBJECT TO MALL OPERATING HOURS)",
+      "type": "ATM"
+    },
+    "ATM_14": {
+      "address": {
+        "en": "Bakhtiary Street, Ground Floor"
+      },
+      "lat": 35.569807676917,
+      "lng": 45.4078769361079,
+      "title": "Sulaymaniyah, Grand Millennium Hotel (ATM 24/7)",
+      "type": "ATM"
+    },
+    "ATM_21": {
+      "address": {
+        "en": "Fakhir Sheikh Tayeb Qaiwani Educational Center, Sulaymaniyah Heights"
+      },
+      "lat": 35.6079604312338,
+      "lng": 45.4571297572277,
+      "title": "Sulaymaniyah, Maya Co. (ATM 24/7)",
+      "type": "ATM"
+    },
+    "ATM_37": {
+      "address": {
+        "en": "Ali Naji 103, Badirkhan Street, Alley 25, Sahand Building, Ground Floor"
+      },
+      "lat": 35.5621916932327,
+      "lng": 45.4247236483374,
+      "title": "Sulaymaniyah, Moonline Travel & Trade (ATM 24/7)",
+      "type": "ATM"
+    },
+    "ATM_57": {
+      "address": {
+        "en": "Qrga, Mardin Roundabout, near Nimaat Khan Funeral Hall"
+      },
+      "lat": 35.53897,
+      "lng": 45.476311,
+      "title": "Sulaymaniyah, Polytechnic University (ATM 24/7)",
+      "type": "ATM"
+    },
+    "ATM_22": {
+      "address": {
+        "en": "Salim Street, Qaiwan Towers"
+      },
+      "lat": 35.5565836932995,
+      "lng": 45.4310929392966,
+      "title": "Sulaymaniyah, Qaiwan Plus Mall (ATM 24/7)",
+      "type": "ATM"
+    },
+    "ATM_38": {
+      "address": {
+        "en": "Salim Street, Near Qaiwan Plus Mall"
+      },
+      "lat": 35.5561972310968,
+      "lng": 45.4320906562136,
+      "title": "Sulaymaniyah, Rotana Hotel (ATM 24/7)",
+      "type": "ATM"
+    },
+    "ATM_56": {
+      "address": {
+        "en": "Hawary taza, 60m street, near Hawar Petrol Station"
+      },
+      "lat": 35.580632,
+      "lng": 45.449426,
+      "title": "Sulaymaniyah, Shahid Park (ATM 24/7)",
+      "type": "ATM"
+    },
+    "ATM_23": {
+      "address": {
+        "en": "Sulaymaniyah Heights"
+      },
+      "lat": 35.6084286526781,
+      "lng": 45.4521661140516,
+      "title": "Sulaymaniyah, White Cafe & Resturant (ATM 24/7)",
+      "type": "ATM"
+    }
+  }
+}

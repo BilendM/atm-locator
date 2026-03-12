@@ -1,0 +1,125 @@
+{
+  "Erbil": {
+    "ATM_1": {
+      "address": {
+        "en": "32",
+        "ar": "٣٢ پارک،  بەردەم كۆمپانیای PVI بۆ پشكنینی ساڵانەیی ئۆتۆمبیل",
+        "ku": "٣٢ پارک،  بەردەم كۆمپانیای PVI بۆ پشكنینی ساڵانەیی ئۆتۆمبیل"
+      },
+      "map_link": "https://maps.app.goo.gl/7iMmoE9ZPETyAFRy6",
+      "lat": 36.191526,
+      "lng": 43.950164,
+      "quantity": 1
+    },
+    "ATM_2": {
+      "address": {
+        "en": "Barzan",
+        "ar": " بەردەم بەڕێوەبەرایەتی گشتی تەندروستی سۆران ",
+        "ku": " بەردەم بەڕێوەبەرایەتی گشتی تەندروستی سۆران "
+      },
+      "map_link": "https://maps.app.goo.gl/uAsuL6SALMs2pDd26",
+      "lat": 36.649745,
+      "lng": 44.533227,
+      "quantity": 1
+    },
+    "ATM_3": {
+      "address": {
+        "en": "Dersim",
+        "ar": "سۆران - بەردەم کشتوکالی سۆران",
+        "ku": "سۆران - بەردەم کشتوکالی سۆران"
+      },
+      "map_link": "https://maps.app.goo.gl/kbWanirKE6WvdtFJ9",
+      "lat": 36.657786,
+      "lng": 44.542894,
+      "quantity": 1
+    },
+    "ATM_4": {
+      "address": {
+        "en": "Harem",
+        "ar": "سۆران - بەردەم نەخۆشخانەی هەرێم",
+        "ku": "سۆران - بەردەم نەخۆشخانەی هەرێم"
+      },
+      "map_link": "https://maps.app.goo.gl/fzVV68nR226L6VAPA",
+      "lat": 36.651781,
+      "lng": 44.522849,
+      "quantity": 1
+    },
+    "ATM_5": {
+      "address": {
+        "en": "Banaslawa",
+        "ar": "بنەسلاوە نزیک ناوەندی وەرزش و لاوانی بنەسڵاوە",
+        "ku": "بنەسلاوە نزیک ناوەندی وەرزش و لاوانی بنەسڵاوە"
+      },
+      "map_link": "https://maps.app.goo.gl/EynGe4ReMZoxMkHC8",
+      "lat": 36.15956,
+      "lng": 44.109557,
+      "quantity": 1
+    },
+    "ATM_6": {
+      "address": {
+        "en": "Banaslawa",
+        "ar": "بنەسلاوە ، بەرامبەر مزگەوتی ئەحمەدی",
+        "ku": "بنەسلاوە ، بەرامبەر مزگەوتی ئەحمەدی"
+      },
+      "map_link": "https://maps.app.goo.gl/nKGGd91Bhko52iBC9",
+      "lat": 36.152256,
+      "lng": 44.109481,
+      "quantity": 1
+    },
+    "ATM_7": {
+      "address": {
+        "en": "Mergasur",
+        "ar": " نزیک قایمقامیەتی مێرگەسۆر",
+        "ku": " نزیک قایمقامیەتی مێرگەسۆر"
+      },
+      "map_link": "https://maps.app.goo.gl/ig36uLt8e9awRRXKA",
+      "lat": 36.839196,
+      "lng": 44.300502,
+      "quantity": 1
+    },
+    "ATM_8": {
+      "address": {
+        "en": "Mergasur",
+        "ar": "نزیک نەخۆشخانەی مێرگەسۆر",
+        "ku": "نزیک نەخۆشخانەی مێرگەسۆر"
+      },
+      "map_link": "https://maps.app.goo.gl/vECJfHMtBq3vvQYY8",
+      "lat": 36.842998,
+      "lng": 44.300778,
+      "quantity": 1
+    },
+    "ATM_9": {
+      "address": {
+        "en": "Harir",
+        "ar": "بەردەم وێستگەی کارەبای هەریر",
+        "ku": "بەردەم وێستگەی کارەبای هەریر"
+      },
+      "map_link": "https://maps.app.goo.gl/NrsnMcq2yJ2jeTcaA",
+      "lat": 36.555775,
+      "lng": 44.35014,
+      "quantity": 1
+    },
+    "ATM_10": {
+      "address": {
+        "en": "Shqlava",
+        "ar": "نزیک بنکەی ڤێتێرنەری شەقڵاوە",
+        "ku": "نزیک بنکەی ڤێتێرنەری شەقڵاوە"
+      },
+      "map_link": "https://maps.app.goo.gl/w2ETc2KeAqKFe5M68",
+      "lat": 36.391356,
+      "lng": 44.34363,
+      "quantity": 1
+    },
+    "ATM_11": {
+      "address": {
+        "en": "Pirmam",
+        "ar": "نزیک بەڕێوەبەرایەتی ناحیەی سەلاحەدین",
+        "ku": "نزیک بەڕێوەبەرایەتی ناحیەی سەلاحەدین"
+      },
+      "map_link": "https://maps.app.goo.gl/nCGSJwh62u2F94AY6",
+      "lat": 36.375609,
+      "lng": 44.201611,
+      "quantity": 1
+    }
+  }
+}

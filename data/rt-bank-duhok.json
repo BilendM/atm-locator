@@ -1,7 +1,6 @@
 {
   "result": [
     {
-      "id": "0c6f2fe2-84d0-4ce3-c454-08de3e0ab0a6",
       "title": "Batifa",
       "type": "ATM",
       "latitude": 37.17688,
@@ -15,7 +14,6 @@
       "workingHours": []
     },
     {
-      "id": "82eb8f91-ea35-4ae7-c453-08de3e0ab0a6",
       "title": "Ibrahim Khalil Border Crossing",
       "type": "ATM",
       "latitude": 37.14061535167988,
@@ -29,7 +27,6 @@
       "workingHours": []
     },
     {
-      "id": "cef4f124-b94e-410a-c452-08de3e0ab0a6",
       "title": "Zakho Card Department",
       "type": "ATM",
       "latitude": 37.15801075655055,
@@ -43,7 +40,6 @@
       "workingHours": []
     },
     {
-      "id": "ff068f9a-b70b-4290-c451-08de3e0ab0a6",
       "title": "shiga -RD",
       "type": "ATM",
       "latitude": 37.166543320452156,
@@ -57,7 +53,6 @@
       "workingHours": []
     },
     {
-      "id": "b1fd732e-6590-4ce6-c450-08de3e0ab0a6",
       "title": "dalal- RD",
       "type": "ATM",
       "latitude": 37.13906192180175,
@@ -71,7 +66,6 @@
       "workingHours": []
     },
     {
-      "id": "47eb8c40-c3a4-4f65-c44f-08de3e0ab0a6",
       "title": "بلدية زاخو",
       "type": "ATM",
       "latitude": 37.144173104144656,
@@ -85,7 +79,6 @@
       "workingHours": []
     },
     {
-      "id": "66ebb643-1a0e-4e3b-c44e-08de3e0ab0a6",
       "title": "بنك رزكاري",
       "type": "ATM",
       "latitude": 37.13802974501768,
@@ -99,7 +92,6 @@
       "workingHours": []
     },
     {
-      "id": "7b9ebcd9-d9f1-497c-c44d-08de3e0ab0a6",
       "title": "هيزل",
       "type": "ATM",
       "latitude": 37.16108898851737,
@@ -113,7 +105,6 @@
       "workingHours": []
     },
     {
-      "id": "9534c762-46d7-4210-c44c-08de3e0ab0a6",
       "title": "Dalal Bank",
       "type": "ATM",
       "latitude": 37.152425654365004,
@@ -127,7 +118,6 @@
       "workingHours": []
     },
     {
-      "id": "f4b70e83-a1b1-4191-c44b-08de3e0ab0a6",
       "title": "SHEKHAN - STADIUM",
       "type": "ATM",
       "latitude": 36.68206504130722,
@@ -141,7 +131,6 @@
       "workingHours": []
     },
     {
-      "id": "3757d357-24a2-4590-c44a-08de3e0ab0a6",
       "title": "دائرة بيئة محافظة دهوك",
       "type": "ATM",
       "latitude": 36.72418759071108,
@@ -155,7 +144,6 @@
       "workingHours": []
     },
     {
-      "id": "aaef91c7-38f8-4d16-c449-08de3e0ab0a6",
       "title": "shorash park",
       "type": "ATM",
       "latitude": 36.73946095421788,
@@ -169,7 +157,6 @@
       "workingHours": []
     },
     {
-      "id": "5f907cd9-07fe-4baa-c448-08de3e0ab0a6",
       "title": "دائره طابو سيميل",
       "type": "ATM",
       "latitude": 36.85064748523146,
@@ -183,7 +170,6 @@
       "workingHours": []
     },
     {
-      "id": "04d2a836-4d3e-4a5a-c447-08de3e0ab0a6",
       "title": "Parshad Street",
       "type": "ATM",
       "latitude": 36.84180163059842,
@@ -197,7 +183,6 @@
       "workingHours": []
     },
     {
-      "id": "2fe216ee-9b30-48b8-c446-08de3e0ab0a6",
       "title": "Bazar Road",
       "type": "ATM",
       "latitude": 36.84970116704465,
@@ -211,7 +196,6 @@
       "workingHours": []
     },
     {
-      "id": "0bc0538f-c09f-4227-c445-08de3e0ab0a6",
       "title": "Emergency Teaching Hospital",
       "type": "ATM",
       "latitude": 36.85762359380764,
@@ -225,7 +209,6 @@
       "workingHours": []
     },
     {
-      "id": "8356b31a-2671-44af-c444-08de3e0ab0a6",
       "title": "Azadi Street",
       "type": "ATM",
       "latitude": 36.867806267236844,
@@ -239,7 +222,6 @@
       "workingHours": []
     },
     {
-      "id": "7fb4821e-35c8-4bba-c443-08de3e0ab0a6",
       "title": "Duhok Highway",
       "type": "ATM",
       "latitude": 36.63738998966622,
@@ -253,7 +235,6 @@
       "workingHours": []
     },
     {
-      "id": "cfae70e0-e8ed-4f42-c442-08de3e0ab0a6",
       "title": "شيخان",
       "type": "ATM",
       "latitude": 36.68544210319907,
@@ -267,7 +248,6 @@
       "workingHours": []
     },
     {
-      "id": "ca77a468-5b2f-4b90-c441-08de3e0ab0a6",
       "title": "صحة عمادية",
       "type": "ATM",
       "latitude": 37.090453446460735,
@@ -281,7 +261,6 @@
       "workingHours": []
     },
     {
-      "id": "e0c7f2f7-b063-4b27-c440-08de3e0ab0a6",
       "title": "مستشفى سميل",
       "type": "ATM",
       "latitude": 36.859973014048244,
@@ -295,7 +274,6 @@
       "workingHours": []
     },
     {
-      "id": "a829be3d-256e-4c27-c43f-08de3e0ab0a6",
       "title": "دهوك كورا",
       "type": "ATM",
       "latitude": 36.90457153729968,
@@ -309,7 +287,6 @@
       "workingHours": []
     },
     {
-      "id": "a2129cbc-c7d7-4b7b-c43e-08de3e0ab0a6",
       "title": "شيلاديزي",
       "type": "ATM",
       "latitude": 37.032033495217995,
@@ -323,7 +300,6 @@
       "workingHours": []
     },
     {
-      "id": "c350ca6f-73d0-4a5a-c43d-08de3e0ab0a6",
       "title": "سميل",
       "type": "ATM",
       "latitude": 36.86004293453738,
@@ -337,7 +313,6 @@
       "workingHours": []
     },
     {
-      "id": "06f76184-070a-4422-c43c-08de3e0ab0a6",
       "title": "سبنا",
       "type": "ATM",
       "latitude": 37.04319881627723,
@@ -351,7 +326,6 @@
       "workingHours": []
     },
     {
-      "id": "6d41cf8f-aad5-4c1d-c43b-08de3e0ab0a6",
       "title": "سرهلدان",
       "type": "ATM",
       "latitude": 36.85113713979616,
@@ -365,7 +339,6 @@
       "workingHours": []
     },
     {
-      "id": "f31cbeba-4eca-4598-c43a-08de3e0ab0a6",
       "title": "دوميس",
       "type": "ATM",
       "latitude": 36.79224390131896,
@@ -379,7 +352,6 @@
       "workingHours": []
     },
     {
-      "id": "72168931-5dca-477e-c439-08de3e0ab0a6",
       "title": "رئاسة جامعة دهوك ",
       "type": "ATM",
       "latitude": 36.8612628900797,
@@ -393,7 +365,6 @@
       "workingHours": []
     },
     {
-      "id": "a47ef567-ce12-4fe1-c438-08de3e0ab0a6",
       "title": "كلية حقوق الانسان",
       "type": "ATM",
       "latitude": 36.863860604040866,
@@ -407,7 +378,6 @@
       "workingHours": []
     },
     {
-      "id": "0592661f-e56e-47f6-c437-08de3e0ab0a6",
       "title": "كلية / الاسنان - الصيدلة",
       "type": "ATM",
       "latitude": 36.84758218849074,
@@ -421,7 +391,6 @@
       "workingHours": []
     },
     {
-      "id": "9e31343e-6cd7-4904-c436-08de3e0ab0a6",
       "title": "جامعة دهوك ",
       "type": "ATM",
       "latitude": 36.85219092542621,
@@ -435,7 +404,6 @@
       "workingHours": []
     },
     {
-      "id": "ea8096fc-22be-4de7-c435-08de3e0ab0a6",
       "title": "سيبا",
       "type": "ATM",
       "latitude": 36.73969305962096,
@@ -449,7 +417,6 @@
       "workingHours": []
     },
     {
-      "id": "87504ff4-b66d-4e0b-c434-08de3e0ab0a6",
       "title": "بردرسش المعهد الفني",
       "type": "ATM",
       "latitude": 36.50560498451683,
@@ -463,7 +430,6 @@
       "workingHours": []
     },
     {
-      "id": "668389dc-7cbc-4cac-c433-08de3e0ab0a6",
       "title": "MALTA",
       "type": "ATM",
       "latitude": 36.86833207416979,
@@ -477,7 +443,6 @@
       "workingHours": []
     },
     {
-      "id": "65d51833-4677-4f66-c432-08de3e0ab0a6",
       "title": "MATIN",
       "type": "ATM",
       "latitude": 36.86457650767049,
@@ -491,7 +456,6 @@
       "workingHours": []
     },
     {
-      "id": "b2ebdecf-701a-47f3-c431-08de3e0ab0a6",
       "title": "GARA",
       "type": "ATM",
       "latitude": 36.85612164034382,
@@ -505,7 +469,6 @@
       "workingHours": []
     },
     {
-      "id": "e7ed861a-c45d-42a8-c430-08de3e0ab0a6",
       "title": "DASNIA",
       "type": "ATM",
       "latitude": 36.86470699399182,
@@ -519,7 +482,6 @@
       "workingHours": []
     },
     {
-      "id": "66df0046-e45b-41c7-c42f-08de3e0ab0a6",
       "title": "AMAD 1",
       "type": "ATM",
       "latitude": 36.84683638151703,
@@ -533,7 +495,6 @@
       "workingHours": []
     },
     {
-      "id": "84abc0b8-2028-4f5d-c42e-08de3e0ab0a6",
       "title": "Cihan Bank - Br. Duhok",
       "type": "ATM",
       "latitude": 36.86317324158931,
@@ -547,7 +508,6 @@
       "workingHours": []
     },
     {
-      "id": "e5d876bf-2c94-4597-c42d-08de3e0ab0a6",
       "title": "Duhok Branch ATM ",
       "type": "ATM",
       "latitude": 36.86290981639019,
@@ -561,7 +521,6 @@
       "workingHours": []
     },
     {
-      "id": "434a7967-3215-428b-6316-08da38e0fb60",
       "title": "دهوك مول",
       "type": "ATM",
       "latitude": 36.85228062480585,
@@ -575,7 +534,6 @@
       "workingHours": []
     },
     {
-      "id": "5e94a0ac-187d-4dc1-5e29-08da38ebad48",
       "title": "جامعة نوروز/ دهوك",
       "type": "ATM",
       "latitude": 36.859976431235154,
@@ -589,7 +547,6 @@
       "workingHours": []
     },
     {
-      "id": "722d51f7-62b0-4ea6-d29b-08da38e36048",
       "title": "فاملي مول - دهوك",
       "type": "ATM",
       "latitude": 36.85227110798369,
@@ -603,7 +560,6 @@
       "workingHours": []
     },
     {
-      "id": "5ffc5ad1-1e3d-4afd-5e2a-08da38ebad48",
       "title": " بلان بازار3",
       "type": "ATM",
       "latitude": 36.84711097161874,
@@ -617,7 +573,6 @@
       "workingHours": []
     },
     {
-      "id": "2457c9d5-fefa-4399-ff02-08dcecf4fc1d",
       "title": "قلعه عقرة 1",
       "type": "ATM",
       "latitude": 36.73192744887681,
@@ -631,7 +586,6 @@
       "workingHours": []
     },
     {
-      "id": "b2944ec9-253f-4ed6-ff03-08dcecf4fc1d",
       "title": "قلعه عقرة 2",
       "type": "ATM",
       "latitude": 36.73192744887681,
@@ -645,7 +599,6 @@
       "workingHours": []
     },
     {
-      "id": "e9e7c908-aa5e-4919-ff04-08dcecf4fc1d",
       "title": "قلعه عقرة3",
       "type": "ATM",
       "latitude": 36.73192744887681,
@@ -657,11 +610,422 @@
       "email": null,
       "managerName": null,
       "workingHours": []
+    },
+    {
+      "title": "رۆڤیا - تەنیشت بەرێوەبەرایەتی پۆلیسی رۆڤیا",
+      "type": "ATM",
+      "latitude": 36.618776,
+      "longitude": 43.702573,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Rovia",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "دهۆک، بەردەم سەرۆکایەتی شارەوانی دهۆک",
+      "type": "ATM",
+      "latitude": 36.003589,
+      "longitude": 44.031576,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Duhok",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "زاخۆ - نزیک سایلویا زاخۆ",
+      "type": "ATM",
+      "latitude": 37.152445,
+      "longitude": 42.704929,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Dalal",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "دهۆک - نزیک بەڕێوەبەرایەتی کارەبای دهۆک, بەردەم داسنیا بانک",
+      "type": "ATM",
+      "latitude": 36.864684,
+      "longitude": 42.988189,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Dasniya",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "دهۆک، دۆميز - بەرامبەر بانکێ دۆميز",
+      "type": "ATM",
+      "latitude": 36.792233,
+      "longitude": 42.912022,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Duhok",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "دهۆک - بەرامبەر هۆتیل سەرگلی",
+      "type": "ATM",
+      "latitude": 36.856115,
+      "longitude": 42.960751,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Malta",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "زاخۆ - تەنيشت بانکي هيزل",
+      "type": "ATM",
+      "latitude": 37.161153,
+      "longitude": 42.679117,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Hizl",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "زاخۆ - بەردەم ناحیا رزگاری",
+      "type": "ATM",
+      "latitude": 37.137985,
+      "longitude": 42.562266,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Rizgary",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "سەرسنک - بەردەم ڕێڤەبەریا ناحیا سەرسنک",
+      "type": "ATM",
+      "latitude": 37.043186,
+      "longitude": 43.353029,
+      "openTime": null,
+      "closeTime": null,
+      "description": "sbna",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "دهۆک - سيميل، ناوەندی بازار",
+      "type": "ATM",
+      "latitude": 36.86008,
+      "longitude": 42.843467,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Semel",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "شێخان - نزيک بانکی شێخان",
+      "type": "ATM",
+      "latitude": 36.685478,
+      "longitude": 43.346061,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Shekhan",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "دهۆک - شێلادزێ",
+      "type": "ATM",
+      "latitude": 37.03203,
+      "longitude": 43.773083,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Sheladze",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "ئاکری - نزیک بەرێوەبەرایەتی هاتووچوو ئاکری",
+      "type": "ATM",
+      "latitude": 36.739689,
+      "longitude": 43.883488,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Akre",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "دهۆک - چرە.",
+      "type": "ATM",
+      "latitude": 36.637447,
+      "longitude": 43.523008,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Duhok",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "دهۆک - زاویتە.",
+      "type": "ATM",
+      "latitude": 36.904595,
+      "longitude": 43.134903,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Duhok",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "ئاکری - نزیک بەرێوەبەرایەتی شارەوانی ئاکری",
+      "type": "ATM",
+      "latitude": 36.731973,
+      "longitude": 43.879224,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Akre",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "دهۆک - نزیک کۆلێژی پزیشکی ددان و پزیشکی",
+      "type": "ATM",
+      "latitude": 36.847582,
+      "longitude": 42.999025,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Duhok",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "دهۆک - شەقامي ئەنوەر ماي",
+      "type": "ATM",
+      "latitude": 36.861303,
+      "longitude": 42.969789,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Presidency",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "زاخۆ - نزيک ياريگای زاخۆ",
+      "type": "ATM",
+      "latitude": 37.144226,
+      "longitude": 42.673975,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Zakho",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "بەردەڕەش - بەرامبەر پارکي ئەفرين",
+      "type": "ATM",
+      "latitude": 36.505618,
+      "longitude": 43.585277,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Bardarash",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "ئامێدی - بەردەم قائیمقامیا ئامێدی",
+      "type": "ATM",
+      "latitude": 37.090447,
+      "longitude": 43.48872,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Amedi",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "دهۆک - KRO بەرامبەر Maximall",
+      "type": "ATM",
+      "latitude": 36.867816,
+      "longitude": 42.969997,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Azadi",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "دهۆک - نێزیک نەخوشخانا تەنگاڤیان یا کەڤن",
+      "type": "ATM",
+      "latitude": 36.857704,
+      "longitude": 43.008523,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Emergency",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "دهۆک - جادا جەوازاتیت کەڤن",
+      "type": "ATM",
+      "latitude": 36.84976,
+      "longitude": 42.940281,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Bazar",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "دهۆک - نزارکێ",
+      "type": "ATM",
+      "latitude": 36.841771,
+      "longitude": 43.057132,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Parshad",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "زاخۆ - تەنیشت ڕێڤەبەرییا ئاسایشا زاخۆ",
+      "type": "ATM",
+      "latitude": 37.139109,
+      "longitude": 42.710782,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Zagros",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "زاخۆ - بەرامبەر کۆچکا هونەری",
+      "type": "ATM",
+      "latitude": 37.166566,
+      "longitude": 42.688999,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Technical",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "دهۆک - سێمێل تاپۆ.",
+      "type": "ATM",
+      "latitude": 36.850673,
+      "longitude": 42.863616,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Tabu",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "ئاکرێ - تەنیشت مزگەفتا شورەش",
+      "type": "ATM",
+      "latitude": 36.739298,
+      "longitude": 43.89783,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Akre",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "ئاکرێ - بەردەم ڕوداو مارکێت",
+      "type": "ATM",
+      "latitude": 36.72405,
+      "longitude": 43.873158,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Akre",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "زاخۆ - لسەر جادا گورستانا تلکەبەرێ",
+      "type": "ATM",
+      "latitude": 37.157925,
+      "longitude": 42.722627,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Zakho",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
+    },
+    {
+      "title": "شێخان - بەردەم یاریگەها شێخان",
+      "type": "ATM",
+      "latitude": 36.681996,
+      "longitude": 43.34096,
+      "openTime": null,
+      "closeTime": null,
+      "description": "Shekhan",
+      "phoneNumber": null,
+      "email": null,
+      "managerName": null,
+      "workingHours": []
     }
-  ],
-  "targetUrl": null,
-  "success": true,
-  "error": null,
-  "unAuthorizedRequest": false,
-  "__abp": true
+  ]
 }

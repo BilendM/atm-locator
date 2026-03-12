@@ -1,0 +1,169 @@
+{
+  "Erbil": {
+    "ATM_1": {
+      "address": {
+        "en": "Shaways",
+        "ar": "بەرامبەر شارەوانی شاوێس",
+        "ku": "بەرامبەر شارەوانی شاوێس"
+      },
+      "map_link": "https://maps.app.goo.gl/cAnR9iMfVsSeKMSU9",
+      "lat": 36.249657,
+      "lng": 44.085324,
+      "quantity": 1
+    },
+    "ATM_2": {
+      "address": {
+        "en": "Erbil",
+        "ar": "رێگای گوێر، بەردەم کۆمپانیای هیۆندای",
+        "ku": "رێگای گوێر، بەردەم کۆمپانیای هیۆندای"
+      },
+      "map_link": "https://maps.app.goo.gl/VVzFVi5ViKKqKhtB8",
+      "lat": 36.175975,
+      "lng": 43.941569,
+      "quantity": 1
+    },
+    "ATM_3": {
+      "address": {
+        "en": "Barzan",
+        "ar": " بەردەم بەڕێوەبەرایەتی گشتی تەندروستی سۆران ",
+        "ku": " بەردەم بەڕێوەبەرایەتی گشتی تەندروستی سۆران "
+      },
+      "map_link": "https://maps.app.goo.gl/uAsuL6SALMs2pDd26",
+      "lat": 36.649745,
+      "lng": 44.533227,
+      "quantity": 1
+    },
+    "ATM_4": {
+      "address": {
+        "en": "Dersim",
+        "ar": "سۆران - بەردەم کشتوکالی سۆران",
+        "ku": "سۆران - بەردەم کشتوکالی سۆران"
+      },
+      "map_link": "https://maps.app.goo.gl/kbWanirKE6WvdtFJ9",
+      "lat": 36.657786,
+      "lng": 44.542894,
+      "quantity": 1
+    },
+    "ATM_5": {
+      "address": {
+        "en": "Harem",
+        "ar": "سۆران - بەردەم نەخۆشخانەی هەرێم",
+        "ku": "سۆران - بەردەم نەخۆشخانەی هەرێم"
+      },
+      "map_link": "https://maps.app.goo.gl/fzVV68nR226L6VAPA",
+      "lat": 36.651781,
+      "lng": 44.522849,
+      "quantity": 1
+    },
+    "ATM_6": {
+      "address": {
+        "en": "Diana",
+        "ar": "سۆران - ئازادی - نزیک مزگەوتی سبغة اللە",
+        "ku": "سۆران - ئازادی - نزیک مزگەوتی سبغة اللە"
+      },
+      "map_link": "https://maps.app.goo.gl/C427Xi1Q5o9EgNCw8?g_st=iw",
+      "lat": 36.678207,
+      "lng": 44.536593,
+      "quantity": 1
+    },
+    "ATM_7": {
+      "address": {
+        "en": "Banaslawa",
+        "ar": "بنەسلاوە نزیک ناوەندی وەرزش و لاوانی بنەسڵاوە",
+        "ku": "بنەسلاوە نزیک ناوەندی وەرزش و لاوانی بنەسڵاوە"
+      },
+      "map_link": "https://maps.app.goo.gl/EynGe4ReMZoxMkHC8",
+      "lat": 36.15956,
+      "lng": 44.109557,
+      "quantity": 1
+    },
+    "ATM_8": {
+      "address": {
+        "en": "Banaslawa",
+        "ar": "بنەسلاوە ، بەرامبەر مزگەوتی ئەحمەدی",
+        "ku": "بنەسلاوە ، بەرامبەر مزگەوتی ئەحمەدی"
+      },
+      "map_link": "https://maps.app.goo.gl/nKGGd91Bhko52iBC9",
+      "lat": 36.152256,
+      "lng": 44.109481,
+      "quantity": 1
+    },
+    "ATM_9": {
+      "address": {
+        "en": "Mergasur",
+        "ar": " نزیک قایمقامیەتی مێرگەسۆر",
+        "ku": " نزیک قایمقامیەتی مێرگەسۆر"
+      },
+      "map_link": "https://maps.app.goo.gl/ig36uLt8e9awRRXKA",
+      "lat": 36.839196,
+      "lng": 44.300502,
+      "quantity": 1
+    },
+    "ATM_10": {
+      "address": {
+        "en": "Harir",
+        "ar": "بەردەم شارەوانی هەریر",
+        "ku": "بەردەم شارەوانی هەریر"
+      },
+      "map_link": "https://maps.app.goo.gl/BHhrryvmKdhf4yMKA",
+      "lat": 36.549212,
+      "lng": 44.35823,
+      "quantity": 1
+    },
+    "ATM_11": {
+      "address": {
+        "en": "Khabat",
+        "ar": "بەرامبەر شارەوانی خەبات",
+        "ku": "بەرامبەر شارەوانی خەبات"
+      },
+      "map_link": "https://maps.app.goo.gl/nxn7n1em6dL7LKCL6",
+      "lat": 36.269181,
+      "lng": 43.66743,
+      "quantity": 1
+    },
+    "ATM_12": {
+      "address": {
+        "en": "Sidakan",
+        "ar": "بەردەم  وێستگەی کارەبای سیدەکان",
+        "ku": "بەردەم  وێستگەی کارەبای سیدەکان"
+      },
+      "map_link": "https://maps.app.goo.gl/R6dkXcsijjrv5GzL7",
+      "lat": 36.804256,
+      "lng": 44.661162,
+      "quantity": 1
+    },
+    "ATM_13": {
+      "address": {
+        "en": "Pirmam",
+        "ar": "پیرمام - شەقامی گولان - نزیک پارک",
+        "ku": "پیرمام - شەقامی گولان - نزیک پارک"
+      },
+      "map_link": "https://maps.app.goo.gl/JSnuP7a6Y8yd6cuC6",
+      "lat": 36.392915,
+      "lng": 44.187564,
+      "quantity": 1
+    },
+    "ATM_14": {
+      "address": {
+        "en": "Salahaddin",
+        "ar": "هەولێر، زانکۆ، بەردەم سەرۆکایەتی زانکۆی سەڵاحەدین",
+        "ku": "هەولێر، زانکۆ، بەردەم سەرۆکایەتی زانکۆی سەڵاحەدین"
+      },
+      "map_link": "https://maps.app.goo.gl/Ra2VvnjXRf7Cy69R8",
+      "lat": 36.148396,
+      "lng": 44.030963,
+      "quantity": 1
+    },
+    "ATM_15": {
+      "address": {
+        "en": "Franso",
+        "ar": "هەولێر، گەڕەکی ئازادی، بەردەم یاریگای فرانسۆ هەریری",
+        "ku": "هەولێر، گەڕەکی ئازادی، بەردەم یاریگای فرانسۆ هەریری"
+      },
+      "map_link": "https://maps.app.goo.gl/AGHAXRHhvcUReotr8",
+      "lat": 36.171709,
+      "lng": 44.010991,
+      "quantity": 1
+    }
+  }
+}

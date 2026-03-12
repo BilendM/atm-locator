@@ -1,0 +1,26 @@
+{
+  "Mosul": {
+    "ATM_1": {
+      "address": {
+        "en": "Darkazlia Area - Al-Zohour Street - Near Nabi Younis Market",
+        "ar": "فرع الموصل منطقة الدركزلية - شارع الزهور- قرب سوق النبي يونس",
+        "ku": "ناحیەی الدركزلية - شەقامی الزهور- نزیک بازاری نەبی يونس"
+      },
+      "map_link": "https://maps.app.goo.gl/zXpc5biXJZBtW44R7",
+      "lat": 36.337532,
+      "lng": 43.136816,
+      "quantity": 1
+    },
+    "ATM_2": {
+      "address": {
+        "en": "Mosul Branch - Left Side - Al-Zohour District - Near Sayidati Al-Jameela Roundabout",
+        "ar": "فرع الموصل - ساحل الايسر - حي الزهور - قرب دورة سيدة الجميلة",
+        "ku": "لقی موسل- گەڕەکی الزهور - نزیک فلکەی سيدتي الجميلة - گۆڵدن مۆڵ"
+      },
+      "map_link": "https://maps.app.goo.gl/PvdLja4XMkCdhy1f8",
+      "lat": 36.374984,
+      "lng": 43.179138,
+      "quantity": 1
+    }
+  }
+}

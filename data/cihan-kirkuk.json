@@ -1,0 +1,26 @@
+{
+  "Kirkuk": {
+    "ATM_1": {
+      "address": {
+        "en": "Governorate Street – Cihan Bank Building, Next to Turkmen Satellite Channel",
+        "ar": "فرع كركوك شارع المحافظة – بناية مصرف جيهان مجاور الفضائية التركمانية",
+        "ku": "شەقامی پارێزگا – باڵەخانەی بانکی جيهان تەنیشت کەناڵی ئاسمانى تورکمانی"
+      },
+      "map_link": "https://maps.app.goo.gl/be1s7wE9GzvPLe3m7",
+      "lat": 35.452818,
+      "lng": 44.382785,
+      "quantity": 1
+    },
+    "ATM_2": {
+      "address": {
+        "en": "Old Governorate Street – Former Municipality Baho Roundabout",
+        "ar": "شارع المحافظة القديمة – فلكة بهو البلدية سابقا",
+        "ku": "شەقامی پارێزگای کۆن – فلکەی شارەوانی کۆن"
+      },
+      "map_link": "https://maps.app.goo.gl/oCCFzKspFbDTiPVQ9",
+      "lat": 35.456219,
+      "lng": 44.378394,
+      "quantity": 1
+    }
+  }
+}

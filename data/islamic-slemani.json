@@ -1,0 +1,103 @@
+{
+  "Sulaymaniyah": {
+    "ATM_1": {
+      "address": {
+        "en": "Kurdish",
+        "ar": "پەیمانگای کلتوری کوردی",
+        "ku": "پەیمانگای کلتوری کوردی"
+      },
+      "map_link": "https://maps.app.goo.gl/eDrFKjA8WuytdZhD9",
+      "lat": 35.56155,
+      "lng": 45.42936,
+      "quantity": 1
+    },
+    "ATM_2": {
+      "address": {
+        "en": "Tuyimalik",
+        "ar": "تووی مەلیک - باخچەی مامۆستا فەرەیدوون علی امین",
+        "ku": "تووی مەلیک - باخچەی مامۆستا فەرەیدوون علی امین"
+      },
+      "map_link": "https://maps.app.goo.gl/oUZM1YeLsw9jkvjo8",
+      "lat": 35.572747,
+      "lng": 45.45684,
+      "quantity": 1
+    },
+    "ATM_3": {
+      "address": {
+        "en": "Sharazoor",
+        "ar": "شارەزوور - بەردەم فەرمانگەی ڕۆشنبیری و هونەری شارەزوور",
+        "ku": "شارەزوور - بەردەم فەرمانگەی ڕۆشنبیری و هونەری شارەزوور"
+      },
+      "map_link": "https://maps.app.goo.gl/96zixrPb1mxgCrXVA",
+      "lat": 35.317346,
+      "lng": 45.681845,
+      "quantity": 1
+    },
+    "ATM_4": {
+      "address": {
+        "en": "Ranya",
+        "ar": "ڕانیە - نزیک یاریگای کێوەڕەش",
+        "ku": "ڕانیە - نزیک یاریگای کێوەڕەش"
+      },
+      "map_link": "https://maps.app.goo.gl/4FGW5KhKDCs9RpGu8",
+      "lat": 36.257541,
+      "lng": 44.894333,
+      "quantity": 1
+    },
+    "ATM_5": {
+      "address": {
+        "en": "Suli",
+        "ar": "سلێمانی - نزیک قوتابخانەی ئامادەیی تافانی کچان",
+        "ku": "سلێمانی - نزیک قوتابخانەی ئامادەیی تافانی کچان"
+      },
+      "map_link": "https://maps.app.goo.gl/N75iXoiPJSjqhdnQ7",
+      "lat": 35.544035,
+      "lng": 45.434825,
+      "quantity": 1
+    },
+    "ATM_6": {
+      "address": {
+        "en": "Peshkawtn",
+        "ar": "سلێمانی - بەرامبەر پارکی شەهیدان",
+        "ku": "سلێمانی - بەرامبەر پارکی شەهیدان"
+      },
+      "map_link": "https://maps.app.goo.gl/jQ4Cqk1u9N2EZBSX8",
+      "lat": 35.556136,
+      "lng": 45.456174,
+      "quantity": 1
+    },
+    "ATM_7": {
+      "address": {
+        "en": "Kurdistan",
+        "ar": "سلێمانی - فلکەی ماردین",
+        "ku": "سلێمانی - فلکەی ماردین"
+      },
+      "map_link": "https://maps.app.goo.gl/whT2kjgkxU3BZG3n6",
+      "lat": 35.53897,
+      "lng": 45.476311,
+      "quantity": 1
+    },
+    "ATM_8": {
+      "address": {
+        "en": "Kfri",
+        "ar": "کفری - بەردەم قایمقامییەتی قەزای کفری",
+        "ku": "کفری - بەردەم قایمقامییەتی قەزای کفری"
+      },
+      "map_link": "https://maps.app.goo.gl/R2Q1U1VzFheeCmXe8",
+      "lat": 34.69482,
+      "lng": 44.95735,
+      "quantity": 1
+    },
+    "ATM_9": {
+      "address": {
+        "en": "Kurdsat",
+        "ar": "گەڕەکی کوردسات، قوتابخانەی کەریم زەندی کچان",
+        "ku": "گەڕەکی کوردسات، قوتابخانەی کەریم زەندی کچان"
+      },
+      "map_link": "https://maps.app.goo.gl/bL5gGWzUcDzifDjz8",
+      "lat": 35.58808,
+      "lng": 45.43469,
+      "quantity": 1
+    }
+  }
+}
