@@ -1,125 +1,145 @@
-{
-  "Duhok": {
-    "ATM_1": {
-      "address": {
-        "en": "Malta",
-        "ar": "دهۆک - بەرامبەر هۆتیل سەرگلی",
-        "ku": "دهۆک - بەرامبەر هۆتیل سەرگلی"
-      },
-      "map_link": "https://maps.app.goo.gl/zQ6x5HLqy9LTK5dF6?g_st=ic",
-      "lat": 36.856115,
-      "lng": 42.960751,
-      "quantity": 1
+[
+  {
+    "id": "ATM_1",
+    "title": "Malta",
+    "address": {
+      "en": "Malta",
+      "ar": "دهۆک - بەرامبەر هۆتیل سەرگلی",
+      "ku": "دهۆک - بەرامبەر هۆتیل سەرگلی"
     },
-    "ATM_2": {
-      "address": {
-        "en": "Presidency",
-        "ar": "دهۆک - شەقامي ئەنوەر ماي",
-        "ku": "دهۆک - شەقامي ئەنوەر ماي"
-      },
-      "map_link": "https://www.google.com/maps?q=36.8613034906273,42.969788878506",
-      "lat": 36.861303,
-      "lng": 42.969789,
-      "quantity": 1
+    "latitude": 36.856115,
+    "longitude": 42.960751,
+    "map_link": "https://maps.app.goo.gl/zQ6x5HLqy9LTK5dF6?g_st=ic",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_2",
+    "title": "Presidency",
+    "address": {
+      "en": "Presidency",
+      "ar": "دهۆک - شەقامي ئەنوەر ماي",
+      "ku": "دهۆک - شەقامي ئەنوەر ماي"
     },
-    "ATM_3": {
-      "address": {
-        "en": "Shahidani",
-        "ar": "دهۆک - نێزیک مزگەفتا ڕۆناهی",
-        "ku": "دهۆک - نێزیک مزگەفتا ڕۆناهی"
-      },
-      "map_link": "https://maps.app.goo.gl/QoyHikfu3c81YeNh6",
-      "lat": 36.849928,
-      "lng": 42.988668,
-      "quantity": 1
+    "latitude": 36.861303,
+    "longitude": 42.969789,
+    "map_link": "https://www.google.com/maps?q=36.8613034906273,42.969788878506",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_3",
+    "title": "Shahidani",
+    "address": {
+      "en": "Shahidani",
+      "ar": "دهۆک - نێزیک مزگەفتا ڕۆناهی",
+      "ku": "دهۆک - نێزیک مزگەفتا ڕۆناهی"
     },
-    "ATM_4": {
-      "address": {
-        "en": "Silav",
-        "ar": "دهۆک - بەرامبەر تەربیا گشتی",
-        "ku": "دهۆک - بەرامبەر تەربیا گشتی"
-      },
-      "map_link": "https://maps.app.goo.gl/jVauzzZKcXWuJ2BGA",
-      "lat": 36.852925,
-      "lng": 43.00155,
-      "quantity": 1
+    "latitude": 36.849928,
+    "longitude": 42.988668,
+    "map_link": "https://maps.app.goo.gl/QoyHikfu3c81YeNh6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_4",
+    "title": "Silav",
+    "address": {
+      "en": "Silav",
+      "ar": "دهۆک - بەرامبەر تەربیا گشتی",
+      "ku": "دهۆک - بەرامبەر تەربیا گشتی"
     },
-    "ATM_5": {
-      "address": {
-        "en": "Emergency",
-        "ar": "دهۆک - نێزیک نەخوشخانا تەنگاڤیان یا کەڤن",
-        "ku": "دهۆک - نێزیک نەخوشخانا تەنگاڤیان یا کەڤن"
-      },
-      "map_link": "https://maps.app.goo.gl/KJEVABznLHqR4N1x6",
-      "lat": 36.857704,
-      "lng": 43.008523,
-      "quantity": 1
+    "latitude": 36.852925,
+    "longitude": 43.00155,
+    "map_link": "https://maps.app.goo.gl/jVauzzZKcXWuJ2BGA",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_5",
+    "title": "Emergency",
+    "address": {
+      "en": "Emergency",
+      "ar": "دهۆک - نێزیک نەخوشخانا تەنگاڤیان یا کەڤن",
+      "ku": "دهۆک - نێزیک نەخوشخانا تەنگاڤیان یا کەڤن"
     },
-    "ATM_6": {
-      "address": {
-        "en": "Bazar",
-        "ar": "دهۆک - جادا جەوازاتیت کەڤن",
-        "ku": "دهۆک - جادا جەوازاتیت کەڤن"
-      },
-      "map_link": "https://maps.app.goo.gl/64hBthGzpf8LXp9LA",
-      "lat": 36.84976,
-      "lng": 42.940281,
-      "quantity": 1
+    "latitude": 36.857704,
+    "longitude": 43.008523,
+    "map_link": "https://maps.app.goo.gl/KJEVABznLHqR4N1x6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_6",
+    "title": "Bazar",
+    "address": {
+      "en": "Bazar",
+      "ar": "دهۆک - جادا جەوازاتیت کەڤن",
+      "ku": "دهۆک - جادا جەوازاتیت کەڤن"
     },
-    "ATM_7": {
-      "address": {
-        "en": "Akre",
-        "ar": "ئاکرێ - خواندنگەها رزگاری",
-        "ku": "ئاکرێ - خواندنگەها رزگاری"
-      },
-      "map_link": "https://maps.app.goo.gl/YWPuApQVua7fBN3j9",
-      "lat": 36.729328,
-      "lng": 43.871761,
-      "quantity": 1
+    "latitude": 36.84976,
+    "longitude": 42.940281,
+    "map_link": "https://maps.app.goo.gl/64hBthGzpf8LXp9LA",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_7",
+    "title": "Akre",
+    "address": {
+      "en": "Akre",
+      "ar": "ئاکرێ - خواندنگەها رزگاری",
+      "ku": "ئاکرێ - خواندنگەها رزگاری"
     },
-    "ATM_8": {
-      "address": {
-        "en": "Solav",
-        "ar": "ئامێدی - نیزیک ڕێڤەبەرییا ئاسایشا ئامێدی",
-        "ku": "ئامێدی - نیزیک ڕێڤەبەرییا ئاسایشا ئامێدی"
-      },
-      "map_link": "https://maps.app.goo.gl/N4hdEjKPBhxsAJuT7",
-      "lat": 37.089684,
-      "lng": 43.487734,
-      "quantity": 1
+    "latitude": 36.729328,
+    "longitude": 43.871761,
+    "map_link": "https://maps.app.goo.gl/YWPuApQVua7fBN3j9",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_8",
+    "title": "Solav",
+    "address": {
+      "en": "Solav",
+      "ar": "ئامێدی - نیزیک ڕێڤەبەرییا ئاسایشا ئامێدی",
+      "ku": "ئامێدی - نیزیک ڕێڤەبەرییا ئاسایشا ئامێدی"
     },
-    "ATM_9": {
-      "address": {
-        "en": "Tabu",
-        "ar": "دهۆک - سێمێل تاپۆ.",
-        "ku": "دهۆک - سێمێل تاپۆ."
-      },
-      "map_link": "https://maps.app.goo.gl/qN3HuutUVhNr525n9",
-      "lat": 36.850673,
-      "lng": 42.863616,
-      "quantity": 1
+    "latitude": 37.089684,
+    "longitude": 43.487734,
+    "map_link": "https://maps.app.goo.gl/N4hdEjKPBhxsAJuT7",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_9",
+    "title": "Tabu",
+    "address": {
+      "en": "Tabu",
+      "ar": "دهۆک - سێمێل تاپۆ.",
+      "ku": "دهۆک - سێمێل تاپۆ."
     },
-    "ATM_10": {
-      "address": {
-        "en": "Shekhan",
-        "ar": "شێخان - دبن ڕێڤەبەرییا ئاسایشا شێخان دا",
-        "ku": "شێخان - دبن ڕێڤەبەرییا ئاسایشا شێخان دا"
-      },
-      "map_link": "https://maps.app.goo.gl/k4BJuG1SFdqRbrMd8",
-      "lat": 36.697814,
-      "lng": 43.350828,
-      "quantity": 1
+    "latitude": 36.850673,
+    "longitude": 42.863616,
+    "map_link": "https://maps.app.goo.gl/qN3HuutUVhNr525n9",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_10",
+    "title": "Shekhan",
+    "address": {
+      "en": "Shekhan",
+      "ar": "شێخان - دبن ڕێڤەبەرییا ئاسایشا شێخان دا",
+      "ku": "شێخان - دبن ڕێڤەبەرییا ئاسایشا شێخان دا"
     },
-    "ATM_11": {
-      "address": {
-        "en": "Sarhldan",
-        "ar": "دهۆک - بەرامبەر بانکی سەرهلدان",
-        "ku": "دهۆک - بەرامبەر بانکی سەرهلدان"
-      },
-      "map_link": "https://www.google.com/maps?q=36.85114533888,43.0262265865127",
-      "lat": 36.851145,
-      "lng": 43.026227,
-      "quantity": 1
-    }
+    "latitude": 36.697814,
+    "longitude": 43.350828,
+    "map_link": "https://maps.app.goo.gl/k4BJuG1SFdqRbrMd8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_11",
+    "title": "Sarhldan",
+    "address": {
+      "en": "Sarhldan",
+      "ar": "دهۆک - بەرامبەر بانکی سەرهلدان",
+      "ku": "دهۆک - بەرامبەر بانکی سەرهلدان"
+    },
+    "latitude": 36.851145,
+    "longitude": 43.026227,
+    "map_link": "https://www.google.com/maps?q=36.85114533888,43.0262265865127",
+    "type": "ATM"
   }
-}
+]

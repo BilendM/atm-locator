@@ -21,11 +21,7 @@ class ATMLocator {
     this.initMap();
     await this.loadData();
     this.setupEventListeners();
-    this.updateConnectionStatus();
-
-    // Watch for online/offline changes
-    window.addEventListener('online', () => this.updateConnectionStatus());
-    window.addEventListener('offline', () => this.updateConnectionStatus());
+    this.setupMobileInteractions();
   }
 
   registerServiceWorker() {
@@ -38,22 +34,6 @@ class ATMLocator {
         .catch((error) => {
           console.log('Service Worker registration failed:', error);
         });
-    }
-  }
-
-  updateConnectionStatus() {
-    const statusEl = document.getElementById('connectionStatus');
-    const statusText = statusEl.querySelector('.status-text');
-    const statusDot = statusEl.querySelector('.status-dot');
-
-    if (navigator.onLine) {
-      statusEl.classList.remove('offline');
-      statusText.textContent = 'Online';
-      statusDot.style.background = '#2ecc71';
-    } else {
-      statusEl.classList.add('offline');
-      statusText.textContent = 'Offline';
-      statusDot.style.background = '#e74c3c';
     }
   }
 
@@ -73,19 +53,14 @@ class ATMLocator {
       // Enable rotation on mobile (two-finger rotate)
       rotate: true,
       rotateControl: true,
-    });
+    }).setView([33.3128, 44.3615], 6); // Default center (Baghdad)
 
-    // Force rotation control to show on mobile for better UX
-    if (isMobile && this.map.rotateControl) {
-      this.map.removeControl(this.map.rotateControl);
-      this.map.rotateControl = L.control
-        .rotate({
-          position: 'topleft',
-          keepCurrentZoomLevel: true,
-          showCompass: true,
-        })
-        .addTo(this.map);
-    }
+    // Add zoom control manually
+    L.control
+      .zoom({
+        position: 'bottomright',
+      })
+      .addTo(this.map);
 
     // Bank colors for markers
     this.bankColors = {
@@ -127,7 +102,7 @@ class ATMLocator {
       disableClusteringAtZoom: 16,
       spiderfyOnMaxZoom: true,
       showCoverageOnHover: false,
-      zoomToBoundsOnClick: true
+      zoomToBoundsOnClick: true,
     });
     this.map.addLayer(this.markerClusterGroup);
   }
@@ -145,13 +120,29 @@ class ATMLocator {
     }).addTo(this.map);
 
     this.map.invalidateSize();
+  }
 
-    const toggleBtn = document.getElementById('themeToggle');
-    if (styleKey === 'light') {
-      toggleBtn.classList.add('light');
+  setTheme(isDark) {
+    this.isDarkTheme = isDark;
+
+    const themeBtn = document.getElementById('themeToggle');
+    const sunIcon = themeBtn.querySelector('.icon-sun');
+    const moonIcon = themeBtn.querySelector('.icon-moon');
+
+    if (isDark) {
+      document.documentElement.setAttribute('data-theme', 'dark');
+      sunIcon.classList.add('hidden');
+      moonIcon.classList.remove('hidden');
+      this.setMapStyle('dark');
     } else {
-      toggleBtn.classList.remove('light');
+      document.documentElement.removeAttribute('data-theme');
+      sunIcon.classList.remove('hidden');
+      moonIcon.classList.add('hidden');
+      this.setMapStyle('light');
     }
+
+    // Save preference
+    localStorage.setItem('theme', isDark ? 'dark' : 'light');
   }
 
   async loadData() {
@@ -182,7 +173,7 @@ class ATMLocator {
       console.log('Cities:', [...this.cities]);
 
       this.extractCitiesAndBanks();
-      this.populateFilters();
+      this.populateFilters(); // Renamed to populateDropDowns in instruction, but keeping original for now
       this.renderMarkers();
       this.updateStats();
       this.updateList();
@@ -253,79 +244,27 @@ class ATMLocator {
   }
 
   parseATMData(data, filename) {
-    const basename = filename.replace('data/', '').replace('.json', '');
-
     // Parse filename to get bank and city
     const { bank, city } = this.parseFilename(filename);
-
-    // Banks with city-keyed structure (cihan, nbi, bbac, islamic, baghdad, development, commerce)
-    // These all use {"CityName": {"ATM_1": {...}, ...}} structure
-    const cityKeyedBanks = [
-      'cihan',
-      'nbi',
-      'bbac',
-      'islamic',
-      'baghdad',
-      'development',
-      'commerce',
-    ];
-
-    if (cityKeyedBanks.some((b) => bank.toLowerCase().includes(b))) {
-      return this.parseCityKeyedBank(data, bank, city);
-    } else {
-      return this.parseRTBank(data, filename);
-    }
-  }
-
-  parseCityKeyedBank(data, bank, city) {
     const atms = [];
 
-    // The data structure is { "CityName": { "ATM_1": {...}, ... } }
-    // We need to find the city data
-    const cityData = data[city];
-    if (!cityData) return atms;
-
-    const atmKeys = Object.keys(cityData);
-
-    for (const atmKey of atmKeys) {
-      const atm = cityData[atmKey];
-      if (atm.lat && atm.lng) {
-        // Use actual location name from address.en, fallback to ATM key
-        const title = atm.address?.en || atmKey;
-        atms.push({
-          id: `${city.toLowerCase()}-${atmKey}`,
-          title: title,
-          latitude: atm.lat,
-          longitude: atm.lng,
-          address: atm.address,
-          city: city,
-          bank: bank,
-        });
-      }
-    }
-
-    return atms;
-  }
-
-  parseRTBank(data, filename) {
-    const { bank, city } = this.parseFilename(filename);
-    const atms = [];
-
-    if (data.result && Array.isArray(data.result)) {
-      for (const item of data.result) {
+    if (Array.isArray(data)) {
+      data.forEach((item) => {
         if (item.latitude && item.longitude) {
-          if (item.type && item.type !== 'ATM') continue;
-
           atms.push({
-            id: item.id,
+            id: item.id || `ATM_${Math.random()}`,
             title: item.title,
+            address: item.address,
+            description: item.description || null,
             latitude: item.latitude,
             longitude: item.longitude,
+            map_link: item.map_link,
             city: city,
             bank: bank,
+            type: item.type || 'ATM',
           });
         }
-      }
+      });
     }
 
     return atms;
@@ -411,11 +350,11 @@ class ATMLocator {
       'Rt Bank': 'RT Bank',
       Nbi: 'NBI',
       Bbac: 'BBAC',
-      'Cihan': 'Cihan Bank',
-      'Islamic': 'Islamic Bank',
-      'Baghdad': 'Baghdad Bank',
-      'Development': 'Development Bank',
-      'Commerce': 'Commerce Bank'
+      Cihan: 'Cihan Bank',
+      Islamic: 'Islamic Bank',
+      Baghdad: 'Baghdad Bank',
+      Development: 'Development Bank',
+      Commerce: 'Commerce Bank',
     };
 
     return { bank: bankNameMapping[bank] || bank, city };
@@ -469,8 +408,9 @@ class ATMLocator {
     this.filteredData.forEach((atm) => {
       const color = this.getBankColor(atm.bank);
       const icon = this.createMarkerIcon(color, atm.bank);
-      const marker = L.marker([atm.latitude, atm.longitude], { icon })
-        .bindPopup(this.createPopupContent(atm));
+      const marker = L.marker([atm.latitude, atm.longitude], {
+        icon,
+      }).bindPopup(this.createPopupContent(atm));
 
       marker.atmData = atm;
       this.markers.push(marker);
@@ -496,13 +436,13 @@ class ATMLocator {
     let initials = 'A'; // Fallback
     if (bankName) {
       const words = bankName.split(' ');
-      if (words.length > 1 && bankName !== "RT Bank") {
-         // E.g. CB for Cihan Bank, BB for Baghdad Bank
-         initials = words[0][0].toUpperCase() + words[1][0].toUpperCase();
-      } else if (bankName === "RT Bank") {
-         initials = "RT";
+      if (words.length > 1 && bankName !== 'RT Bank') {
+        // E.g. CB for Cihan Bank, BB for Baghdad Bank
+        initials = words[0][0].toUpperCase() + words[1][0].toUpperCase();
+      } else if (bankName === 'RT Bank') {
+        initials = 'RT';
       } else {
-         initials = bankName.substring(0, 2).toUpperCase();
+        initials = bankName.substring(0, 2).toUpperCase();
       }
     }
 
@@ -516,33 +456,45 @@ class ATMLocator {
   }
 
   createPopupContent(atm) {
+    const bankInitial = atm.bank ? atm.bank.substring(0, 1).toUpperCase() : 'B';
     const color = this.getBankColor(atm.bank);
+    let distanceHtml = '';
 
-    let addressHtml = '';
-    if (atm.address && atm.address.en) {
-      addressHtml = `<div class="popup-address">${atm.address.en}</div>`;
-    } else if (atm.address && typeof atm.address === 'string') {
-      addressHtml = `<div class="popup-address">${atm.address}</div>`;
+    if (this.userLocation) {
+      const distance = this.calculateDistance(
+        this.userLocation.lat,
+        this.userLocation.lng,
+        atm.latitude,
+        atm.longitude,
+      );
+      distanceHtml = `<div class="popup-subtitle">${distance.toFixed(1)} km away</div>`;
     }
 
     return `
-            <div class="popup-container">
-                <div class="popup-header">
-                    <div class="popup-bank-badge" style="background-color: ${color};">${atm.bank}</div>
-                    <div class="popup-title">${atm.title}</div>
-                </div>
-                <div class="popup-body">
-                    ${atm.city ? `<div class="popup-row"><svg width="14" height="14" viewBox="0 0 24 24" fill="#666"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>${atm.city}</div>` : ''}
-                    ${addressHtml}
-                </div>
-                <div class="popup-actions">
-                    <button class="popup-btn primary" onclick="app.getDirections('${atm.id}')">
-                        <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M21.71 11.29l-9-9c-.39-.39-1.02-.39-1.41 0l-9 9c-.39.39-.39 1.02 0 1.41l9 9c.39.39 1.02.39 1.41 0l9-9c.39-.38.39-1.01 0-1.41zM14 14.5V12h-4v3H8v-4c0-.55.45-1 1-1h5V7.5l3.5 3.5-3.5 3.5z"/></svg>
-                        Get Directions
-                    </button>
-                </div>
-            </div>
-        `;
+      <div class="popup-container">
+        <div class="popup-header">
+          <div class="popup-icon" style="background-color: ${color};">${bankInitial}</div>
+          <div class="popup-title-group">
+            <div class="popup-title">${atm.title || atm.bank || 'Location'}</div>
+            ${distanceHtml}
+            <div class="popup-subtitle">${atm.bank || ''} • ${atm.type === 'Branch' ? 'Branch' : 'ATM'}</div>
+          </div>
+        </div>
+        <div class="popup-body">
+          ${atm.description ? `<p>${atm.description}</p>` : ''}
+          <div class="popup-address">
+            <strong>City:</strong> ${atm.city || 'Unknown'}<br>
+            <strong>Coordinates:</strong> ${atm.latitude.toFixed(4)}, ${atm.longitude.toFixed(4)}
+          </div>
+        </div>
+        <div class="popup-actions">
+          <button class="glass-btn primary" onclick="app.getDirections(${atm.latitude}, ${atm.longitude})">
+            <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="1 6 1 22 8 18 16 22 21 18 21 2 16 6 8 2 1 6"></polygon><line x1="8" y1="2" x2="8" y2="18"></line><line x1="16" y1="6" x2="16" y2="22"></line></svg>
+            Directions
+          </button>
+        </div>
+      </div>
+    `;
   }
 
   setupEventListeners() {
@@ -557,57 +509,48 @@ class ATMLocator {
 
     // Theme toggle
     document.getElementById('themeToggle').addEventListener('click', () => {
-      const newTheme =
-        this.currentTileLayer &&
-        this.mapStyles.dark.url === this.currentTileLayer._url
-          ? 'light'
-          : 'dark';
-      this.setMapStyle(newTheme);
+      this.setTheme(!this.isDarkTheme);
     });
-
-    // Filter sheet toggle
-    document.getElementById('filterToggle').addEventListener('click', () => {
-      document.getElementById('filterSheet').classList.remove('hidden');
-    });
-
-    document
-      .getElementById('closeFilterSheet')
-      .addEventListener('click', () => {
-        document.getElementById('filterSheet').classList.add('hidden');
-      });
 
     // Locate button
     document.getElementById('locateBtn').addEventListener('click', () => {
       this.locateUser();
     });
+  }
 
-    // List toggle
-    document.getElementById('toggleList').addEventListener('click', () => {
-      document.getElementById('atmList').classList.remove('hidden');
-      document.getElementById('toggleList').classList.add('hidden');
+  setupMobileInteractions() {
+    const listPanel = document.getElementById('atmListPanel');
+    const toggleFab = document.getElementById('toggleListFab');
+    const closeBtn = document.getElementById('closeListBtn');
+    const dragHandle = listPanel.querySelector('.drag-handle-container');
+
+    // Desktop and Mobile common close logic
+    closeBtn.addEventListener('click', () => {
+      listPanel.classList.remove('open');
+      listPanel.classList.add('desktop-closed'); // For desktop hiding
+      toggleFab.classList.remove('hidden');
     });
 
-    document.getElementById('closeList').addEventListener('click', () => {
-      document.getElementById('atmList').classList.add('hidden');
-      document.getElementById('toggleList').classList.remove('hidden');
+    // Toggle list with FAB
+    toggleFab.addEventListener('click', (e) => {
+      e.stopPropagation();
+      listPanel.classList.add('open');
+      listPanel.classList.remove('desktop-closed');
+      toggleFab.classList.add('hidden');
     });
 
-    // Click outside to close list on desktop
-    document.addEventListener('click', (e) => {
-      const list = document.getElementById('atmList');
-      const toggle = document.getElementById('toggleList');
-      const map = document.getElementById('map');
+    // Simple swipe down to close
+    let startY = 0;
 
-      if (
-        window.innerWidth >= 768 &&
-        !list.classList.contains('hidden') &&
-        !list.contains(e.target) &&
-        !toggle.contains(e.target) &&
-        map &&
-        map.contains(e.target)
-      ) {
-        list.classList.add('hidden');
-        toggle.classList.remove('hidden');
+    dragHandle.addEventListener('touchstart', (e) => {
+      startY = e.touches[0].clientY;
+    });
+
+    dragHandle.addEventListener('touchmove', (e) => {
+      const currentY = e.touches[0].clientY;
+      if (currentY - startY > 40) {
+        listPanel.classList.remove('open');
+        toggleFab.classList.remove('hidden');
       }
     });
   }
@@ -636,14 +579,30 @@ class ATMLocator {
 
   updateList() {
     const listContent = document.getElementById('listContent');
+    const atmCountEl = document.getElementById('atmCount');
+
+    if (!listContent || !atmCountEl) return;
+
+    atmCountEl.textContent = this.filteredData.length;
+
     listContent.innerHTML = '';
 
     // Sort by distance if user location is available
     let sortedData = [...this.filteredData];
     if (this.userLocation) {
       sortedData.sort((a, b) => {
-        const distA = this.calculateDistance(this.userLocation, a);
-        const distB = this.calculateDistance(this.userLocation, b);
+        const distA = this.calculateDistance(
+          this.userLocation.lat,
+          this.userLocation.lng,
+          a.latitude,
+          a.longitude,
+        );
+        const distB = this.calculateDistance(
+          this.userLocation.lat,
+          this.userLocation.lng,
+          b.latitude,
+          b.longitude,
+        );
         return distA - distB;
       });
     }
@@ -652,25 +611,50 @@ class ATMLocator {
       const item = document.createElement('div');
       item.className = 'atm-item';
 
+      const distance = this.userLocation
+        ? this.calculateDistance(
+            this.userLocation.lat,
+            this.userLocation.lng,
+            atm.latitude,
+            atm.longitude,
+          )
+        : Infinity;
+      const distanceHtml =
+        distance !== Infinity
+          ? `<span class="atm-item-dist">${distance.toFixed(1)} km</span>`
+          : '';
+
+      const bankInitial = atm.bank
+        ? atm.bank.substring(0, 1).toUpperCase()
+        : 'B';
       const color = this.getBankColor(atm.bank);
 
-      let distanceHtml = '';
-      if (this.userLocation) {
-        const distance = this.calculateDistance(this.userLocation, atm);
-        distanceHtml = `<div class="atm-item-distance">${this.formatDistance(distance)}</div>`;
-      }
-
       item.innerHTML = `
-                <div class="atm-item-color" style="background-color: ${color};"></div>
-                <div class="atm-item-content">
-                    <div class="atm-item-title">${atm.title}</div>
-                    <div class="atm-item-bank" style="color: ${color};">${atm.bank}</div>
+            <div class="atm-item-icon" style="background-color: ${color};">${bankInitial}</div>
+            <div class="atm-item-info">
+                <div class="atm-item-title">${atm.title || atm.bank || 'Location'}</div>
+                <div class="atm-item-subtitle">
+                    <span class="atm-item-bank">${atm.bank || ''}</span>
                     ${distanceHtml}
                 </div>
-            `;
+            </div>
+        `;
 
       item.addEventListener('click', () => {
-        this.focusOnATM(atm);
+        // Find corresponding marker
+        const marker = this.markers.find((m) => m.atmData.id === atm.id);
+        if (marker) {
+          this.map.setView([atm.latitude, atm.longitude], 16, {
+            animate: true,
+          });
+          marker.openPopup();
+
+          // Optionally close the list on mobile after selection
+          if (window.innerWidth < 768) {
+            document.getElementById('atmListPanel').classList.remove('open');
+            document.getElementById('toggleListFab').classList.remove('hidden');
+          }
+        }
       });
 
       listContent.appendChild(item);
@@ -875,22 +859,20 @@ class ATMLocator {
             `;
     } else {
       btn.innerHTML = `
-                <svg viewBox="0 0 24 24" width="20" height="20">
-                    <path fill="currentColor" d="M12 8c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4zm8.94 3c-.46-4.17-3.77-7.48-7.94-7.94V1h-2v2.06C6.83 3.52 3.52 6.83 3.06 11H1v2h2.06c.46 4.17 3.77 7.48 7.94 7.94V23h2v-2.06c4.17-.46 7.48-3.77 7.94-7.94H23v-2h-2.06zM12 19c-3.87 0-7-3.13-7-7s3.13-7 7-7 7 3.13 7 7-3.13 7-7 7z"/>
-                </svg>
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
                 My Location
             `;
     }
   }
 
-  calculateDistance(loc1, atm) {
+  calculateDistance(lat1, lon1, lat2, lon2) {
     const R = 6371; // Earth's radius in km
-    const dLat = ((atm.latitude - loc1.lat) * Math.PI) / 180;
-    const dLon = ((atm.longitude - loc1.lng) * Math.PI) / 180;
+    const dLat = ((lat2 - lat1) * Math.PI) / 180;
+    const dLon = ((lon2 - lon1) * Math.PI) / 180;
     const a =
       Math.sin(dLat / 2) * Math.sin(dLat / 2) +
-      Math.cos((loc1.lat * Math.PI) / 180) *
-        Math.cos((atm.latitude * Math.PI) / 180) *
+      Math.cos((lat1 * Math.PI) / 180) *
+        Math.cos((lat2 * Math.PI) / 180) *
         Math.sin(dLon / 2) *
         Math.sin(dLon / 2);
     const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
@@ -915,8 +897,12 @@ class ATMLocator {
 
     // Close list on mobile
     if (window.innerWidth < 768) {
-      document.getElementById('atmList').classList.add('hidden');
-      document.getElementById('toggleList').classList.remove('hidden');
+      const atmListPanel = document.getElementById('atmListPanel');
+      const toggleListFab = document.getElementById('toggleListFab');
+      if (atmListPanel && toggleListFab) {
+        atmListPanel.classList.remove('open');
+        toggleListFab.classList.remove('hidden');
+      }
     }
   }
 

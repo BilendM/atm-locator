@@ -1,256 +1,310 @@
-{
-  "Erbil": {
-    "ATM_15": {
-      "address": {
-        "en": "60 Meter Street, End of Iskan Tunnel"
-      },
-      "lat": 36.1942764,
-      "lng": 43.9757897,
-      "title": "Erbil",
-      "type": "branch"
+[
+  {
+    "id": "ATM_15",
+    "title": "60 Meter Street, End of Iskan Tunnel",
+    "address": {
+      "en": "60 Meter Street, End of Iskan Tunnel"
     },
-    "ATM_52": {
-      "address": {
-        "en": "Majidi Mall Gate 3, Koya Street"
-      },
-      "lat": 36.1957522996872,
-      "lng": 44.0661486937649,
-      "title": "Erbil - Majidi Mall",
-      "type": "ATM"
+    "latitude": 36.1942764,
+    "longitude": 43.9757897,
+    "map_link": "",
+    "type": "branch"
+  },
+  {
+    "id": "ATM_52",
+    "title": "Majidi Mall Gate 3, Koya Street",
+    "address": {
+      "en": "Majidi Mall Gate 3, Koya Street"
     },
-    "ATM_51": {
-      "address": {
-        "en": "Erbil, Halabja Street, Opposite Manara Park Entrance"
-      },
-      "lat": 36.1832135433755,
-      "lng": 44.0005400699538,
-      "title": "Erbil - Manara Park(ATM 24/7)",
-      "type": "ATM"
+    "latitude": 36.1957522996872,
+    "longitude": 44.0661486937649,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_51",
+    "title": "Erbil, Halabja Street, Opposite Manara Park Entrance",
+    "address": {
+      "en": "Erbil, Halabja Street, Opposite Manara Park Entrance"
     },
-    "ATM_27": {
-      "address": {
-        "en": "60 Meter Street, End of Iskan Tunnel (ATM is outside the branch)"
-      },
-      "lat": 36.1912,
-      "lng": 44.0094,
-      "title": "Erbil Branch (ATM 24/7)",
-      "type": "ATM"
+    "latitude": 36.1832135433755,
+    "longitude": 44.0005400699538,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_27",
+    "title": "60 Meter Street, End of Iskan Tunnel (ATM is outside the branch)",
+    "address": {
+      "en": "60 Meter Street, End of Iskan Tunnel (ATM is outside the branch)"
     },
-    "ATM_1": {
-      "address": {
-        "en": "60 Meter Street, End of Iskan Tunnel, Super Hotel Building"
-      },
-      "lat": 36.17802081747814,
-      "lng": 44.0219071109023,
-      "title": "Erbil Branch (ATM from Sunday till Thursday 8:30 till 14:00)",
-      "type": "ATM"
+    "latitude": 36.1912,
+    "longitude": 44.0094,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_1",
+    "title": "60 Meter Street, End of Iskan Tunnel, Super Hotel Building",
+    "address": {
+      "en": "60 Meter Street, End of Iskan Tunnel, Super Hotel Building"
     },
-    "ATM_55": {
-      "address": {
-        "en": "100m Street, Opposite Empire Diamond, 32 Park"
-      },
-      "lat": 36.20186231507945,
-      "lng": 43.96536645767139,
-      "title": "Erbil Park 32 (ATM 24/7)",
-      "type": "ATM"
+    "latitude": 36.17802081747814,
+    "longitude": 44.0219071109023,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_55",
+    "title": "100m Street, Opposite Empire Diamond, 32 Park",
+    "address": {
+      "en": "100m Street, Opposite Empire Diamond, 32 Park"
     },
-    "ATM_46": {
-      "address": {
-        "en": "Erbil, Ainkawa 2 side, Al-Tajarb Exchange, near Karwan Saray Hotel"
-      },
-      "lat": 36.2366222380545,
-      "lng": 43.9963873903941,
-      "title": "Erbil, Ainkawa (ATM 24/7)",
-      "type": "ATM"
+    "latitude": 36.20186231507945,
+    "longitude": 43.96536645767139,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_46",
+    "title": "Erbil, Ainkawa 2 side, Al-Tajarb Exchange, near Karwan Saray Hotel",
+    "address": {
+      "en": "Erbil, Ainkawa 2 side, Al-Tajarb Exchange, near Karwan Saray Hotel"
     },
-    "ATM_9": {
-      "address": {
-        "en": "100 Street, Baharka Bridge Intersection"
-      },
-      "lat": 36.2244547925153,
-      "lng": 44.0076622105726,
-      "title": "Erbil, Arjaan by Rotana Hotel (ATM 24/7)",
-      "type": "ATM"
+    "latitude": 36.2366222380545,
+    "longitude": 43.9963873903941,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_9",
+    "title": "100 Street, Baharka Bridge Intersection",
+    "address": {
+      "en": "100 Street, Baharka Bridge Intersection"
     },
-    "ATM_45": {
-      "address": {
-        "en": "Erbil, Dream City 2 - Car Parking Exit"
-      },
-      "lat": 36.206680726717934,
-      "lng": 43.97369638193227,
-      "title": "Erbil, Dream City 2 - Car Parking Exit (ATM 24/7)",
-      "type": "ATM"
+    "latitude": 36.2244547925153,
+    "longitude": 44.0076622105726,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_45",
+    "title": "Erbil, Dream City 2 - Car Parking Exit",
+    "address": {
+      "en": "Erbil, Dream City 2 - Car Parking Exit"
     },
-    "ATM_24": {
-      "address": {
-        "en": "100 Meter Street, Building C5, Near Quick Wave Exchange Company"
-      },
-      "lat": 36.2023978208097,
-      "lng": 43.9705885826652,
-      "title": "Erbil, Empire World (ATM 24/7)",
-      "type": "ATM"
+    "latitude": 36.206680726717934,
+    "longitude": 43.97369638193227,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_24",
+    "title": "100 Meter Street, Building C5, Near Quick Wave Exchange Company",
+    "address": {
+      "en": "100 Meter Street, Building C5, Near Quick Wave Exchange Company"
     },
-    "ATM_19": {
-      "address": {
-        "en": "100 Meter Street"
-      },
-      "lat": 36.209959,
-      "lng": 44.047291,
-      "title": "Erbil, Family Mall (ATM subject to Mall operating hours)",
-      "type": "ATM"
+    "latitude": 36.2023978208097,
+    "longitude": 43.9705885826652,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_19",
+    "title": "100 Meter Street",
+    "address": {
+      "en": "100 Meter Street"
     },
-    "ATM_20": {
-      "address": {
-        "en": "Karez Street, Ainkawa District, Next to Holland Bazar Supermarket"
-      },
-      "lat": 36.2374681015937,
-      "lng": 43.9905980836811,
-      "title": "Erbil, Fiori Hotel (ATM 24/7)",
-      "type": "ATM"
+    "latitude": 36.209959,
+    "longitude": 44.047291,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_20",
+    "title": "Karez Street, Ainkawa District, Next to Holland Bazar Supermarket",
+    "address": {
+      "en": "Karez Street, Ainkawa District, Next to Holland Bazar Supermarket"
     },
-    "ATM_41": {
-      "address": {
-        "en": "Maseef Road"
-      },
-      "lat": 36.253891130881,
-      "lng": 44.0820629844961,
-      "title": "Erbil, Grand Majidi Mall (ATM subject to Mall operating hours)",
-      "type": "ATM"
+    "latitude": 36.2374681015937,
+    "longitude": 43.9905980836811,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_41",
+    "title": "Maseef Road",
+    "address": {
+      "en": "Maseef Road"
     },
-    "ATM_42": {
-      "address": {
-        "en": "40 Meter Street"
-      },
-      "lat": 36.2120433267113,
-      "lng": 43.9921421668755,
-      "title": "Erbil, Gulan Mall (ATM subject to Mall operating hours)",
-      "type": "ATM"
+    "latitude": 36.253891130881,
+    "longitude": 44.0820629844961,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_42",
+    "title": "40 Meter Street",
+    "address": {
+      "en": "40 Meter Street"
     },
-    "ATM_5": {
-      "address": {
-        "en": "English Village, FacingVital Village"
-      },
-      "lat": 36.1951499530465,
-      "lng": 43.9678481099738,
-      "title": "Erbil, Holland Bazar Supermarket (ATM 24/7)",
-      "type": "ATM"
+    "latitude": 36.2120433267113,
+    "longitude": 43.9921421668755,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_5",
+    "title": "English Village, FacingVital Village",
+    "address": {
+      "en": "English Village, FacingVital Village"
     },
-    "ATM_29": {
-      "address": {
-        "en": "100 Meter Street, Dream City Compound, Outside International School of Choueifat, Facing Buffalo Restaurant"
-      },
-      "lat": 36.2076712002444,
-      "lng": 43.9749758349919,
-      "title": "Erbil, International School of Choueifat (Sabis) - Dream City (ATM 24/7)",
-      "type": "ATM"
+    "latitude": 36.1951499530465,
+    "longitude": 43.9678481099738,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_29",
+    "title": "100 Meter Street, Dream City Compound, Outside International School of Choueifat, Facing Buffalo Restaurant",
+    "address": {
+      "en": "100 Meter Street, Dream City Compound, Outside International School of Choueifat, Facing Buffalo Restaurant"
     },
-    "ATM_26": {
-      "address": {
-        "en": "Khanzad Area, Maseef Road, Inside International School of Choueifat"
-      },
-      "lat": 36.3143632259191,
-      "lng": 44.1492841014506,
-      "title": "Erbil, International School of Choueifat (Sabis) - Khanzad (ATM subject to School operating hours)",
-      "type": "ATM"
+    "latitude": 36.2076712002444,
+    "longitude": 43.9749758349919,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_26",
+    "title": "Khanzad Area, Maseef Road, Inside International School of Choueifat",
+    "address": {
+      "en": "Khanzad Area, Maseef Road, Inside International School of Choueifat"
     },
-    "ATM_50": {
-      "address": {
-        "en": "Opposite to College of Engineering"
-      },
-      "lat": 36.1416126543469,
-      "lng": 44.0202423191021,
-      "title": "Erbil, Kirkuk Road (ATM 24/7)",
-      "type": "ATM"
+    "latitude": 36.3143632259191,
+    "longitude": 44.1492841014506,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_50",
+    "title": "Opposite to College of Engineering",
+    "address": {
+      "en": "Opposite to College of Engineering"
     },
-    "ATM_10": {
-      "address": {
-        "en": "Baharka Street, Lebanese Village Compound, Gate 1, Facing ABC restaurant"
-      },
-      "lat": 36.2574916611173,
-      "lng": 44.0116062801714,
-      "title": "Erbil, Lebanese Village Compound - Gate 1 (ATM1 24/7)",
-      "type": "ATM"
+    "latitude": 36.1416126543469,
+    "longitude": 44.0202423191021,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_10",
+    "title": "Baharka Street, Lebanese Village Compound, Gate 1, Facing ABC restaurant",
+    "address": {
+      "en": "Baharka Street, Lebanese Village Compound, Gate 1, Facing ABC restaurant"
     },
-    "ATM_25": {
-      "address": {
-        "en": "Baharka Street, Lebanese Village Compound, Gate 2"
-      },
-      "lat": 36.2594822065556,
-      "lng": 44.013843335976,
-      "title": "Erbil, Lebanese Village Compound - Gate 2 (ATM2 24/7)",
-      "type": "ATM"
+    "latitude": 36.2574916611173,
+    "longitude": 44.0116062801714,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_25",
+    "title": "Baharka Street, Lebanese Village Compound, Gate 2",
+    "address": {
+      "en": "Baharka Street, Lebanese Village Compound, Gate 2"
     },
-    "ATM_43": {
-      "address": {
-        "en": "40 meter street, infront of Dream City"
-      },
-      "lat": 36.2047776747842,
-      "lng": 43.9833933281362,
-      "title": "Erbil, MNW Tower (ATM 24/7)",
-      "type": "ATM"
+    "latitude": 36.2594822065556,
+    "longitude": 44.013843335976,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_43",
+    "title": "40 meter street, infront of Dream City",
+    "address": {
+      "en": "40 meter street, infront of Dream City"
     },
-    "ATM_49": {
-      "address": {
-        "en": "Opposite Rozhawa Hospital"
-      },
-      "lat": 36.162414948282,
-      "lng": 43.9688574578604,
-      "title": "Erbil, Newroz Street (ATM 24/7)",
-      "type": "ATM"
+    "latitude": 36.2047776747842,
+    "longitude": 43.9833933281362,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_49",
+    "title": "Opposite Rozhawa Hospital",
+    "address": {
+      "en": "Opposite Rozhawa Hospital"
     },
-    "ATM_30": {
-      "address": {
-        "en": "100 Meter Street, Ainkawa District"
-      },
-      "lat": 36.2217769542228,
-      "lng": 43.9944016728994,
-      "title": "Erbil, Noble Hotel (ATM 24/7)",
-      "type": "ATM"
+    "latitude": 36.162414948282,
+    "longitude": 43.9688574578604,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_30",
+    "title": "100 Meter Street, Ainkawa District",
+    "address": {
+      "en": "100 Meter Street, Ainkawa District"
     },
-    "ATM_12": {
-      "address": {
-        "en": "Airport Road Connection, ATM Inside View Supermarket"
-      },
-      "lat": 36.2086790314205,
-      "lng": 43.9827088388691,
-      "title": "Erbil, Park View Compound (ATM 24/7)",
-      "type": "ATM"
+    "latitude": 36.2217769542228,
+    "longitude": 43.9944016728994,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_12",
+    "title": "Airport Road Connection, ATM Inside View Supermarket",
+    "address": {
+      "en": "Airport Road Connection, ATM Inside View Supermarket"
     },
-    "ATM_11": {
-      "address": {
-        "en": "Gulan Street, Facing Sami Abdul Rahman Park"
-      },
-      "lat": 36.1875106546302,
-      "lng": 43.9740038399876,
-      "title": "Erbil, Rotana Hotel (ATM 24/7)",
-      "type": "ATM"
+    "latitude": 36.2086790314205,
+    "longitude": 43.9827088388691,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_11",
+    "title": "Gulan Street, Facing Sami Abdul Rahman Park",
+    "address": {
+      "en": "Gulan Street, Facing Sami Abdul Rahman Park"
     },
-    "ATM_47": {
-      "address": {
-        "en": "Erbil, Shorsh Street, near Fortland Hotel"
-      },
-      "lat": 36.2040496915572,
-      "lng": 44.0231662533683,
-      "title": "Erbil, Shoresh (ATM 24/7)",
-      "type": "ATM"
+    "latitude": 36.1875106546302,
+    "longitude": 43.9740038399876,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_47",
+    "title": "Erbil, Shorsh Street, near Fortland Hotel",
+    "address": {
+      "en": "Erbil, Shorsh Street, near Fortland Hotel"
     },
-    "ATM_28": {
-      "address": {
-        "en": "NazNazStreet, Behind Park View Compound"
-      },
-      "lat": 36.2112307152487,
-      "lng": 43.9803268554199,
-      "title": "Erbil, Sipan Hotel (ATM 24/7)",
-      "type": "ATM"
+    "latitude": 36.2040496915572,
+    "longitude": 44.0231662533683,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_28",
+    "title": "NazNazStreet, Behind Park View Compound",
+    "address": {
+      "en": "NazNazStreet, Behind Park View Compound"
     },
-    "ATM_7": {
-      "address": {
-        "en": "60 Meter District, Kirkuk Road, Near Francois Hariri Stadium"
-      },
-      "lat": 36.171314287953,
-      "lng": 44.0126191507812,
-      "title": "Erbil, Tablo Mall (ATM subject to Mall operating hours)",
-      "type": "ATM"
-    }
+    "latitude": 36.2112307152487,
+    "longitude": 43.9803268554199,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_7",
+    "title": "60 Meter District, Kirkuk Road, Near Francois Hariri Stadium",
+    "address": {
+      "en": "60 Meter District, Kirkuk Road, Near Francois Hariri Stadium"
+    },
+    "latitude": 36.171314287953,
+    "longitude": 44.0126191507812,
+    "map_link": "",
+    "type": "ATM"
   }
-}
+]

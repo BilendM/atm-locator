@@ -1,1538 +1,1300 @@
-{
-  "result": [
-    {
-      "title": "Ankawa Asayish Office",
-      "type": "ATM",
-      "latitude": 36.22242064094361,
-      "longitude": 43.997059053012855,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Ankawa Asayish Office",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "مديرية مرور سوران",
-      "type": "ATM",
-      "latitude": 36.69444569148676,
-      "longitude": 44.512469953275286,
-      "openTime": null,
-      "closeTime": null,
-      "description": "مديرية مرور سوران",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "Pirmam Gulan Road",
-      "type": "ATM",
-      "latitude": 36.39283969862767,
-      "longitude": 44.18759572321649,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Pirmam Gulan Road",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "Rwandz stadium",
-      "type": "ATM",
-      "latitude": 36.61118334464741,
-      "longitude": 44.518634186505004,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Rwandz stadium",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "Choman Stadium",
-      "type": "ATM",
-      "latitude": 36.63730244594618,
-      "longitude": 44.8896218250657,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Choman Stadium",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "Shaqlawa Sabirawa",
-      "type": "ATM",
-      "latitude": 36.39135839049644,
-      "longitude": 44.343642508669994,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Shaqlawa Sabirawa",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "Khabat Youth Center",
-      "type": "ATM",
-      "latitude": 36.26932770143744,
-      "longitude": 43.66746718650499,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Khabat Youth Center",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "Harir Electricity Station",
-      "type": "ATM",
-      "latitude": 36.54920922336508,
-      "longitude": 44.35823164998951,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Harir Electricity Station",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "Mergasur National Library",
-      "type": "ATM",
-      "latitude": 36.842893941193445,
-      "longitude": 44.30083936933311,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Mergasur National Library",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "Mergasur District Office",
-      "type": "ATM",
-      "latitude": 36.83912421203664,
-      "longitude": 44.300559193108796,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Mergasur District Office",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "Banaslawa Football Stadium",
-      "type": "ATM",
-      "latitude": 36.1596712575835,
-      "longitude": 44.109502457670004,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Banaslawa Football Stadium",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "Diana",
-      "type": "ATM",
-      "latitude": 36.678284122377484,
-      "longitude": 44.53663025390245,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Diana",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "Harem",
-      "type": "ATM",
-      "latitude": 36.651901112591254,
-      "longitude": 44.522918373009986,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Harem",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "Barzan kawa st",
-      "type": "ATM",
-      "latitude": 36.64974078970756,
-      "longitude": 44.53323171154254,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Barzan kawa st",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "32 Park ",
-      "type": "ATM",
-      "latitude": 36.19148516108281,
-      "longitude": 43.95015195174588,
-      "openTime": null,
-      "closeTime": null,
-      "description": "32 Park ",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "شارع المنتزه ",
-      "type": "ATM",
-      "latitude": 36.22971718835233,
-      "longitude": 43.99192260042421,
-      "openTime": null,
-      "closeTime": null,
-      "description": "شارع المنتزه ",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "كويه",
-      "type": "ATM",
-      "latitude": 36.09204408833981,
-      "longitude": 44.63908632490611,
-      "openTime": null,
-      "closeTime": null,
-      "description": "كويه",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "فندق سیپان",
-      "type": "ATM",
-      "latitude": 36.211373113132886,
-      "longitude": 43.98012049138303,
-      "openTime": null,
-      "closeTime": null,
-      "description": "فندق سیپان",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "Erbil Distribution Center",
-      "type": "ATM",
-      "latitude": 36.17597340721697,
-      "longitude": 43.94154747617029,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Erbil Distribution Center",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "بيرمام",
-      "type": "ATM",
-      "latitude": 36.38133080546671,
-      "longitude": 44.2014724423024,
-      "openTime": null,
-      "closeTime": null,
-      "description": "بيرمام",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "شاويس ",
-      "type": "ATM",
-      "latitude": 36.24970856573183,
-      "longitude": 44.085307813494985,
-      "openTime": null,
-      "closeTime": null,
-      "description": "شاويس ",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "قائم مقام جومان",
-      "type": "ATM",
-      "latitude": 36.63171104126707,
-      "longitude": 44.88456846348616,
-      "openTime": null,
-      "closeTime": null,
-      "description": "قائم مقام جومان",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "محكمة اربيل ",
-      "type": "ATM",
-      "latitude": 36.183338637183276,
-      "longitude": 43.98074643362182,
-      "openTime": null,
-      "closeTime": null,
-      "description": "محكمة اربيل ",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "كلية التربية/شقلاوة",
-      "type": "ATM",
-      "latitude": 36.409731455378186,
-      "longitude": 44.31149486242624,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل طريق شقلاوة",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "مصرف كولان",
-      "type": "ATM",
-      "latitude": 36.26822840027464,
-      "longitude": 43.66199351910406,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل، خبات، قرب قائمقامية قضاء خبات",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "سوق اربيل الكبير",
-      "type": "ATM",
-      "latitude": 36.185441010642414,
-      "longitude": 44.01097484577322,
-      "openTime": null,
-      "closeTime": null,
-      "description": " اربيل ، سوق نشتمان",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "قاضي محمد ",
-      "type": "ATM",
-      "latitude": 36.179189955106615,
-      "longitude": 44.00824949740681,
-      "openTime": null,
-      "closeTime": null,
-      "description": " اربيل ، باركي زانياري",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "مجلس محافظة اربيل",
-      "type": "ATM",
-      "latitude": 36.186140576305384,
-      "longitude": 43.996722457753236,
-      "openTime": null,
-      "closeTime": null,
-      "description": " اربيل شارع هزار",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "بارك سامي عبد الرحمن",
-      "type": "ATM",
-      "latitude": 36.184338252281414,
-      "longitude": 43.983298682543186,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل، بنصلاوة",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "فاميلي مول/ هەولێر",
-      "type": "ATM",
-      "latitude": 36.21079651513707,
-      "longitude": 44.046535974898084,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل / شارع 100 م",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "شركة الحياة / بيبسي",
-      "type": "ATM",
-      "latitude": 36.16209516895379,
-      "longitude": 43.994865400320144,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل/ شارع مخمور",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "فندق ديفان",
-      "type": "ATM",
-      "latitude": 36.196955616200675,
-      "longitude": 43.97669571725563,
-      "openTime": null,
-      "closeTime": null,
-      "description": "شارع كولان 40 متر",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "تابلو مول",
-      "type": "ATM",
-      "latitude": 36.17148,
-      "longitude": 44.01362,
-      "openTime": null,
-      "closeTime": null,
-      "description": "طريق كركوك / اربيل",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": " المقرالرئيسي",
-      "type": "ATM",
-      "latitude": 36.21638,
-      "longitude": 43.99938,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل/ شارع كولان ",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "شركة قمر الفجر",
-      "type": "ATM",
-      "latitude": 36.174634722069335,
-      "longitude": 44.02048961651697,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل / شارع روناكي",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "جامعة كردستان",
-      "type": "ATM",
-      "latitude": 36.18227357108548,
-      "longitude": 44.00671126512119,
-      "openTime": null,
-      "closeTime": null,
-      "description": " شارع 30م، أربيل",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "مطار اربيل - القادمون",
-      "type": "ATM",
-      "latitude": 36.23357,
-      "longitude": 43.95539,
-      "openTime": null,
-      "closeTime": null,
-      "description": "مطار اربيل ",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "فيو ماركت",
-      "type": "ATM",
-      "latitude": 36.208778392656264,
-      "longitude": 43.982144436113565,
-      "openTime": null,
-      "closeTime": null,
-      "description": "بارك فيو ",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "ماجدي ماركت 3",
-      "type": "ATM",
-      "latitude": 36.262094711296626,
-      "longitude": 44.08973928635255,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل / شارع شاويس",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "بلان بازار ",
-      "type": "ATM",
-      "latitude": 36.19217,
-      "longitude": 43.96791,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل/ شارع القرية الإنجليزية",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "مستشفى الولادة",
-      "type": "ATM",
-      "latitude": 36.21586828,
-      "longitude": 44.03361963,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل / شارع شورش",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "شو ماركت - طريق كوية",
-      "type": "ATM",
-      "latitude": 36.20586908387763,
-      "longitude": 44.12206939632757,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل - طريق كوية",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": " مستشفى رزكاري",
-      "type": "ATM",
-      "latitude": 36.19266091531509,
-      "longitude": 44.03665347668401,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل/ طريق كوية",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "كلية العلوم",
-      "type": "ATM",
-      "latitude": 36.1521090009183,
-      "longitude": 44.01860404903681,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل / طريق كركوك",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "طريق بنصلاوة القديم",
-      "type": "ATM",
-      "latitude": 36.16696601793696,
-      "longitude": 44.05050415297506,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل/ طريق بنصلاوة القديم",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "كلية الاداب",
-      "type": "ATM",
-      "latitude": 36.158508613364084,
-      "longitude": 44.01377080469774,
-      "openTime": null,
-      "closeTime": null,
-      "description": "أربيل / شارع قاسملو",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "بنك زانكو",
-      "type": "ATM",
-      "latitude": 36.141641138746905,
-      "longitude": 44.02019235112862,
-      "openTime": null,
-      "closeTime": null,
-      "description": " أربيل، شارع كركوك",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "تابلو مول2",
-      "type": "ATM",
-      "latitude": 36.171804566132934,
-      "longitude": 44.01433144288079,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل، شارع كركوك",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "فندق عنكاوا هوليداي",
-      "type": "ATM",
-      "latitude": 36.22855,
-      "longitude": 44.004829,
-      "openTime": null,
-      "closeTime": null,
-      "description": "عنكاوا ",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "مصرف القلعة ",
-      "type": "ATM",
-      "latitude": 36.17189226662579,
-      "longitude": 43.98078666174877,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل شارع 100م",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "ماجدي لاند ",
-      "type": "ATM",
-      "latitude": 36.20815620425125,
-      "longitude": 44.13962497148046,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل طريق كويه",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "وزارة التجارة",
-      "type": "ATM",
-      "latitude": 36.19683447901035,
-      "longitude": 44.02426383146328,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل شارع 60م",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "بنك بنصلاوة",
-      "type": "ATM",
-      "latitude": 36.15891958495667,
-      "longitude": 44.12492482555303,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل، بنصلاوة",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "ارام ستي",
-      "type": "ATM",
-      "latitude": 36.24497082862031,
-      "longitude": 44.041414018865034,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل شارع 120م",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "مستشفى الطوارئ",
-      "type": "ATM",
-      "latitude": 36.19960992709922,
-      "longitude": 43.99808606729104,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل شارع 60م",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "محطة فرع بيشاسازى 11",
-      "type": "ATM",
-      "latitude": 36.223902666472554,
-      "longitude": 44.05424598286986,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل بجانب صالة زيوس",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "واو تاوەر",
-      "type": "ATM",
-      "latitude": 36.17280647689859,
-      "longitude": 43.96212781740406,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل، شارع سيف HVN",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "زانياري  بارک ",
-      "type": "ATM",
-      "latitude": 36.179189955106615,
-      "longitude": 44.00824949740681,
-      "openTime": null,
-      "closeTime": null,
-      "description": "أربيل، شارع قاضي محمد",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "سورك بنك",
-      "type": "ATM",
-      "latitude": 36.398272727919185,
-      "longitude": 44.32908130138597,
-      "openTime": null,
-      "closeTime": null,
-      "description": "شقلاوة",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "مديرية صحة اربيل",
-      "type": "ATM",
-      "latitude": 36.19227911786361,
-      "longitude": 44.003651741824925,
-      "openTime": null,
-      "closeTime": null,
-      "description": "",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "هولير مول",
-      "type": "ATM",
-      "latitude": 36.196770834071195,
-      "longitude": 44.016319236582405,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل، طيراوة",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "مديرية الاستثمار ",
-      "type": "ATM",
-      "latitude": 36.19321019219106,
-      "longitude": 44.02638978206865,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل، هالي زرد 60 م",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "مطعم هولير",
-      "type": "ATM",
-      "latitude": 36.20533623,
-      "longitude": 43.99995981,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل، طريق عنكاوا",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "قوشتبة",
-      "type": "ATM",
-      "latitude": 36.0041565794165,
-      "longitude": 44.037328712554604,
-      "openTime": null,
-      "closeTime": null,
-      "description": "‌اربيل ، قوشتبة",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "كوي ",
-      "type": "ATM",
-      "latitude": 36.08192755600066,
-      "longitude": 44.628964583831745,
-      "openTime": null,
-      "closeTime": null,
-      "description": "كوي سنجق",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "شو ماركت/ مصيف صلاح الدين",
-      "type": "ATM",
-      "latitude": 36.262094711296626,
-      "longitude": 44.08973928635255,
-      "openTime": null,
-      "closeTime": null,
-      "description": "شو ماركت/ مصيف صلاح الدين",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "كنجان سيتي ",
-      "type": "ATM",
-      "latitude": 36.29268420601479,
-      "longitude": 44.03355556006566,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل،  كنجان سيتي ",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": " سوران",
-      "type": "ATM",
-      "latitude": 36.6376589272706,
-      "longitude": 44.55869999066027,
-      "openTime": null,
-      "closeTime": null,
-      "description": "مستشفى سوران للولادة",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "خليفان",
-      "type": "ATM",
-      "latitude": 36.60401761535458,
-      "longitude": 44.40056179504314,
-      "openTime": null,
-      "closeTime": null,
-      "description": "خلیفان",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "حرير",
-      "type": "ATM",
-      "latitude": 36.548964436858974,
-      "longitude": 44.35195893249198,
-      "openTime": null,
-      "closeTime": null,
-      "description": "خلیفان",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "سوران",
-      "type": "ATM",
-      "latitude": 36.65191296375531,
-      "longitude": 44.533841490109516,
-      "openTime": null,
-      "closeTime": null,
-      "description": "سوران",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "روفيا",
-      "type": "ATM",
-      "latitude": 36.61857948128348,
-      "longitude": 43.70246496268476,
-      "openTime": null,
-      "closeTime": null,
-      "description": "روفيا",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "رواندوز",
-      "type": "ATM",
-      "latitude": 36.61962055959003,
-      "longitude": 44.53325075254256,
-      "openTime": null,
-      "closeTime": null,
-      "description": "رواندوز",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "Mergasur",
-      "type": "ATM",
-      "latitude": 36.85155508626541,
-      "longitude": 44.29391378085979,
-      "openTime": null,
-      "closeTime": null,
-      "description": "ميركسور",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "ديلزيا",
-      "type": "ATM",
-      "latitude": 36.69525474259728,
-      "longitude": 44.53065692482459,
-      "openTime": null,
-      "closeTime": null,
-      "description": "ديلزيا",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "كورد نفط /مقابل القرية اللبنانية",
-      "type": "ATM",
-      "latitude": 36.261950025325675,
-      "longitude": 44.01476092358303,
-      "openTime": null,
-      "closeTime": null,
-      "description": "كورد نفط /مقابل القرية اللبنانية",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "مستشفى نانكلي",
-      "type": "ATM",
-      "latitude": 36.16444274972246,
-      "longitude": 44.00992019623291,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل/ طريق جمال حيدري",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "بلدية بحركة ",
-      "type": "ATM",
-      "latitude": 36.31542148748969,
-      "longitude": 44.03276338580377,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل طريق بحركة",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "كورد نفط / مقابل فاملي مول",
-      "type": "ATM",
-      "latitude": 36.20882124741754,
-      "longitude": 44.043879850301686,
-      "openTime": null,
-      "closeTime": null,
-      "description": "كورد نفط / مقابل فاملي مول",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "لايف تاور",
-      "type": "ATM",
-      "latitude": 36.18174796716854,
-      "longitude": 43.95111134132292,
-      "openTime": null,
-      "closeTime": null,
-      "description": "لايف تاور, شارع الموصل",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "كوالتي كونترول",
-      "type": "ATM",
-      "latitude": 36.16237876504773,
-      "longitude": 43.96882640324062,
-      "openTime": null,
-      "closeTime": null,
-      "description": "اربيل شارع نوروز",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "بلدية عنكاوا",
-      "type": "ATM",
-      "latitude": 36.240281411722115,
-      "longitude": 43.98727707367573,
-      "openTime": null,
-      "closeTime": null,
-      "description": "بلدية عنكاوا",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "بلي",
-      "type": "ATM",
-      "latitude": 36.86816283,
-      "longitude": 44.06173886,
-      "openTime": null,
-      "closeTime": null,
-      "description": "بلي\n",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "مصيف، صلاح الدين",
-      "type": "ATM",
-      "latitude": 36.381407,
-      "longitude": 44.20124,
-      "openTime": null,
-      "closeTime": null,
-      "description": "مصيف، صلاح الدين",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "مصرف الجامعة",
-      "type": "ATM",
-      "latitude": 36.14164804142133,
-      "longitude": 44.020214731061394,
-      "openTime": null,
-      "closeTime": null,
-      "description": "مصرف الجامعة / طريق كركوك",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "هەولێر، ١٠٠ م، تەنیشت بانکی زانکۆ",
-      "type": "ATM",
-      "latitude": 36.140639,
-      "longitude": 44.020361,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Zanko",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "شەقڵاوە -بەردەم پەروەردەی شەقڵاوە",
-      "type": "ATM",
-      "latitude": 36.409912,
-      "longitude": 44.311609,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Shaqlawa",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "خەبات - بەردەم قایمقامیەتی خەبات",
-      "type": "ATM",
-      "latitude": 36.268443,
-      "longitude": 43.662053,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Khabat",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "هەولێر، شەقامی منارە، بەردەم ئەنجومەنی پارێزگای هەولێر",
-      "type": "ATM",
-      "latitude": 36.186225,
-      "longitude": 43.996817,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Shirin",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "هەولێر، ٣٠ م، نزیک زانکۆی کوردستان",
-      "type": "ATM",
-      "latitude": 36.179463,
-      "longitude": 44.008215,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Sarwaran",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "هەولێر، شەقامی نەورۆز، خوار نەخۆشخانەی پاکی",
-      "type": "ATM",
-      "latitude": 36.172011,
-      "longitude": 43.980704,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Qalat",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "هەولێر، ١٠٠ م، بەردەم بانکی قەڵات",
-      "type": "ATM",
-      "latitude": 36.162326,
-      "longitude": 43.968797,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Qalat",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "هەولێر، خوار پاڕکی شار، بەرامبەر بازاڕی نیشتیمان",
-      "type": "ATM",
-      "latitude": 36.185488,
-      "longitude": 44.011008,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Nishtiman",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "هەولێر، ٦٠ م، بەردەم وەزارەتی بازرگانی و پیشەسازی",
-      "type": "ATM",
-      "latitude": 36.197011,
-      "longitude": 44.024568,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Dween",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "بەردەم بانکی بنسلاوە",
-      "type": "ATM",
-      "latitude": 36.158894,
-      "longitude": 44.125065,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Bnslawa",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "هەولێر، بەحرکە، خوار مزگەوتی ڕەشید گەردی",
-      "type": "ATM",
-      "latitude": 36.315413,
-      "longitude": 44.032767,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Bahrka",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "هەولێر، ڕێگای کەسنەزان، بەرامبەر ماجیدی لاند",
-      "type": "ATM",
-      "latitude": 36.208724,
-      "longitude": 44.139518,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Kasnazan",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "هەولێر، ڕێگای موسڵ-هەولێر، نزیک دادگای تێهەڵچوونەوە",
-      "type": "ATM",
-      "latitude": 36.184333,
-      "longitude": 43.983298,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Mahkama",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "هەولێر، ٦٠ م، بەردەم نەخۆشخانەی ئیمێرجنسی",
-      "type": "ATM",
-      "latitude": 36.199864,
-      "longitude": 43.998103,
-      "openTime": null,
-      "closeTime": null,
-      "description": "60m",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "هەولێر، پشت وەزارەتی پێشمەرگە",
-      "type": "ATM",
-      "latitude": 36.224065,
-      "longitude": 44.054361,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Near",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "سۆران - بەردەم نەخۆشخانەی لەدایکبوون",
-      "type": "ATM",
-      "latitude": 36.63757,
-      "longitude": 44.558545,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Soran",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "قوشتەپە - پشت بانکی قوشتەپە",
-      "type": "ATM",
-      "latitude": 36.004982,
-      "longitude": 44.038091,
-      "openTime": null,
-      "closeTime": null,
-      "description": "qushtapa",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "کۆیە- بەردەم بانکی باوەجی",
-      "type": "ATM",
-      "latitude": 36.082249,
-      "longitude": 44.628393,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Koye",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "خەلیفان-بەردەم  بنکەی ئاگرکوژێنەوەی خەلیفان",
-      "type": "ATM",
-      "latitude": 36.604243,
-      "longitude": 44.400573,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Khalifan",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "تەق تەق - بەردەم بانکی تەق تەق",
-      "type": "ATM",
-      "latitude": 35.885781,
-      "longitude": 44.589217,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Taqtaq",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "هەریر- بەردەم بانکی هەریر",
-      "type": "ATM",
-      "latitude": 36.54897,
-      "longitude": 44.351746,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Harir",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "چۆمان- نزیک پارکی قائیمقام",
-      "type": "ATM",
-      "latitude": 36.63189,
-      "longitude": 44.884451,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Choman",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "کۆیە - بەردەم  بانکی کۆیە",
-      "type": "ATM",
-      "latitude": 36.092083,
-      "longitude": 44.639102,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Koye",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "رەواندز - نزیک قایمقامیەتی رەواندز",
-      "type": "ATM",
-      "latitude": 36.619854,
-      "longitude": 44.533141,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Rwandz",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "مێرگەسۆر- نزیک وێستگەی کارەبای مێرگەسۆر",
-      "type": "ATM",
-      "latitude": 36.851543,
-      "longitude": 44.293915,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Mergasur",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "سۆران - بەردەم بانکی ئازادی",
-      "type": "ATM",
-      "latitude": 36.652008,
-      "longitude": 44.534052,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Soran",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "سۆران، دێلزیا- بەردەم کۆلێژی تەکنیکی سۆران",
-      "type": "ATM",
-      "latitude": 36.695411,
-      "longitude": 44.530562,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Delzya",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "رێگای گوێر، بەردەم کۆمپانیای هیۆندای",
-      "type": "ATM",
-      "latitude": 36.175975,
-      "longitude": 43.941569,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Erbil",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "سۆران - ئازادی - نزیک مزگەوتی سبغة اللە",
-      "type": "ATM",
-      "latitude": 36.678207,
-      "longitude": 44.536593,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Diana",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "چۆمان - بەرامبەر بانکی چۆمان",
-      "type": "ATM",
-      "latitude": 36.637147,
-      "longitude": 44.889606,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Choman",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "سۆران - نزیک کەبابخانەی مام دەروێش",
-      "type": "ATM",
-      "latitude": 36.65175,
-      "longitude": 44.55008,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Soran",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "پیرمام - شەقامی گولان - نزیک پارک",
-      "type": "ATM",
-      "latitude": 36.392915,
-      "longitude": 44.187564,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Pirmam",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    },
-    {
-      "title": "هەولێر، زانکۆ، بەردەم سەرۆکایەتی زانکۆی سەڵاحەدین",
-      "type": "ATM",
-      "latitude": 36.148396,
-      "longitude": 44.030963,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Salahaddin",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    }
-  ]
-}
+[
+  {
+    "id": "ATM_1",
+    "title": "Ankawa Asayish Office",
+    "address": {
+      "en": "Ankawa Asayish Office"
+    },
+    "latitude": 36.22242064094361,
+    "longitude": 43.997059053012855,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_2",
+    "title": "مديرية مرور سوران",
+    "address": {
+      "en": "مديرية مرور سوران"
+    },
+    "latitude": 36.69444569148676,
+    "longitude": 44.512469953275286,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_3",
+    "title": "Pirmam Gulan Road",
+    "address": {
+      "en": "Pirmam Gulan Road"
+    },
+    "latitude": 36.39283969862767,
+    "longitude": 44.18759572321649,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_4",
+    "title": "Rwandz stadium",
+    "address": {
+      "en": "Rwandz stadium"
+    },
+    "latitude": 36.61118334464741,
+    "longitude": 44.518634186505004,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_5",
+    "title": "Choman Stadium",
+    "address": {
+      "en": "Choman Stadium"
+    },
+    "latitude": 36.63730244594618,
+    "longitude": 44.8896218250657,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_6",
+    "title": "Shaqlawa Sabirawa",
+    "address": {
+      "en": "Shaqlawa Sabirawa"
+    },
+    "latitude": 36.39135839049644,
+    "longitude": 44.343642508669994,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_7",
+    "title": "Khabat Youth Center",
+    "address": {
+      "en": "Khabat Youth Center"
+    },
+    "latitude": 36.26932770143744,
+    "longitude": 43.66746718650499,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_8",
+    "title": "Harir Electricity Station",
+    "address": {
+      "en": "Harir Electricity Station"
+    },
+    "latitude": 36.54920922336508,
+    "longitude": 44.35823164998951,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_9",
+    "title": "Mergasur National Library",
+    "address": {
+      "en": "Mergasur National Library"
+    },
+    "latitude": 36.842893941193445,
+    "longitude": 44.30083936933311,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_10",
+    "title": "Mergasur District Office",
+    "address": {
+      "en": "Mergasur District Office"
+    },
+    "latitude": 36.83912421203664,
+    "longitude": 44.300559193108796,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_11",
+    "title": "Banaslawa Football Stadium",
+    "address": {
+      "en": "Banaslawa Football Stadium"
+    },
+    "latitude": 36.1596712575835,
+    "longitude": 44.109502457670004,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_12",
+    "title": "Diana",
+    "address": {
+      "en": "Diana"
+    },
+    "latitude": 36.678284122377484,
+    "longitude": 44.53663025390245,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_13",
+    "title": "Harem",
+    "address": {
+      "en": "Harem"
+    },
+    "latitude": 36.651901112591254,
+    "longitude": 44.522918373009986,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_14",
+    "title": "Barzan kawa st",
+    "address": {
+      "en": "Barzan kawa st"
+    },
+    "latitude": 36.64974078970756,
+    "longitude": 44.53323171154254,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_15",
+    "title": "32 Park ",
+    "address": {
+      "en": "32 Park "
+    },
+    "latitude": 36.19148516108281,
+    "longitude": 43.95015195174588,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_16",
+    "title": "شارع المنتزه ",
+    "address": {
+      "en": "شارع المنتزه "
+    },
+    "latitude": 36.22971718835233,
+    "longitude": 43.99192260042421,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_17",
+    "title": "كويه",
+    "address": {
+      "en": "كويه"
+    },
+    "latitude": 36.09204408833981,
+    "longitude": 44.63908632490611,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_18",
+    "title": "فندق سیپان",
+    "address": {
+      "en": "فندق سیپان"
+    },
+    "latitude": 36.211373113132886,
+    "longitude": 43.98012049138303,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_19",
+    "title": "Erbil Distribution Center",
+    "address": {
+      "en": "Erbil Distribution Center"
+    },
+    "latitude": 36.17597340721697,
+    "longitude": 43.94154747617029,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_20",
+    "title": "بيرمام",
+    "address": {
+      "en": "بيرمام"
+    },
+    "latitude": 36.38133080546671,
+    "longitude": 44.2014724423024,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_21",
+    "title": "شاويس ",
+    "address": {
+      "en": "شاويس "
+    },
+    "latitude": 36.24970856573183,
+    "longitude": 44.085307813494985,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_22",
+    "title": "قائم مقام جومان",
+    "address": {
+      "en": "قائم مقام جومان"
+    },
+    "latitude": 36.63171104126707,
+    "longitude": 44.88456846348616,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_23",
+    "title": "محكمة اربيل ",
+    "address": {
+      "en": "محكمة اربيل "
+    },
+    "latitude": 36.183338637183276,
+    "longitude": 43.98074643362182,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_24",
+    "title": "كلية التربية/شقلاوة",
+    "address": {
+      "en": "كلية التربية/شقلاوة"
+    },
+    "latitude": 36.409731455378186,
+    "longitude": 44.31149486242624,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_25",
+    "title": "مصرف كولان",
+    "address": {
+      "en": "مصرف كولان"
+    },
+    "latitude": 36.26822840027464,
+    "longitude": 43.66199351910406,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_26",
+    "title": "سوق اربيل الكبير",
+    "address": {
+      "en": "سوق اربيل الكبير"
+    },
+    "latitude": 36.185441010642414,
+    "longitude": 44.01097484577322,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_27",
+    "title": "قاضي محمد ",
+    "address": {
+      "en": "قاضي محمد "
+    },
+    "latitude": 36.179189955106615,
+    "longitude": 44.00824949740681,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_28",
+    "title": "مجلس محافظة اربيل",
+    "address": {
+      "en": "مجلس محافظة اربيل"
+    },
+    "latitude": 36.186140576305384,
+    "longitude": 43.996722457753236,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_29",
+    "title": "بارك سامي عبد الرحمن",
+    "address": {
+      "en": "بارك سامي عبد الرحمن"
+    },
+    "latitude": 36.184338252281414,
+    "longitude": 43.983298682543186,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_30",
+    "title": "فاميلي مول/ هەولێر",
+    "address": {
+      "en": "فاميلي مول/ هەولێر"
+    },
+    "latitude": 36.21079651513707,
+    "longitude": 44.046535974898084,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_31",
+    "title": "شركة الحياة / بيبسي",
+    "address": {
+      "en": "شركة الحياة / بيبسي"
+    },
+    "latitude": 36.16209516895379,
+    "longitude": 43.994865400320144,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_32",
+    "title": "فندق ديفان",
+    "address": {
+      "en": "فندق ديفان"
+    },
+    "latitude": 36.196955616200675,
+    "longitude": 43.97669571725563,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_33",
+    "title": "تابلو مول",
+    "address": {
+      "en": "تابلو مول"
+    },
+    "latitude": 36.17148,
+    "longitude": 44.01362,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_34",
+    "title": " المقرالرئيسي",
+    "address": {
+      "en": " المقرالرئيسي"
+    },
+    "latitude": 36.21638,
+    "longitude": 43.99938,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_35",
+    "title": "شركة قمر الفجر",
+    "address": {
+      "en": "شركة قمر الفجر"
+    },
+    "latitude": 36.174634722069335,
+    "longitude": 44.02048961651697,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_36",
+    "title": "جامعة كردستان",
+    "address": {
+      "en": "جامعة كردستان"
+    },
+    "latitude": 36.18227357108548,
+    "longitude": 44.00671126512119,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_37",
+    "title": "مطار اربيل - القادمون",
+    "address": {
+      "en": "مطار اربيل - القادمون"
+    },
+    "latitude": 36.23357,
+    "longitude": 43.95539,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_38",
+    "title": "فيو ماركت",
+    "address": {
+      "en": "فيو ماركت"
+    },
+    "latitude": 36.208778392656264,
+    "longitude": 43.982144436113565,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_39",
+    "title": "ماجدي ماركت 3",
+    "address": {
+      "en": "ماجدي ماركت 3"
+    },
+    "latitude": 36.262094711296626,
+    "longitude": 44.08973928635255,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_40",
+    "title": "بلان بازار ",
+    "address": {
+      "en": "بلان بازار "
+    },
+    "latitude": 36.19217,
+    "longitude": 43.96791,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_41",
+    "title": "مستشفى الولادة",
+    "address": {
+      "en": "مستشفى الولادة"
+    },
+    "latitude": 36.21586828,
+    "longitude": 44.03361963,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_42",
+    "title": "شو ماركت - طريق كوية",
+    "address": {
+      "en": "شو ماركت - طريق كوية"
+    },
+    "latitude": 36.20586908387763,
+    "longitude": 44.12206939632757,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_43",
+    "title": " مستشفى رزكاري",
+    "address": {
+      "en": " مستشفى رزكاري"
+    },
+    "latitude": 36.19266091531509,
+    "longitude": 44.03665347668401,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_44",
+    "title": "كلية العلوم",
+    "address": {
+      "en": "كلية العلوم"
+    },
+    "latitude": 36.1521090009183,
+    "longitude": 44.01860404903681,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_45",
+    "title": "طريق بنصلاوة القديم",
+    "address": {
+      "en": "طريق بنصلاوة القديم"
+    },
+    "latitude": 36.16696601793696,
+    "longitude": 44.05050415297506,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_46",
+    "title": "كلية الاداب",
+    "address": {
+      "en": "كلية الاداب"
+    },
+    "latitude": 36.158508613364084,
+    "longitude": 44.01377080469774,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_47",
+    "title": "بنك زانكو",
+    "address": {
+      "en": "بنك زانكو"
+    },
+    "latitude": 36.141641138746905,
+    "longitude": 44.02019235112862,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_48",
+    "title": "تابلو مول2",
+    "address": {
+      "en": "تابلو مول2"
+    },
+    "latitude": 36.171804566132934,
+    "longitude": 44.01433144288079,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_49",
+    "title": "فندق عنكاوا هوليداي",
+    "address": {
+      "en": "فندق عنكاوا هوليداي"
+    },
+    "latitude": 36.22855,
+    "longitude": 44.004829,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_50",
+    "title": "مصرف القلعة ",
+    "address": {
+      "en": "مصرف القلعة "
+    },
+    "latitude": 36.17189226662579,
+    "longitude": 43.98078666174877,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_51",
+    "title": "ماجدي لاند ",
+    "address": {
+      "en": "ماجدي لاند "
+    },
+    "latitude": 36.20815620425125,
+    "longitude": 44.13962497148046,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_52",
+    "title": "وزارة التجارة",
+    "address": {
+      "en": "وزارة التجارة"
+    },
+    "latitude": 36.19683447901035,
+    "longitude": 44.02426383146328,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_53",
+    "title": "بنك بنصلاوة",
+    "address": {
+      "en": "بنك بنصلاوة"
+    },
+    "latitude": 36.15891958495667,
+    "longitude": 44.12492482555303,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_54",
+    "title": "ارام ستي",
+    "address": {
+      "en": "ارام ستي"
+    },
+    "latitude": 36.24497082862031,
+    "longitude": 44.041414018865034,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_55",
+    "title": "مستشفى الطوارئ",
+    "address": {
+      "en": "مستشفى الطوارئ"
+    },
+    "latitude": 36.19960992709922,
+    "longitude": 43.99808606729104,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_56",
+    "title": "محطة فرع بيشاسازى 11",
+    "address": {
+      "en": "محطة فرع بيشاسازى 11"
+    },
+    "latitude": 36.223902666472554,
+    "longitude": 44.05424598286986,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_57",
+    "title": "واو تاوەر",
+    "address": {
+      "en": "واو تاوەر"
+    },
+    "latitude": 36.17280647689859,
+    "longitude": 43.96212781740406,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_58",
+    "title": "زانياري  بارک ",
+    "address": {
+      "en": "زانياري  بارک "
+    },
+    "latitude": 36.179189955106615,
+    "longitude": 44.00824949740681,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_59",
+    "title": "سورك بنك",
+    "address": {
+      "en": "سورك بنك"
+    },
+    "latitude": 36.398272727919185,
+    "longitude": 44.32908130138597,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_60",
+    "title": "مديرية صحة اربيل",
+    "address": {
+      "en": "مديرية صحة اربيل"
+    },
+    "latitude": 36.19227911786361,
+    "longitude": 44.003651741824925,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_61",
+    "title": "هولير مول",
+    "address": {
+      "en": "هولير مول"
+    },
+    "latitude": 36.196770834071195,
+    "longitude": 44.016319236582405,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_62",
+    "title": "مديرية الاستثمار ",
+    "address": {
+      "en": "مديرية الاستثمار "
+    },
+    "latitude": 36.19321019219106,
+    "longitude": 44.02638978206865,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_63",
+    "title": "مطعم هولير",
+    "address": {
+      "en": "مطعم هولير"
+    },
+    "latitude": 36.20533623,
+    "longitude": 43.99995981,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_64",
+    "title": "قوشتبة",
+    "address": {
+      "en": "قوشتبة"
+    },
+    "latitude": 36.0041565794165,
+    "longitude": 44.037328712554604,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_65",
+    "title": "كوي ",
+    "address": {
+      "en": "كوي "
+    },
+    "latitude": 36.08192755600066,
+    "longitude": 44.628964583831745,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_66",
+    "title": "شو ماركت/ مصيف صلاح الدين",
+    "address": {
+      "en": "شو ماركت/ مصيف صلاح الدين"
+    },
+    "latitude": 36.262094711296626,
+    "longitude": 44.08973928635255,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_67",
+    "title": "كنجان سيتي ",
+    "address": {
+      "en": "كنجان سيتي "
+    },
+    "latitude": 36.29268420601479,
+    "longitude": 44.03355556006566,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_68",
+    "title": " سوران",
+    "address": {
+      "en": " سوران"
+    },
+    "latitude": 36.6376589272706,
+    "longitude": 44.55869999066027,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_69",
+    "title": "خليفان",
+    "address": {
+      "en": "خليفان"
+    },
+    "latitude": 36.60401761535458,
+    "longitude": 44.40056179504314,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_70",
+    "title": "حرير",
+    "address": {
+      "en": "حرير"
+    },
+    "latitude": 36.548964436858974,
+    "longitude": 44.35195893249198,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_71",
+    "title": "سوران",
+    "address": {
+      "en": "سوران"
+    },
+    "latitude": 36.65191296375531,
+    "longitude": 44.533841490109516,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_72",
+    "title": "روفيا",
+    "address": {
+      "en": "روفيا"
+    },
+    "latitude": 36.61857948128348,
+    "longitude": 43.70246496268476,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_73",
+    "title": "رواندوز",
+    "address": {
+      "en": "رواندوز"
+    },
+    "latitude": 36.61962055959003,
+    "longitude": 44.53325075254256,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_74",
+    "title": "Mergasur",
+    "address": {
+      "en": "Mergasur"
+    },
+    "latitude": 36.85155508626541,
+    "longitude": 44.29391378085979,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_75",
+    "title": "ديلزيا",
+    "address": {
+      "en": "ديلزيا"
+    },
+    "latitude": 36.69525474259728,
+    "longitude": 44.53065692482459,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_76",
+    "title": "كورد نفط /مقابل القرية اللبنانية",
+    "address": {
+      "en": "كورد نفط /مقابل القرية اللبنانية"
+    },
+    "latitude": 36.261950025325675,
+    "longitude": 44.01476092358303,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_77",
+    "title": "مستشفى نانكلي",
+    "address": {
+      "en": "مستشفى نانكلي"
+    },
+    "latitude": 36.16444274972246,
+    "longitude": 44.00992019623291,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_78",
+    "title": "بلدية بحركة ",
+    "address": {
+      "en": "بلدية بحركة "
+    },
+    "latitude": 36.31542148748969,
+    "longitude": 44.03276338580377,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_79",
+    "title": "كورد نفط / مقابل فاملي مول",
+    "address": {
+      "en": "كورد نفط / مقابل فاملي مول"
+    },
+    "latitude": 36.20882124741754,
+    "longitude": 44.043879850301686,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_80",
+    "title": "لايف تاور",
+    "address": {
+      "en": "لايف تاور"
+    },
+    "latitude": 36.18174796716854,
+    "longitude": 43.95111134132292,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_81",
+    "title": "كوالتي كونترول",
+    "address": {
+      "en": "كوالتي كونترول"
+    },
+    "latitude": 36.16237876504773,
+    "longitude": 43.96882640324062,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_82",
+    "title": "بلدية عنكاوا",
+    "address": {
+      "en": "بلدية عنكاوا"
+    },
+    "latitude": 36.240281411722115,
+    "longitude": 43.98727707367573,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_83",
+    "title": "بلي",
+    "address": {
+      "en": "بلي"
+    },
+    "latitude": 36.86816283,
+    "longitude": 44.06173886,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_84",
+    "title": "مصيف، صلاح الدين",
+    "address": {
+      "en": "مصيف، صلاح الدين"
+    },
+    "latitude": 36.381407,
+    "longitude": 44.20124,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_85",
+    "title": "مصرف الجامعة",
+    "address": {
+      "en": "مصرف الجامعة"
+    },
+    "latitude": 36.14164804142133,
+    "longitude": 44.020214731061394,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_86",
+    "title": "هەولێر، ١٠٠ م، تەنیشت بانکی زانکۆ",
+    "address": {
+      "en": "هەولێر، ١٠٠ م، تەنیشت بانکی زانکۆ"
+    },
+    "latitude": 36.140639,
+    "longitude": 44.020361,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_87",
+    "title": "شەقڵاوە -بەردەم پەروەردەی شەقڵاوە",
+    "address": {
+      "en": "شەقڵاوە -بەردەم پەروەردەی شەقڵاوە"
+    },
+    "latitude": 36.409912,
+    "longitude": 44.311609,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_88",
+    "title": "خەبات - بەردەم قایمقامیەتی خەبات",
+    "address": {
+      "en": "خەبات - بەردەم قایمقامیەتی خەبات"
+    },
+    "latitude": 36.268443,
+    "longitude": 43.662053,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_89",
+    "title": "هەولێر، شەقامی منارە، بەردەم ئەنجومەنی پارێزگای هەولێر",
+    "address": {
+      "en": "هەولێر، شەقامی منارە، بەردەم ئەنجومەنی پارێزگای هەولێر"
+    },
+    "latitude": 36.186225,
+    "longitude": 43.996817,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_90",
+    "title": "هەولێر، ٣٠ م، نزیک زانکۆی کوردستان",
+    "address": {
+      "en": "هەولێر، ٣٠ م، نزیک زانکۆی کوردستان"
+    },
+    "latitude": 36.179463,
+    "longitude": 44.008215,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_91",
+    "title": "هەولێر، شەقامی نەورۆز، خوار نەخۆشخانەی پاکی",
+    "address": {
+      "en": "هەولێر، شەقامی نەورۆز، خوار نەخۆشخانەی پاکی"
+    },
+    "latitude": 36.172011,
+    "longitude": 43.980704,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_92",
+    "title": "هەولێر، ١٠٠ م، بەردەم بانکی قەڵات",
+    "address": {
+      "en": "هەولێر، ١٠٠ م، بەردەم بانکی قەڵات"
+    },
+    "latitude": 36.162326,
+    "longitude": 43.968797,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_93",
+    "title": "هەولێر، خوار پاڕکی شار، بەرامبەر بازاڕی نیشتیمان",
+    "address": {
+      "en": "هەولێر، خوار پاڕکی شار، بەرامبەر بازاڕی نیشتیمان"
+    },
+    "latitude": 36.185488,
+    "longitude": 44.011008,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_94",
+    "title": "هەولێر، ٦٠ م، بەردەم وەزارەتی بازرگانی و پیشەسازی",
+    "address": {
+      "en": "هەولێر، ٦٠ م، بەردەم وەزارەتی بازرگانی و پیشەسازی"
+    },
+    "latitude": 36.197011,
+    "longitude": 44.024568,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_95",
+    "title": "بەردەم بانکی بنسلاوە",
+    "address": {
+      "en": "بەردەم بانکی بنسلاوە"
+    },
+    "latitude": 36.158894,
+    "longitude": 44.125065,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_96",
+    "title": "هەولێر، بەحرکە، خوار مزگەوتی ڕەشید گەردی",
+    "address": {
+      "en": "هەولێر، بەحرکە، خوار مزگەوتی ڕەشید گەردی"
+    },
+    "latitude": 36.315413,
+    "longitude": 44.032767,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_97",
+    "title": "هەولێر، ڕێگای کەسنەزان، بەرامبەر ماجیدی لاند",
+    "address": {
+      "en": "هەولێر، ڕێگای کەسنەزان، بەرامبەر ماجیدی لاند"
+    },
+    "latitude": 36.208724,
+    "longitude": 44.139518,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_98",
+    "title": "هەولێر، ڕێگای موسڵ-هەولێر، نزیک دادگای تێهەڵچوونەوە",
+    "address": {
+      "en": "هەولێر، ڕێگای موسڵ-هەولێر، نزیک دادگای تێهەڵچوونەوە"
+    },
+    "latitude": 36.184333,
+    "longitude": 43.983298,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_99",
+    "title": "هەولێر، ٦٠ م، بەردەم نەخۆشخانەی ئیمێرجنسی",
+    "address": {
+      "en": "هەولێر، ٦٠ م، بەردەم نەخۆشخانەی ئیمێرجنسی"
+    },
+    "latitude": 36.199864,
+    "longitude": 43.998103,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_100",
+    "title": "هەولێر، پشت وەزارەتی پێشمەرگە",
+    "address": {
+      "en": "هەولێر، پشت وەزارەتی پێشمەرگە"
+    },
+    "latitude": 36.224065,
+    "longitude": 44.054361,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_101",
+    "title": "سۆران - بەردەم نەخۆشخانەی لەدایکبوون",
+    "address": {
+      "en": "سۆران - بەردەم نەخۆشخانەی لەدایکبوون"
+    },
+    "latitude": 36.63757,
+    "longitude": 44.558545,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_102",
+    "title": "قوشتەپە - پشت بانکی قوشتەپە",
+    "address": {
+      "en": "قوشتەپە - پشت بانکی قوشتەپە"
+    },
+    "latitude": 36.004982,
+    "longitude": 44.038091,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_103",
+    "title": "کۆیە- بەردەم بانکی باوەجی",
+    "address": {
+      "en": "کۆیە- بەردەم بانکی باوەجی"
+    },
+    "latitude": 36.082249,
+    "longitude": 44.628393,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_104",
+    "title": "خەلیفان-بەردەم  بنکەی ئاگرکوژێنەوەی خەلیفان",
+    "address": {
+      "en": "خەلیفان-بەردەم  بنکەی ئاگرکوژێنەوەی خەلیفان"
+    },
+    "latitude": 36.604243,
+    "longitude": 44.400573,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_105",
+    "title": "تەق تەق - بەردەم بانکی تەق تەق",
+    "address": {
+      "en": "تەق تەق - بەردەم بانکی تەق تەق"
+    },
+    "latitude": 35.885781,
+    "longitude": 44.589217,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_106",
+    "title": "هەریر- بەردەم بانکی هەریر",
+    "address": {
+      "en": "هەریر- بەردەم بانکی هەریر"
+    },
+    "latitude": 36.54897,
+    "longitude": 44.351746,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_107",
+    "title": "چۆمان- نزیک پارکی قائیمقام",
+    "address": {
+      "en": "چۆمان- نزیک پارکی قائیمقام"
+    },
+    "latitude": 36.63189,
+    "longitude": 44.884451,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_108",
+    "title": "کۆیە - بەردەم  بانکی کۆیە",
+    "address": {
+      "en": "کۆیە - بەردەم  بانکی کۆیە"
+    },
+    "latitude": 36.092083,
+    "longitude": 44.639102,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_109",
+    "title": "رەواندز - نزیک قایمقامیەتی رەواندز",
+    "address": {
+      "en": "رەواندز - نزیک قایمقامیەتی رەواندز"
+    },
+    "latitude": 36.619854,
+    "longitude": 44.533141,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_110",
+    "title": "مێرگەسۆر- نزیک وێستگەی کارەبای مێرگەسۆر",
+    "address": {
+      "en": "مێرگەسۆر- نزیک وێستگەی کارەبای مێرگەسۆر"
+    },
+    "latitude": 36.851543,
+    "longitude": 44.293915,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_111",
+    "title": "سۆران - بەردەم بانکی ئازادی",
+    "address": {
+      "en": "سۆران - بەردەم بانکی ئازادی"
+    },
+    "latitude": 36.652008,
+    "longitude": 44.534052,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_112",
+    "title": "سۆران، دێلزیا- بەردەم کۆلێژی تەکنیکی سۆران",
+    "address": {
+      "en": "سۆران، دێلزیا- بەردەم کۆلێژی تەکنیکی سۆران"
+    },
+    "latitude": 36.695411,
+    "longitude": 44.530562,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_113",
+    "title": "رێگای گوێر، بەردەم کۆمپانیای هیۆندای",
+    "address": {
+      "en": "رێگای گوێر، بەردەم کۆمپانیای هیۆندای"
+    },
+    "latitude": 36.175975,
+    "longitude": 43.941569,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_114",
+    "title": "سۆران - ئازادی - نزیک مزگەوتی سبغة اللە",
+    "address": {
+      "en": "سۆران - ئازادی - نزیک مزگەوتی سبغة اللە"
+    },
+    "latitude": 36.678207,
+    "longitude": 44.536593,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_115",
+    "title": "چۆمان - بەرامبەر بانکی چۆمان",
+    "address": {
+      "en": "چۆمان - بەرامبەر بانکی چۆمان"
+    },
+    "latitude": 36.637147,
+    "longitude": 44.889606,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_116",
+    "title": "سۆران - نزیک کەبابخانەی مام دەروێش",
+    "address": {
+      "en": "سۆران - نزیک کەبابخانەی مام دەروێش"
+    },
+    "latitude": 36.65175,
+    "longitude": 44.55008,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_117",
+    "title": "پیرمام - شەقامی گولان - نزیک پارک",
+    "address": {
+      "en": "پیرمام - شەقامی گولان - نزیک پارک"
+    },
+    "latitude": 36.392915,
+    "longitude": 44.187564,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_118",
+    "title": "هەولێر، زانکۆ، بەردەم سەرۆکایەتی زانکۆی سەڵاحەدین",
+    "address": {
+      "en": "هەولێر، زانکۆ، بەردەم سەرۆکایەتی زانکۆی سەڵاحەدین"
+    },
+    "latitude": 36.148396,
+    "longitude": 44.030963,
+    "map_link": "",
+    "type": "ATM"
+  }
+]

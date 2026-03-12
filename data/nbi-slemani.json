@@ -1,253 +1,211 @@
-{
-  "Result": {
-    "Locations": [
-      {
-        "LocationName": "بناية فاروق القابضة -السليمانية",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3245.6941807103904!2d45.41019751075262!3d35.56125433644221!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzXCsDMzJzQwLjUiTiA0NcKwMjQnNDYuMCJF!5e0!3m2!1sen!2sjo!4v1700752411811!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "شركة IQ ",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3246.013234581129!2d45.38008271075231!3d35.5533753368738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzXCsDMzJzEyLjEiTiA0NcKwMjInNTcuNiJF!5e0!3m2!1sen!2sjo!4v1700752919454!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف المبنى الرئيسي اسياسيل 1 - السليمانية ",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "الأحد - الخميس",
-        "NormalTimings": "8:30 صباحاً - 2:00 مساءً",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3245.639006649015!2d45.3904946!3d35.5626167!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDMzJzUzLjkiTiA0NcKwMjMnNTMuNCJF!5e0!3m2!1sen!2sjo!4v1624277080452!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف المبنى الرئيسي اسياسيل 2 - السليمانية ",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "الأحد - الخميس",
-        "NormalTimings": "8:300 صباحاً - 2:00 مساءً",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3245.639006649015!2d45.3904946!3d35.5626167!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDMzJzUzLjkiTiA0NcKwMjMnNTMuNCJF!5e0!3m2!1sen!2sjo!4v1624277152551!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف المبنى الرئيسي اسياسيل 3 - السليمانية ",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "الأحد - الخميس",
-        "NormalTimings": "8:30 صباحاً - 2:00 مساءً",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3245.639006649015!2d45.3904946!3d35.5626167!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDMzJzUzLjkiTiA0NcKwMjMnNTMuNCJF!5e0!3m2!1sen!2sjo!4v1624277223888!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف آلي فندق كراند ميلينيوم",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "الأحد - الخميس",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3245.3442398793964!2d45.410048685398365!3d35.569894343678726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8fc8353646b99210!2zMzXCsDM0JzExLjYiTiA0NcKwMjQnMjguMyJF!5e0!3m2!1sar!2sjo!4v1656236672310!5m2!1sar!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف بناية فاروق القابضة ",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "الأحد - الخميس",
-        "NormalTimings": "8:00 صباحاً - 2:00 مساءً",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3245.543607444696!2d45.395978!3d35.5649722!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDMzJzQwLjUiTiA0NcKwMjQnNDYuMCJF!5e0!3m2!1sen!2sjo!4v1624277270356!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف ستي ستار مول",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "الأحد - الخميس",
-        "NormalTimings": "8:00 صباحاً - 2:00 مساءً",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3245.8202462048152!2d45.42962868537109!3d35.55814134432139!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x55f71542ee095131!2zMzXCsDMzJzI5LjMiTiA0NcKwMjUnMzguOCJF!5e0!3m2!1sar!2sjo!4v1669900828486!5m2!1sar!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف سيتي سنتر مول",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "الأحد - الخميس",
-        "NormalTimings": "8:30 صباحاً - 2:00 مساءً",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3245.254812712996!2d45.389869999999995!3d35.572102!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDM0JzE5LjYiTiA0NcKwMjMnMjMuNSJF!5e0!3m2!1sen!2sjo!4v1629204268406!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف شركة بايونير 1",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "الأحد - الخميس",
-        "NormalTimings": "8:00 صباحاً - 2:00 مساءً",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3247.428117333632!2d45.45236691525429!3d35.51841668023248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDMxJzA2LjMiTiA0NcKwMjcnMTYuNCJF!5e0!3m2!1sen!2sjo!4v1626007887982!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف فاميلي مول سليمانية",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "الأحد - الخميس",
-        "NormalTimings": "8:00 صباحاً - 2:00 مساءً",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3246.5046733295553!2d45.43022268537137!3d35.541236345245636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa93cf0400904e0ac!2zMzXCsDMyJzI4LjQiTiA0NcKwMjUnNDAuOSJF!5e0!3m2!1sar!2sjo!4v1669900003694!5m2!1sar!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف فرع السليمانية",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "الأحد - الخميس",
-        "NormalTimings": "8:00 صباحاً - 2:00 مساءً",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3245.557107434712!2d45.399644615255774!3d35.56463888022161!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDMzJzUyLjciTiA0NcKwMjQnMDYuNiJF!5e0!3m2!1sen!2sjo!4v1624274592376!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف فرع سالم 1",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "الأحد - الخميس",
-        "NormalTimings": "8:30 صباحاً - 2:00 مساءً",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3245.4937026716225!2d45.39661868539848!3d35.56620434388056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDMzJzU4LjMiTiA0NcKwMjMnNDAuMCJF!5e0!3m2!1sar!2sjo!4v1629023384459!5m2!1sar!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف فرع سالم 2",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3245.4937026716225!2d45.39661868539848!3d35.56620434388056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDMzJzU4LjMiTiA0NcKwMjMnNDAuMCJF!5e0!3m2!1sar!2sjo!4v1629023384459!5m2!1sar!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف فرع سالم 3",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3245.4937026716225!2d45.39661868539848!3d35.56620434388056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDMzJzU4LjMiTiA0NcKwMjMnNDAuMCJF!5e0!3m2!1sar!2sjo!4v1629023384459!5m2!1sar!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "ماجدي مول سليمانية",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "الأحد - الخميس",
-        "NormalTimings": "8:00 صباحاً - 2:00 مساءً",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3245.489602291054!2d45.369783515255655!3d35.56630558022124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDMzJzU4LjciTiA0NcKwMjInMTkuMSJF!5e0!3m2!1sen!2sjo!4v1626008324324!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "مدينة فاروق الطبية",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3246.155956793058!2d45.46337371075215!3d35.549850337066815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzXCsDMyJzU5LjUiTiA0NcKwMjcnNTcuNCJF!5e0!3m2!1sen!2sjo!4v1700752513251!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "مدينة فاروق الطبية دولار",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3246.155956793058!2d45.46337371075215!3d35.549850337066815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzXCsDMyJzU5LjUiTiA0NcKwMjcnNTcuNCJF!5e0!3m2!1sen!2sjo!4v1700752580378!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "مطار سليمانية الدولي",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3245.750447821552!2d45.32299031075249!3d35.559864936518444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzXCsDMzJzM1LjUiTiA0NcKwMTknMzIuMSJF!5e0!3m2!1sen!2sjo!4v1700756664698!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      }
-    ]
+[
+  {
+    "id": "ATM_1",
+    "title": "بناية فاروق القابضة -السليمانية",
+    "address": {
+      "en": "بناية فاروق القابضة -السليمانية"
+    },
+    "latitude": 35.56125433644221,
+    "longitude": 45.41019751075262,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3245.6941807103904!2d45.41019751075262!3d35.56125433644221!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzXCsDMzJzQwLjUiTiA0NcKwMjQnNDYuMCJF!5e0!3m2!1sen!2sjo!4v1700752411811!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_2",
+    "title": "شركة IQ",
+    "address": {
+      "en": "شركة IQ"
+    },
+    "latitude": 35.5533753368738,
+    "longitude": 45.38008271075231,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3246.013234581129!2d45.38008271075231!3d35.5533753368738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzXCsDMzJzEyLjEiTiA0NcKwMjInNTcuNiJF!5e0!3m2!1sen!2sjo!4v1700752919454!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_3",
+    "title": "صراف المبنى الرئيسي اسياسيل 1 - السليمانية",
+    "address": {
+      "en": "صراف المبنى الرئيسي اسياسيل 1 - السليمانية"
+    },
+    "latitude": 35.5626167,
+    "longitude": 45.3904946,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3245.639006649015!2d45.3904946!3d35.5626167!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDMzJzUzLjkiTiA0NcKwMjMnNTMuNCJF!5e0!3m2!1sen!2sjo!4v1624277080452!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_4",
+    "title": "صراف المبنى الرئيسي اسياسيل 2 - السليمانية",
+    "address": {
+      "en": "صراف المبنى الرئيسي اسياسيل 2 - السليمانية"
+    },
+    "latitude": 35.5626167,
+    "longitude": 45.3904946,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3245.639006649015!2d45.3904946!3d35.5626167!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDMzJzUzLjkiTiA0NcKwMjMnNTMuNCJF!5e0!3m2!1sen!2sjo!4v1624277152551!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_5",
+    "title": "صراف المبنى الرئيسي اسياسيل 3 - السليمانية",
+    "address": {
+      "en": "صراف المبنى الرئيسي اسياسيل 3 - السليمانية"
+    },
+    "latitude": 35.5626167,
+    "longitude": 45.3904946,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3245.639006649015!2d45.3904946!3d35.5626167!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDMzJzUzLjkiTiA0NcKwMjMnNTMuNCJF!5e0!3m2!1sen!2sjo!4v1624277223888!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_6",
+    "title": "صراف آلي فندق كراند ميلينيوم",
+    "address": {
+      "en": "صراف آلي فندق كراند ميلينيوم"
+    },
+    "latitude": 35.569894343678726,
+    "longitude": 45.410048685398365,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3245.3442398793964!2d45.410048685398365!3d35.569894343678726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8fc8353646b99210!2zMzXCsDM0JzExLjYiTiA0NcKwMjQnMjguMyJF!5e0!3m2!1sar!2sjo!4v1656236672310!5m2!1sar!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_7",
+    "title": "صراف بناية فاروق القابضة",
+    "address": {
+      "en": "صراف بناية فاروق القابضة"
+    },
+    "latitude": 35.5649722,
+    "longitude": 45.395978,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3245.543607444696!2d45.395978!3d35.5649722!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDMzJzQwLjUiTiA0NcKwMjQnNDYuMCJF!5e0!3m2!1sen!2sjo!4v1624277270356!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_8",
+    "title": "صراف ستي ستار مول",
+    "address": {
+      "en": "صراف ستي ستار مول"
+    },
+    "latitude": 35.55814134432139,
+    "longitude": 45.42962868537109,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3245.8202462048152!2d45.42962868537109!3d35.55814134432139!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x55f71542ee095131!2zMzXCsDMzJzI5LjMiTiA0NcKwMjUnMzguOCJF!5e0!3m2!1sar!2sjo!4v1669900828486!5m2!1sar!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_9",
+    "title": "صراف سيتي سنتر مول",
+    "address": {
+      "en": "صراف سيتي سنتر مول"
+    },
+    "latitude": 35.572102,
+    "longitude": 45.389869999999995,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3245.254812712996!2d45.389869999999995!3d35.572102!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDM0JzE5LjYiTiA0NcKwMjMnMjMuNSJF!5e0!3m2!1sen!2sjo!4v1629204268406!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_10",
+    "title": "صراف شركة بايونير 1",
+    "address": {
+      "en": "صراف شركة بايونير 1"
+    },
+    "latitude": 35.51841668023248,
+    "longitude": 45.45236691525429,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3247.428117333632!2d45.45236691525429!3d35.51841668023248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDMxJzA2LjMiTiA0NcKwMjcnMTYuNCJF!5e0!3m2!1sen!2sjo!4v1626007887982!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_11",
+    "title": "صراف فاميلي مول سليمانية",
+    "address": {
+      "en": "صراف فاميلي مول سليمانية"
+    },
+    "latitude": 35.541236345245636,
+    "longitude": 45.43022268537137,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3246.5046733295553!2d45.43022268537137!3d35.541236345245636!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa93cf0400904e0ac!2zMzXCsDMyJzI4LjQiTiA0NcKwMjUnNDAuOSJF!5e0!3m2!1sar!2sjo!4v1669900003694!5m2!1sar!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_12",
+    "title": "صراف فرع السليمانية",
+    "address": {
+      "en": "صراف فرع السليمانية"
+    },
+    "latitude": 35.56463888022161,
+    "longitude": 45.399644615255774,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3245.557107434712!2d45.399644615255774!3d35.56463888022161!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDMzJzUyLjciTiA0NcKwMjQnMDYuNiJF!5e0!3m2!1sen!2sjo!4v1624274592376!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_13",
+    "title": "صراف فرع سالم 1",
+    "address": {
+      "en": "صراف فرع سالم 1"
+    },
+    "latitude": 35.56620434388056,
+    "longitude": 45.39661868539848,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3245.4937026716225!2d45.39661868539848!3d35.56620434388056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDMzJzU4LjMiTiA0NcKwMjMnNDAuMCJF!5e0!3m2!1sar!2sjo!4v1629023384459!5m2!1sar!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_14",
+    "title": "صراف فرع سالم 2",
+    "address": {
+      "en": "صراف فرع سالم 2"
+    },
+    "latitude": 35.56620434388056,
+    "longitude": 45.39661868539848,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3245.4937026716225!2d45.39661868539848!3d35.56620434388056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDMzJzU4LjMiTiA0NcKwMjMnNDAuMCJF!5e0!3m2!1sar!2sjo!4v1629023384459!5m2!1sar!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_15",
+    "title": "صراف فرع سالم 3",
+    "address": {
+      "en": "صراف فرع سالم 3"
+    },
+    "latitude": 35.56620434388056,
+    "longitude": 45.39661868539848,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3245.4937026716225!2d45.39661868539848!3d35.56620434388056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDMzJzU4LjMiTiA0NcKwMjMnNDAuMCJF!5e0!3m2!1sar!2sjo!4v1629023384459!5m2!1sar!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_16",
+    "title": "ماجدي مول سليمانية",
+    "address": {
+      "en": "ماجدي مول سليمانية"
+    },
+    "latitude": 35.56630558022124,
+    "longitude": 45.369783515255655,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3245.489602291054!2d45.369783515255655!3d35.56630558022124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDMzJzU4LjciTiA0NcKwMjInMTkuMSJF!5e0!3m2!1sen!2sjo!4v1626008324324!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_17",
+    "title": "مدينة فاروق الطبية",
+    "address": {
+      "en": "مدينة فاروق الطبية"
+    },
+    "latitude": 35.549850337066815,
+    "longitude": 45.46337371075215,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3246.155956793058!2d45.46337371075215!3d35.549850337066815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzXCsDMyJzU5LjUiTiA0NcKwMjcnNTcuNCJF!5e0!3m2!1sen!2sjo!4v1700752513251!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_18",
+    "title": "مدينة فاروق الطبية دولار",
+    "address": {
+      "en": "مدينة فاروق الطبية دولار"
+    },
+    "latitude": 35.549850337066815,
+    "longitude": 45.46337371075215,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3246.155956793058!2d45.46337371075215!3d35.549850337066815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzXCsDMyJzU5LjUiTiA0NcKwMjcnNTcuNCJF!5e0!3m2!1sen!2sjo!4v1700752580378!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_19",
+    "title": "مطار سليمانية الدولي",
+    "address": {
+      "en": "مطار سليمانية الدولي"
+    },
+    "latitude": 35.559864936518444,
+    "longitude": 45.32299031075249,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3245.750447821552!2d45.32299031075249!3d35.559864936518444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzXCsDMzJzM1LjUiTiA0NcKwMTknMzIuMSJF!5e0!3m2!1sen!2sjo!4v1700756664698!5m2!1sen!2sjo",
+    "type": "Branch"
   }
-}
+]

@@ -1,19 +1,13 @@
-{
-  "Result": {
-    "Locations": [
-      {
-        "LocationName": "فرع كركوك دينار",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3250.9037056034244!2d44.360919710746494!3d35.432415343489154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzXCsDI1JzU2LjciTiA0NMKwMjEnNDguNiJF!5e0!3m2!1sen!2sjo!4v1700753969723!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      }
-    ]
+[
+  {
+    "id": "ATM_1",
+    "title": "فرع كركوك دينار",
+    "address": {
+      "en": "فرع كركوك دينار"
+    },
+    "latitude": 35.432415343489154,
+    "longitude": 44.360919710746494,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3250.9037056034244!2d44.360919710746494!3d35.432415343489154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzXCsDI1JzU2LjciTiA0NMKwMjEnNDguNiJF!5e0!3m2!1sen!2sjo!4v1700753969723!5m2!1sen!2sjo",
+    "type": "Branch"
   }
-}
+]

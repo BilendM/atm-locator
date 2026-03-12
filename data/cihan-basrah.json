@@ -1,15 +1,15 @@
-{
-  "Basrah": {
-    "ATM_1": {
-      "address": {
-        "en": "Al-Jazair District - Al-Jazair Street",
-        "ar": "فرع البصرة حي الجزائر - شارع الجزائر",
-        "ku": "گەڕەکی الجزائر - شەقامی الجزائر"
-      },
-      "map_link": "https://maps.app.goo.gl/MYiSaab1Z7mLpvTd7",
-      "lat": 30.501082,
-      "lng": 47.83232,
-      "quantity": 1
-    }
+[
+  {
+    "id": "ATM_1",
+    "title": "Al-Jazair District - Al-Jazair Street",
+    "address": {
+      "en": "Al-Jazair District - Al-Jazair Street",
+      "ar": "فرع البصرة حي الجزائر - شارع الجزائر",
+      "ku": "گەڕەکی الجزائر - شەقامی الجزائر"
+    },
+    "latitude": 30.501082,
+    "longitude": 47.83232,
+    "map_link": "https://maps.app.goo.gl/MYiSaab1Z7mLpvTd7",
+    "type": "ATM"
   }
-}
+]

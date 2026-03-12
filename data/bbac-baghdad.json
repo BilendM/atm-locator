@@ -1,76 +1,90 @@
-{
-  "Baghdad": {
-    "ATM_16": {
-      "address": {
-        "en": "Al Karrada Area, Al Arasat Street, BBAC Building"
-      },
-      "lat": 33.2951635,
-      "lng": 44.4289513,
-      "title": "Baghdad",
-      "type": "branch"
+[
+  {
+    "id": "ATM_16",
+    "title": "Al Karrada Area, Al Arasat Street, BBAC Building",
+    "address": {
+      "en": "Al Karrada Area, Al Arasat Street, BBAC Building"
     },
-    "ATM_54": {
-      "address": {
-        "en": "Baghdad, Al Jadrieh, Al Jamia Street, Opposite Coral Baghdad Hotel (ATM 24/7)"
-      },
-      "lat": 33.28341711995275,
-      "lng": 44.393861148884454,
-      "title": "Baghdad - Al Jadrieh Mall",
-      "type": "ATM"
+    "latitude": 33.2951635,
+    "longitude": 44.4289513,
+    "map_link": "",
+    "type": "branch"
+  },
+  {
+    "id": "ATM_54",
+    "title": "Baghdad, Al Jadrieh, Al Jamia Street, Opposite Coral Baghdad Hotel (ATM 24/7)",
+    "address": {
+      "en": "Baghdad, Al Jadrieh, Al Jamia Street, Opposite Coral Baghdad Hotel (ATM 24/7)"
     },
-    "ATM_53": {
-      "address": {
-        "en": "Al Warda Hypermarket,Al Waseq Street, Karrada District, Baghdad"
-      },
-      "lat": 33.3093560845806,
-      "lng": 44.4287203284332,
-      "title": "Baghdad - Warda Hypermarket",
-      "type": "ATM"
+    "latitude": 33.28341711995275,
+    "longitude": 44.393861148884454,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_53",
+    "title": "Al Warda Hypermarket,Al Waseq Street, Karrada District, Baghdad",
+    "address": {
+      "en": "Al Warda Hypermarket,Al Waseq Street, Karrada District, Baghdad"
     },
-    "ATM_2": {
-      "address": {
-        "en": "Al Karrada Area, Al Arasat Street, BBAC Building"
-      },
-      "lat": 33.2952216740767,
-      "lng": 44.4311474014828,
-      "title": "Baghdad Branch (ATM 24/7)",
-      "type": "ATM"
+    "latitude": 33.3093560845806,
+    "longitude": 44.4287203284332,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_2",
+    "title": "Al Karrada Area, Al Arasat Street, BBAC Building",
+    "address": {
+      "en": "Al Karrada Area, Al Arasat Street, BBAC Building"
     },
-    "ATM_48": {
-      "address": {
-        "en": "Al Mansour Street, Al Mansour - Baghdad"
-      },
-      "lat": 33.31789,
-      "lng": 44.34594,
-      "title": "Baghdad, Babylon Mall",
-      "type": "ATM"
+    "latitude": 33.2952216740767,
+    "longitude": 44.4311474014828,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_48",
+    "title": "Al Mansour Street, Al Mansour - Baghdad",
+    "address": {
+      "en": "Al Mansour Street, Al Mansour - Baghdad"
     },
-    "ATM_60": {
-      "address": {
-        "en": "Dream City Mall, Rabihi Street (ATM, 24/7)"
-      },
-      "lat": 33.3185743615073,
-      "lng": 44.4452145697216,
-      "title": "Baghdad, Dream City Mall",
-      "type": "ATM"
+    "latitude": 33.31789,
+    "longitude": 44.34594,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_60",
+    "title": "Dream City Mall, Rabihi Street (ATM, 24/7)",
+    "address": {
+      "en": "Dream City Mall, Rabihi Street (ATM, 24/7)"
     },
-    "ATM_59": {
-      "address": {
-        "en": "Karadah - alarasat street (ATM 24/7)"
-      },
-      "lat": 33.2952216740767,
-      "lng": 44.4311474014828,
-      "title": "Baghdad, Karadah - alarasat street",
-      "type": "ATM"
+    "latitude": 33.3185743615073,
+    "longitude": 44.4452145697216,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_59",
+    "title": "Karadah - alarasat street (ATM 24/7)",
+    "address": {
+      "en": "Karadah - alarasat street (ATM 24/7)"
     },
-    "ATM_61": {
-      "address": {
-        "en": "Yarmouk Hotel (ATM 24/7)"
-      },
-      "lat": 33.3003526556542,
-      "lng": 44.3425687602304,
-      "title": "Baghdad, Yarmouk Hotel",
-      "type": "ATM"
-    }
+    "latitude": 33.2952216740767,
+    "longitude": 44.4311474014828,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_61",
+    "title": "Yarmouk Hotel (ATM 24/7)",
+    "address": {
+      "en": "Yarmouk Hotel (ATM 24/7)"
+    },
+    "latitude": 33.3003526556542,
+    "longitude": 44.3425687602304,
+    "map_link": "",
+    "type": "ATM"
   }
-}
+]

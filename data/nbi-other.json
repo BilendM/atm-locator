@@ -1,526 +1,442 @@
-{
-  "Result": {
-    "Locations": [
-      {
-        "LocationName": " شركة كوكا كولا - الواحة",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3368.5804510578732!2d44.48960971061075!3d32.403606502867355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDI0JzEzLjAiTiA0NMKwMjknMzEuOSJF!5e0!3m2!1sen!2sjo!4v1700751602129!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "بيترو ويلد ",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3204.787711262394!2d43.63203671080022!3d36.55923128113153!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDMzJzMzLjIiTiA0M8KwMzgnMDQuNiJF!5e0!3m2!1sen!2sjo!4v1700755696146!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "شركة ربان السفينة ",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3379.322178875745!2d44.32172101059844!3d32.114600317435944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDA2JzUyLjUiTiA0NMKwMTknMjcuNSJF!5e0!3m2!1sen!2sjo!4v1700756520103!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "شركة كار كروب - محطة الاستخراج",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3228.7304365976656!2d43.76053471077235!3d35.978015313500116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzXCsDU4JzQwLjgiTiA0M8KwNDUnNDcuMiJF!5e0!3m2!1sen!2sjo!4v1700753363704!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "شركة كار كروب - محطة الكهرباء ",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3229.049211178653!2d43.771843310772006!3d35.97022231393118!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzXCsDU4JzEyLjgiTiA0M8KwNDYnMjcuOSJF!5e0!3m2!1sen!2sjo!4v1700753281280!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف آلي الشركة العامة لأنتاج الطاقة الكهربائية الفرات الوسط  ",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3366.131120283529!2d44.41424507624346!3d32.469184499653075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDI4JzA5LjEiTiA0NMKwMjUnMDAuNiJF!5e0!3m2!1sen!2sjo!4v1734267222211!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف آلي بي دي سي مول",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3365.4068092596385!2d44.43066507624395!3d32.48855449867105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDI5JzE4LjgiTiA0NMKwMjUnNTkuNyJF!5e0!3m2!1sen!2sjo!4v1732534445370!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف آلي شركة توزيع المنتجات النفطية \\ ذي قار",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3419.5820736517667!2d46.26768307461238!3d31.010028572180225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzHCsDAwJzM2LjEiTiA0NsKwMTYnMTIuOSJF!5e0!3m2!1sen!2sjo!4v1737288718429!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف آلي شركة نفط ذي قار",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3416.5777080205894!2d46.30049907461614!3d31.093671568101172!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzHCsDA1JzM3LjIiTiA0NsKwMTgnMTEuMSJF!5e0!3m2!1sen!2sjo!4v1737288737895!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف آلي فرع الحلة 2 ",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3365.914693675199!2d44.42278597447148!3d32.474973399362675!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDI4JzI5LjkiTiA0NMKwMjUnMzEuMyJF!5e0!3m2!1sen!2sjo!4v1719920348386!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف آلي فرع الديوانية",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3383.8409605245247!2d44.893898074657116!3d31.9923265236749!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzHCsDU5JzMyLjQiTiA0NMKwNTMnNDcuMyJF!5e0!3m2!1sen!2sjo!4v1735544372096!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف آلي فرع المثنى",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3408.7255480434!2d45.27962402537408!3d31.311329857441894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzHCsDE4JzQwLjgiTiA0NcKwMTYnMzcuNCJF!5e0!3m2!1sar!2sjo!4v1723969028605!5m2!1sar!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف آلي فرع الناصرية 2  ",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3418.5941379555115!2d46.23587492538644!3d31.037555570838865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzHCsDAyJzE1LjIiTiA0NsKwMTMnNTkuOSJF!5e0!3m2!1sar!2sjo!4v1723716620606!5m2!1sar!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف آلي ماركت A2Z ",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3419.174175234996!2d46.25123907611253!3d31.021396571623782!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzHCsDAxJzE3LjAiTiA0NsKwMTUnMTMuNyJF!5e0!3m2!1sen!2sjo!4v1722928021548!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف آلي مركز الفرات الاوسط للاورام السرطانية",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3381.9699602902942!2d44.36328707465942!3d32.043004521136886!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDAyJzM0LjgiTiA0NMKwMjEnNTcuMSJF!5e0!3m2!1sen!2sjo!4v1735545095105!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف آلي مستشفى الشوملي العام",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3371.4412637789874!2d44.91842507467257!3d32.32686150685664!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDE5JzM2LjciTiA0NMKwNTUnMTUuNiJF!5e0!3m2!1sen!2sjo!4v1735545022024!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف آلي مصفى كار كروب 4",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3214.743851950659!2d43.743399076419344!3d36.31851797238827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDE5JzA2LjciTiA0M8KwNDQnNDUuNSJF!5e0!3m2!1sen!2sjo!4v1719828378646!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف آلي منفذ كويسنجق",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3224.0574602619267!2d44.63652707635625!3d36.09208730729445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDA1JzMxLjUiTiA0NMKwMzgnMjAuOCJF!5e0!3m2!1sen!2sjo!4v1731227644036!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف شركة الواحة للمشروبات الغازية",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "الأحد - الخميس",
-        "NormalTimings": "8:30 صباحاً - 2:00 مساءً",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3360.463726877567!2d44.00303351517804!3d32.62047218101964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzLCsDM3JzEzLjciTiA0NMKwMDAnMTguOCJF!5e0!3m2!1sen!2sjo!4v1624273362926!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف شركة بيروت اربيل ",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3230.9443163511014!2d44.05379068555965!3d35.92386298013843!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xae7320449b8cb702!2zMzXCsDU1JzI1LjkiTiA0NMKwMDMnMDUuOCJF!5e0!3m2!1sar!2sjo!4v1667482504933!5m2!1sar!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف شركة كار ( الأنتاج )",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3228.7574769666644!2d43.76718568535809!3d35.977354321283144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x86933c3db39ad6de!2zMzXCsDU4JzM4LjUiTiA0M8KwNDUnNTQuMCJF!5e0!3m2!1sar!2sjo!4v1667482809691!5m2!1sar!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف فرع الحلة 2",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3365.9148626118917!2d44.42754958568524!3d32.47496888106424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xda83f4b696ddb9d0!2zMzLCsDI4JzI5LjkiTiA0NMKwMjUnMzEuMyJF!5e0!3m2!1sar!2sjo!4v1661430495350!5m2!1sar!2sjo'",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف فرع الروان 1",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "الأحد - الخميس",
-        "NormalTimings": "8:30 صباحاً - 2:00 مساءً",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3383.406322998633!2d44.3591056855037!3d32.004105530299164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzLCsDAwJzE0LjgiTiA0NMKwMjEnMjQuOSJF!5e0!3m2!1sar!2sjo!4v1629023583101!5m2!1sar!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف فرع الروان 2",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "الأحد - الخميس",
-        "NormalTimings": "8:30 صباحاً - 2:00 مساءً",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3383.406322998633!2d44.3591056855037!3d32.004105530299164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzLCsDAwJzE0LjgiTiA0NMKwMjEnMjQuOSJF!5e0!3m2!1sar!2sjo!4v1629023583101!5m2!1sar!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف فرع كربلاء",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "الأحد - الخميس",
-        "NormalTimings": "8:30 صباحاً - 2:00 مساءً",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3361.0173085934575!2d44.02583911517771!3d32.60572218102399!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzLCsDM2JzIwLjYiTiA0NMKwMDEnNDAuOSJF!5e0!3m2!1sen!2sjo!4v1624271677407!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف كريت مول",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "الأحد - الخميس",
-        "NormalTimings": "8:00 صباحاً - 2:00 مساءً",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3380.8859058154544!2d44.32303468547301!3d32.072334526888646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x40fd7de8e99d9333!2zMzLCsDA0JzIwLjQiTiA0NMKwMTknMTUuMSJF!5e0!3m2!1sar!2sjo!4v1669899864781!5m2!1sar!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف مديرية مستشفى الهندية العام",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "الأحد - الخميس",
-        "NormalTimings": "8:30 صباحاً - 2:00 مساءً",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3363.0223040751634!2d44.21922801517644!3d32.55224998104055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzLCsDMzJzA4LjEiTiA0NMKwMTMnMTcuMSJF!5e0!3m2!1sen!2sjo!4v1624274334235!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف مدينة الامام الحسين الطبية",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "الأحد - الخميس",
-        "NormalTimings": "8:30 صباحاً - 2:00 مساءً",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3361.6915215268414!2d44.025061315177176!3d32.58774998102951!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzLCsDM1JzE1LjkiTiA0NMKwMDEnMzguMSJF!5e0!3m2!1sen!2sjo!4v1624273087720!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف مدينة الصدر الطبية",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "الأحد - الخميس",
-        "NormalTimings": "8:3s0 صباحاً - 2:00 مساءً",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3382.888314999372!2d44.37042241516288!3d32.01813888120773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzLCsDAxJzA1LjMiTiA0NMKwMjInMjEuNCJF!5e0!3m2!1sen!2sjo!4v1624273955229!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "صراف مركز العفاف",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3361.3330918909387!2d44.01639461517753!3d32.597305581026646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzLCsDM1JzUwLjMiTiA0NMKwMDEnMDYuOSJF!5e0!3m2!1sen!2sjo!4v1626008200675!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "فرع الروان 2",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3383.49523646891!2d44.357250310593635!3d32.0016962230968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDAwJzA2LjEiTiA0NMKwMjEnMzUuNCJF!5e0!3m2!1sen!2sjo!4v1700750848949!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "فرع النجف",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3383.4063232688923!2d44.354336710593735!3d32.00410552297614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDAwJzE0LjgiTiA0NMKwMjEnMjQuOSJF!5e0!3m2!1sen!2sjo!4v1700755386597!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "فرع كربلاء",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3361.017522042072!2d44.02544671061944!3d32.60571649261212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDM2JzIwLjYiTiA0NMKwMDEnNDAuOSJF!5e0!3m2!1sen!2sjo!4v1700753659409!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "فرع كربلاء 2",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3361.017522042072!2d44.02544671061944!3d32.60571649261212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDM2JzIwLjYiTiA0NMKwMDEnNDAuOSJF!5e0!3m2!1sen!2sjo!4v1700753925351!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "كوكا كولا اربيل",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3215.1691694324495!2d43.72113971078806!3d36.30820429516468!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDE4JzI5LjUiTiA0M8KwNDMnMjUuNCJF!5e0!3m2!1sen!2sjo!4v1700751506414!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "ماركت وفر كربلاء",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3359.906080333854!2d44.03439871062072!3d32.6353244911052!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDM4JzA3LjIiTiA0NMKwMDInMTMuMSJF!5e0!3m2!1sen!2sjo!4v1700756841661!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "مستشفى الفرات ",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3382.200701711106!2d44.38169971059505!3d32.03675852134066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDAyJzEyLjMiTiA0NMKwMjMnMDMuNCJF!5e0!3m2!1sen!2sjo!4v1700750785028!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "مستشفى النجف التعليمي",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3382.1902479180585!2d44.33085171059503!3d32.03704152132654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDAyJzEzLjMiTiA0NMKwMjAnMDAuNCJF!5e0!3m2!1sen!2sjo!4v1700755428429!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "مصفى كار كروب 1",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3214.9826618902375!2d43.745925710788214!3d36.3127272949126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDE4JzQ1LjgiTiA0M8KwNDQnNTQuNiJF!5e0!3m2!1sen!2sjo!4v1700753467067!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      },
-      {
-        "LocationName": "مصفى كار كروب 2",
-        "LocationType": 1,
-        "Phone": "",
-        "WorkingDays": "",
-        "NormalTimings": "",
-        "FridayTimings": "",
-        "SaturdayTimings": "",
-        "BreakTimings": "",
-        "EmebededGoogleMapsLink": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3214.7523347503206!2d43.74813671078846!3d36.31831229460121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDE5JzA1LjkiTiA0M8KwNDUnMDIuNiJF!5e0!3m2!1sen!2sjo!4v1700753530952!5m2!1sen!2sjo",
-        "Currencies": null,
-        "CurrenciesId": null
-      }
-    ]
+[
+  {
+    "id": "ATM_1",
+    "title": "شركة كوكا كولا - الواحة",
+    "address": {
+      "en": "شركة كوكا كولا - الواحة"
+    },
+    "latitude": 32.403606502867355,
+    "longitude": 44.48960971061075,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3368.5804510578732!2d44.48960971061075!3d32.403606502867355!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDI0JzEzLjAiTiA0NMKwMjknMzEuOSJF!5e0!3m2!1sen!2sjo!4v1700751602129!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_2",
+    "title": "بيترو ويلد",
+    "address": {
+      "en": "بيترو ويلد"
+    },
+    "latitude": 36.55923128113153,
+    "longitude": 43.63203671080022,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3204.787711262394!2d43.63203671080022!3d36.55923128113153!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDMzJzMzLjIiTiA0M8KwMzgnMDQuNiJF!5e0!3m2!1sen!2sjo!4v1700755696146!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_3",
+    "title": "شركة ربان السفينة",
+    "address": {
+      "en": "شركة ربان السفينة"
+    },
+    "latitude": 32.114600317435944,
+    "longitude": 44.32172101059844,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3379.322178875745!2d44.32172101059844!3d32.114600317435944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDA2JzUyLjUiTiA0NMKwMTknMjcuNSJF!5e0!3m2!1sen!2sjo!4v1700756520103!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_4",
+    "title": "شركة كار كروب - محطة الاستخراج",
+    "address": {
+      "en": "شركة كار كروب - محطة الاستخراج"
+    },
+    "latitude": 35.978015313500116,
+    "longitude": 43.76053471077235,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3228.7304365976656!2d43.76053471077235!3d35.978015313500116!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzXCsDU4JzQwLjgiTiA0M8KwNDUnNDcuMiJF!5e0!3m2!1sen!2sjo!4v1700753363704!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_5",
+    "title": "شركة كار كروب - محطة الكهرباء",
+    "address": {
+      "en": "شركة كار كروب - محطة الكهرباء"
+    },
+    "latitude": 35.97022231393118,
+    "longitude": 43.771843310772006,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3229.049211178653!2d43.771843310772006!3d35.97022231393118!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzXCsDU4JzEyLjgiTiA0M8KwNDYnMjcuOSJF!5e0!3m2!1sen!2sjo!4v1700753281280!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_6",
+    "title": "صراف آلي الشركة العامة لأنتاج الطاقة الكهربائية الفرات الوسط",
+    "address": {
+      "en": "صراف آلي الشركة العامة لأنتاج الطاقة الكهربائية الفرات الوسط"
+    },
+    "latitude": 32.469184499653075,
+    "longitude": 44.41424507624346,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3366.131120283529!2d44.41424507624346!3d32.469184499653075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDI4JzA5LjEiTiA0NMKwMjUnMDAuNiJF!5e0!3m2!1sen!2sjo!4v1734267222211!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_7",
+    "title": "صراف آلي بي دي سي مول",
+    "address": {
+      "en": "صراف آلي بي دي سي مول"
+    },
+    "latitude": 32.48855449867105,
+    "longitude": 44.43066507624395,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3365.4068092596385!2d44.43066507624395!3d32.48855449867105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDI5JzE4LjgiTiA0NMKwMjUnNTkuNyJF!5e0!3m2!1sen!2sjo!4v1732534445370!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_8",
+    "title": "صراف آلي شركة توزيع المنتجات النفطية \\ ذي قار",
+    "address": {
+      "en": "صراف آلي شركة توزيع المنتجات النفطية \\ ذي قار"
+    },
+    "latitude": 31.010028572180225,
+    "longitude": 46.26768307461238,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3419.5820736517667!2d46.26768307461238!3d31.010028572180225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzHCsDAwJzM2LjEiTiA0NsKwMTYnMTIuOSJF!5e0!3m2!1sen!2sjo!4v1737288718429!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_9",
+    "title": "صراف آلي شركة نفط ذي قار",
+    "address": {
+      "en": "صراف آلي شركة نفط ذي قار"
+    },
+    "latitude": 31.093671568101172,
+    "longitude": 46.30049907461614,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3416.5777080205894!2d46.30049907461614!3d31.093671568101172!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzHCsDA1JzM3LjIiTiA0NsKwMTgnMTEuMSJF!5e0!3m2!1sen!2sjo!4v1737288737895!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_10",
+    "title": "صراف آلي فرع الحلة 2",
+    "address": {
+      "en": "صراف آلي فرع الحلة 2"
+    },
+    "latitude": 32.474973399362675,
+    "longitude": 44.42278597447148,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3365.914693675199!2d44.42278597447148!3d32.474973399362675!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDI4JzI5LjkiTiA0NMKwMjUnMzEuMyJF!5e0!3m2!1sen!2sjo!4v1719920348386!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_11",
+    "title": "صراف آلي فرع الديوانية",
+    "address": {
+      "en": "صراف آلي فرع الديوانية"
+    },
+    "latitude": 31.9923265236749,
+    "longitude": 44.893898074657116,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3383.8409605245247!2d44.893898074657116!3d31.9923265236749!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzHCsDU5JzMyLjQiTiA0NMKwNTMnNDcuMyJF!5e0!3m2!1sen!2sjo!4v1735544372096!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_12",
+    "title": "صراف آلي فرع المثنى",
+    "address": {
+      "en": "صراف آلي فرع المثنى"
+    },
+    "latitude": 31.311329857441894,
+    "longitude": 45.27962402537408,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3408.7255480434!2d45.27962402537408!3d31.311329857441894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzHCsDE4JzQwLjgiTiA0NcKwMTYnMzcuNCJF!5e0!3m2!1sar!2sjo!4v1723969028605!5m2!1sar!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_13",
+    "title": "صراف آلي فرع الناصرية 2",
+    "address": {
+      "en": "صراف آلي فرع الناصرية 2"
+    },
+    "latitude": 31.037555570838865,
+    "longitude": 46.23587492538644,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3418.5941379555115!2d46.23587492538644!3d31.037555570838865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzHCsDAyJzE1LjIiTiA0NsKwMTMnNTkuOSJF!5e0!3m2!1sar!2sjo!4v1723716620606!5m2!1sar!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_14",
+    "title": "صراف آلي ماركت A2Z",
+    "address": {
+      "en": "صراف آلي ماركت A2Z"
+    },
+    "latitude": 31.021396571623782,
+    "longitude": 46.25123907611253,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3419.174175234996!2d46.25123907611253!3d31.021396571623782!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzHCsDAxJzE3LjAiTiA0NsKwMTUnMTMuNyJF!5e0!3m2!1sen!2sjo!4v1722928021548!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_15",
+    "title": "صراف آلي مركز الفرات الاوسط للاورام السرطانية",
+    "address": {
+      "en": "صراف آلي مركز الفرات الاوسط للاورام السرطانية"
+    },
+    "latitude": 32.043004521136886,
+    "longitude": 44.36328707465942,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3381.9699602902942!2d44.36328707465942!3d32.043004521136886!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDAyJzM0LjgiTiA0NMKwMjEnNTcuMSJF!5e0!3m2!1sen!2sjo!4v1735545095105!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_16",
+    "title": "صراف آلي مستشفى الشوملي العام",
+    "address": {
+      "en": "صراف آلي مستشفى الشوملي العام"
+    },
+    "latitude": 32.32686150685664,
+    "longitude": 44.91842507467257,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3371.4412637789874!2d44.91842507467257!3d32.32686150685664!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDE5JzM2LjciTiA0NMKwNTUnMTUuNiJF!5e0!3m2!1sen!2sjo!4v1735545022024!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_17",
+    "title": "صراف آلي مصفى كار كروب 4",
+    "address": {
+      "en": "صراف آلي مصفى كار كروب 4"
+    },
+    "latitude": 36.31851797238827,
+    "longitude": 43.743399076419344,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3214.743851950659!2d43.743399076419344!3d36.31851797238827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDE5JzA2LjciTiA0M8KwNDQnNDUuNSJF!5e0!3m2!1sen!2sjo!4v1719828378646!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_18",
+    "title": "صراف آلي منفذ كويسنجق",
+    "address": {
+      "en": "صراف آلي منفذ كويسنجق"
+    },
+    "latitude": 36.09208730729445,
+    "longitude": 44.63652707635625,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3224.0574602619267!2d44.63652707635625!3d36.09208730729445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDA1JzMxLjUiTiA0NMKwMzgnMjAuOCJF!5e0!3m2!1sen!2sjo!4v1731227644036!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_19",
+    "title": "صراف شركة الواحة للمشروبات الغازية",
+    "address": {
+      "en": "صراف شركة الواحة للمشروبات الغازية"
+    },
+    "latitude": 32.62047218101964,
+    "longitude": 44.00303351517804,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3360.463726877567!2d44.00303351517804!3d32.62047218101964!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzLCsDM3JzEzLjciTiA0NMKwMDAnMTguOCJF!5e0!3m2!1sen!2sjo!4v1624273362926!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_20",
+    "title": "صراف شركة بيروت اربيل",
+    "address": {
+      "en": "صراف شركة بيروت اربيل"
+    },
+    "latitude": 35.92386298013843,
+    "longitude": 44.05379068555965,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3230.9443163511014!2d44.05379068555965!3d35.92386298013843!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xae7320449b8cb702!2zMzXCsDU1JzI1LjkiTiA0NMKwMDMnMDUuOCJF!5e0!3m2!1sar!2sjo!4v1667482504933!5m2!1sar!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_21",
+    "title": "صراف شركة كار ( الأنتاج )",
+    "address": {
+      "en": "صراف شركة كار ( الأنتاج )"
+    },
+    "latitude": 35.977354321283144,
+    "longitude": 43.76718568535809,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3228.7574769666644!2d43.76718568535809!3d35.977354321283144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x86933c3db39ad6de!2zMzXCsDU4JzM4LjUiTiA0M8KwNDUnNTQuMCJF!5e0!3m2!1sar!2sjo!4v1667482809691!5m2!1sar!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_22",
+    "title": "صراف فرع الحلة 2",
+    "address": {
+      "en": "صراف فرع الحلة 2"
+    },
+    "latitude": 32.47496888106424,
+    "longitude": 44.42754958568524,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3365.9148626118917!2d44.42754958568524!3d32.47496888106424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xda83f4b696ddb9d0!2zMzLCsDI4JzI5LjkiTiA0NMKwMjUnMzEuMyJF!5e0!3m2!1sar!2sjo!4v1661430495350!5m2!1sar!2sjo'",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_23",
+    "title": "صراف فرع الروان 1",
+    "address": {
+      "en": "صراف فرع الروان 1"
+    },
+    "latitude": 32.004105530299164,
+    "longitude": 44.3591056855037,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3383.406322998633!2d44.3591056855037!3d32.004105530299164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzLCsDAwJzE0LjgiTiA0NMKwMjEnMjQuOSJF!5e0!3m2!1sar!2sjo!4v1629023583101!5m2!1sar!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_24",
+    "title": "صراف فرع الروان 2",
+    "address": {
+      "en": "صراف فرع الروان 2"
+    },
+    "latitude": 32.004105530299164,
+    "longitude": 44.3591056855037,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3383.406322998633!2d44.3591056855037!3d32.004105530299164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzLCsDAwJzE0LjgiTiA0NMKwMjEnMjQuOSJF!5e0!3m2!1sar!2sjo!4v1629023583101!5m2!1sar!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_25",
+    "title": "صراف فرع كربلاء",
+    "address": {
+      "en": "صراف فرع كربلاء"
+    },
+    "latitude": 32.60572218102399,
+    "longitude": 44.02583911517771,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3361.0173085934575!2d44.02583911517771!3d32.60572218102399!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzLCsDM2JzIwLjYiTiA0NMKwMDEnNDAuOSJF!5e0!3m2!1sen!2sjo!4v1624271677407!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_26",
+    "title": "صراف كريت مول",
+    "address": {
+      "en": "صراف كريت مول"
+    },
+    "latitude": 32.072334526888646,
+    "longitude": 44.32303468547301,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3380.8859058154544!2d44.32303468547301!3d32.072334526888646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x40fd7de8e99d9333!2zMzLCsDA0JzIwLjQiTiA0NMKwMTknMTUuMSJF!5e0!3m2!1sar!2sjo!4v1669899864781!5m2!1sar!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_27",
+    "title": "صراف مديرية مستشفى الهندية العام",
+    "address": {
+      "en": "صراف مديرية مستشفى الهندية العام"
+    },
+    "latitude": 32.55224998104055,
+    "longitude": 44.21922801517644,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3363.0223040751634!2d44.21922801517644!3d32.55224998104055!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzLCsDMzJzA4LjEiTiA0NMKwMTMnMTcuMSJF!5e0!3m2!1sen!2sjo!4v1624274334235!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_28",
+    "title": "صراف مدينة الامام الحسين الطبية",
+    "address": {
+      "en": "صراف مدينة الامام الحسين الطبية"
+    },
+    "latitude": 32.58774998102951,
+    "longitude": 44.025061315177176,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3361.6915215268414!2d44.025061315177176!3d32.58774998102951!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzLCsDM1JzE1LjkiTiA0NMKwMDEnMzguMSJF!5e0!3m2!1sen!2sjo!4v1624273087720!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_29",
+    "title": "صراف مدينة الصدر الطبية",
+    "address": {
+      "en": "صراف مدينة الصدر الطبية"
+    },
+    "latitude": 32.01813888120773,
+    "longitude": 44.37042241516288,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3382.888314999372!2d44.37042241516288!3d32.01813888120773!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzLCsDAxJzA1LjMiTiA0NMKwMjInMjEuNCJF!5e0!3m2!1sen!2sjo!4v1624273955229!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_30",
+    "title": "صراف مركز العفاف",
+    "address": {
+      "en": "صراف مركز العفاف"
+    },
+    "latitude": 32.597305581026646,
+    "longitude": 44.01639461517753,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3361.3330918909387!2d44.01639461517753!3d32.597305581026646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzLCsDM1JzUwLjMiTiA0NMKwMDEnMDYuOSJF!5e0!3m2!1sen!2sjo!4v1626008200675!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_31",
+    "title": "فرع الروان 2",
+    "address": {
+      "en": "فرع الروان 2"
+    },
+    "latitude": 32.0016962230968,
+    "longitude": 44.357250310593635,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3383.49523646891!2d44.357250310593635!3d32.0016962230968!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDAwJzA2LjEiTiA0NMKwMjEnMzUuNCJF!5e0!3m2!1sen!2sjo!4v1700750848949!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_32",
+    "title": "فرع النجف",
+    "address": {
+      "en": "فرع النجف"
+    },
+    "latitude": 32.00410552297614,
+    "longitude": 44.354336710593735,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3383.4063232688923!2d44.354336710593735!3d32.00410552297614!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDAwJzE0LjgiTiA0NMKwMjEnMjQuOSJF!5e0!3m2!1sen!2sjo!4v1700755386597!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_33",
+    "title": "فرع كربلاء",
+    "address": {
+      "en": "فرع كربلاء"
+    },
+    "latitude": 32.60571649261212,
+    "longitude": 44.02544671061944,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3361.017522042072!2d44.02544671061944!3d32.60571649261212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDM2JzIwLjYiTiA0NMKwMDEnNDAuOSJF!5e0!3m2!1sen!2sjo!4v1700753659409!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_34",
+    "title": "فرع كربلاء 2",
+    "address": {
+      "en": "فرع كربلاء 2"
+    },
+    "latitude": 32.60571649261212,
+    "longitude": 44.02544671061944,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3361.017522042072!2d44.02544671061944!3d32.60571649261212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDM2JzIwLjYiTiA0NMKwMDEnNDAuOSJF!5e0!3m2!1sen!2sjo!4v1700753925351!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_35",
+    "title": "كوكا كولا اربيل",
+    "address": {
+      "en": "كوكا كولا اربيل"
+    },
+    "latitude": 36.30820429516468,
+    "longitude": 43.72113971078806,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3215.1691694324495!2d43.72113971078806!3d36.30820429516468!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDE4JzI5LjUiTiA0M8KwNDMnMjUuNCJF!5e0!3m2!1sen!2sjo!4v1700751506414!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_36",
+    "title": "ماركت وفر كربلاء",
+    "address": {
+      "en": "ماركت وفر كربلاء"
+    },
+    "latitude": 32.6353244911052,
+    "longitude": 44.03439871062072,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3359.906080333854!2d44.03439871062072!3d32.6353244911052!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDM4JzA3LjIiTiA0NMKwMDInMTMuMSJF!5e0!3m2!1sen!2sjo!4v1700756841661!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_37",
+    "title": "مستشفى الفرات",
+    "address": {
+      "en": "مستشفى الفرات"
+    },
+    "latitude": 32.03675852134066,
+    "longitude": 44.38169971059505,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3382.200701711106!2d44.38169971059505!3d32.03675852134066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDAyJzEyLjMiTiA0NMKwMjMnMDMuNCJF!5e0!3m2!1sen!2sjo!4v1700750785028!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_38",
+    "title": "مستشفى النجف التعليمي",
+    "address": {
+      "en": "مستشفى النجف التعليمي"
+    },
+    "latitude": 32.03704152132654,
+    "longitude": 44.33085171059503,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3382.1902479180585!2d44.33085171059503!3d32.03704152132654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzLCsDAyJzEzLjMiTiA0NMKwMjAnMDAuNCJF!5e0!3m2!1sen!2sjo!4v1700755428429!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_39",
+    "title": "مصفى كار كروب 1",
+    "address": {
+      "en": "مصفى كار كروب 1"
+    },
+    "latitude": 36.3127272949126,
+    "longitude": 43.745925710788214,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3214.9826618902375!2d43.745925710788214!3d36.3127272949126!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDE4JzQ1LjgiTiA0M8KwNDQnNTQuNiJF!5e0!3m2!1sen!2sjo!4v1700753467067!5m2!1sen!2sjo",
+    "type": "Branch"
+  },
+  {
+    "id": "ATM_40",
+    "title": "مصفى كار كروب 2",
+    "address": {
+      "en": "مصفى كار كروب 2"
+    },
+    "latitude": 36.31831229460121,
+    "longitude": 43.74813671078846,
+    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3214.7523347503206!2d43.74813671078846!3d36.31831229460121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDE5JzA1LjkiTiA0M8KwNDUnMDIuNiJF!5e0!3m2!1sen!2sjo!4v1700753530952!5m2!1sen!2sjo",
+    "type": "Branch"
   }
-}
+]

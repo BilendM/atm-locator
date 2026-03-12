@@ -1,169 +1,197 @@
-{
-  "Sulaymaniyah": {
-    "ATM_1": {
-      "address": {
-        "en": "Kurdish",
-        "ar": "پەیمانگای کلتوری کوردی",
-        "ku": "پەیمانگای کلتوری کوردی"
-      },
-      "map_link": "https://maps.app.goo.gl/eDrFKjA8WuytdZhD9",
-      "lat": 35.56155,
-      "lng": 45.42936,
-      "quantity": 1
+[
+  {
+    "id": "ATM_1",
+    "title": "Kurdish",
+    "address": {
+      "en": "Kurdish",
+      "ar": "پەیمانگای کلتوری کوردی",
+      "ku": "پەیمانگای کلتوری کوردی"
     },
-    "ATM_2": {
-      "address": {
-        "en": "Blood",
-        "ar": "بەرامبەر بانکی خوێن",
-        "ku": "بەرامبەر بانکی خوێن"
-      },
-      "map_link": "https://maps.app.goo.gl/d9pnq3GppNtzkJ7f7",
-      "lat": 35.564769,
-      "lng": 45.444579,
-      "quantity": 1
+    "latitude": 35.56155,
+    "longitude": 45.42936,
+    "map_link": "https://maps.app.goo.gl/eDrFKjA8WuytdZhD9",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_2",
+    "title": "Blood",
+    "address": {
+      "en": "Blood",
+      "ar": "بەرامبەر بانکی خوێن",
+      "ku": "بەرامبەر بانکی خوێن"
     },
-    "ATM_3": {
-      "address": {
-        "en": "Salim",
-        "ar": "شەقامی سالم، پەروەردەی سلێمانی",
-        "ku": "شەقامی سالم، پەروەردەی سلێمانی"
-      },
-      "map_link": "https://maps.app.goo.gl/1b5Y6XmaxU8Z8Ajx9",
-      "lat": 35.565368,
-      "lng": 45.398944,
-      "quantity": 1
+    "latitude": 35.564769,
+    "longitude": 45.444579,
+    "map_link": "https://maps.app.goo.gl/d9pnq3GppNtzkJ7f7",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_3",
+    "title": "Salim",
+    "address": {
+      "en": "Salim",
+      "ar": "شەقامی سالم، پەروەردەی سلێمانی",
+      "ku": "شەقامی سالم، پەروەردەی سلێمانی"
     },
-    "ATM_4": {
-      "address": {
-        "en": "Malkandi",
-        "ar": "بانکی مەڵکەنی",
-        "ku": "بانکی مەڵکەنی"
-      },
-      "map_link": "https://maps.app.goo.gl/P91Lb5PgirgsVbSS8",
-      "lat": 35.580851,
-      "lng": 45.423549,
-      "quantity": 1
+    "latitude": 35.565368,
+    "longitude": 45.398944,
+    "map_link": "https://maps.app.goo.gl/1b5Y6XmaxU8Z8Ajx9",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_4",
+    "title": "Malkandi",
+    "address": {
+      "en": "Malkandi",
+      "ar": "بانکی مەڵکەنی",
+      "ku": "بانکی مەڵکەنی"
     },
-    "ATM_5": {
-      "address": {
-        "en": "Goizha",
-        "ar": "شەقامی ابراهیم پاشا، قوتابخانەی گۆیژە",
-        "ku": "شەقامی ابراهیم پاشا، قوتابخانەی گۆیژە"
-      },
-      "map_link": "https://maps.app.goo.gl/41J5U3CHLb1o8nzo9",
-      "lat": 35.556273,
-      "lng": 45.45115,
-      "quantity": 1
+    "latitude": 35.580851,
+    "longitude": 45.423549,
+    "map_link": "https://maps.app.goo.gl/P91Lb5PgirgsVbSS8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_5",
+    "title": "Goizha",
+    "address": {
+      "en": "Goizha",
+      "ar": "شەقامی ابراهیم پاشا، قوتابخانەی گۆیژە",
+      "ku": "شەقامی ابراهیم پاشا، قوتابخانەی گۆیژە"
     },
-    "ATM_6": {
-      "address": {
-        "en": "United",
-        "ar": "سەروەری، قوتابخانەی US",
-        "ku": "سەروەری، قوتابخانەی US"
-      },
-      "map_link": "https://maps.app.goo.gl/iUWJzN7VURfkGCxi9",
-      "lat": 35.583761,
-      "lng": 45.405194,
-      "quantity": 1
+    "latitude": 35.556273,
+    "longitude": 45.45115,
+    "map_link": "https://maps.app.goo.gl/41J5U3CHLb1o8nzo9",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_6",
+    "title": "United",
+    "address": {
+      "en": "United",
+      "ar": "سەروەری، قوتابخانەی US",
+      "ku": "سەروەری، قوتابخانەی US"
     },
-    "ATM_7": {
-      "address": {
-        "en": "Halabja",
-        "ar": "شەقامی مەلیک مەحموود، نزیک هەڵەبجە گروپ",
-        "ku": "شەقامی مەلیک مەحموود، نزیک هەڵەبجە گروپ"
-      },
-      "map_link": "https://maps.app.goo.gl/6gQjsFGAPWvm5Hdv6",
-      "lat": 35.548587,
-      "lng": 45.410105,
-      "quantity": 1
+    "latitude": 35.583761,
+    "longitude": 45.405194,
+    "map_link": "https://maps.app.goo.gl/iUWJzN7VURfkGCxi9",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_7",
+    "title": "Halabja",
+    "address": {
+      "en": "Halabja",
+      "ar": "شەقامی مەلیک مەحموود، نزیک هەڵەبجە گروپ",
+      "ku": "شەقامی مەلیک مەحموود، نزیک هەڵەبجە گروپ"
     },
-    "ATM_8": {
-      "address": {
-        "en": "Tuyimalik",
-        "ar": "تووی مەلیک - باخچەی مامۆستا فەرەیدوون علی امین",
-        "ku": "تووی مەلیک - باخچەی مامۆستا فەرەیدوون علی امین"
-      },
-      "map_link": "https://maps.app.goo.gl/oUZM1YeLsw9jkvjo8",
-      "lat": 35.572747,
-      "lng": 45.45684,
-      "quantity": 1
+    "latitude": 35.548587,
+    "longitude": 45.410105,
+    "map_link": "https://maps.app.goo.gl/6gQjsFGAPWvm5Hdv6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_8",
+    "title": "Tuyimalik",
+    "address": {
+      "en": "Tuyimalik",
+      "ar": "تووی مەلیک - باخچەی مامۆستا فەرەیدوون علی امین",
+      "ku": "تووی مەلیک - باخچەی مامۆستا فەرەیدوون علی امین"
     },
-    "ATM_9": {
-      "address": {
-        "en": "Mamostayan",
-        "ar": "مزگەوتی قازی محمد",
-        "ku": "مزگەوتی قازی محمد"
-      },
-      "map_link": "https://maps.app.goo.gl/iU5QoTq22yHBudvK7",
-      "lat": 35.568176,
-      "lng": 45.438953,
-      "quantity": 1
+    "latitude": 35.572747,
+    "longitude": 45.45684,
+    "map_link": "https://maps.app.goo.gl/oUZM1YeLsw9jkvjo8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_9",
+    "title": "Mamostayan",
+    "address": {
+      "en": "Mamostayan",
+      "ar": "مزگەوتی قازی محمد",
+      "ku": "مزگەوتی قازی محمد"
     },
-    "ATM_10": {
-      "address": {
-        "en": "Sulaimany",
-        "ar": "شەقامی مەلیک مەحموود، نەخۆشخانەی ڤێتێرنەری",
-        "ku": "شەقامی مەلیک مەحموود، نەخۆشخانەی ڤێتێرنەری"
-      },
-      "map_link": "https://maps.app.goo.gl/orqGf1DE9RpySzq29",
-      "lat": 35.580735,
-      "lng": 45.401385,
-      "quantity": 1
+    "latitude": 35.568176,
+    "longitude": 45.438953,
+    "map_link": "https://maps.app.goo.gl/iU5QoTq22yHBudvK7",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_10",
+    "title": "Sulaimany",
+    "address": {
+      "en": "Sulaimany",
+      "ar": "شەقامی مەلیک مەحموود، نەخۆشخانەی ڤێتێرنەری",
+      "ku": "شەقامی مەلیک مەحموود، نەخۆشخانەی ڤێتێرنەری"
     },
-    "ATM_11": {
-      "address": {
-        "en": "Public",
-        "ar": "باخی گشتی",
-        "ku": "باخی گشتی"
-      },
-      "map_link": "https://maps.app.goo.gl/cGHCceV888qR8GWt7",
-      "lat": 35.556302,
-      "lng": 45.43375,
-      "quantity": 1
+    "latitude": 35.580735,
+    "longitude": 45.401385,
+    "map_link": "https://maps.app.goo.gl/orqGf1DE9RpySzq29",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_11",
+    "title": "Public",
+    "address": {
+      "en": "Public",
+      "ar": "باخی گشتی",
+      "ku": "باخی گشتی"
     },
-    "ATM_12": {
-      "address": {
-        "en": "Tabeekh",
-        "ar": "شەقامی سالم، مطعم طبیخ",
-        "ku": "شەقامی سالم، مطعم طبیخ"
-      },
-      "map_link": "https://maps.app.goo.gl/iQxGfPjfpprgYpyTA",
-      "lat": 35.565888,
-      "lng": 45.394243,
-      "quantity": 1
+    "latitude": 35.556302,
+    "longitude": 45.43375,
+    "map_link": "https://maps.app.goo.gl/cGHCceV888qR8GWt7",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_12",
+    "title": "Tabeekh",
+    "address": {
+      "en": "Tabeekh",
+      "ar": "شەقامی سالم، مطعم طبیخ",
+      "ku": "شەقامی سالم، مطعم طبیخ"
     },
-    "ATM_13": {
-      "address": {
-        "en": "National",
-        "ar": "کانی با، پەیمانگای ناشناڵ",
-        "ku": "کانی با، پەیمانگای ناشناڵ"
-      },
-      "map_link": "https://maps.app.goo.gl/2PyykLRKQqE1EhAE9",
-      "lat": 35.536714,
-      "lng": 45.46694,
-      "quantity": 1
+    "latitude": 35.565888,
+    "longitude": 45.394243,
+    "map_link": "https://maps.app.goo.gl/iQxGfPjfpprgYpyTA",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_13",
+    "title": "National",
+    "address": {
+      "en": "National",
+      "ar": "کانی با، پەیمانگای ناشناڵ",
+      "ku": "کانی با، پەیمانگای ناشناڵ"
     },
-    "ATM_14": {
-      "address": {
-        "en": "Elderly",
-        "ar": "بەکرەجۆ، بەڕێوبەرایەتی کار و کاروباری کۆمەڵایەتی",
-        "ku": "بەکرەجۆ، بەڕێوبەرایەتی کار و کاروباری کۆمەڵایەتی"
-      },
-      "map_link": "https://maps.app.goo.gl/1wesnGsjXXyAio4D6",
-      "lat": 35.553716,
-      "lng": 45.363938,
-      "quantity": 1
+    "latitude": 35.536714,
+    "longitude": 45.46694,
+    "map_link": "https://maps.app.goo.gl/2PyykLRKQqE1EhAE9",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_14",
+    "title": "Elderly",
+    "address": {
+      "en": "Elderly",
+      "ar": "بەکرەجۆ، بەڕێوبەرایەتی کار و کاروباری کۆمەڵایەتی",
+      "ku": "بەکرەجۆ، بەڕێوبەرایەتی کار و کاروباری کۆمەڵایەتی"
     },
-    "ATM_15": {
-      "address": {
-        "en": "Dokan",
-        "ar": "دوکان - هۆڵی شەهیذ ڕەسول حەمە زێڕ",
-        "ku": "دوکان - هۆڵی شەهیذ ڕەسول حەمە زێڕ"
-      },
-      "map_link": "https://www.google.com/maps?q=35.932222,44.966722",
-      "lat": 35.93222,
-      "lng": 44.96672,
-      "quantity": 1
-    }
+    "latitude": 35.553716,
+    "longitude": 45.363938,
+    "map_link": "https://maps.app.goo.gl/1wesnGsjXXyAio4D6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_15",
+    "title": "Dokan",
+    "address": {
+      "en": "Dokan",
+      "ar": "دوکان - هۆڵی شەهیذ ڕەسول حەمە زێڕ",
+      "ku": "دوکان - هۆڵی شەهیذ ڕەسول حەمە زێڕ"
+    },
+    "latitude": 35.93222,
+    "longitude": 44.96672,
+    "map_link": "https://www.google.com/maps?q=35.932222,44.966722",
+    "type": "ATM"
   }
-}
+]

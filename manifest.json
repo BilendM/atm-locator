@@ -1,7 +1,7 @@
 {
-  "name": "ATM Locator",
-  "short_name": "ATM Locator",
-  "description": "Find ATM locations near you - works offline",
+  "name": "Kurdistan ATM Locator",
+  "short_name": "Kurdistan ATM Locator",
+  "description": "Find Kurdistan ATM locations near you",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",

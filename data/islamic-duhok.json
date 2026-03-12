@@ -1,136 +1,158 @@
-{
-  "Duhok": {
-    "ATM_1": {
-      "address": {
-        "en": "Bardarash",
-        "ar": "بەردەڕەش - بەرامبەر پارکي ئەفرين",
-        "ku": "بەردەڕەش - بەرامبەر پارکي ئەفرين"
-      },
-      "map_link": "https://www.google.com/maps?q=36.5056182096474,43.5852773863194",
-      "lat": 36.505618,
-      "lng": 43.585277,
-      "quantity": 1
+[
+  {
+    "id": "ATM_1",
+    "title": "Bardarash",
+    "address": {
+      "en": "Bardarash",
+      "ar": "بەردەڕەش - بەرامبەر پارکي ئەفرين",
+      "ku": "بەردەڕەش - بەرامبەر پارکي ئەفرين"
     },
-    "ATM_2": {
-      "address": {
-        "en": "Zagros",
-        "ar": "زاخۆ - تەنیشت ڕێڤەبەرییا ئاسایشا زاخۆ",
-        "ku": "زاخۆ - تەنیشت ڕێڤەبەرییا ئاسایشا زاخۆ"
-      },
-      "map_link": "https://maps.app.goo.gl/TMx7sfRrdHGRX2Nw5",
-      "lat": 37.139109,
-      "lng": 42.710782,
-      "quantity": 1
+    "latitude": 36.505618,
+    "longitude": 43.585277,
+    "map_link": "https://www.google.com/maps?q=36.5056182096474,43.5852773863194",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_2",
+    "title": "Zagros",
+    "address": {
+      "en": "Zagros",
+      "ar": "زاخۆ - تەنیشت ڕێڤەبەرییا ئاسایشا زاخۆ",
+      "ku": "زاخۆ - تەنیشت ڕێڤەبەرییا ئاسایشا زاخۆ"
     },
-    "ATM_3": {
-      "address": {
-        "en": "Niniveh",
-        "ar": "دهۆک - سەر مزگەفتا سەباح ئەترۆشی دا",
-        "ku": "دهۆک - سەر مزگەفتا سەباح ئەترۆشی دا"
-      },
-      "map_link": "https://maps.app.goo.gl/G8tZegAA7yMWrNw9A",
-      "lat": 36.873244,
-      "lng": 42.931431,
-      "quantity": 1
+    "latitude": 37.139109,
+    "longitude": 42.710782,
+    "map_link": "https://maps.app.goo.gl/TMx7sfRrdHGRX2Nw5",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_3",
+    "title": "Niniveh",
+    "address": {
+      "en": "Niniveh",
+      "ar": "دهۆک - سەر مزگەفتا سەباح ئەترۆشی دا",
+      "ku": "دهۆک - سەر مزگەفتا سەباح ئەترۆشی دا"
     },
-    "ATM_4": {
-      "address": {
-        "en": "Directorate",
-        "ar": "دهۆک - تەنیشت ڕێڤەبەرییا تاپۆ یا دهۆکێ",
-        "ku": "دهۆک - تەنیشت ڕێڤەبەرییا تاپۆ یا دهۆکێ"
-      },
-      "map_link": "https://maps.app.goo.gl/6yheg6b66JcRhhtf6",
-      "lat": 36.845636,
-      "lng": 42.982578,
-      "quantity": 1
+    "latitude": 36.873244,
+    "longitude": 42.931431,
+    "map_link": "https://maps.app.goo.gl/G8tZegAA7yMWrNw9A",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_4",
+    "title": "Directorate",
+    "address": {
+      "en": "Directorate",
+      "ar": "دهۆک - تەنیشت ڕێڤەبەرییا تاپۆ یا دهۆکێ",
+      "ku": "دهۆک - تەنیشت ڕێڤەبەرییا تاپۆ یا دهۆکێ"
     },
-    "ATM_5": {
-      "address": {
-        "en": "Akre",
-        "ar": "ئاکرێ - تەنیشت مزگەفتا شورەش",
-        "ku": "ئاکرێ - تەنیشت مزگەفتا شورەش"
-      },
-      "map_link": "https://maps.app.goo.gl/YkRvRMnyHswdFpbWA",
-      "lat": 36.739298,
-      "lng": 43.89783,
-      "quantity": 1
+    "latitude": 36.845636,
+    "longitude": 42.982578,
+    "map_link": "https://maps.app.goo.gl/6yheg6b66JcRhhtf6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_5",
+    "title": "Akre",
+    "address": {
+      "en": "Akre",
+      "ar": "ئاکرێ - تەنیشت مزگەفتا شورەش",
+      "ku": "ئاکرێ - تەنیشت مزگەفتا شورەش"
     },
-    "ATM_6": {
-      "address": {
-        "en": "Akre",
-        "ar": "ئاکرێ - بەردەم ڕوداو مارکێت",
-        "ku": "ئاکرێ - بەردەم ڕوداو مارکێت"
-      },
-      "map_link": "https://maps.app.goo.gl/uFihu8u4kSKexGih7",
-      "lat": 36.72405,
-      "lng": 43.873158,
-      "quantity": 1
+    "latitude": 36.739298,
+    "longitude": 43.89783,
+    "map_link": "https://maps.app.goo.gl/YkRvRMnyHswdFpbWA",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_6",
+    "title": "Akre",
+    "address": {
+      "en": "Akre",
+      "ar": "ئاکرێ - بەردەم ڕوداو مارکێت",
+      "ku": "ئاکرێ - بەردەم ڕوداو مارکێت"
     },
-    "ATM_7": {
-      "address": {
-        "en": "Zakho",
-        "ar": "زاخۆ - لسەر جادا گورستانا تلکەبەرێ",
-        "ku": "زاخۆ - لسەر جادا گورستانا تلکەبەرێ"
-      },
-      "map_link": "https://maps.app.goo.gl/9BSNggwNqscL4Ze37",
-      "lat": 37.157925,
-      "lng": 42.722627,
-      "quantity": 1
+    "latitude": 36.72405,
+    "longitude": 43.873158,
+    "map_link": "https://maps.app.goo.gl/uFihu8u4kSKexGih7",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_7",
+    "title": "Zakho",
+    "address": {
+      "en": "Zakho",
+      "ar": "زاخۆ - لسەر جادا گورستانا تلکەبەرێ",
+      "ku": "زاخۆ - لسەر جادا گورستانا تلکەبەرێ"
     },
-    "ATM_8": {
-      "address": {
-        "en": "Shekhan",
-        "ar": "شێخان - بەردەم یاریگەها شێخان",
-        "ku": "شێخان - بەردەم یاریگەها شێخان"
-      },
-      "map_link": "https://maps.app.goo.gl/3NTcf6UMpYjg5Es76",
-      "lat": 36.681996,
-      "lng": 43.34096,
-      "quantity": 1
+    "latitude": 37.157925,
+    "longitude": 42.722627,
+    "map_link": "https://maps.app.goo.gl/9BSNggwNqscL4Ze37",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_8",
+    "title": "Shekhan",
+    "address": {
+      "en": "Shekhan",
+      "ar": "شێخان - بەردەم یاریگەها شێخان",
+      "ku": "شێخان - بەردەم یاریگەها شێخان"
     },
-    "ATM_9": {
-      "address": {
-        "en": "Pirs",
-        "ar": "ئاکرێ - قوتابخانەی ئامادەیی ئازادی کچان",
-        "ku": "ئاکرێ - قوتابخانەی ئامادەیی ئازادی کچان"
-      },
-      "map_link": "https://www.google.com/maps?q=36.73456,43.87412",
-      "lat": 36.73456,
-      "lng": 43.87412,
-      "quantity": 1
+    "latitude": 36.681996,
+    "longitude": 43.34096,
+    "map_link": "https://maps.app.goo.gl/3NTcf6UMpYjg5Es76",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_9",
+    "title": "Pirs",
+    "address": {
+      "en": "Pirs",
+      "ar": "ئاکرێ - قوتابخانەی ئامادەیی ئازادی کچان",
+      "ku": "ئاکرێ - قوتابخانەی ئامادەیی ئازادی کچان"
     },
-    "ATM_10": {
-      "address": {
-        "en": "Sipa",
-        "ar": "ئاکرێ - بەرامبەر هۆڵا کۆنفرانسا",
-        "ku": "ئاکرێ - بەرامبەر هۆڵا کۆنفرانسا"
-      },
-      "map_link": "https://www.google.com/maps?q=36.73449,43.89067",
-      "lat": 36.73449,
-      "lng": 43.89067,
-      "quantity": 1
+    "latitude": 36.73456,
+    "longitude": 43.87412,
+    "map_link": "https://www.google.com/maps?q=36.73456,43.87412",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_10",
+    "title": "Sipa",
+    "address": {
+      "en": "Sipa",
+      "ar": "ئاکرێ - بەرامبەر هۆڵا کۆنفرانسا",
+      "ku": "ئاکرێ - بەرامبەر هۆڵا کۆنفرانسا"
     },
-    "ATM_11": {
-      "address": {
-        "en": "Sarsang",
-        "ar": "سەرسنگ - بەردەم باژێرڤانییا سەرسنگێ",
-        "ku": "سەرسنگ - بەردەم باژێرڤانییا سەرسنگێ"
-      },
-      "map_link": "https://www.google.com/maps?q=37.04498,43.34035",
-      "lat": 37.04498,
-      "lng": 43.34035,
-      "quantity": 1
+    "latitude": 36.73449,
+    "longitude": 43.89067,
+    "map_link": "https://www.google.com/maps?q=36.73449,43.89067",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_11",
+    "title": "Sarsang",
+    "address": {
+      "en": "Sarsang",
+      "ar": "سەرسنگ - بەردەم باژێرڤانییا سەرسنگێ",
+      "ku": "سەرسنگ - بەردەم باژێرڤانییا سەرسنگێ"
     },
-    "ATM_12": {
-      "address": {
-        "en": "Semel",
-        "ar": "دهۆک، سێمێل - تەنشت بەرێوەبەرايەتی پەروەردەي سمێل",
-        "ku": "دهۆک، سێمێل - تەنشت بەرێوەبەرايەتی پەروەردەي سمێل"
-      },
-      "map_link": "https://www.google.com/maps?q=36.8599880420922,42.8360888542495",
-      "lat": 36.859988,
-      "lng": 42.836089,
-      "quantity": 1
-    }
+    "latitude": 37.04498,
+    "longitude": 43.34035,
+    "map_link": "https://www.google.com/maps?q=37.04498,43.34035",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_12",
+    "title": "Semel",
+    "address": {
+      "en": "Semel",
+      "ar": "دهۆک، سێمێل - تەنشت بەرێوەبەرايەتی پەروەردەي سمێل",
+      "ku": "دهۆک، سێمێل - تەنشت بەرێوەبەرايەتی پەروەردەي سمێل"
+    },
+    "latitude": 36.859988,
+    "longitude": 42.836089,
+    "map_link": "https://www.google.com/maps?q=36.8599880420922,42.8360888542495",
+    "type": "ATM"
   }
-}
+]

@@ -1,1302 +1,1536 @@
-{
-  "Erbil": {
-    "ATM_1": {
-      "address": {
-        "en": "Opposite to Chwar Chra Hotel - Near Sarwran Bank",
-        "ar": "الفرع المقابل لفندق چوارچرا - قرب مصرف سروران",
-        "ku": "نزیک هۆتێل جوارجرا - نزیک بانکی سەروەران"
-      },
-      "map_link": "https://maps.app.goo.gl/Pd96BDasFsBTccpJ9",
-      "lat": 36.178063,
-      "lng": 44.011356,
-      "quantity": 1
-    },
-    "ATM_2": {
-      "address": {
-        "en": "Bardarash - Opposite Afrin Park",
-        "ar": "بردرش - مقابل افرين بارك",
-        "ku": "بەردەڕەش - بەرامبەر پاركي ئەفرين"
-      },
-      "map_link": "https://maps.app.goo.gl/dUTWUhf6dmR71n7e9",
-      "lat": 36.519468,
-      "lng": 43.587746,
-      "quantity": 1
-    },
-    "ATM_3": {
-      "address": {
-        "en": "Benslawa - Opposite Benslawa Bank",
-        "ar": "بنصلاوة - مقابل مصرف بنصلاوة",
-        "ku": "بنەسڵاوە - بەردەم بانکی بنسلاوە"
-      },
-      "map_link": "https://maps.app.goo.gl/cNnAGnqCnde1VwxZ9",
-      "lat": 36.158977,
-      "lng": 44.124767,
-      "quantity": 2
-    },
-    "ATM_4": {
-      "address": {
-        "en": "Region Bank (Central Bank) - Zaniary District - Opposite Shandar Park",
-        "ar": "بنك الاقليم (البنك المركزي)- حي زانياري - مقابل بارك شاندر",
-        "ku": "بانكي هەرێم (بانكي ناوەندی)- گەڕەکی زانياري - بەرامبەر پاڕكي شانەدەر"
-      },
-      "map_link": "https://maps.app.goo.gl/i32TQGLtUyJFcNREA",
-      "lat": 36.185086,
-      "lng": 44.002146,
-      "quantity": 1
-    },
-    "ATM_5": {
-      "address": {
-        "en": "Mosul Road Intersection - Opposite Zanayan Radio",
-        "ar": "تقاطع طريق الموصل - مقابل اذاعة زانايان",
-        "ku": "چوارڕێیانی جادەی موسڵ - بەردەم ڕادیۆی زانایان"
-      },
-      "map_link": "https://maps.app.goo.gl/CQDh823623E4exPd8",
-      "lat": 36.189246,
-      "lng": 43.993299,
-      "quantity": 2
-    },
-    "ATM_6": {
-      "address": {
-        "en": "Shorsh Bridge - Near Van Royal Hotel",
-        "ar": "جسر شورش - قرب فندق فان رويال",
-        "ku": "پردی شۆرش - نزیک هۆتێل ڤان ڕۆیاڵ"
-      },
-      "map_link": "https://maps.app.goo.gl/Ty8FRHbvcQLGViMh6",
-      "lat": 36.19942,
-      "lng": 44.022148,
-      "quantity": 2
-    },
-    "ATM_7": {
-      "address": {
-        "en": "Rasty Neighborhood - Cihan City",
-        "ar": "حي عدالة- جيهان سيتي",
-        "ku": "گەڕەکی ڕاستی - جیهان سیتی"
-      },
-      "map_link": "https://maps.app.goo.gl/hBkkEX3JJCYMdHRo9",
-      "lat": 36.137647,
-      "lng": 44.016215,
-      "quantity": 1
-    },
-    "ATM_8": {
-      "address": {
-        "en": "Azadi District - Near Azadi Mosque",
-        "ar": "حي ازادي - قرب مسجد ازادي",
-        "ku": "گەڕەکی ئازادی - نزیک مزگەوتی گەورەی ئازادی"
-      },
-      "map_link": "https://maps.app.goo.gl/WuQBiFyuGpr6LVb2A",
-      "lat": 36.16936695,
-      "lng": 44.00996915,
-      "quantity": 2
-    },
-    "ATM_9": {
-      "address": {
-        "en": "Zaniary District - Near Shandar Park",
-        "ar": "حي زانياري - قرب بارك شاندر",
-        "ku": "گەڕەکی زانیاری - نزیک پارکی شانەدەر"
-      },
-      "map_link": "https://maps.app.goo.gl/iF8jkpDTJxgDrDXi9",
-      "lat": 36.183658,
-      "lng": 44.001071,
-      "quantity": 2
-    },
-    "ATM_10": {
-      "address": {
-        "en": "Kwestan District - Shorsh Street - Near Maternity Hospital",
-        "ar": "حي كويستان - شارع شورش - مستشفى الولادة",
-        "ku": "گەڕەکی كوێستان - شەقامی شۆرش - نەخۆشخانەی لەدایکبوون"
-      },
-      "map_link": "https://maps.app.goo.gl/uHb8HQpzjgZXbhS28",
-      "lat": 36.215858,
-      "lng": 44.033632,
-      "quantity": 1
-    },
-    "ATM_11": {
-      "address": {
-        "en": "Khabat - Opposite Khabat District Governorate",
-        "ar": "خبات - قائمقامية خبات",
-        "ku": "خەبات - بەردەم قایمقامیەتی خەبات"
-      },
-      "map_link": "https://maps.app.goo.gl/CuSpE6ui2CfLY5dq5",
-      "lat": 36.267727,
-      "lng": 43.661865,
-      "quantity": 2
-    },
-    "ATM_12": {
-      "address": {
-        "en": "Behind Minaret Park - Near Erbil Governorate Council",
-        "ar": "خلف منارة بارك - قرب مجلس المحافظة",
-        "ku": "پشت پارکی مناره - نزيك ئەنجومەنی پارێزگای هەولێر"
-      },
-      "map_link": "https://maps.app.goo.gl/WFRLyft8AHdMrdmM6",
-      "lat": 36.186127,
-      "lng": 43.996687,
-      "quantity": 2
-    },
-    "ATM_13": {
-      "address": {
-        "en": "Behind Ministry of Peshmerga",
-        "ar": "خلف وزارة البيشمركة",
-        "ku": "پشت وەزارەتی پێشمەرگە"
-      },
-      "map_link": "https://maps.app.goo.gl/X71YMtGWTA5XxTUo6",
-      "lat": 36.222661,
-      "lng": 44.053413,
-      "quantity": 2
-    },
-    "ATM_14": {
-      "address": {
-        "en": "Azadi 2 Side - Opposite Nanakaly Hospital",
-        "ar": "سايدين ازادي - مقابل مستشفى ناناكلي",
-        "ku": "جووت سایدی ئازادی - بەرامبەر نەخۆشخانەی نانەکەلی"
-      },
-      "map_link": "https://maps.app.goo.gl/iuPhFoXFfEx9zADr8",
-      "lat": 36.1646197,
-      "lng": 44.0100633,
-      "quantity": 2
-    },
-    "ATM_15": {
-      "address": {
-        "en": "Zanko 2 Side - Opposite February 18 Dormitory",
-        "ar": "سايدين زانكو - مقابل من داخلية 18 شباط",
-        "ku": "جووت سایدی زانکۆ - بەردەم بەشە ناوخۆی ١٨ی شوبات"
-      },
-      "map_link": "https://maps.app.goo.gl/yhH8hJQWZpijakL76",
-      "lat": 36.1483964,
-      "lng": 44.0309628,
-      "quantity": 2
-    },
-    "ATM_16": {
-      "address": {
-        "en": "100 Meter Street - Cihan University - Newroz Neighborhood",
-        "ar": "شارع 100 م - جامعة جيهان- حي نوروز",
-        "ku": "شەقامی 100 م- زانکۆی جيهان - گەرەکی نەورۆز"
-      },
-      "map_link": "https://maps.app.goo.gl/x3wpVm98w8fzKuaE6",
-      "lat": 36.172123,
-      "lng": 43.967339,
-      "quantity": 1
-    },
-    "ATM_17": {
-      "address": {
-        "en": "100 Meter Street - Main Branch - Next to Cihan University",
-        "ar": "شارع 100م- الفرع الرئيسي– البناية المجاورة لجامعة جيهان",
-        "ku": "شەقامی 100م-لقی سەرەکی – باڵەخانەی تەنیشت زانکۆی جیهان"
-      },
-      "map_link": "https://maps.app.goo.gl/LdxT1UNkcRdMF5yS7",
-      "lat": 36.175068,
-      "lng": 43.963137,
-      "quantity": 10
-    },
-    "ATM_18": {
-      "address": {
-        "en": "100 Meter Street - Cihan Motors - Majidawa Neighborhood - Makhmur Intersection",
-        "ar": "شارع 100 م- جيهان موتور- حي ماجيداوه‌ - تقاطع طريق مخمور",
-        "ku": "شەقامی 100 م-جیهان مۆتۆرس - گەڕەکی ماجیداوه‌ -چواریانی رێگای مەخمور"
-      },
-      "map_link": "https://maps.app.goo.gl/rdiB8HBQ3TVPRTVs9",
-      "lat": 36.156059,
-      "lng": 43.991876,
-      "quantity": 1
-    },
-    "ATM_19": {
-      "address": {
-        "en": "100 Meter Street - Family Mall - Ground Floor",
-        "ar": "شارع 100 م-فاملي مول- الطابق الأرضي",
-        "ku": "شەقامی 100 م - فاملی مۆڵ - نهۆمی خوارەوە"
-      },
-      "map_link": "https://maps.app.goo.gl/q3VRKe5tinG9hjdF7",
-      "lat": 36.21026,
-      "lng": 44.046123,
-      "quantity": 1
-    },
-    "ATM_20": {
-      "address": {
-        "en": "100 Meter Street - Lebanese French University",
-        "ar": "شارع 100 م - جامعة اللبنانية الفرنسية",
-        "ku": "شەقامی 100 م - زانکۆی لوبنانی فەرەنسی"
-      },
-      "map_link": "https://maps.app.goo.gl/MypMe6qJy4xNimmYA",
-      "lat": 36.171187,
-      "lng": 43.954389,
-      "quantity": 1
-    },
-    "ATM_21": {
-      "address": {
-        "en": "100 Meter Street - Opposite College of Pharmacy",
-        "ar": "شارع 100 م - مقابل كلية الصيدلة",
-        "ku": "شەقامی 100 مەتری - بەردەم کۆلێژی دەرمانسازی"
-      },
-      "map_link": "https://maps.app.goo.gl/6nKq2AUEqCTh72D58",
-      "lat": 36.190975,
-      "lng": 44.040884,
-      "quantity": 1
-    },
-    "ATM_22": {
-      "address": {
-        "en": "100 Meter Street - Opposite Cihan Bank - Plaza Branch",
-        "ar": "شارع 100 م - مقابل مصرف جيهان - فرع بلازا",
-        "ku": "شەقامی 100 مەتری - لقی پلازا- بەرامبەر بانکی جیهان"
-      },
-      "map_link": "https://maps.app.goo.gl/We2d8j28tkYAQHfj6",
-      "lat": 36.156083,
-      "lng": 44.017945,
-      "quantity": 2
-    },
-    "ATM_23": {
-      "address": {
-        "en": "30 Meter Street - Doctors Street Intersection",
-        "ar": "شارع 30 م - تقاطع شارع الاطباء",
-        "ku": "شەقامی 30 مەتری - چواریانی شەقامی پزیشکان"
-      },
-      "map_link": "https://maps.app.goo.gl/GpBaxsxnTdEGPHuX6",
-      "lat": 36.196811,
-      "lng": 44.022098,
-      "quantity": 2
-    },
-    "ATM_24": {
-      "address": {
-        "en": "40 Meter Street - Near Rizgari Hospital",
-        "ar": "شارع 40 - بالقرب من مستشفى رزكاري",
-        "ku": "شەقامی 40 م - نزیک نەخۆشخانەی ڕزگاری"
-      },
-      "map_link": "https://maps.app.goo.gl/2Lp7eBHhYeJhE6fq8",
-      "lat": 36.1926389,
-      "lng": 44.0370278,
-      "quantity": 1
-    },
-    "ATM_25": {
-      "address": {
-        "en": "60 Meter Street - Near (Erbil Closed Swimming Pool) Holy Zard",
-        "ar": "شارع 60 م- قرب (مسبح اربيل المغلق) هولي زرد",
-        "ku": "شەقامی 60 مەتری - نزیک هۆڵی زەرد"
-      },
-      "map_link": "https://maps.app.goo.gl/sLPBeUrpK1HQBRQa8",
-      "lat": 36.193414,
-      "lng": 44.02649,
-      "quantity": 2
-    },
-    "ATM_26": {
-      "address": {
-        "en": "60 Meter Street - Ministry of Trade and Industry - Opposite Awiza Family Club",
-        "ar": "شارع 60 م- وزارة التجارة و الصناعة - مقابل نادي ئاويزة العائلي",
-        "ku": "شەقامی 60 مەتری - وەزارەتی بازرگانی و پیشەسازی - بەردەم یانەی خێزانی ئاوێزە"
-      },
-      "map_link": "https://maps.app.goo.gl/cQdmUMLVpCE8RXio6",
-      "lat": 36.1973393,
-      "lng": 44.0235066,
-      "quantity": 2
-    },
-    "ATM_27": {
-      "address": {
-        "en": "Muzaffariah Street - Near Health Directorate",
-        "ar": "شارع المظفرية - قرب مديرية الصحة",
-        "ku": "شەقامی سوڵتان مزەفەر - نزیک بەڕێوبەرایەتی تەندروستی"
-      },
-      "map_link": "https://maps.app.goo.gl/34svvT6ABL53QmiD6",
-      "lat": 36.19229402,
-      "lng": 44.00434166,
-      "quantity": 2
-    },
-    "ATM_28": {
-      "address": {
-        "en": "Old Baharka Street - Near Bayan University",
-        "ar": "شارع بحركة القديم - بالقرب من جامعة البيان",
-        "ku": "شەقامی بەحرکەی کۆن - نزیک زانکۆی بەیان"
-      },
-      "map_link": "https://maps.app.goo.gl/dj5yXWd6RWYT2gjP6",
-      "lat": 36.192274,
-      "lng": 44.00358,
-      "quantity": 2
-    },
-    "ATM_29": {
-      "address": {
-        "en": "Gulan Street - Bakhtyari District - Gulan Park Tower - Ground Floor",
-        "ar": "شارع كولان - حي بختياري - برج كولان بارك - الطابق الأرضي",
-        "ku": "شەقامی گوڵان -گەڕەکی بەختياري - تاوەری گوڵان پارك - نهۆمی خوارەوە"
-      },
-      "map_link": "https://maps.app.goo.gl/xAE4DfHy4aZMAK3AA",
-      "lat": 36.212111,
-      "lng": 43.992163,
-      "quantity": 1
-    },
-    "ATM_30": {
-      "address": {
-        "en": "Gulan Street - 40 Meter - Cihan Bank Bajger Branch - Kani District ",
-        "ar": "شارع كولان 40 م- مصرف جيهان فرع باجكر - حي كاني - ",
-        "ku": "شەقامی گوڵان 40 م -بانکی جیهان لقی باجگر - گەرەکی كانی - "
-      },
-      "map_link": "https://maps.app.goo.gl/JsHxG2pTxkGtrRJy7",
-      "lat": 36.219751,
-      "lng": 44.022483,
-      "quantity": 8
-    },
-    "ATM_31": {
-      "address": {
-        "en": "Bakhtyari Road - Opposite Ashur Bank",
-        "ar": "طريق بختياري - مقابل مصرف اشور",
-        "ku": "شەقامی بەختیاری - بەرامبەر بانکی ئاشوور"
-      },
-      "map_link": "https://maps.app.goo.gl/RJj97grgap4LdLPC6",
-      "lat": 36.20533623,
-      "lng": 43.99995981,
-      "quantity": 2
-    },
-    "ATM_32": {
-      "address": {
-        "en": "Terawa Road - Behind Hawler Mall",
-        "ar": "طريق تيراوة - خلف هولير مول",
-        "ku": "تەیراوە - پشت هەولێر مۆڵ"
-      },
-      "map_link": "https://maps.app.goo.gl/qQHoMgL86mcCFyqYA",
-      "lat": 36.196923,
-      "lng": 44.019749,
-      "quantity": 2
-    },
-    "ATM_33": {
-      "address": {
-        "en": "Terawa Road - Opposite Nihad Restaurant",
-        "ar": "طريق تيراوة - مقابل مطعم نيهاد",
-        "ku": "تەیراوە - بەرامبەر چێشتخانەی نیهاد"
-      },
-      "map_link": "https://maps.app.goo.gl/9cAkuSEVuLyGY4iA7",
-      "lat": 36.19696652,
-      "lng": 44.01460473,
-      "quantity": 2
-    },
-    "ATM_34": {
-      "address": {
-        "en": "Shorsh Road - Near Ministry of Labor and Social Affairs",
-        "ar": "طريق شورش - قرب وزارة العمل و الشؤون الاجتماعية",
-        "ku": "شەقامی شۆڕش - نزیک وەزارەتی کاروباری کۆمەڵایەتی"
-      },
-      "map_link": "https://maps.app.goo.gl/4rTo3TecLGHayiG9A",
-      "lat": 36.21161794,
-      "lng": 44.02873281,
-      "quantity": 2
-    },
-    "ATM_35": {
-      "address": {
-        "en": "Kirkuk Road - Near College of literature",
-        "ar": "طريق كركوك - بالقرب من - كلية الآداب",
-        "ku": "ڕێگای کەرکوک - کۆلێژی ئاداب"
-      },
-      "map_link": "https://maps.app.goo.gl/6ZiwNwCepwbkghXG7",
-      "lat": 36.158375,
-      "lng": 44.013769,
-      "quantity": 2
-    },
-    "ATM_36": {
-      "address": {
-        "en": "Kirkuk Road - Near Erbil Stadium (Franso Hariri)",
-        "ar": "طريق كركوك - بالقرب من ملعب اربيل (فرنسو حريري)",
-        "ku": "ڕێگای کەرکوک - نزیک یاریگای هەولێر (فرانسۆ هەریری)"
-      },
-      "map_link": "https://maps.app.goo.gl/wBUsxUiyuELBr7yS7",
-      "lat": 36.1717091,
-      "lng": 44.0109912,
-      "quantity": 2
-    },
-    "ATM_37": {
-      "address": {
-        "en": "Kirkuk Road - Plaza Branch - Mantikawe District - Next to Cihan Company",
-        "ar": "طريق كركوك - فرع بلازا - حي منتكاوه – البناية المجاورة لشركة جيهان",
-        "ku": "شەقامی كەركوك - لقی پلازا- گەرەکی مەنتکاوە – باڵەخانەی تەنیشت کۆمپانیای جيهان"
-      },
-      "map_link": "https://maps.app.goo.gl/CkmbM3ckgh69JDMQ6",
-      "lat": 36.156083,
-      "lng": 44.017945,
-      "quantity": 1
-    },
-    "ATM_38": {
-      "address": {
-        "en": "Kirkuk Road - Opposite College of Science",
-        "ar": "طريق كركوك - مقابل كلية العلوم",
-        "ku": "ڕێگای کەرکوک - بەردەم کۆلێژی زانست"
-      },
-      "map_link": "https://maps.app.goo.gl/m8Ao3FJomYL4qXq87",
-      "lat": 36.152422,
-      "lng": 44.018379,
-      "quantity": 2
-    },
-    "ATM_39": {
-      "address": {
-        "en": "Kirkuk Road - Opposite Zanko Bank",
-        "ar": "طريق كركوك - مقابل مصرف زانكو",
-        "ku": "ڕێگای کەرکوک - بەردەم بانکی زانکۆ"
-      },
-      "map_link": "https://maps.app.goo.gl/qx1PFYkmzinFa5uZ6",
-      "lat": 36.141523,
-      "lng": 44.020199,
-      "quantity": 2
-    },
-    "ATM_40": {
-      "address": {
-        "en": "Kirkuk Road - Opposite Tablo Mall",
-        "ar": "طريق كركوك - مقابل تابلو مول",
-        "ku": "ڕێگای کەرکوک - بەرامبەر تابلۆ مۆڵ"
-      },
-      "map_link": "https://maps.app.goo.gl/iRvrgMaNhYe52eio8",
-      "lat": 36.171777,
-      "lng": 44.014301,
-      "quantity": 2
-    },
-    "ATM_41": {
-      "address": {
-        "en": "Kasnazan Road - Majidi Mall - Ground Floor",
-        "ar": "طريق كسنزان - ماجدي مول - الطابق الأرضي",
-        "ku": "شەقامی کەسنەزان - ماجدی مۆڵ - نهۆمی خوارەوە"
-      },
-      "map_link": "https://maps.app.goo.gl/NnfLRZLxxPLfwCuw8",
-      "lat": 36.195767,
-      "lng": 44.064497,
-      "quantity": 1
-    },
-    "ATM_42": {
-      "address": {
-        "en": "Koysinjaq Road - Opposite Majidi Mall",
-        "ar": "طريق كويسنجق - مقابل مجدي مول",
-        "ku": "رێگای کۆیە - بەرامبەر ماجدی مۆڵ"
-      },
-      "map_link": "https://maps.app.goo.gl/W9bTh6kcgAtB4zad9",
-      "lat": 36.196908,
-      "lng": 44.061004,
-      "quantity": 2
-    },
-    "ATM_43": {
-      "address": {
-        "en": "Near Baharka Municipality",
-        "ar": "قرب بلدية بحركة",
-        "ku": "نزیک شارەوانی بەحركە"
-      },
-      "map_link": "https://maps.app.goo.gl/T9WyZWpTV8ZFSPPL8",
-      "lat": 36.3142,
-      "lng": 44.032416,
-      "quantity": 2
-    },
-    "ATM_44": {
-      "address": {
-        "en": "Near Abu Afif Sweets",
-        "ar": "قرب حلويات ابو عفيف",
-        "ku": "نزیک شیرینی ئەبو عەفیف"
-      },
-      "map_link": "https://maps.app.goo.gl/eGqw9pjFRPnyyebP8",
-      "lat": 36.196877,
-      "lng": 44.024222,
-      "quantity": 2
-    },
-    "ATM_45": {
-      "address": {
-        "en": "Near Majidi Land",
-        "ar": "قرب مجدي لاند",
-        "ku": "نزیک ماجدی لاند"
-      },
-      "map_link": "https://maps.app.goo.gl/6WddcCXD9TMXfC8QA",
-      "lat": 36.207586,
-      "lng": 44.133144,
-      "quantity": 2
-    },
-    "ATM_46": {
-      "address": {
-        "en": "Near Sardam Hospital",
-        "ar": "قرب مستشفى سردم",
-        "ku": "نزیک نەخۆشخانەی سەردەم"
-      },
-      "map_link": "https://maps.app.goo.gl/MAvYwwfjt6bmGTEPA",
-      "lat": 36.17180204,
-      "lng": 43.98067991,
-      "quantity": 2
-    },
-    "ATM_47": {
-      "address": {
-        "en": "Near Second-Hand Market",
-        "ar": "قرب من سوق البالة",
-        "ku": "نزیک بازاڕی لەنگە"
-      },
-      "map_link": "https://maps.app.goo.gl/GPf4Z4Dqj7dri62V8",
-      "lat": 36.183228,
-      "lng": 44.039748,
-      "quantity": 2
-    },
-    "ATM_48": {
-      "address": {
-        "en": "Choman District - Near Municipal Park",
-        "ar": "قضاء جومان - قرب بارك البلدية",
-        "ku": "قەزای چۆمان - نزیک پارکی قائیمقام"
-      },
-      "map_link": "https://maps.app.goo.gl/rHVCKf27zCZSCmbE6",
-      "lat": 36.6318697,
-      "lng": 44.8844412,
-      "quantity": 2
-    },
-    "ATM_49": {
-      "address": {
-        "en": "Harir District - Opposite Harir Bank",
-        "ar": "قضاء حرير - مقابل مصرف حرير",
-        "ku": "قەزای هەریر - بەردەم بانکی هەریر"
-      },
-      "map_link": "https://maps.app.goo.gl/HwuBfP4Gtg5aGj4K6",
-      "lat": 36.5487792,
-      "lng": 44.3518413,
-      "quantity": 2
-    },
-    "ATM_50": {
-      "address": {
-        "en": "Khalifan District - Opposite Fire Station",
-        "ar": "قضاء خليفان - مقابل اطفائية قضاء خليفان",
-        "ku": "قەزای خەلیفان - بەردەم بنکەی ئاگرکوژێنەوی خەلیفان"
-      },
-      "map_link": "https://maps.app.goo.gl/JuN2Tey7P8PzKVtC6",
-      "lat": 36.6040448,
-      "lng": 44.4001282,
-      "quantity": 2
-    },
-    "ATM_51": {
-      "address": {
-        "en": "Rawanduz District - Near Municipality",
-        "ar": "قضاء رواندوز - قرب بلدية رواندوز",
-        "ku": "قەزای ڕواندز - نزیک قایمقامیەتی ڕواندز"
-      },
-      "map_link": "https://maps.app.goo.gl/McYGperRF5CtC6Tx6",
-      "lat": 36.6198265,
-      "lng": 44.5331273,
-      "quantity": 2
-    },
-    "ATM_52": {
-      "address": {
-        "en": "Soran District - Azadi Neighborhood",
-        "ar": "قضاء سوران  - حي ازادي",
-        "ku": "قەزای سۆران - گەڕەکی ئازادی"
-      },
-      "map_link": "https://maps.app.goo.gl/GzBKKE8M8Aw53ezG8",
-      "lat": 36.6519063,
-      "lng": 44.534146,
-      "quantity": 2
-    },
-    "ATM_53": {
-      "address": {
-        "en": "Soran District - Near Maternity Hospital",
-        "ar": "قضاء سوران - قرب مستشفى الولادة",
-        "ku": "قەزای سۆران - نزیک نەخۆشخانەی مندالبوون"
-      },
-      "map_link": "https://maps.app.goo.gl/W5e8gtTkge729efGA",
-      "lat": 36.6375105,
-      "lng": 44.5585842,
-      "quantity": 2
-    },
-    "ATM_54": {
-      "address": {
-        "en": "Shaqlawa District - Near District Governorate",
-        "ar": "قضاء شقلاوة - قرب قائمقامية قضاء شقلاوة",
-        "ku": "شەقلاوە - نزیک قایمامیەتی شەقلاوە"
-      },
-      "map_link": "https://maps.app.goo.gl/rTsKQxnR2stA5hW89",
-      "lat": 36.40722352,
-      "lng": 44.31457093,
-      "quantity": 2
-    },
-    "ATM_55": {
-      "address": {
-        "en": "Shaqlawa District - Near Shaqlawa Grand Mosque",
-        "ar": "قضاء شقلاوة - قرب مسجد شقلاوة الكبير",
-        "ku": "شەقلاوە - نزیک مزگەوتی گەورەی شەقلاوە"
-      },
-      "map_link": "https://maps.app.goo.gl/Hy7eZMwgUKFdfpiw7",
-      "lat": 36.398267,
-      "lng": 44.329082,
-      "quantity": 2
-    },
-    "ATM_56": {
-      "address": {
-        "en": "Shaqlawa District - Opposite Shaqlawa Directorate of Education",
-        "ar": "قضاء شقلاوة - مقابل تربية شقلاوة",
-        "ku": "شەقڵاوە - بەردەم پەروەردەی شەقڵاوە"
-      },
-      "map_link": "https://maps.app.goo.gl/zPw1CfTBXetciivk8",
-      "lat": 36.409581,
-      "lng": 44.311471,
-      "quantity": 2
-    },
-    "ATM_57": {
-      "address": {
-        "en": "Sheikhan District - Opposite Sheikhan Bank",
-        "ar": "قضاء شيخان - مقابل مصرف شيخان",
-        "ku": "قەزای شێخان - نزيک بانکی شێخان"
-      },
-      "map_link": "https://maps.app.goo.gl/ERV6eZqodMQc5QkR8",
-      "lat": 36.685001,
-      "lng": 43.345133,
-      "quantity": 1
-    },
-    "ATM_58": {
-      "address": {
-        "en": "Qushtapa District - Behind Qushtapa Bank",
-        "ar": "قضاء قوشتبة - خلف مصرف قوشتبة",
-        "ku": "قەزای قوشتەپە پشت بانکی قوشتەپە"
-      },
-      "map_link": "https://maps.app.goo.gl/XwNvgi4Y5WLmffxQ8",
-      "lat": 36.0048375,
-      "lng": 44.0380141,
-      "quantity": 2
-    },
-    "ATM_59": {
-      "address": {
-        "en": "Qushtapa District - Near Municipality Head Office",
-        "ar": "قضاء قوشتبة - قرب رئاسة بلدية قوشتبة",
-        "ku": "قەزای قوشتەپە - نزیک سەرۆکایەتی شارەوانی قوشتەپە"
-      },
-      "map_link": "https://maps.app.goo.gl/woZhqzTk8HPBXUHM9",
-      "lat": 36.0034755,
-      "lng": 44.0314867,
-      "quantity": 1
-    },
-    "ATM_60": {
-      "address": {
-        "en": "Koya District - Opposite Bawaji Bank",
-        "ar": "قضاء كوية - مقابل مصرف باوجي",
-        "ku": "قەزای کۆیە - بەردەم بانکی باوەجی"
-      },
-      "map_link": "https://maps.app.goo.gl/LyC7REWJYz3z19PK6",
-      "lat": 36.081827,
-      "lng": 44.6282007,
-      "quantity": 2
-    },
-    "ATM_61": {
-      "address": {
-        "en": "Koya District - Opposite Koya Bank",
-        "ar": "قضاء كوية - مقابل مصرف كوية",
-        "ku": "قەزای کۆیە - بەردەم بانکی کۆیە"
-      },
-      "map_link": "https://maps.app.goo.gl/Ug2KvW8xdsfGJFME9",
-      "lat": 36.094279,
-      "lng": 44.638233,
-      "quantity": 2
-    },
-    "ATM_62": {
-      "address": {
-        "en": "Mergasor District - Near Mergasor Power Station",
-        "ar": "قضاء ميركسور - قرب محطة كهرباء ميركسور",
-        "ku": "قەزای مێرگەسۆر - نزیک وێستگەی کارەبای مێرگەسۆر"
-      },
-      "map_link": "https://maps.app.goo.gl/WgH7rKGywXyucmcCA",
-      "lat": 36.8515291,
-      "lng": 44.2939174,
-      "quantity": 2
-    },
-    "ATM_63": {
-      "address": {
-        "en": "Karizan - Near Ministry of Education (Training Directorate)",
-        "ar": "قضاء كاريزان - بالقرب من وزارة التربية (مديرية التدريب)",
-        "ku": "کارێزان - نزیک وەزارەتی پەروەردە (بەڕێوەبەرایەتی مەشق و ڕاهێنان)"
-      },
-      "map_link": "https://maps.app.goo.gl/5gLWGcR2kYMTdYoZA",
-      "lat": 36.16725,
-      "lng": 44.0509444,
-      "quantity": 2
-    },
-    "ATM_64": {
-      "address": {
-        "en": "Salahaddin Resort (Permam) - Gulan Street - Near Korek Telecom",
-        "ar": "مصيف صلاح الدين (بيرمام) - شارع كولان - قرب كورك تيليكوم",
-        "ku": "مەسیف پیرمام - شەقامی گوڵان - خوار کۆرەک تیلیکۆم"
-      },
-      "map_link": "https://maps.app.goo.gl/A9AdHMRJCSJXgjZB6",
-      "lat": 36.3811935,
-      "lng": 44.201235,
-      "quantity": 2
-    },
-    "ATM_65": {
-      "address": {
-        "en": "60 Meter Street - Opposite Emergency (EMC)",
-        "ar": "مقابل الطوارئ (EMC) شارع 60 م",
-        "ku": "60 م، بەردەم نەخۆشخانەی ئیمێرجنسی"
-      },
-      "map_link": "https://maps.app.goo.gl/AtpdgHScd79tLVrp7",
-      "lat": 36.199457,
-      "lng": 43.998018,
-      "quantity": 2
-    },
-    "ATM_66": {
-      "address": {
-        "en": "Opposite Zaniary Park",
-        "ar": "مقابل بارك زانياري",
-        "ku": "بەردەم پارکی زانیاری"
-      },
-      "map_link": "https://maps.app.goo.gl/hpSRWZsx8awvHGMv6",
-      "lat": 36.179102,
-      "lng": 44.008184,
-      "quantity": 2
-    },
-    "ATM_67": {
-      "address": {
-        "en": "Opposite Sami Abdulrahman Park",
-        "ar": "مقابل بارك سامي عبدالرحمن",
-        "ku": "بەرامبەر پارکی سامی عەبدولڕەحمان"
-      },
-      "map_link": "https://maps.app.goo.gl/r7N1m7rsUMniwQrf8",
-      "lat": 36.18428,
-      "lng": 43.983327,
-      "quantity": 2
-    },
-    "ATM_68": {
-      "address": {
-        "en": "Opposite Downtown",
-        "ar": "مقابل داون تاون",
-        "ku": "بەرامبەر داون تاون"
-      },
-      "map_link": "https://maps.app.goo.gl/8g9uLEsSAWDN197A9",
-      "lat": 36.18544,
-      "lng": 44.010973,
-      "quantity": 2
-    },
-    "ATM_69": {
-      "address": {
-        "en": "Opposite Rojava Emergency",
-        "ar": "مقابل طوارئ روزاوا",
-        "ku": "بەرامبەر فریاکەوتنی ڕۆژئاوا"
-      },
-      "map_link": "https://maps.app.goo.gl/7b1S3dy6PurTXaqE7",
-      "lat": 36.162153,
-      "lng": 43.968546,
-      "quantity": 1
-    },
-    "ATM_70": {
-      "address": {
-        "en": "Opposite Maternity Hospital",
-        "ar": "مقابل مستشفى الولادة",
-        "ku": "بەرامبەر نەخۆشخانەی منداڵبوون"
-      },
-      "map_link": "https://maps.app.goo.gl/mvs1h9RLGLzNJB3a7",
-      "lat": 36.21745,
-      "lng": 44.036468,
-      "quantity": 2
-    },
-    "ATM_71": {
-      "address": {
-        "en": "Opposite Erbil Mall (Hawler Mall)",
-        "ar": "مقابل مول اربيل (هولير مول)",
-        "ku": "بەرامبەر هەولێر مۆڵ"
-      },
-      "map_link": "https://maps.app.goo.gl/DUvuTp4b1GqTyXe99",
-      "lat": 36.197083,
-      "lng": 44.016722,
-      "quantity": 3
-    },
-    "ATM_72": {
-      "address": {
-        "en": "Barzan Subdistrict - Ble Road - Opposite Barzan Water Office",
-        "ar": "ناحية بارزان - بلي",
-        "ku": "نا‌حیەی بارزان - شەقامی بلێ - بەردەم فەرمانگەی ئاوی بارزان"
-      },
-      "map_link": "https://maps.app.goo.gl/9FFoaQ6EfeMYbQio9",
-      "lat": 36.8678674,
-      "lng": 44.0616733,
-      "quantity": 1
-    },
-    "ATM_73": {
-      "address": {
-        "en": "Dibga Subdistrict - Near Police Station",
-        "ar": "ناحية ديبكة - قرب مركز الشرطة",
-        "ku": "ناحیەی دیبەگە - نزیک بنکەی پۆلیس"
-      },
-      "map_link": "https://maps.app.goo.gl/etUfsZdwWrnz3sYV8",
-      "lat": 35.872683,
-      "lng": 43.810437,
-      "quantity": 2
-    },
-    "ATM_74": {
-      "address": {
-        "en": "Rovia Subdistrict - Next to Rovia Police Station",
-        "ar": "ناحية روفيا - بجوار مركز شرطة روفيا",
-        "ku": "ناحیەی ڕۆڤیا - تەنیشت بەرێوەبەرایەتی پۆلیسی ڕۆڤیا"
-      },
-      "map_link": "https://maps.app.goo.gl/V6jZes9uHUKHhJEn9",
-      "lat": 36.6187184,
-      "lng": 43.7025826,
-      "quantity": 2
-    },
-    "ATM_75": {
-      "address": {
-        "en": "Soran Subdistrict - Dailizan",
-        "ar": "قضاء سوران - ديليزيان",
-        "ku": "قەزای سۆران - دێلیزیان"
-      },
-      "map_link": "https://maps.app.goo.gl/TH4oeTLKGFRq3AkAA",
-      "lat": 36.6953747,
-      "lng": 44.5305761,
-      "quantity": 2
-    },
-    "ATM_76": {
-      "address": {
-        "en": "Taqtaq Subdistrict - Opposite Taqtaq Bank",
-        "ar": "ناحية طق طق - مقابل مصرف تق تق",
-        "ku": "نا‌حیەی تەق تەق - بەردەم بانکی تەق تەق"
-      },
-      "map_link": "https://maps.app.goo.gl/6fHe8afkWPb2WGsH9",
-      "lat": 35.885543,
-      "lng": 44.5892472,
-      "quantity": 2
-    },
-    "ATM_77": {
-      "address": {
-        "en": "Mosul Road - Presidency of Appellate Court",
-        "ar": "طريق موصل - بناية رئاسة محكمة استئناف اربيل",
-        "ku": "رێگای موسڵ - باڵەخانەی سەرۆکایەتی دادگای تێهەڵچوونەوەی هەولێر"
-      },
-      "map_link": "https://maps.app.goo.gl/AxfNPMrMKaN4aqA28",
-      "lat": 36.182181,
-      "lng": 43.98001,
-      "quantity": 1
-    },
-    "ATM_78": {
-      "address": {
-        "en": " 32 بارك - بناية مديرية الجوازات و الاقامات",
-        "ar": "طريق موصل - بناية رئاسة محكمة استئناف اربيل",
-        "ku": "ی پارک - باڵەخانەی بەڕێوبەرایەتی نشینگەی هەولێر"
-      },
-      "map_link": "https://maps.app.goo.gl/rpxKz8tUcgpfUWX17",
-      "lat": 36.181911,
-      "lng": 43.952082,
-      "quantity": 1
-    },
-    "ATM_79": {
-      "address": {
-        "en": "Faculty",
-        "ar": "هەولێر، ١٠٠ م، بەردەم کۆلێژی دەرمانسازی",
-        "ku": "هەولێر، ١٠٠ م، بەردەم کۆلێژی دەرمانسازی"
-      },
-      "map_link": "https://www.google.com/maps?q=36.1908512,44.0408913",
-      "lat": 36.190851,
-      "lng": 44.040891,
-      "quantity": 1
-    },
-    "ATM_80": {
-      "address": {
-        "en": "Zanko",
-        "ar": "هەولێر، ١٠٠ م، تەنیشت بانکی زانکۆ",
-        "ku": "هەولێر، ١٠٠ م، تەنیشت بانکی زانکۆ"
-      },
-      "map_link": "https://maps.app.goo.gl/aPBqZsmMF2UBBy6ZA",
-      "lat": 36.140639,
-      "lng": 44.020361,
-      "quantity": 1
-    },
-    "ATM_81": {
-      "address": {
-        "en": "Bahrka",
-        "ar": "هەولێر، جووتسایدی بەحرکەی کۆن، بەرامبەر قوتابخانەی زانیاری",
-        "ku": "هەولێر، جووتسایدی بەحرکەی کۆن، بەرامبەر قوتابخانەی زانیاری"
-      },
-      "map_link": "https://www.google.com/maps?q=36.217579,44.010873",
-      "lat": 36.217579,
-      "lng": 44.010873,
-      "quantity": 1
-    },
-    "ATM_82": {
-      "address": {
-        "en": "Shaqlawa",
-        "ar": "شەقڵاوە -بەردەم پەروەردەی شەقڵاوە",
-        "ku": "شەقڵاوە -بەردەم پەروەردەی شەقڵاوە"
-      },
-      "map_link": "https://maps.app.goo.gl/f1gc13i4JtnncLWF6",
-      "lat": 36.409912,
-      "lng": 44.311609,
-      "quantity": 1
-    },
-    "ATM_83": {
-      "address": {
-        "en": "Khabat",
-        "ar": "خەبات - بەردەم قایمقامیەتی خەبات",
-        "ku": "خەبات - بەردەم قایمقامیەتی خەبات"
-      },
-      "map_link": "https://maps.app.goo.gl/4gcxSHMto613vhiL6",
-      "lat": 36.268443,
-      "lng": 43.662053,
-      "quantity": 1
-    },
-    "ATM_84": {
-      "address": {
-        "en": "Shirin",
-        "ar": "هەولێر، شەقامی منارە، بەردەم ئەنجومەنی پارێزگای هەولێر",
-        "ku": "هەولێر، شەقامی منارە، بەردەم ئەنجومەنی پارێزگای هەولێر"
-      },
-      "map_link": "https://www.google.com/maps?q=36.1862248669774,43.9968166441773",
-      "lat": 36.186225,
-      "lng": 43.996817,
-      "quantity": 1
-    },
-    "ATM_85": {
-      "address": {
-        "en": "Shirin",
-        "ar": "هەولێر، شەقامی ٦٠ م، بەردەم یەکێتی زانایانی ئیسلامی کوردستان",
-        "ku": "هەولێر، شەقامی ٦٠ م، بەردەم یەکێتی زانایانی ئیسلامی کوردستان"
-      },
-      "map_link": "https://maps.app.goo.gl/rpeDdqCqWHtEkd5d8",
-      "lat": 36.189603,
-      "lng": 43.993261,
-      "quantity": 1
-    },
-    "ATM_86": {
-      "address": {
-        "en": "Sarwaran",
-        "ar": "هەولێر، سەروەران، نزیک بانکی سەروەران",
-        "ku": "هەولێر، سەروەران، نزیک بانکی سەروەران"
-      },
-      "map_link": "https://www.google.com/maps?q=36.1780885628,44.0110764576709",
-      "lat": 36.178089,
-      "lng": 44.011076,
-      "quantity": 1
-    },
-    "ATM_87": {
-      "address": {
-        "en": "Sarwaran",
-        "ar": "هەولێر، ٣٠ م، نزیک زانکۆی کوردستان",
-        "ku": "هەولێر، ٣٠ م، نزیک زانکۆی کوردستان"
-      },
-      "map_link": "https://maps.app.goo.gl/Pi9aj5wUibGFeb6n6",
-      "lat": 36.179463,
-      "lng": 44.008215,
-      "quantity": 1
-    },
-    "ATM_88": {
-      "address": {
-        "en": "Qalat",
-        "ar": "هەولێر، شەقامی نەورۆز، خوار نەخۆشخانەی پاکی",
-        "ku": "هەولێر، شەقامی نەورۆز، خوار نەخۆشخانەی پاکی"
-      },
-      "map_link": "https://maps.app.goo.gl/L4KQu3eTVJKGjdjd7",
-      "lat": 36.172011,
-      "lng": 43.980704,
-      "quantity": 1
-    },
-    "ATM_89": {
-      "address": {
-        "en": "Qalat",
-        "ar": "هەولێر، ١٠٠ م، بەردەم بانکی قەڵات",
-        "ku": "هەولێر، ١٠٠ م، بەردەم بانکی قەڵات"
-      },
-      "map_link": "https://www.google.com/maps?q=36.162326,43.968797",
-      "lat": 36.162326,
-      "lng": 43.968797,
-      "quantity": 1
-    },
-    "ATM_90": {
-      "address": {
-        "en": "Nishtiman",
-        "ar": "هەولێر، خوار پاڕکی شار، بەرامبەر بازاڕی نیشتیمان",
-        "ku": "هەولێر، خوار پاڕکی شار، بەرامبەر بازاڕی نیشتیمان"
-      },
-      "map_link": "https://www.google.com/maps?q=36.1854875002407,44.0110076233124",
-      "lat": 36.185488,
-      "lng": 44.011008,
-      "quantity": 1
-    },
-    "ATM_91": {
-      "address": {
-        "en": "Shorsh",
-        "ar": "هەولێر، شەقامی شۆڕش، بەرامبەر نەخۆشخانەی لەدایکبوون",
-        "ku": "هەولێر، شەقامی شۆڕش، بەرامبەر نەخۆشخانەی لەدایکبوون"
-      },
-      "map_link": "https://www.google.com/maps?q=36.217502,44.036646",
-      "lat": 36.217502,
-      "lng": 44.036646,
-      "quantity": 1
-    },
-    "ATM_92": {
-      "address": {
-        "en": "Dween",
-        "ar": "هەولێر، ٦٠ م، بەردەم وەزارەتی بازرگانی و پیشەسازی",
-        "ku": "هەولێر، ٦٠ م، بەردەم وەزارەتی بازرگانی و پیشەسازی"
-      },
-      "map_link": "https://www.google.com/maps?q=36.1970113619418,44.0245681018941",
-      "lat": 36.197011,
-      "lng": 44.024568,
-      "quantity": 1
-    },
-    "ATM_93": {
-      "address": {
-        "en": "Langa",
-        "ar": "هەولێر، ١٠٠م - بەرامبەر بازاڕی لەنگە",
-        "ku": "هەولێر، ١٠٠م - بەرامبەر بازاڕی لەنگە"
-      },
-      "map_link": "https://www.google.com/maps?q=36.182534,44.039466",
-      "lat": 36.182534,
-      "lng": 44.039466,
-      "quantity": 1
-    },
-    "ATM_94": {
-      "address": {
-        "en": "Bnslawa",
-        "ar": "بەردەم بانکی بنسلاوە",
-        "ku": "بەردەم بانکی بنسلاوە"
-      },
-      "map_link": "https://maps.app.goo.gl/uogDjpTTWEeX61j56",
-      "lat": 36.158894,
-      "lng": 44.125065,
-      "quantity": 1
-    },
-    "ATM_95": {
-      "address": {
-        "en": "Bahrka",
-        "ar": "هەولێر، بەحرکە، خوار مزگەوتی ڕەشید گەردی",
-        "ku": "هەولێر، بەحرکە، خوار مزگەوتی ڕەشید گەردی"
-      },
-      "map_link": "https://maps.app.goo.gl/Gv1anJGbMqjoN2BD9",
-      "lat": 36.315413,
-      "lng": 44.032767,
-      "quantity": 1
-    },
-    "ATM_96": {
-      "address": {
-        "en": "Kasnazan",
-        "ar": "هەولێر، ڕێگای کەسنەزان، بەرامبەر ماجیدی لاند",
-        "ku": "هەولێر، ڕێگای کەسنەزان، بەرامبەر ماجیدی لاند"
-      },
-      "map_link": "https://www.google.com/maps?q=36.2087242864953,44.1395175141665",
-      "lat": 36.208724,
-      "lng": 44.139518,
-      "quantity": 1
-    },
-    "ATM_97": {
-      "address": {
-        "en": "Wow",
-        "ar": "هەولێر، ١٠٠ م، بەرامبەر زانکۆی جیهان، واو تاوەرس",
-        "ku": "هەولێر، ١٠٠ م، بەرامبەر زانکۆی جیهان، واو تاوەرس"
-      },
-      "map_link": "https://www.google.com/maps?q=36.1728012237727,43.962126",
-      "lat": 36.172801,
-      "lng": 43.962126,
-      "quantity": 1
-    },
-    "ATM_98": {
-      "address": {
-        "en": "Mahkama",
-        "ar": "هەولێر، ڕێگای موسڵ-هەولێر، نزیک دادگای تێهەڵچوونەوە",
-        "ku": "هەولێر، ڕێگای موسڵ-هەولێر، نزیک دادگای تێهەڵچوونەوە"
-      },
-      "map_link": "https://maps.app.goo.gl/hK84kyjgbYctPX5Y8",
-      "lat": 36.184333,
-      "lng": 43.983298,
-      "quantity": 1
-    },
-    "ATM_99": {
-      "address": {
-        "en": "Van",
-        "ar": "هەولێر، ٦٠ م، پشت هۆتێل ڤان ڕۆیال",
-        "ku": "هەولێر، ٦٠ م، پشت هۆتێل ڤان ڕۆیال"
-      },
-      "map_link": "https://www.google.com/maps?q=36.199533425148,44.0221136515255",
-      "lat": 36.199533,
-      "lng": 44.022114,
-      "quantity": 1
-    },
-    "ATM_100": {
-      "address": {
-        "en": "Tayrawa",
-        "ar": "هەولێر، ٣٠ م، چواریانی شەقامی پزیشکان و تەیراوە",
-        "ku": "هەولێر، ٣٠ م، چواریانی شەقامی پزیشکان و تەیراوە"
-      },
-      "map_link": "https://maps.app.goo.gl/6BLN9qZsf1Wffzeo8",
-      "lat": 36.19646,
-      "lng": 44.003722,
-      "quantity": 1
-    },
-    "ATM_101": {
-      "address": {
-        "en": "60m",
-        "ar": "هەولێر، ٦٠ م، بەردەم نەخۆشخانەی ئیمێرجنسی",
-        "ku": "هەولێر، ٦٠ م، بەردەم نەخۆشخانەی ئیمێرجنسی"
-      },
-      "map_link": "https://maps.app.goo.gl/atE197ge8S4oMVBu6",
-      "lat": 36.199864,
-      "lng": 43.998103,
-      "quantity": 1
-    },
-    "ATM_102": {
-      "address": {
-        "en": "Near",
-        "ar": "هەولێر، پشت وەزارەتی پێشمەرگە",
-        "ku": "هەولێر، پشت وەزارەتی پێشمەرگە"
-      },
-      "map_link": "https://maps.app.goo.gl/pjSo1ZrbSd9pPCBP7",
-      "lat": 36.224065,
-      "lng": 44.054361,
-      "quantity": 1
-    },
-    "ATM_103": {
-      "address": {
-        "en": "Soran",
-        "ar": "سۆران - بەردەم نەخۆشخانەی لەدایکبوون",
-        "ku": "سۆران - بەردەم نەخۆشخانەی لەدایکبوون"
-      },
-      "map_link": "https://maps.app.goo.gl/2DfhCgcCvbn2k8uS7",
-      "lat": 36.63757,
-      "lng": 44.558545,
-      "quantity": 1
-    },
-    "ATM_104": {
-      "address": {
-        "en": "qushtapa",
-        "ar": "قوشتەپە - پشت بانکی قوشتەپە",
-        "ku": "قوشتەپە - پشت بانکی قوشتەپە"
-      },
-      "map_link": "https://www.google.com/maps?q=36.004982,44.038091",
-      "lat": 36.004982,
-      "lng": 44.038091,
-      "quantity": 1
-    },
-    "ATM_105": {
-      "address": {
-        "en": "Koye",
-        "ar": "کۆیە- بەردەم بانکی باوەجی",
-        "ku": "کۆیە- بەردەم بانکی باوەجی"
-      },
-      "map_link": "https://www.google.com/maps?q=36.082249,44.628393",
-      "lat": 36.082249,
-      "lng": 44.628393,
-      "quantity": 1
-    },
-    "ATM_106": {
-      "address": {
-        "en": "Khalifan",
-        "ar": "خەلیفان-بەردەم  بنکەی ئاگرکوژێنەوەی خەلیفان",
-        "ku": "خەلیفان-بەردەم  بنکەی ئاگرکوژێنەوەی خەلیفان"
-      },
-      "map_link": "https://maps.app.goo.gl/GVn8iWhm2YVFfQ48A",
-      "lat": 36.604243,
-      "lng": 44.400573,
-      "quantity": 1
-    },
-    "ATM_107": {
-      "address": {
-        "en": "Taqtaq",
-        "ar": "تەق تەق - بەردەم بانکی تەق تەق",
-        "ku": "تەق تەق - بەردەم بانکی تەق تەق"
-      },
-      "map_link": "https://www.google.com/maps?q=35.885781,44.589217",
-      "lat": 35.885781,
-      "lng": 44.589217,
-      "quantity": 1
-    },
-    "ATM_108": {
-      "address": {
-        "en": "Harir",
-        "ar": "هەریر- بەردەم بانکی هەریر",
-        "ku": "هەریر- بەردەم بانکی هەریر"
-      },
-      "map_link": "https://www.google.com/maps?q=36.54897,44.3517461",
-      "lat": 36.54897,
-      "lng": 44.351746,
-      "quantity": 1
-    },
-    "ATM_109": {
-      "address": {
-        "en": "Koya",
-        "ar": "هەولێر -بەرامبەر ماجیدی مۆل",
-        "ku": "هەولێر -بەرامبەر ماجیدی مۆل"
-      },
-      "map_link": "https://maps.app.goo.gl/oLn8gTTUNXtnbCL8A",
-      "lat": 36.196908,
-      "lng": 44.060999,
-      "quantity": 1
-    },
-    "ATM_110": {
-      "address": {
-        "en": "Komari",
-        "ar": "هەولێر- نەخۆشخانەی کۆماری",
-        "ku": "هەولێر- نەخۆشخانەی کۆماری"
-      },
-      "map_link": "https://maps.app.goo.gl/jPv5DSg3KG2ktT6F7",
-      "lat": 36.197771,
-      "lng": 44.019336,
-      "quantity": 1
-    },
-    "ATM_111": {
-      "address": {
-        "en": "Choman",
-        "ar": "چۆمان- نزیک پارکی قائیمقام",
-        "ku": "چۆمان- نزیک پارکی قائیمقام"
-      },
-      "map_link": "https://maps.app.goo.gl/2VKHB1zu8HA6xB9d6",
-      "lat": 36.63189,
-      "lng": 44.884451,
-      "quantity": 1
-    },
-    "ATM_112": {
-      "address": {
-        "en": "Koye",
-        "ar": "کۆیە - بەردەم  بانکی کۆیە",
-        "ku": "کۆیە - بەردەم  بانکی کۆیە"
-      },
-      "map_link": "https://maps.app.goo.gl/YVT7ZsAFfrhJL6gdA",
-      "lat": 36.092083,
-      "lng": 44.639102,
-      "quantity": 1
-    },
-    "ATM_113": {
-      "address": {
-        "en": "Rwandz",
-        "ar": "رەواندز - نزیک قایمقامیەتی رەواندز",
-        "ku": "رەواندز - نزیک قایمقامیەتی رەواندز"
-      },
-      "map_link": "https://maps.app.goo.gl/NsAv5dvCB96jhsCz5",
-      "lat": 36.619854,
-      "lng": 44.533141,
-      "quantity": 1
-    },
-    "ATM_114": {
-      "address": {
-        "en": "Mergasur",
-        "ar": "مێرگەسۆر- نزیک وێستگەی کارەبای مێرگەسۆر",
-        "ku": "مێرگەسۆر- نزیک وێستگەی کارەبای مێرگەسۆر"
-      },
-      "map_link": "https://www.google.com/maps?q=36.851543,44.293915",
-      "lat": 36.851543,
-      "lng": 44.293915,
-      "quantity": 1
-    },
-    "ATM_115": {
-      "address": {
-        "en": "Soran",
-        "ar": "سۆران - بەردەم بانکی ئازادی",
-        "ku": "سۆران - بەردەم بانکی ئازادی"
-      },
-      "map_link": "https://maps.app.goo.gl/FxJRvEJY9iXPVbU67",
-      "lat": 36.652008,
-      "lng": 44.534052,
-      "quantity": 1
-    },
-    "ATM_116": {
-      "address": {
-        "en": "Delzya",
-        "ar": "سۆران، دێلزیا- بەردەم کۆلێژی تەکنیکی سۆران",
-        "ku": "سۆران، دێلزیا- بەردەم کۆلێژی تەکنیکی سۆران"
-      },
-      "map_link": "https://maps.app.goo.gl/xHAbMnzHajbhUse77",
-      "lat": 36.695411,
-      "lng": 44.530562,
-      "quantity": 1
-    },
-    "ATM_117": {
-      "address": {
-        "en": "Qushtapa",
-        "ar": "قوشتەپە - نزیک سەرۆکایەتی شارەوانی قوشتەپە",
-        "ku": "قوشتەپە - نزیک سەرۆکایەتی شارەوانی قوشتەپە"
-      },
-      "map_link": "https://www.google.com/maps?q=36.0035887,44.03157634",
-      "lat": 36.003589,
-      "lng": 44.031576,
-      "quantity": 1
-    },
-    "ATM_118": {
-      "address": {
-        "en": "Dibaga",
-        "ar": "دێبەگە - نزیک بنکەی پۆلیس",
-        "ku": "دێبەگە - نزیک بنکەی پۆلیس"
-      },
-      "map_link": "https://maps.app.goo.gl/ceLtzxNycJSNP2Mk6",
-      "lat": 35.873114,
-      "lng": 43.808093,
-      "quantity": 1
-    }
+[
+  {
+    "id": "ATM_1",
+    "title": "Opposite to Chwar Chra Hotel - Near Sarwran Bank",
+    "address": {
+      "en": "Opposite to Chwar Chra Hotel - Near Sarwran Bank",
+      "ar": "الفرع المقابل لفندق چوارچرا - قرب مصرف سروران",
+      "ku": "نزیک هۆتێل جوارجرا - نزیک بانکی سەروەران"
+    },
+    "latitude": 36.178063,
+    "longitude": 44.011356,
+    "map_link": "https://maps.app.goo.gl/Pd96BDasFsBTccpJ9",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_2",
+    "title": "Bardarash - Opposite Afrin Park",
+    "address": {
+      "en": "Bardarash - Opposite Afrin Park",
+      "ar": "بردرش - مقابل افرين بارك",
+      "ku": "بەردەڕەش - بەرامبەر پاركي ئەفرين"
+    },
+    "latitude": 36.519468,
+    "longitude": 43.587746,
+    "map_link": "https://maps.app.goo.gl/dUTWUhf6dmR71n7e9",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_3",
+    "title": "Benslawa - Opposite Benslawa Bank",
+    "address": {
+      "en": "Benslawa - Opposite Benslawa Bank",
+      "ar": "بنصلاوة - مقابل مصرف بنصلاوة",
+      "ku": "بنەسڵاوە - بەردەم بانکی بنسلاوە"
+    },
+    "latitude": 36.158977,
+    "longitude": 44.124767,
+    "map_link": "https://maps.app.goo.gl/cNnAGnqCnde1VwxZ9",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_4",
+    "title": "Region Bank (Central Bank) - Zaniary District - Opposite Shandar Park",
+    "address": {
+      "en": "Region Bank (Central Bank) - Zaniary District - Opposite Shandar Park",
+      "ar": "بنك الاقليم (البنك المركزي)- حي زانياري - مقابل بارك شاندر",
+      "ku": "بانكي هەرێم (بانكي ناوەندی)- گەڕەکی زانياري - بەرامبەر پاڕكي شانەدەر"
+    },
+    "latitude": 36.185086,
+    "longitude": 44.002146,
+    "map_link": "https://maps.app.goo.gl/i32TQGLtUyJFcNREA",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_5",
+    "title": "Mosul Road Intersection - Opposite Zanayan Radio",
+    "address": {
+      "en": "Mosul Road Intersection - Opposite Zanayan Radio",
+      "ar": "تقاطع طريق الموصل - مقابل اذاعة زانايان",
+      "ku": "چوارڕێیانی جادەی موسڵ - بەردەم ڕادیۆی زانایان"
+    },
+    "latitude": 36.189246,
+    "longitude": 43.993299,
+    "map_link": "https://maps.app.goo.gl/CQDh823623E4exPd8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_6",
+    "title": "Shorsh Bridge - Near Van Royal Hotel",
+    "address": {
+      "en": "Shorsh Bridge - Near Van Royal Hotel",
+      "ar": "جسر شورش - قرب فندق فان رويال",
+      "ku": "پردی شۆرش - نزیک هۆتێل ڤان ڕۆیاڵ"
+    },
+    "latitude": 36.19942,
+    "longitude": 44.022148,
+    "map_link": "https://maps.app.goo.gl/Ty8FRHbvcQLGViMh6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_7",
+    "title": "Rasty Neighborhood - Cihan City",
+    "address": {
+      "en": "Rasty Neighborhood - Cihan City",
+      "ar": "حي عدالة- جيهان سيتي",
+      "ku": "گەڕەکی ڕاستی - جیهان سیتی"
+    },
+    "latitude": 36.137647,
+    "longitude": 44.016215,
+    "map_link": "https://maps.app.goo.gl/hBkkEX3JJCYMdHRo9",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_8",
+    "title": "Azadi District - Near Azadi Mosque",
+    "address": {
+      "en": "Azadi District - Near Azadi Mosque",
+      "ar": "حي ازادي - قرب مسجد ازادي",
+      "ku": "گەڕەکی ئازادی - نزیک مزگەوتی گەورەی ئازادی"
+    },
+    "latitude": 36.16936695,
+    "longitude": 44.00996915,
+    "map_link": "https://maps.app.goo.gl/WuQBiFyuGpr6LVb2A",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_9",
+    "title": "Zaniary District - Near Shandar Park",
+    "address": {
+      "en": "Zaniary District - Near Shandar Park",
+      "ar": "حي زانياري - قرب بارك شاندر",
+      "ku": "گەڕەکی زانیاری - نزیک پارکی شانەدەر"
+    },
+    "latitude": 36.183658,
+    "longitude": 44.001071,
+    "map_link": "https://maps.app.goo.gl/iF8jkpDTJxgDrDXi9",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_10",
+    "title": "Kwestan District - Shorsh Street - Near Maternity Hospital",
+    "address": {
+      "en": "Kwestan District - Shorsh Street - Near Maternity Hospital",
+      "ar": "حي كويستان - شارع شورش - مستشفى الولادة",
+      "ku": "گەڕەکی كوێستان - شەقامی شۆرش - نەخۆشخانەی لەدایکبوون"
+    },
+    "latitude": 36.215858,
+    "longitude": 44.033632,
+    "map_link": "https://maps.app.goo.gl/uHb8HQpzjgZXbhS28",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_11",
+    "title": "Khabat - Opposite Khabat District Governorate",
+    "address": {
+      "en": "Khabat - Opposite Khabat District Governorate",
+      "ar": "خبات - قائمقامية خبات",
+      "ku": "خەبات - بەردەم قایمقامیەتی خەبات"
+    },
+    "latitude": 36.267727,
+    "longitude": 43.661865,
+    "map_link": "https://maps.app.goo.gl/CuSpE6ui2CfLY5dq5",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_12",
+    "title": "Behind Minaret Park - Near Erbil Governorate Council",
+    "address": {
+      "en": "Behind Minaret Park - Near Erbil Governorate Council",
+      "ar": "خلف منارة بارك - قرب مجلس المحافظة",
+      "ku": "پشت پارکی مناره - نزيك ئەنجومەنی پارێزگای هەولێر"
+    },
+    "latitude": 36.186127,
+    "longitude": 43.996687,
+    "map_link": "https://maps.app.goo.gl/WFRLyft8AHdMrdmM6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_13",
+    "title": "Behind Ministry of Peshmerga",
+    "address": {
+      "en": "Behind Ministry of Peshmerga",
+      "ar": "خلف وزارة البيشمركة",
+      "ku": "پشت وەزارەتی پێشمەرگە"
+    },
+    "latitude": 36.222661,
+    "longitude": 44.053413,
+    "map_link": "https://maps.app.goo.gl/X71YMtGWTA5XxTUo6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_14",
+    "title": "Azadi 2 Side - Opposite Nanakaly Hospital",
+    "address": {
+      "en": "Azadi 2 Side - Opposite Nanakaly Hospital",
+      "ar": "سايدين ازادي - مقابل مستشفى ناناكلي",
+      "ku": "جووت سایدی ئازادی - بەرامبەر نەخۆشخانەی نانەکەلی"
+    },
+    "latitude": 36.1646197,
+    "longitude": 44.0100633,
+    "map_link": "https://maps.app.goo.gl/iuPhFoXFfEx9zADr8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_15",
+    "title": "Zanko 2 Side - Opposite February 18 Dormitory",
+    "address": {
+      "en": "Zanko 2 Side - Opposite February 18 Dormitory",
+      "ar": "سايدين زانكو - مقابل من داخلية 18 شباط",
+      "ku": "جووت سایدی زانکۆ - بەردەم بەشە ناوخۆی ١٨ی شوبات"
+    },
+    "latitude": 36.1483964,
+    "longitude": 44.0309628,
+    "map_link": "https://maps.app.goo.gl/yhH8hJQWZpijakL76",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_16",
+    "title": "100 Meter Street - Cihan University - Newroz Neighborhood",
+    "address": {
+      "en": "100 Meter Street - Cihan University - Newroz Neighborhood",
+      "ar": "شارع 100 م - جامعة جيهان- حي نوروز",
+      "ku": "شەقامی 100 م- زانکۆی جيهان - گەرەکی نەورۆز"
+    },
+    "latitude": 36.172123,
+    "longitude": 43.967339,
+    "map_link": "https://maps.app.goo.gl/x3wpVm98w8fzKuaE6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_17",
+    "title": "100 Meter Street - Main Branch - Next to Cihan University",
+    "address": {
+      "en": "100 Meter Street - Main Branch - Next to Cihan University",
+      "ar": "شارع 100م- الفرع الرئيسي– البناية المجاورة لجامعة جيهان",
+      "ku": "شەقامی 100م-لقی سەرەکی – باڵەخانەی تەنیشت زانکۆی جیهان"
+    },
+    "latitude": 36.175068,
+    "longitude": 43.963137,
+    "map_link": "https://maps.app.goo.gl/LdxT1UNkcRdMF5yS7",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_18",
+    "title": "100 Meter Street - Cihan Motors - Majidawa Neighborhood - Makhmur Intersection",
+    "address": {
+      "en": "100 Meter Street - Cihan Motors - Majidawa Neighborhood - Makhmur Intersection",
+      "ar": "شارع 100 م- جيهان موتور- حي ماجيداوه‌ - تقاطع طريق مخمور",
+      "ku": "شەقامی 100 م-جیهان مۆتۆرس - گەڕەکی ماجیداوه‌ -چواریانی رێگای مەخمور"
+    },
+    "latitude": 36.156059,
+    "longitude": 43.991876,
+    "map_link": "https://maps.app.goo.gl/rdiB8HBQ3TVPRTVs9",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_19",
+    "title": "100 Meter Street - Family Mall - Ground Floor",
+    "address": {
+      "en": "100 Meter Street - Family Mall - Ground Floor",
+      "ar": "شارع 100 م-فاملي مول- الطابق الأرضي",
+      "ku": "شەقامی 100 م - فاملی مۆڵ - نهۆمی خوارەوە"
+    },
+    "latitude": 36.21026,
+    "longitude": 44.046123,
+    "map_link": "https://maps.app.goo.gl/q3VRKe5tinG9hjdF7",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_20",
+    "title": "100 Meter Street - Lebanese French University",
+    "address": {
+      "en": "100 Meter Street - Lebanese French University",
+      "ar": "شارع 100 م - جامعة اللبنانية الفرنسية",
+      "ku": "شەقامی 100 م - زانکۆی لوبنانی فەرەنسی"
+    },
+    "latitude": 36.171187,
+    "longitude": 43.954389,
+    "map_link": "https://maps.app.goo.gl/MypMe6qJy4xNimmYA",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_21",
+    "title": "100 Meter Street - Opposite College of Pharmacy",
+    "address": {
+      "en": "100 Meter Street - Opposite College of Pharmacy",
+      "ar": "شارع 100 م - مقابل كلية الصيدلة",
+      "ku": "شەقامی 100 مەتری - بەردەم کۆلێژی دەرمانسازی"
+    },
+    "latitude": 36.190975,
+    "longitude": 44.040884,
+    "map_link": "https://maps.app.goo.gl/6nKq2AUEqCTh72D58",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_22",
+    "title": "100 Meter Street - Opposite Cihan Bank - Plaza Branch",
+    "address": {
+      "en": "100 Meter Street - Opposite Cihan Bank - Plaza Branch",
+      "ar": "شارع 100 م - مقابل مصرف جيهان - فرع بلازا",
+      "ku": "شەقامی 100 مەتری - لقی پلازا- بەرامبەر بانکی جیهان"
+    },
+    "latitude": 36.156083,
+    "longitude": 44.017945,
+    "map_link": "https://maps.app.goo.gl/We2d8j28tkYAQHfj6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_23",
+    "title": "30 Meter Street - Doctors Street Intersection",
+    "address": {
+      "en": "30 Meter Street - Doctors Street Intersection",
+      "ar": "شارع 30 م - تقاطع شارع الاطباء",
+      "ku": "شەقامی 30 مەتری - چواریانی شەقامی پزیشکان"
+    },
+    "latitude": 36.196811,
+    "longitude": 44.022098,
+    "map_link": "https://maps.app.goo.gl/GpBaxsxnTdEGPHuX6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_24",
+    "title": "40 Meter Street - Near Rizgari Hospital",
+    "address": {
+      "en": "40 Meter Street - Near Rizgari Hospital",
+      "ar": "شارع 40 - بالقرب من مستشفى رزكاري",
+      "ku": "شەقامی 40 م - نزیک نەخۆشخانەی ڕزگاری"
+    },
+    "latitude": 36.1926389,
+    "longitude": 44.0370278,
+    "map_link": "https://maps.app.goo.gl/2Lp7eBHhYeJhE6fq8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_25",
+    "title": "60 Meter Street - Near (Erbil Closed Swimming Pool) Holy Zard",
+    "address": {
+      "en": "60 Meter Street - Near (Erbil Closed Swimming Pool) Holy Zard",
+      "ar": "شارع 60 م- قرب (مسبح اربيل المغلق) هولي زرد",
+      "ku": "شەقامی 60 مەتری - نزیک هۆڵی زەرد"
+    },
+    "latitude": 36.193414,
+    "longitude": 44.02649,
+    "map_link": "https://maps.app.goo.gl/sLPBeUrpK1HQBRQa8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_26",
+    "title": "60 Meter Street - Ministry of Trade and Industry - Opposite Awiza Family Club",
+    "address": {
+      "en": "60 Meter Street - Ministry of Trade and Industry - Opposite Awiza Family Club",
+      "ar": "شارع 60 م- وزارة التجارة و الصناعة - مقابل نادي ئاويزة العائلي",
+      "ku": "شەقامی 60 مەتری - وەزارەتی بازرگانی و پیشەسازی - بەردەم یانەی خێزانی ئاوێزە"
+    },
+    "latitude": 36.1973393,
+    "longitude": 44.0235066,
+    "map_link": "https://maps.app.goo.gl/cQdmUMLVpCE8RXio6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_27",
+    "title": "Muzaffariah Street - Near Health Directorate",
+    "address": {
+      "en": "Muzaffariah Street - Near Health Directorate",
+      "ar": "شارع المظفرية - قرب مديرية الصحة",
+      "ku": "شەقامی سوڵتان مزەفەر - نزیک بەڕێوبەرایەتی تەندروستی"
+    },
+    "latitude": 36.19229402,
+    "longitude": 44.00434166,
+    "map_link": "https://maps.app.goo.gl/34svvT6ABL53QmiD6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_28",
+    "title": "Old Baharka Street - Near Bayan University",
+    "address": {
+      "en": "Old Baharka Street - Near Bayan University",
+      "ar": "شارع بحركة القديم - بالقرب من جامعة البيان",
+      "ku": "شەقامی بەحرکەی کۆن - نزیک زانکۆی بەیان"
+    },
+    "latitude": 36.192274,
+    "longitude": 44.00358,
+    "map_link": "https://maps.app.goo.gl/dj5yXWd6RWYT2gjP6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_29",
+    "title": "Gulan Street - Bakhtyari District - Gulan Park Tower - Ground Floor",
+    "address": {
+      "en": "Gulan Street - Bakhtyari District - Gulan Park Tower - Ground Floor",
+      "ar": "شارع كولان - حي بختياري - برج كولان بارك - الطابق الأرضي",
+      "ku": "شەقامی گوڵان -گەڕەکی بەختياري - تاوەری گوڵان پارك - نهۆمی خوارەوە"
+    },
+    "latitude": 36.212111,
+    "longitude": 43.992163,
+    "map_link": "https://maps.app.goo.gl/xAE4DfHy4aZMAK3AA",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_30",
+    "title": "Gulan Street - 40 Meter - Cihan Bank Bajger Branch - Kani District ",
+    "address": {
+      "en": "Gulan Street - 40 Meter - Cihan Bank Bajger Branch - Kani District ",
+      "ar": "شارع كولان 40 م- مصرف جيهان فرع باجكر - حي كاني - ",
+      "ku": "شەقامی گوڵان 40 م -بانکی جیهان لقی باجگر - گەرەکی كانی - "
+    },
+    "latitude": 36.219751,
+    "longitude": 44.022483,
+    "map_link": "https://maps.app.goo.gl/JsHxG2pTxkGtrRJy7",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_31",
+    "title": "Bakhtyari Road - Opposite Ashur Bank",
+    "address": {
+      "en": "Bakhtyari Road - Opposite Ashur Bank",
+      "ar": "طريق بختياري - مقابل مصرف اشور",
+      "ku": "شەقامی بەختیاری - بەرامبەر بانکی ئاشوور"
+    },
+    "latitude": 36.20533623,
+    "longitude": 43.99995981,
+    "map_link": "https://maps.app.goo.gl/RJj97grgap4LdLPC6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_32",
+    "title": "Terawa Road - Behind Hawler Mall",
+    "address": {
+      "en": "Terawa Road - Behind Hawler Mall",
+      "ar": "طريق تيراوة - خلف هولير مول",
+      "ku": "تەیراوە - پشت هەولێر مۆڵ"
+    },
+    "latitude": 36.196923,
+    "longitude": 44.019749,
+    "map_link": "https://maps.app.goo.gl/qQHoMgL86mcCFyqYA",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_33",
+    "title": "Terawa Road - Opposite Nihad Restaurant",
+    "address": {
+      "en": "Terawa Road - Opposite Nihad Restaurant",
+      "ar": "طريق تيراوة - مقابل مطعم نيهاد",
+      "ku": "تەیراوە - بەرامبەر چێشتخانەی نیهاد"
+    },
+    "latitude": 36.19696652,
+    "longitude": 44.01460473,
+    "map_link": "https://maps.app.goo.gl/9cAkuSEVuLyGY4iA7",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_34",
+    "title": "Shorsh Road - Near Ministry of Labor and Social Affairs",
+    "address": {
+      "en": "Shorsh Road - Near Ministry of Labor and Social Affairs",
+      "ar": "طريق شورش - قرب وزارة العمل و الشؤون الاجتماعية",
+      "ku": "شەقامی شۆڕش - نزیک وەزارەتی کاروباری کۆمەڵایەتی"
+    },
+    "latitude": 36.21161794,
+    "longitude": 44.02873281,
+    "map_link": "https://maps.app.goo.gl/4rTo3TecLGHayiG9A",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_35",
+    "title": "Kirkuk Road - Near College of literature",
+    "address": {
+      "en": "Kirkuk Road - Near College of literature",
+      "ar": "طريق كركوك - بالقرب من - كلية الآداب",
+      "ku": "ڕێگای کەرکوک - کۆلێژی ئاداب"
+    },
+    "latitude": 36.158375,
+    "longitude": 44.013769,
+    "map_link": "https://maps.app.goo.gl/6ZiwNwCepwbkghXG7",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_36",
+    "title": "Kirkuk Road - Near Erbil Stadium (Franso Hariri)",
+    "address": {
+      "en": "Kirkuk Road - Near Erbil Stadium (Franso Hariri)",
+      "ar": "طريق كركوك - بالقرب من ملعب اربيل (فرنسو حريري)",
+      "ku": "ڕێگای کەرکوک - نزیک یاریگای هەولێر (فرانسۆ هەریری)"
+    },
+    "latitude": 36.1717091,
+    "longitude": 44.0109912,
+    "map_link": "https://maps.app.goo.gl/wBUsxUiyuELBr7yS7",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_37",
+    "title": "Kirkuk Road - Plaza Branch - Mantikawe District - Next to Cihan Company",
+    "address": {
+      "en": "Kirkuk Road - Plaza Branch - Mantikawe District - Next to Cihan Company",
+      "ar": "طريق كركوك - فرع بلازا - حي منتكاوه – البناية المجاورة لشركة جيهان",
+      "ku": "شەقامی كەركوك - لقی پلازا- گەرەکی مەنتکاوە – باڵەخانەی تەنیشت کۆمپانیای جيهان"
+    },
+    "latitude": 36.156083,
+    "longitude": 44.017945,
+    "map_link": "https://maps.app.goo.gl/CkmbM3ckgh69JDMQ6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_38",
+    "title": "Kirkuk Road - Opposite College of Science",
+    "address": {
+      "en": "Kirkuk Road - Opposite College of Science",
+      "ar": "طريق كركوك - مقابل كلية العلوم",
+      "ku": "ڕێگای کەرکوک - بەردەم کۆلێژی زانست"
+    },
+    "latitude": 36.152422,
+    "longitude": 44.018379,
+    "map_link": "https://maps.app.goo.gl/m8Ao3FJomYL4qXq87",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_39",
+    "title": "Kirkuk Road - Opposite Zanko Bank",
+    "address": {
+      "en": "Kirkuk Road - Opposite Zanko Bank",
+      "ar": "طريق كركوك - مقابل مصرف زانكو",
+      "ku": "ڕێگای کەرکوک - بەردەم بانکی زانکۆ"
+    },
+    "latitude": 36.141523,
+    "longitude": 44.020199,
+    "map_link": "https://maps.app.goo.gl/qx1PFYkmzinFa5uZ6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_40",
+    "title": "Kirkuk Road - Opposite Tablo Mall",
+    "address": {
+      "en": "Kirkuk Road - Opposite Tablo Mall",
+      "ar": "طريق كركوك - مقابل تابلو مول",
+      "ku": "ڕێگای کەرکوک - بەرامبەر تابلۆ مۆڵ"
+    },
+    "latitude": 36.171777,
+    "longitude": 44.014301,
+    "map_link": "https://maps.app.goo.gl/iRvrgMaNhYe52eio8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_41",
+    "title": "Kasnazan Road - Majidi Mall - Ground Floor",
+    "address": {
+      "en": "Kasnazan Road - Majidi Mall - Ground Floor",
+      "ar": "طريق كسنزان - ماجدي مول - الطابق الأرضي",
+      "ku": "شەقامی کەسنەزان - ماجدی مۆڵ - نهۆمی خوارەوە"
+    },
+    "latitude": 36.195767,
+    "longitude": 44.064497,
+    "map_link": "https://maps.app.goo.gl/NnfLRZLxxPLfwCuw8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_42",
+    "title": "Koysinjaq Road - Opposite Majidi Mall",
+    "address": {
+      "en": "Koysinjaq Road - Opposite Majidi Mall",
+      "ar": "طريق كويسنجق - مقابل مجدي مول",
+      "ku": "رێگای کۆیە - بەرامبەر ماجدی مۆڵ"
+    },
+    "latitude": 36.196908,
+    "longitude": 44.061004,
+    "map_link": "https://maps.app.goo.gl/W9bTh6kcgAtB4zad9",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_43",
+    "title": "Near Baharka Municipality",
+    "address": {
+      "en": "Near Baharka Municipality",
+      "ar": "قرب بلدية بحركة",
+      "ku": "نزیک شارەوانی بەحركە"
+    },
+    "latitude": 36.3142,
+    "longitude": 44.032416,
+    "map_link": "https://maps.app.goo.gl/T9WyZWpTV8ZFSPPL8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_44",
+    "title": "Near Abu Afif Sweets",
+    "address": {
+      "en": "Near Abu Afif Sweets",
+      "ar": "قرب حلويات ابو عفيف",
+      "ku": "نزیک شیرینی ئەبو عەفیف"
+    },
+    "latitude": 36.196877,
+    "longitude": 44.024222,
+    "map_link": "https://maps.app.goo.gl/eGqw9pjFRPnyyebP8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_45",
+    "title": "Near Majidi Land",
+    "address": {
+      "en": "Near Majidi Land",
+      "ar": "قرب مجدي لاند",
+      "ku": "نزیک ماجدی لاند"
+    },
+    "latitude": 36.207586,
+    "longitude": 44.133144,
+    "map_link": "https://maps.app.goo.gl/6WddcCXD9TMXfC8QA",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_46",
+    "title": "Near Sardam Hospital",
+    "address": {
+      "en": "Near Sardam Hospital",
+      "ar": "قرب مستشفى سردم",
+      "ku": "نزیک نەخۆشخانەی سەردەم"
+    },
+    "latitude": 36.17180204,
+    "longitude": 43.98067991,
+    "map_link": "https://maps.app.goo.gl/MAvYwwfjt6bmGTEPA",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_47",
+    "title": "Near Second-Hand Market",
+    "address": {
+      "en": "Near Second-Hand Market",
+      "ar": "قرب من سوق البالة",
+      "ku": "نزیک بازاڕی لەنگە"
+    },
+    "latitude": 36.183228,
+    "longitude": 44.039748,
+    "map_link": "https://maps.app.goo.gl/GPf4Z4Dqj7dri62V8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_48",
+    "title": "Choman District - Near Municipal Park",
+    "address": {
+      "en": "Choman District - Near Municipal Park",
+      "ar": "قضاء جومان - قرب بارك البلدية",
+      "ku": "قەزای چۆمان - نزیک پارکی قائیمقام"
+    },
+    "latitude": 36.6318697,
+    "longitude": 44.8844412,
+    "map_link": "https://maps.app.goo.gl/rHVCKf27zCZSCmbE6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_49",
+    "title": "Harir District - Opposite Harir Bank",
+    "address": {
+      "en": "Harir District - Opposite Harir Bank",
+      "ar": "قضاء حرير - مقابل مصرف حرير",
+      "ku": "قەزای هەریر - بەردەم بانکی هەریر"
+    },
+    "latitude": 36.5487792,
+    "longitude": 44.3518413,
+    "map_link": "https://maps.app.goo.gl/HwuBfP4Gtg5aGj4K6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_50",
+    "title": "Khalifan District - Opposite Fire Station",
+    "address": {
+      "en": "Khalifan District - Opposite Fire Station",
+      "ar": "قضاء خليفان - مقابل اطفائية قضاء خليفان",
+      "ku": "قەزای خەلیفان - بەردەم بنکەی ئاگرکوژێنەوی خەلیفان"
+    },
+    "latitude": 36.6040448,
+    "longitude": 44.4001282,
+    "map_link": "https://maps.app.goo.gl/JuN2Tey7P8PzKVtC6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_51",
+    "title": "Rawanduz District - Near Municipality",
+    "address": {
+      "en": "Rawanduz District - Near Municipality",
+      "ar": "قضاء رواندوز - قرب بلدية رواندوز",
+      "ku": "قەزای ڕواندز - نزیک قایمقامیەتی ڕواندز"
+    },
+    "latitude": 36.6198265,
+    "longitude": 44.5331273,
+    "map_link": "https://maps.app.goo.gl/McYGperRF5CtC6Tx6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_52",
+    "title": "Soran District - Azadi Neighborhood",
+    "address": {
+      "en": "Soran District - Azadi Neighborhood",
+      "ar": "قضاء سوران  - حي ازادي",
+      "ku": "قەزای سۆران - گەڕەکی ئازادی"
+    },
+    "latitude": 36.6519063,
+    "longitude": 44.534146,
+    "map_link": "https://maps.app.goo.gl/GzBKKE8M8Aw53ezG8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_53",
+    "title": "Soran District - Near Maternity Hospital",
+    "address": {
+      "en": "Soran District - Near Maternity Hospital",
+      "ar": "قضاء سوران - قرب مستشفى الولادة",
+      "ku": "قەزای سۆران - نزیک نەخۆشخانەی مندالبوون"
+    },
+    "latitude": 36.6375105,
+    "longitude": 44.5585842,
+    "map_link": "https://maps.app.goo.gl/W5e8gtTkge729efGA",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_54",
+    "title": "Shaqlawa District - Near District Governorate",
+    "address": {
+      "en": "Shaqlawa District - Near District Governorate",
+      "ar": "قضاء شقلاوة - قرب قائمقامية قضاء شقلاوة",
+      "ku": "شەقلاوە - نزیک قایمامیەتی شەقلاوە"
+    },
+    "latitude": 36.40722352,
+    "longitude": 44.31457093,
+    "map_link": "https://maps.app.goo.gl/rTsKQxnR2stA5hW89",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_55",
+    "title": "Shaqlawa District - Near Shaqlawa Grand Mosque",
+    "address": {
+      "en": "Shaqlawa District - Near Shaqlawa Grand Mosque",
+      "ar": "قضاء شقلاوة - قرب مسجد شقلاوة الكبير",
+      "ku": "شەقلاوە - نزیک مزگەوتی گەورەی شەقلاوە"
+    },
+    "latitude": 36.398267,
+    "longitude": 44.329082,
+    "map_link": "https://maps.app.goo.gl/Hy7eZMwgUKFdfpiw7",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_56",
+    "title": "Shaqlawa District - Opposite Shaqlawa Directorate of Education",
+    "address": {
+      "en": "Shaqlawa District - Opposite Shaqlawa Directorate of Education",
+      "ar": "قضاء شقلاوة - مقابل تربية شقلاوة",
+      "ku": "شەقڵاوە - بەردەم پەروەردەی شەقڵاوە"
+    },
+    "latitude": 36.409581,
+    "longitude": 44.311471,
+    "map_link": "https://maps.app.goo.gl/zPw1CfTBXetciivk8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_57",
+    "title": "Sheikhan District - Opposite Sheikhan Bank",
+    "address": {
+      "en": "Sheikhan District - Opposite Sheikhan Bank",
+      "ar": "قضاء شيخان - مقابل مصرف شيخان",
+      "ku": "قەزای شێخان - نزيک بانکی شێخان"
+    },
+    "latitude": 36.685001,
+    "longitude": 43.345133,
+    "map_link": "https://maps.app.goo.gl/ERV6eZqodMQc5QkR8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_58",
+    "title": "Qushtapa District - Behind Qushtapa Bank",
+    "address": {
+      "en": "Qushtapa District - Behind Qushtapa Bank",
+      "ar": "قضاء قوشتبة - خلف مصرف قوشتبة",
+      "ku": "قەزای قوشتەپە پشت بانکی قوشتەپە"
+    },
+    "latitude": 36.0048375,
+    "longitude": 44.0380141,
+    "map_link": "https://maps.app.goo.gl/XwNvgi4Y5WLmffxQ8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_59",
+    "title": "Qushtapa District - Near Municipality Head Office",
+    "address": {
+      "en": "Qushtapa District - Near Municipality Head Office",
+      "ar": "قضاء قوشتبة - قرب رئاسة بلدية قوشتبة",
+      "ku": "قەزای قوشتەپە - نزیک سەرۆکایەتی شارەوانی قوشتەپە"
+    },
+    "latitude": 36.0034755,
+    "longitude": 44.0314867,
+    "map_link": "https://maps.app.goo.gl/woZhqzTk8HPBXUHM9",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_60",
+    "title": "Koya District - Opposite Bawaji Bank",
+    "address": {
+      "en": "Koya District - Opposite Bawaji Bank",
+      "ar": "قضاء كوية - مقابل مصرف باوجي",
+      "ku": "قەزای کۆیە - بەردەم بانکی باوەجی"
+    },
+    "latitude": 36.081827,
+    "longitude": 44.6282007,
+    "map_link": "https://maps.app.goo.gl/LyC7REWJYz3z19PK6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_61",
+    "title": "Koya District - Opposite Koya Bank",
+    "address": {
+      "en": "Koya District - Opposite Koya Bank",
+      "ar": "قضاء كوية - مقابل مصرف كوية",
+      "ku": "قەزای کۆیە - بەردەم بانکی کۆیە"
+    },
+    "latitude": 36.094279,
+    "longitude": 44.638233,
+    "map_link": "https://maps.app.goo.gl/Ug2KvW8xdsfGJFME9",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_62",
+    "title": "Mergasor District - Near Mergasor Power Station",
+    "address": {
+      "en": "Mergasor District - Near Mergasor Power Station",
+      "ar": "قضاء ميركسور - قرب محطة كهرباء ميركسور",
+      "ku": "قەزای مێرگەسۆر - نزیک وێستگەی کارەبای مێرگەسۆر"
+    },
+    "latitude": 36.8515291,
+    "longitude": 44.2939174,
+    "map_link": "https://maps.app.goo.gl/WgH7rKGywXyucmcCA",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_63",
+    "title": "Karizan - Near Ministry of Education (Training Directorate)",
+    "address": {
+      "en": "Karizan - Near Ministry of Education (Training Directorate)",
+      "ar": "قضاء كاريزان - بالقرب من وزارة التربية (مديرية التدريب)",
+      "ku": "کارێزان - نزیک وەزارەتی پەروەردە (بەڕێوەبەرایەتی مەشق و ڕاهێنان)"
+    },
+    "latitude": 36.16725,
+    "longitude": 44.0509444,
+    "map_link": "https://maps.app.goo.gl/5gLWGcR2kYMTdYoZA",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_64",
+    "title": "Salahaddin Resort (Permam) - Gulan Street - Near Korek Telecom",
+    "address": {
+      "en": "Salahaddin Resort (Permam) - Gulan Street - Near Korek Telecom",
+      "ar": "مصيف صلاح الدين (بيرمام) - شارع كولان - قرب كورك تيليكوم",
+      "ku": "مەسیف پیرمام - شەقامی گوڵان - خوار کۆرەک تیلیکۆم"
+    },
+    "latitude": 36.3811935,
+    "longitude": 44.201235,
+    "map_link": "https://maps.app.goo.gl/A9AdHMRJCSJXgjZB6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_65",
+    "title": "60 Meter Street - Opposite Emergency (EMC)",
+    "address": {
+      "en": "60 Meter Street - Opposite Emergency (EMC)",
+      "ar": "مقابل الطوارئ (EMC) شارع 60 م",
+      "ku": "60 م، بەردەم نەخۆشخانەی ئیمێرجنسی"
+    },
+    "latitude": 36.199457,
+    "longitude": 43.998018,
+    "map_link": "https://maps.app.goo.gl/AtpdgHScd79tLVrp7",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_66",
+    "title": "Opposite Zaniary Park",
+    "address": {
+      "en": "Opposite Zaniary Park",
+      "ar": "مقابل بارك زانياري",
+      "ku": "بەردەم پارکی زانیاری"
+    },
+    "latitude": 36.179102,
+    "longitude": 44.008184,
+    "map_link": "https://maps.app.goo.gl/hpSRWZsx8awvHGMv6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_67",
+    "title": "Opposite Sami Abdulrahman Park",
+    "address": {
+      "en": "Opposite Sami Abdulrahman Park",
+      "ar": "مقابل بارك سامي عبدالرحمن",
+      "ku": "بەرامبەر پارکی سامی عەبدولڕەحمان"
+    },
+    "latitude": 36.18428,
+    "longitude": 43.983327,
+    "map_link": "https://maps.app.goo.gl/r7N1m7rsUMniwQrf8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_68",
+    "title": "Opposite Downtown",
+    "address": {
+      "en": "Opposite Downtown",
+      "ar": "مقابل داون تاون",
+      "ku": "بەرامبەر داون تاون"
+    },
+    "latitude": 36.18544,
+    "longitude": 44.010973,
+    "map_link": "https://maps.app.goo.gl/8g9uLEsSAWDN197A9",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_69",
+    "title": "Opposite Rojava Emergency",
+    "address": {
+      "en": "Opposite Rojava Emergency",
+      "ar": "مقابل طوارئ روزاوا",
+      "ku": "بەرامبەر فریاکەوتنی ڕۆژئاوا"
+    },
+    "latitude": 36.162153,
+    "longitude": 43.968546,
+    "map_link": "https://maps.app.goo.gl/7b1S3dy6PurTXaqE7",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_70",
+    "title": "Opposite Maternity Hospital",
+    "address": {
+      "en": "Opposite Maternity Hospital",
+      "ar": "مقابل مستشفى الولادة",
+      "ku": "بەرامبەر نەخۆشخانەی منداڵبوون"
+    },
+    "latitude": 36.21745,
+    "longitude": 44.036468,
+    "map_link": "https://maps.app.goo.gl/mvs1h9RLGLzNJB3a7",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_71",
+    "title": "Opposite Erbil Mall (Hawler Mall)",
+    "address": {
+      "en": "Opposite Erbil Mall (Hawler Mall)",
+      "ar": "مقابل مول اربيل (هولير مول)",
+      "ku": "بەرامبەر هەولێر مۆڵ"
+    },
+    "latitude": 36.197083,
+    "longitude": 44.016722,
+    "map_link": "https://maps.app.goo.gl/DUvuTp4b1GqTyXe99",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_72",
+    "title": "Barzan Subdistrict - Ble Road - Opposite Barzan Water Office",
+    "address": {
+      "en": "Barzan Subdistrict - Ble Road - Opposite Barzan Water Office",
+      "ar": "ناحية بارزان - بلي",
+      "ku": "نا‌حیەی بارزان - شەقامی بلێ - بەردەم فەرمانگەی ئاوی بارزان"
+    },
+    "latitude": 36.8678674,
+    "longitude": 44.0616733,
+    "map_link": "https://maps.app.goo.gl/9FFoaQ6EfeMYbQio9",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_73",
+    "title": "Dibga Subdistrict - Near Police Station",
+    "address": {
+      "en": "Dibga Subdistrict - Near Police Station",
+      "ar": "ناحية ديبكة - قرب مركز الشرطة",
+      "ku": "ناحیەی دیبەگە - نزیک بنکەی پۆلیس"
+    },
+    "latitude": 35.872683,
+    "longitude": 43.810437,
+    "map_link": "https://maps.app.goo.gl/etUfsZdwWrnz3sYV8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_74",
+    "title": "Rovia Subdistrict - Next to Rovia Police Station",
+    "address": {
+      "en": "Rovia Subdistrict - Next to Rovia Police Station",
+      "ar": "ناحية روفيا - بجوار مركز شرطة روفيا",
+      "ku": "ناحیەی ڕۆڤیا - تەنیشت بەرێوەبەرایەتی پۆلیسی ڕۆڤیا"
+    },
+    "latitude": 36.6187184,
+    "longitude": 43.7025826,
+    "map_link": "https://maps.app.goo.gl/V6jZes9uHUKHhJEn9",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_75",
+    "title": "Soran Subdistrict - Dailizan",
+    "address": {
+      "en": "Soran Subdistrict - Dailizan",
+      "ar": "قضاء سوران - ديليزيان",
+      "ku": "قەزای سۆران - دێلیزیان"
+    },
+    "latitude": 36.6953747,
+    "longitude": 44.5305761,
+    "map_link": "https://maps.app.goo.gl/TH4oeTLKGFRq3AkAA",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_76",
+    "title": "Taqtaq Subdistrict - Opposite Taqtaq Bank",
+    "address": {
+      "en": "Taqtaq Subdistrict - Opposite Taqtaq Bank",
+      "ar": "ناحية طق طق - مقابل مصرف تق تق",
+      "ku": "نا‌حیەی تەق تەق - بەردەم بانکی تەق تەق"
+    },
+    "latitude": 35.885543,
+    "longitude": 44.5892472,
+    "map_link": "https://maps.app.goo.gl/6fHe8afkWPb2WGsH9",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_77",
+    "title": "Mosul Road - Presidency of Appellate Court",
+    "address": {
+      "en": "Mosul Road - Presidency of Appellate Court",
+      "ar": "طريق موصل - بناية رئاسة محكمة استئناف اربيل",
+      "ku": "رێگای موسڵ - باڵەخانەی سەرۆکایەتی دادگای تێهەڵچوونەوەی هەولێر"
+    },
+    "latitude": 36.182181,
+    "longitude": 43.98001,
+    "map_link": "https://maps.app.goo.gl/AxfNPMrMKaN4aqA28",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_78",
+    "title": " 32 بارك - بناية مديرية الجوازات و الاقامات",
+    "address": {
+      "en": " 32 بارك - بناية مديرية الجوازات و الاقامات",
+      "ar": "طريق موصل - بناية رئاسة محكمة استئناف اربيل",
+      "ku": "ی پارک - باڵەخانەی بەڕێوبەرایەتی نشینگەی هەولێر"
+    },
+    "latitude": 36.181911,
+    "longitude": 43.952082,
+    "map_link": "https://maps.app.goo.gl/rpxKz8tUcgpfUWX17",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_79",
+    "title": "Faculty",
+    "address": {
+      "en": "Faculty",
+      "ar": "هەولێر، ١٠٠ م، بەردەم کۆلێژی دەرمانسازی",
+      "ku": "هەولێر، ١٠٠ م، بەردەم کۆلێژی دەرمانسازی"
+    },
+    "latitude": 36.190851,
+    "longitude": 44.040891,
+    "map_link": "https://www.google.com/maps?q=36.1908512,44.0408913",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_80",
+    "title": "Zanko",
+    "address": {
+      "en": "Zanko",
+      "ar": "هەولێر، ١٠٠ م، تەنیشت بانکی زانکۆ",
+      "ku": "هەولێر، ١٠٠ م، تەنیشت بانکی زانکۆ"
+    },
+    "latitude": 36.140639,
+    "longitude": 44.020361,
+    "map_link": "https://maps.app.goo.gl/aPBqZsmMF2UBBy6ZA",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_81",
+    "title": "Bahrka",
+    "address": {
+      "en": "Bahrka",
+      "ar": "هەولێر، جووتسایدی بەحرکەی کۆن، بەرامبەر قوتابخانەی زانیاری",
+      "ku": "هەولێر، جووتسایدی بەحرکەی کۆن، بەرامبەر قوتابخانەی زانیاری"
+    },
+    "latitude": 36.217579,
+    "longitude": 44.010873,
+    "map_link": "https://www.google.com/maps?q=36.217579,44.010873",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_82",
+    "title": "Shaqlawa",
+    "address": {
+      "en": "Shaqlawa",
+      "ar": "شەقڵاوە -بەردەم پەروەردەی شەقڵاوە",
+      "ku": "شەقڵاوە -بەردەم پەروەردەی شەقڵاوە"
+    },
+    "latitude": 36.409912,
+    "longitude": 44.311609,
+    "map_link": "https://maps.app.goo.gl/f1gc13i4JtnncLWF6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_83",
+    "title": "Khabat",
+    "address": {
+      "en": "Khabat",
+      "ar": "خەبات - بەردەم قایمقامیەتی خەبات",
+      "ku": "خەبات - بەردەم قایمقامیەتی خەبات"
+    },
+    "latitude": 36.268443,
+    "longitude": 43.662053,
+    "map_link": "https://maps.app.goo.gl/4gcxSHMto613vhiL6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_84",
+    "title": "Shirin",
+    "address": {
+      "en": "Shirin",
+      "ar": "هەولێر، شەقامی منارە، بەردەم ئەنجومەنی پارێزگای هەولێر",
+      "ku": "هەولێر، شەقامی منارە، بەردەم ئەنجومەنی پارێزگای هەولێر"
+    },
+    "latitude": 36.186225,
+    "longitude": 43.996817,
+    "map_link": "https://www.google.com/maps?q=36.1862248669774,43.9968166441773",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_85",
+    "title": "Shirin",
+    "address": {
+      "en": "Shirin",
+      "ar": "هەولێر، شەقامی ٦٠ م، بەردەم یەکێتی زانایانی ئیسلامی کوردستان",
+      "ku": "هەولێر، شەقامی ٦٠ م، بەردەم یەکێتی زانایانی ئیسلامی کوردستان"
+    },
+    "latitude": 36.189603,
+    "longitude": 43.993261,
+    "map_link": "https://maps.app.goo.gl/rpeDdqCqWHtEkd5d8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_86",
+    "title": "Sarwaran",
+    "address": {
+      "en": "Sarwaran",
+      "ar": "هەولێر، سەروەران، نزیک بانکی سەروەران",
+      "ku": "هەولێر، سەروەران، نزیک بانکی سەروەران"
+    },
+    "latitude": 36.178089,
+    "longitude": 44.011076,
+    "map_link": "https://www.google.com/maps?q=36.1780885628,44.0110764576709",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_87",
+    "title": "Sarwaran",
+    "address": {
+      "en": "Sarwaran",
+      "ar": "هەولێر، ٣٠ م، نزیک زانکۆی کوردستان",
+      "ku": "هەولێر، ٣٠ م، نزیک زانکۆی کوردستان"
+    },
+    "latitude": 36.179463,
+    "longitude": 44.008215,
+    "map_link": "https://maps.app.goo.gl/Pi9aj5wUibGFeb6n6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_88",
+    "title": "Qalat",
+    "address": {
+      "en": "Qalat",
+      "ar": "هەولێر، شەقامی نەورۆز، خوار نەخۆشخانەی پاکی",
+      "ku": "هەولێر، شەقامی نەورۆز، خوار نەخۆشخانەی پاکی"
+    },
+    "latitude": 36.172011,
+    "longitude": 43.980704,
+    "map_link": "https://maps.app.goo.gl/L4KQu3eTVJKGjdjd7",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_89",
+    "title": "Qalat",
+    "address": {
+      "en": "Qalat",
+      "ar": "هەولێر، ١٠٠ م، بەردەم بانکی قەڵات",
+      "ku": "هەولێر، ١٠٠ م، بەردەم بانکی قەڵات"
+    },
+    "latitude": 36.162326,
+    "longitude": 43.968797,
+    "map_link": "https://www.google.com/maps?q=36.162326,43.968797",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_90",
+    "title": "Nishtiman",
+    "address": {
+      "en": "Nishtiman",
+      "ar": "هەولێر، خوار پاڕکی شار، بەرامبەر بازاڕی نیشتیمان",
+      "ku": "هەولێر، خوار پاڕکی شار، بەرامبەر بازاڕی نیشتیمان"
+    },
+    "latitude": 36.185488,
+    "longitude": 44.011008,
+    "map_link": "https://www.google.com/maps?q=36.1854875002407,44.0110076233124",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_91",
+    "title": "Shorsh",
+    "address": {
+      "en": "Shorsh",
+      "ar": "هەولێر، شەقامی شۆڕش، بەرامبەر نەخۆشخانەی لەدایکبوون",
+      "ku": "هەولێر، شەقامی شۆڕش، بەرامبەر نەخۆشخانەی لەدایکبوون"
+    },
+    "latitude": 36.217502,
+    "longitude": 44.036646,
+    "map_link": "https://www.google.com/maps?q=36.217502,44.036646",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_92",
+    "title": "Dween",
+    "address": {
+      "en": "Dween",
+      "ar": "هەولێر، ٦٠ م، بەردەم وەزارەتی بازرگانی و پیشەسازی",
+      "ku": "هەولێر، ٦٠ م، بەردەم وەزارەتی بازرگانی و پیشەسازی"
+    },
+    "latitude": 36.197011,
+    "longitude": 44.024568,
+    "map_link": "https://www.google.com/maps?q=36.1970113619418,44.0245681018941",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_93",
+    "title": "Langa",
+    "address": {
+      "en": "Langa",
+      "ar": "هەولێر، ١٠٠م - بەرامبەر بازاڕی لەنگە",
+      "ku": "هەولێر، ١٠٠م - بەرامبەر بازاڕی لەنگە"
+    },
+    "latitude": 36.182534,
+    "longitude": 44.039466,
+    "map_link": "https://www.google.com/maps?q=36.182534,44.039466",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_94",
+    "title": "Bnslawa",
+    "address": {
+      "en": "Bnslawa",
+      "ar": "بەردەم بانکی بنسلاوە",
+      "ku": "بەردەم بانکی بنسلاوە"
+    },
+    "latitude": 36.158894,
+    "longitude": 44.125065,
+    "map_link": "https://maps.app.goo.gl/uogDjpTTWEeX61j56",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_95",
+    "title": "Bahrka",
+    "address": {
+      "en": "Bahrka",
+      "ar": "هەولێر، بەحرکە، خوار مزگەوتی ڕەشید گەردی",
+      "ku": "هەولێر، بەحرکە، خوار مزگەوتی ڕەشید گەردی"
+    },
+    "latitude": 36.315413,
+    "longitude": 44.032767,
+    "map_link": "https://maps.app.goo.gl/Gv1anJGbMqjoN2BD9",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_96",
+    "title": "Kasnazan",
+    "address": {
+      "en": "Kasnazan",
+      "ar": "هەولێر، ڕێگای کەسنەزان، بەرامبەر ماجیدی لاند",
+      "ku": "هەولێر، ڕێگای کەسنەزان، بەرامبەر ماجیدی لاند"
+    },
+    "latitude": 36.208724,
+    "longitude": 44.139518,
+    "map_link": "https://www.google.com/maps?q=36.2087242864953,44.1395175141665",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_97",
+    "title": "Wow",
+    "address": {
+      "en": "Wow",
+      "ar": "هەولێر، ١٠٠ م، بەرامبەر زانکۆی جیهان، واو تاوەرس",
+      "ku": "هەولێر، ١٠٠ م، بەرامبەر زانکۆی جیهان، واو تاوەرس"
+    },
+    "latitude": 36.172801,
+    "longitude": 43.962126,
+    "map_link": "https://www.google.com/maps?q=36.1728012237727,43.962126",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_98",
+    "title": "Mahkama",
+    "address": {
+      "en": "Mahkama",
+      "ar": "هەولێر، ڕێگای موسڵ-هەولێر، نزیک دادگای تێهەڵچوونەوە",
+      "ku": "هەولێر، ڕێگای موسڵ-هەولێر، نزیک دادگای تێهەڵچوونەوە"
+    },
+    "latitude": 36.184333,
+    "longitude": 43.983298,
+    "map_link": "https://maps.app.goo.gl/hK84kyjgbYctPX5Y8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_99",
+    "title": "Van",
+    "address": {
+      "en": "Van",
+      "ar": "هەولێر، ٦٠ م، پشت هۆتێل ڤان ڕۆیال",
+      "ku": "هەولێر، ٦٠ م، پشت هۆتێل ڤان ڕۆیال"
+    },
+    "latitude": 36.199533,
+    "longitude": 44.022114,
+    "map_link": "https://www.google.com/maps?q=36.199533425148,44.0221136515255",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_100",
+    "title": "Tayrawa",
+    "address": {
+      "en": "Tayrawa",
+      "ar": "هەولێر، ٣٠ م، چواریانی شەقامی پزیشکان و تەیراوە",
+      "ku": "هەولێر، ٣٠ م، چواریانی شەقامی پزیشکان و تەیراوە"
+    },
+    "latitude": 36.19646,
+    "longitude": 44.003722,
+    "map_link": "https://maps.app.goo.gl/6BLN9qZsf1Wffzeo8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_101",
+    "title": "60m",
+    "address": {
+      "en": "60m",
+      "ar": "هەولێر، ٦٠ م، بەردەم نەخۆشخانەی ئیمێرجنسی",
+      "ku": "هەولێر، ٦٠ م، بەردەم نەخۆشخانەی ئیمێرجنسی"
+    },
+    "latitude": 36.199864,
+    "longitude": 43.998103,
+    "map_link": "https://maps.app.goo.gl/atE197ge8S4oMVBu6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_102",
+    "title": "Near",
+    "address": {
+      "en": "Near",
+      "ar": "هەولێر، پشت وەزارەتی پێشمەرگە",
+      "ku": "هەولێر، پشت وەزارەتی پێشمەرگە"
+    },
+    "latitude": 36.224065,
+    "longitude": 44.054361,
+    "map_link": "https://maps.app.goo.gl/pjSo1ZrbSd9pPCBP7",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_103",
+    "title": "Soran",
+    "address": {
+      "en": "Soran",
+      "ar": "سۆران - بەردەم نەخۆشخانەی لەدایکبوون",
+      "ku": "سۆران - بەردەم نەخۆشخانەی لەدایکبوون"
+    },
+    "latitude": 36.63757,
+    "longitude": 44.558545,
+    "map_link": "https://maps.app.goo.gl/2DfhCgcCvbn2k8uS7",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_104",
+    "title": "qushtapa",
+    "address": {
+      "en": "qushtapa",
+      "ar": "قوشتەپە - پشت بانکی قوشتەپە",
+      "ku": "قوشتەپە - پشت بانکی قوشتەپە"
+    },
+    "latitude": 36.004982,
+    "longitude": 44.038091,
+    "map_link": "https://www.google.com/maps?q=36.004982,44.038091",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_105",
+    "title": "Koye",
+    "address": {
+      "en": "Koye",
+      "ar": "کۆیە- بەردەم بانکی باوەجی",
+      "ku": "کۆیە- بەردەم بانکی باوەجی"
+    },
+    "latitude": 36.082249,
+    "longitude": 44.628393,
+    "map_link": "https://www.google.com/maps?q=36.082249,44.628393",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_106",
+    "title": "Khalifan",
+    "address": {
+      "en": "Khalifan",
+      "ar": "خەلیفان-بەردەم  بنکەی ئاگرکوژێنەوەی خەلیفان",
+      "ku": "خەلیفان-بەردەم  بنکەی ئاگرکوژێنەوەی خەلیفان"
+    },
+    "latitude": 36.604243,
+    "longitude": 44.400573,
+    "map_link": "https://maps.app.goo.gl/GVn8iWhm2YVFfQ48A",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_107",
+    "title": "Taqtaq",
+    "address": {
+      "en": "Taqtaq",
+      "ar": "تەق تەق - بەردەم بانکی تەق تەق",
+      "ku": "تەق تەق - بەردەم بانکی تەق تەق"
+    },
+    "latitude": 35.885781,
+    "longitude": 44.589217,
+    "map_link": "https://www.google.com/maps?q=35.885781,44.589217",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_108",
+    "title": "Harir",
+    "address": {
+      "en": "Harir",
+      "ar": "هەریر- بەردەم بانکی هەریر",
+      "ku": "هەریر- بەردەم بانکی هەریر"
+    },
+    "latitude": 36.54897,
+    "longitude": 44.351746,
+    "map_link": "https://www.google.com/maps?q=36.54897,44.3517461",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_109",
+    "title": "Koya",
+    "address": {
+      "en": "Koya",
+      "ar": "هەولێر -بەرامبەر ماجیدی مۆل",
+      "ku": "هەولێر -بەرامبەر ماجیدی مۆل"
+    },
+    "latitude": 36.196908,
+    "longitude": 44.060999,
+    "map_link": "https://maps.app.goo.gl/oLn8gTTUNXtnbCL8A",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_110",
+    "title": "Komari",
+    "address": {
+      "en": "Komari",
+      "ar": "هەولێر- نەخۆشخانەی کۆماری",
+      "ku": "هەولێر- نەخۆشخانەی کۆماری"
+    },
+    "latitude": 36.197771,
+    "longitude": 44.019336,
+    "map_link": "https://maps.app.goo.gl/jPv5DSg3KG2ktT6F7",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_111",
+    "title": "Choman",
+    "address": {
+      "en": "Choman",
+      "ar": "چۆمان- نزیک پارکی قائیمقام",
+      "ku": "چۆمان- نزیک پارکی قائیمقام"
+    },
+    "latitude": 36.63189,
+    "longitude": 44.884451,
+    "map_link": "https://maps.app.goo.gl/2VKHB1zu8HA6xB9d6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_112",
+    "title": "Koye",
+    "address": {
+      "en": "Koye",
+      "ar": "کۆیە - بەردەم  بانکی کۆیە",
+      "ku": "کۆیە - بەردەم  بانکی کۆیە"
+    },
+    "latitude": 36.092083,
+    "longitude": 44.639102,
+    "map_link": "https://maps.app.goo.gl/YVT7ZsAFfrhJL6gdA",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_113",
+    "title": "Rwandz",
+    "address": {
+      "en": "Rwandz",
+      "ar": "رەواندز - نزیک قایمقامیەتی رەواندز",
+      "ku": "رەواندز - نزیک قایمقامیەتی رەواندز"
+    },
+    "latitude": 36.619854,
+    "longitude": 44.533141,
+    "map_link": "https://maps.app.goo.gl/NsAv5dvCB96jhsCz5",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_114",
+    "title": "Mergasur",
+    "address": {
+      "en": "Mergasur",
+      "ar": "مێرگەسۆر- نزیک وێستگەی کارەبای مێرگەسۆر",
+      "ku": "مێرگەسۆر- نزیک وێستگەی کارەبای مێرگەسۆر"
+    },
+    "latitude": 36.851543,
+    "longitude": 44.293915,
+    "map_link": "https://www.google.com/maps?q=36.851543,44.293915",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_115",
+    "title": "Soran",
+    "address": {
+      "en": "Soran",
+      "ar": "سۆران - بەردەم بانکی ئازادی",
+      "ku": "سۆران - بەردەم بانکی ئازادی"
+    },
+    "latitude": 36.652008,
+    "longitude": 44.534052,
+    "map_link": "https://maps.app.goo.gl/FxJRvEJY9iXPVbU67",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_116",
+    "title": "Delzya",
+    "address": {
+      "en": "Delzya",
+      "ar": "سۆران، دێلزیا- بەردەم کۆلێژی تەکنیکی سۆران",
+      "ku": "سۆران، دێلزیا- بەردەم کۆلێژی تەکنیکی سۆران"
+    },
+    "latitude": 36.695411,
+    "longitude": 44.530562,
+    "map_link": "https://maps.app.goo.gl/xHAbMnzHajbhUse77",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_117",
+    "title": "Qushtapa",
+    "address": {
+      "en": "Qushtapa",
+      "ar": "قوشتەپە - نزیک سەرۆکایەتی شارەوانی قوشتەپە",
+      "ku": "قوشتەپە - نزیک سەرۆکایەتی شارەوانی قوشتەپە"
+    },
+    "latitude": 36.003589,
+    "longitude": 44.031576,
+    "map_link": "https://www.google.com/maps?q=36.0035887,44.03157634",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_118",
+    "title": "Dibaga",
+    "address": {
+      "en": "Dibaga",
+      "ar": "دێبەگە - نزیک بنکەی پۆلیس",
+      "ku": "دێبەگە - نزیک بنکەی پۆلیس"
+    },
+    "latitude": 35.873114,
+    "longitude": 43.808093,
+    "map_link": "https://maps.app.goo.gl/ceLtzxNycJSNP2Mk6",
+    "type": "ATM"
   }
-}
+]

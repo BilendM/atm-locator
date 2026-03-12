@@ -1,323 +1,379 @@
-{
-  "Duhok": {
-    "ATM_1": {
-      "address": {
-        "en": "Family Mall - Barza Street (Highway) - Duhok to Semel Road - Opposite Afro City or Duhok Terminal",
-        "ar": "فاملي مول- شارع بارزا (خط السريع) - طريق دهوك الى سيميل - امام افرو ستي او تيرمينال دهوك",
-        "ku": "شەقامی بارزا (هێڵی خێرا) - رێگای (دهوك - سیمێل) - بەرامبەر ئەڤرۆ سیتی یان تێرمیناڵی دهوك - باڵەخانەی فامیلی مۆڵ"
-      },
-      "map_link": "https://maps.app.goo.gl/LdTJbbuCZA7Z8UdE6",
-      "lat": 36.853394,
-      "lng": 42.885371,
-      "quantity": 1
+[
+  {
+    "id": "ATM_1",
+    "title": "Family Mall - Barza Street (Highway) - Duhok to Semel Road - Opposite Afro City or Duhok Terminal",
+    "address": {
+      "en": "Family Mall - Barza Street (Highway) - Duhok to Semel Road - Opposite Afro City or Duhok Terminal",
+      "ar": "فاملي مول- شارع بارزا (خط السريع) - طريق دهوك الى سيميل - امام افرو ستي او تيرمينال دهوك",
+      "ku": "شەقامی بارزا (هێڵی خێرا) - رێگای (دهوك - سیمێل) - بەرامبەر ئەڤرۆ سیتی یان تێرمیناڵی دهوك - باڵەخانەی فامیلی مۆڵ"
     },
-    "ATM_2": {
-      "address": {
-        "en": "Cihan University - Hoshki District",
-        "ar": "جامعة جيهان - حي حوشكي",
-        "ku": "زانکۆی جیهان- گەڕەکی حەوشەکی"
-      },
-      "map_link": "https://maps.app.goo.gl/nM44cbCMzshs9vKh8",
-      "lat": 36.8779,
-      "lng": 42.88587,
-      "quantity": 1
+    "latitude": 36.853394,
+    "longitude": 42.885371,
+    "map_link": "https://maps.app.goo.gl/LdTJbbuCZA7Z8UdE6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_2",
+    "title": "Cihan University - Hoshki District",
+    "address": {
+      "en": "Cihan University - Hoshki District",
+      "ar": "جامعة جيهان - حي حوشكي",
+      "ku": "زانکۆی جیهان- گەڕەکی حەوشەکی"
     },
-    "ATM_3": {
-      "address": {
-        "en": "Duhok Mall - KRO Street - Opposite MEDIA SARAY Restaurant or Beside Turkish Consulate",
-        "ar": "دهوك مول- شارع KRO - امام مطعم MEDIA SARAY او جنب القنصلية التركية",
-        "ku": "شەقامی KRO - بەرامبەر چێشتخانەی MEDIA SARAY یان تەنیشت کونسوڵخانەی تورکی - دهۆک مۆڵ"
-      },
-      "map_link": "https://maps.app.goo.gl/c1BNrLryo8MSsfAA8",
-      "lat": 36.866372,
-      "lng": 42.957391,
-      "quantity": 1
+    "latitude": 36.8779,
+    "longitude": 42.88587,
+    "map_link": "https://maps.app.goo.gl/nM44cbCMzshs9vKh8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_3",
+    "title": "Duhok Mall - KRO Street - Opposite MEDIA SARAY Restaurant or Beside Turkish Consulate",
+    "address": {
+      "en": "Duhok Mall - KRO Street - Opposite MEDIA SARAY Restaurant or Beside Turkish Consulate",
+      "ar": "دهوك مول- شارع KRO - امام مطعم MEDIA SARAY او جنب القنصلية التركية",
+      "ku": "شەقامی KRO - بەرامبەر چێشتخانەی MEDIA SARAY یان تەنیشت کونسوڵخانەی تورکی - دهۆک مۆڵ"
     },
-    "ATM_4": {
-      "address": {
-        "en": "Domiz - Opposite Domiz Bank",
-        "ar": "دوميز - مقابل مصرف دوميز",
-        "ku": "دۆمیز - بەرامبەر بانکى دۆميز"
-      },
-      "map_link": "https://maps.app.goo.gl/HpkEAAjH66ZfWp2a6",
-      "lat": 36.792233,
-      "lng": 42.912023,
-      "quantity": 1
+    "latitude": 36.866372,
+    "longitude": 42.957391,
+    "map_link": "https://maps.app.goo.gl/c1BNrLryo8MSsfAA8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_4",
+    "title": "Domiz - Opposite Domiz Bank",
+    "address": {
+      "en": "Domiz - Opposite Domiz Bank",
+      "ar": "دوميز - مقابل مصرف دوميز",
+      "ku": "دۆمیز - بەرامبەر بانکى دۆميز"
     },
-    "ATM_5": {
-      "address": {
-        "en": "Zakho - Near Shabanki Bridge",
-        "ar": "زاخو - قرب جسر شعبانكي",
-        "ku": "زاخۆ - نزیک پردی شەعبانکێ"
-      },
-      "map_link": "https://maps.app.goo.gl/ScGPF9KTeLff29RNA",
-      "lat": 37.1477388,
-      "lng": 42.6839002,
-      "quantity": 2
+    "latitude": 36.792233,
+    "longitude": 42.912023,
+    "map_link": "https://maps.app.goo.gl/HpkEAAjH66ZfWp2a6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_5",
+    "title": "Zakho - Near Shabanki Bridge",
+    "address": {
+      "en": "Zakho - Near Shabanki Bridge",
+      "ar": "زاخو - قرب جسر شعبانكي",
+      "ku": "زاخۆ - نزیک پردی شەعبانکێ"
     },
-    "ATM_6": {
-      "address": {
-        "en": "Zakho - Zakho Branch - Bidar District - Ibrahim Khalil Street",
-        "ar": "زاخو - فرع زاخو - حي بيدار - شارع ابراهيم الخليل",
-        "ku": "زاخۆ- گەڕەکی بێدار - شەقامی ئیبراهیم خەلیل"
-      },
-      "map_link": "https://maps.app.goo.gl/EQDHYKZ2cpQ2mKPu7",
-      "lat": 37.141245,
-      "lng": 42.663321,
-      "quantity": 1
+    "latitude": 37.1477388,
+    "longitude": 42.6839002,
+    "map_link": "https://maps.app.goo.gl/ScGPF9KTeLff29RNA",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_6",
+    "title": "Zakho - Zakho Branch - Bidar District - Ibrahim Khalil Street",
+    "address": {
+      "en": "Zakho - Zakho Branch - Bidar District - Ibrahim Khalil Street",
+      "ar": "زاخو - فرع زاخو - حي بيدار - شارع ابراهيم الخليل",
+      "ku": "زاخۆ- گەڕەکی بێدار - شەقامی ئیبراهیم خەلیل"
     },
-    "ATM_7": {
-      "address": {
-        "en": "Zakho - Near Hezel Bank",
-        "ar": "زاخو - قرب مصرف هيزل",
-        "ku": "زاخۆ - نزیک بانکی هیزل"
-      },
-      "map_link": "https://maps.app.goo.gl/fisPXcgjbwq8cuZQ6",
-      "lat": 37.161135,
-      "lng": 42.679127,
-      "quantity": 1
+    "latitude": 37.141245,
+    "longitude": 42.663321,
+    "map_link": "https://maps.app.goo.gl/EQDHYKZ2cpQ2mKPu7",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_7",
+    "title": "Zakho - Near Hezel Bank",
+    "address": {
+      "en": "Zakho - Near Hezel Bank",
+      "ar": "زاخو - قرب مصرف هيزل",
+      "ku": "زاخۆ - نزیک بانکی هیزل"
     },
-    "ATM_8": {
-      "address": {
-        "en": "Zakho - Near Zakho International Stadium",
-        "ar": "زاخو - قرب ملعب زاخو الدولي",
-        "ku": "زاخۆ - نزیک یاریگای نێودەوڵەتی زاخۆ"
-      },
-      "map_link": "https://maps.app.goo.gl/oUJFBMiLY1QbFvis6",
-      "lat": 37.144086,
-      "lng": 42.674439,
-      "quantity": 1
+    "latitude": 37.161135,
+    "longitude": 42.679127,
+    "map_link": "https://maps.app.goo.gl/fisPXcgjbwq8cuZQ6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_8",
+    "title": "Zakho - Near Zakho International Stadium",
+    "address": {
+      "en": "Zakho - Near Zakho International Stadium",
+      "ar": "زاخو - قرب ملعب زاخو الدولي",
+      "ku": "زاخۆ - نزیک یاریگای نێودەوڵەتی زاخۆ"
     },
-    "ATM_9": {
-      "address": {
-        "en": "Semel - Beside Semel Directorate of Education",
-        "ar": "سيميل - بجانب مديرية تربية سيميل",
-        "ku": "سێمێڵ - تەنيشت بەرێوەبەرايەتی پەروەردەى سيمێل"
-      },
-      "map_link": "https://maps.app.goo.gl/rqTGZMSEkwAB5ghF9",
-      "lat": 36.859988,
-      "lng": 42.836089,
-      "quantity": 1
+    "latitude": 37.144086,
+    "longitude": 42.674439,
+    "map_link": "https://maps.app.goo.gl/oUJFBMiLY1QbFvis6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_9",
+    "title": "Semel - Beside Semel Directorate of Education",
+    "address": {
+      "en": "Semel - Beside Semel Directorate of Education",
+      "ar": "سيميل - بجانب مديرية تربية سيميل",
+      "ku": "سێمێڵ - تەنيشت بەرێوەبەرايەتی پەروەردەى سيمێل"
     },
-    "ATM_10": {
-      "address": {
-        "en": "Anwar Mai Street",
-        "ar": "شارع انور ماي",
-        "ku": "شەقامی ئەنوەر ماي"
-      },
-      "map_link": "https://maps.app.goo.gl/b4Vf2ZQ3Ea9mrL148",
-      "lat": 36.861304,
-      "lng": 42.969789,
-      "quantity": 1
+    "latitude": 36.859988,
+    "longitude": 42.836089,
+    "map_link": "https://maps.app.goo.gl/rqTGZMSEkwAB5ghF9",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_10",
+    "title": "Anwar Mai Street",
+    "address": {
+      "en": "Anwar Mai Street",
+      "ar": "شارع انور ماي",
+      "ku": "شەقامی ئەنوەر ماي"
     },
-    "ATM_11": {
-      "address": {
-        "en": "Duhok Branch - Zakho Road - Opposite Mazi Market, Near Dilshad Palace Hotel",
-        "ar": "فرع دهوك - طريق زاخو مقابل مازي ماركيت، بالقرب من فندق دلشاد بالاس",
-        "ku": "لقی دهۆک - رێگای زاخۆ - تەنیشت دڵشاد پاڵاس"
-      },
-      "map_link": "https://maps.app.goo.gl/zGJxoncZz1AMZdQy7",
-      "lat": 36.859218,
-      "lng": 42.978259,
-      "quantity": 1
+    "latitude": 36.861304,
+    "longitude": 42.969789,
+    "map_link": "https://maps.app.goo.gl/b4Vf2ZQ3Ea9mrL148",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_11",
+    "title": "Duhok Branch - Zakho Road - Opposite Mazi Market, Near Dilshad Palace Hotel",
+    "address": {
+      "en": "Duhok Branch - Zakho Road - Opposite Mazi Market, Near Dilshad Palace Hotel",
+      "ar": "فرع دهوك - طريق زاخو مقابل مازي ماركيت، بالقرب من فندق دلشاد بالاس",
+      "ku": "لقی دهۆک - رێگای زاخۆ - تەنیشت دڵشاد پاڵاس"
     },
-    "ATM_12": {
-      "address": {
-        "en": "Near Barzani Park",
-        "ar": "قرب بارزاني بارك",
-        "ku": "نزیک پارکی بارزانی"
-      },
-      "map_link": "https://maps.app.goo.gl/Qgqx8yt4fH8Xmf5B7",
-      "lat": 36.846883,
-      "lng": 43.003041,
-      "quantity": 1
+    "latitude": 36.859218,
+    "longitude": 42.978259,
+    "map_link": "https://maps.app.goo.gl/zGJxoncZz1AMZdQy7",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_12",
+    "title": "Near Barzani Park",
+    "address": {
+      "en": "Near Barzani Park",
+      "ar": "قرب بارزاني بارك",
+      "ku": "نزیک پارکی بارزانی"
     },
-    "ATM_13": {
-      "address": {
-        "en": "Near Kurdistan Television (KTV)",
-        "ar": "قرب تلفزيون كردستان (KTV)",
-        "ku": "نزیکێ تەلەفزيۆني کوردستان (KTV)"
-      },
-      "map_link": "https://maps.app.goo.gl/rKWN637vXdHndTb89",
-      "lat": 36.863885,
-      "lng": 42.930251,
-      "quantity": 1
+    "latitude": 36.846883,
+    "longitude": 43.003041,
+    "map_link": "https://maps.app.goo.gl/Qgqx8yt4fH8Xmf5B7",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_13",
+    "title": "Near Kurdistan Television (KTV)",
+    "address": {
+      "en": "Near Kurdistan Television (KTV)",
+      "ar": "قرب تلفزيون كردستان (KTV)",
+      "ku": "نزیکێ تەلەفزيۆني کوردستان (KTV)"
     },
-    "ATM_14": {
-      "address": {
-        "en": "Near Haji Ibrahim Mosque",
-        "ar": "قرب مسجد حجي ابراهيم",
-        "ku": "زاخۆ -تەنيشت مزگەفتي حەجي ئيبراهيم"
-      },
-      "map_link": "https://maps.app.goo.gl/qd3j3FpTEyfqNQit9",
-      "lat": 36.868369,
-      "lng": 42.949136,
-      "quantity": 1
+    "latitude": 36.863885,
+    "longitude": 42.930251,
+    "map_link": "https://maps.app.goo.gl/rKWN637vXdHndTb89",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_14",
+    "title": "Near Haji Ibrahim Mosque",
+    "address": {
+      "en": "Near Haji Ibrahim Mosque",
+      "ar": "قرب مسجد حجي ابراهيم",
+      "ku": "زاخۆ -تەنيشت مزگەفتي حەجي ئيبراهيم"
     },
-    "ATM_15": {
-      "address": {
-        "en": "Near Gali Mosque",
-        "ar": "قرب مسجد گەلی",
-        "ku": "مزگەوتی گەلی"
-      },
-      "map_link": "https://maps.app.goo.gl/5usohrtUr3NxscLs9",
-      "lat": 36.864641,
-      "lng": 43.003999,
-      "quantity": 1
+    "latitude": 36.868369,
+    "longitude": 42.949136,
+    "map_link": "https://maps.app.goo.gl/qd3j3FpTEyfqNQit9",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_15",
+    "title": "Near Gali Mosque",
+    "address": {
+      "en": "Near Gali Mosque",
+      "ar": "قرب مسجد گەلی",
+      "ku": "مزگەوتی گەلی"
     },
-    "ATM_16": {
-      "address": {
-        "en": "Near Maternity Hospital",
-        "ar": "قرب من مستشفى الولادة",
-        "ku": "نزیک نەخۆشخانەی منداڵبوون"
-      },
-      "map_link": "https://maps.app.goo.gl/sDfuqmmKKMiJEiWKA",
-      "lat": 36.86314573,
-      "lng": 42.98807257,
-      "quantity": 3
+    "latitude": 36.864641,
+    "longitude": 43.003999,
+    "map_link": "https://maps.app.goo.gl/5usohrtUr3NxscLs9",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_16",
+    "title": "Near Maternity Hospital",
+    "address": {
+      "en": "Near Maternity Hospital",
+      "ar": "قرب من مستشفى الولادة",
+      "ku": "نزیک نەخۆشخانەی منداڵبوون"
     },
-    "ATM_17": {
-      "address": {
-        "en": "Vin Hospital - Malta Street - Near Karzan Gas Station",
-        "ar": "مستشفى فين- شارع مالطا - قرب محطة وقود كارزان",
-        "ku": "نەخۆشخانەی ڤين- شەقامی ماڵتا - نزیک وێستگەی سووتەمەنی كارزان"
-      },
-      "map_link": "https://maps.app.goo.gl/MtuXUi1XPFqwWHTg6",
-      "lat": 36.860064,
-      "lng": 42.952562,
-      "quantity": 1
+    "latitude": 36.86314573,
+    "longitude": 42.98807257,
+    "map_link": "https://maps.app.goo.gl/sDfuqmmKKMiJEiWKA",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_17",
+    "title": "Vin Hospital - Malta Street - Near Karzan Gas Station",
+    "address": {
+      "en": "Vin Hospital - Malta Street - Near Karzan Gas Station",
+      "ar": "مستشفى فين- شارع مالطا - قرب محطة وقود كارزان",
+      "ku": "نەخۆشخانەی ڤين- شەقامی ماڵتا - نزیک وێستگەی سووتەمەنی كارزان"
     },
-    "ATM_18": {
-      "address": {
-        "en": "Opposite Duhok Directorate of Religious Affairs",
-        "ar": "مقابل مديرية اوقاف دهوك للشؤون الدينية",
-        "ku": "بەرامبەر بەڕێوبەرایەتی ئەوقافی دهۆک بۆ کاروباری ئايينى"
-      },
-      "map_link": "https://maps.app.goo.gl/AGqSX1CpBPmrHdLu8",
-      "lat": 36.84733208,
-      "lng": 43.01323293,
-      "quantity": 2
+    "latitude": 36.860064,
+    "longitude": 42.952562,
+    "map_link": "https://maps.app.goo.gl/MtuXUi1XPFqwWHTg6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_18",
+    "title": "Opposite Duhok Directorate of Religious Affairs",
+    "address": {
+      "en": "Opposite Duhok Directorate of Religious Affairs",
+      "ar": "مقابل مديرية اوقاف دهوك للشؤون الدينية",
+      "ku": "بەرامبەر بەڕێوبەرایەتی ئەوقافی دهۆک بۆ کاروباری ئايينى"
     },
-    "ATM_19": {
-      "address": {
-        "en": "Opposite Serheldan Bank",
-        "ar": "مقابل مصرف سرهلدان",
-        "ku": "بەرامبەر بانکی سەرهلدان"
-      },
-      "map_link": "https://maps.app.goo.gl/Hcs5wMLAsJsDEW6Q8",
-      "lat": 36.851145,
-      "lng": 43.026227,
-      "quantity": 1
+    "latitude": 36.84733208,
+    "longitude": 43.01323293,
+    "map_link": "https://maps.app.goo.gl/AGqSX1CpBPmrHdLu8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_19",
+    "title": "Opposite Serheldan Bank",
+    "address": {
+      "en": "Opposite Serheldan Bank",
+      "ar": "مقابل مصرف سرهلدان",
+      "ku": "بەرامبەر بانکی سەرهلدان"
     },
-    "ATM_20": {
-      "address": {
-        "en": "Opposite Duhok Technical Institute",
-        "ar": "مقابل معهد دهوك التقني",
-        "ku": "بەرامبەر پەیمانگەی تەکنيکێ دهۆک"
-      },
-      "map_link": "https://maps.app.goo.gl/qZtcmGwhzBy7eanPA",
-      "lat": 36.85223,
-      "lng": 42.922415,
-      "quantity": 1
+    "latitude": 36.851145,
+    "longitude": 43.026227,
+    "map_link": "https://maps.app.goo.gl/Hcs5wMLAsJsDEW6Q8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_20",
+    "title": "Opposite Duhok Technical Institute",
+    "address": {
+      "en": "Opposite Duhok Technical Institute",
+      "ar": "مقابل معهد دهوك التقني",
+      "ku": "بەرامبەر پەیمانگەی تەکنيکێ دهۆک"
     },
-    "ATM_21": {
-      "address": {
-        "en": "Rovia",
-        "ar": "رۆڤیا - تەنیشت بەرێوەبەرایەتی پۆلیسی رۆڤیا",
-        "ku": "رۆڤیا - تەنیشت بەرێوەبەرایەتی پۆلیسی رۆڤیا"
-      },
-      "map_link": "https://www.google.com/maps?q=36.6187755589003,43.7025725711645",
-      "lat": 36.618776,
-      "lng": 43.702573,
-      "quantity": 1
+    "latitude": 36.85223,
+    "longitude": 42.922415,
+    "map_link": "https://maps.app.goo.gl/qZtcmGwhzBy7eanPA",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_21",
+    "title": "Rovia",
+    "address": {
+      "en": "Rovia",
+      "ar": "رۆڤیا - تەنیشت بەرێوەبەرایەتی پۆلیسی رۆڤیا",
+      "ku": "رۆڤیا - تەنیشت بەرێوەبەرایەتی پۆلیسی رۆڤیا"
     },
-    "ATM_22": {
-      "address": {
-        "en": "Zakho",
-        "ar": "زاخۆ - نزیک پردی شەعبانکێ",
-        "ku": "زاخۆ - نزیک پردی شەعبانکێ"
-      },
-      "map_link": "https://maps.app.goo.gl/UmHoofsNHFqGRq5H8",
-      "lat": 37.147803,
-      "lng": 42.683914,
-      "quantity": 1
+    "latitude": 36.618776,
+    "longitude": 43.702573,
+    "map_link": "https://www.google.com/maps?q=36.6187755589003,43.7025725711645",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_22",
+    "title": "Zakho",
+    "address": {
+      "en": "Zakho",
+      "ar": "زاخۆ - نزیک پردی شەعبانکێ",
+      "ku": "زاخۆ - نزیک پردی شەعبانکێ"
     },
-    "ATM_23": {
-      "address": {
-        "en": "Duhok",
-        "ar": "دهۆک، بەردەم سەرۆکایەتی شارەوانی دهۆک",
-        "ku": "دهۆک، بەردەم سەرۆکایەتی شارەوانی دهۆک"
-      },
-      "map_link": "https://www.google.com/maps?q=36.8473320763183,43.0132329288354",
-      "lat": 36.003589,
-      "lng": 44.031576,
-      "quantity": 1
+    "latitude": 37.147803,
+    "longitude": 42.683914,
+    "map_link": "https://maps.app.goo.gl/UmHoofsNHFqGRq5H8",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_23",
+    "title": "Duhok",
+    "address": {
+      "en": "Duhok",
+      "ar": "دهۆک، بەردەم سەرۆکایەتی شارەوانی دهۆک",
+      "ku": "دهۆک، بەردەم سەرۆکایەتی شارەوانی دهۆک"
     },
-    "ATM_24": {
-      "address": {
-        "en": "Duhok",
-        "ar": "دهۆک، دۆميز - بەرامبەر بانکێ دۆميز",
-        "ku": "دهۆک، دۆميز - بەرامبەر بانکێ دۆميز"
-      },
-      "map_link": "https://www.google.com/maps?q=36.7922327964434,42.9120224563556",
-      "lat": 36.792233,
-      "lng": 42.912022,
-      "quantity": 1
+    "latitude": 36.003589,
+    "longitude": 44.031576,
+    "map_link": "https://www.google.com/maps?q=36.8473320763183,43.0132329288354",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_24",
+    "title": "Duhok",
+    "address": {
+      "en": "Duhok",
+      "ar": "دهۆک، دۆميز - بەرامبەر بانکێ دۆميز",
+      "ku": "دهۆک، دۆميز - بەرامبەر بانکێ دۆميز"
     },
-    "ATM_25": {
-      "address": {
-        "en": "Hizl",
-        "ar": "زاخۆ - تەنيشت بانکي هيزل",
-        "ku": "زاخۆ - تەنيشت بانکي هيزل"
-      },
-      "map_link": "https://maps.app.goo.gl/vXdZbdGa1baT9LFi6",
-      "lat": 37.161153,
-      "lng": 42.679117,
-      "quantity": 1
+    "latitude": 36.792233,
+    "longitude": 42.912022,
+    "map_link": "https://www.google.com/maps?q=36.7922327964434,42.9120224563556",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_25",
+    "title": "Hizl",
+    "address": {
+      "en": "Hizl",
+      "ar": "زاخۆ - تەنيشت بانکي هيزل",
+      "ku": "زاخۆ - تەنيشت بانکي هيزل"
     },
-    "ATM_26": {
-      "address": {
-        "en": "Shekhan",
-        "ar": "شێخان - نزيک بانکی شێخان",
-        "ku": "شێخان - نزيک بانکی شێخان"
-      },
-      "map_link": "https://www.google.com/maps?q=36.6854782075985,43.3460607816527",
-      "lat": 36.685478,
-      "lng": 43.346061,
-      "quantity": 1
+    "latitude": 37.161153,
+    "longitude": 42.679117,
+    "map_link": "https://maps.app.goo.gl/vXdZbdGa1baT9LFi6",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_26",
+    "title": "Shekhan",
+    "address": {
+      "en": "Shekhan",
+      "ar": "شێخان - نزيک بانکی شێخان",
+      "ku": "شێخان - نزيک بانکی شێخان"
     },
-    "ATM_27": {
-      "address": {
-        "en": "Presidency",
-        "ar": "دهۆک - شەقامي ئەنوەر ماي",
-        "ku": "دهۆک - شەقامي ئەنوەر ماي"
-      },
-      "map_link": "https://www.google.com/maps?q=36.8613034906273,42.969788878506",
-      "lat": 36.861303,
-      "lng": 42.969789,
-      "quantity": 1
+    "latitude": 36.685478,
+    "longitude": 43.346061,
+    "map_link": "https://www.google.com/maps?q=36.6854782075985,43.3460607816527",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_27",
+    "title": "Presidency",
+    "address": {
+      "en": "Presidency",
+      "ar": "دهۆک - شەقامي ئەنوەر ماي",
+      "ku": "دهۆک - شەقامي ئەنوەر ماي"
     },
-    "ATM_28": {
-      "address": {
-        "en": "Zakho",
-        "ar": "زاخۆ - نزيک ياريگای زاخۆ",
-        "ku": "زاخۆ - نزيک ياريگای زاخۆ"
-      },
-      "map_link": "https://www.google.com/maps?q=37.1442256503592,42.673974945843",
-      "lat": 37.144226,
-      "lng": 42.673975,
-      "quantity": 1
+    "latitude": 36.861303,
+    "longitude": 42.969789,
+    "map_link": "https://www.google.com/maps?q=36.8613034906273,42.969788878506",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_28",
+    "title": "Zakho",
+    "address": {
+      "en": "Zakho",
+      "ar": "زاخۆ - نزيک ياريگای زاخۆ",
+      "ku": "زاخۆ - نزيک ياريگای زاخۆ"
     },
-    "ATM_29": {
-      "address": {
-        "en": "Bardarash",
-        "ar": "بەردەڕەش - بەرامبەر پارکي ئەفرين",
-        "ku": "بەردەڕەش - بەرامبەر پارکي ئەفرين"
-      },
-      "map_link": "https://www.google.com/maps?q=36.5056182096474,43.5852773863194",
-      "lat": 36.505618,
-      "lng": 43.585277,
-      "quantity": 1
-    }
+    "latitude": 37.144226,
+    "longitude": 42.673975,
+    "map_link": "https://www.google.com/maps?q=37.1442256503592,42.673974945843",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_29",
+    "title": "Bardarash",
+    "address": {
+      "en": "Bardarash",
+      "ar": "بەردەڕەش - بەرامبەر پارکي ئەفرين",
+      "ku": "بەردەڕەش - بەرامبەر پارکي ئەفرين"
+    },
+    "latitude": 36.505618,
+    "longitude": 43.585277,
+    "map_link": "https://www.google.com/maps?q=36.5056182096474,43.5852773863194",
+    "type": "ATM"
   }
-}
+]

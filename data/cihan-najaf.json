@@ -1,15 +1,15 @@
-{
-  "Najaf": {
-    "ATM_1": {
-      "address": {
-        "en": "Saha District, Near Al-Hakim Hospital",
-        "ar": "فرع النجف حي الصحة ، قرب مستشفى الحكيم",
-        "ku": "گەڕەکی الصحة ، نزیک نەخۆشخانەی حەکیم"
-      },
-      "map_link": "https://maps.app.goo.gl/6mBU5cbVNH91ECpZ6",
-      "lat": 32.009105,
-      "lng": 44.341933,
-      "quantity": 1
-    }
+[
+  {
+    "id": "ATM_1",
+    "title": "Saha District, Near Al-Hakim Hospital",
+    "address": {
+      "en": "Saha District, Near Al-Hakim Hospital",
+      "ar": "فرع النجف حي الصحة ، قرب مستشفى الحكيم",
+      "ku": "گەڕەکی الصحة ، نزیک نەخۆشخانەی حەکیم"
+    },
+    "latitude": 32.009105,
+    "longitude": 44.341933,
+    "map_link": "https://maps.app.goo.gl/6mBU5cbVNH91ECpZ6",
+    "type": "ATM"
   }
-}
+]

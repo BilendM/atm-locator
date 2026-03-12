@@ -1,30 +1,24 @@
-{
-  "result": [
-    {
-      "title": "هەڵەبجە - بانکی هەڵەبجە",
-      "type": "ATM",
-      "latitude": 35.17458,
-      "longitude": 45.99306,
-      "openTime": null,
-      "closeTime": null,
-      "description": "AU",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
+[
+  {
+    "id": "ATM_1",
+    "title": "هەڵەبجە - بانکی هەڵەبجە",
+    "address": {
+      "en": "هەڵەبجە - بانکی هەڵەبجە"
     },
-    {
-      "title": "هەڵەبجە - پشت مۆنۆمێنتی هەڵەبجە",
-      "type": "ATM",
-      "latitude": 35.1842,
-      "longitude": 45.97049,
-      "openTime": null,
-      "closeTime": null,
-      "description": "Halabja",
-      "phoneNumber": null,
-      "email": null,
-      "managerName": null,
-      "workingHours": []
-    }
-  ]
-}
+    "latitude": 35.17458,
+    "longitude": 45.99306,
+    "map_link": "",
+    "type": "ATM"
+  },
+  {
+    "id": "ATM_2",
+    "title": "هەڵەبجە - پشت مۆنۆمێنتی هەڵەبجە",
+    "address": {
+      "en": "هەڵەبجە - پشت مۆنۆمێنتی هەڵەبجە"
+    },
+    "latitude": 35.1842,
+    "longitude": 45.97049,
+    "map_link": "",
+    "type": "ATM"
+  }
+]

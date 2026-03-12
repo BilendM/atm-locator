@@ -1,15 +1,15 @@
-{
-  "Baghdad": {
-    "ATM_1": {
-      "address": {
-        "en": "Karrada – Al-Nidal Street – Near the National Theater",
-        "ar": "فرع بغداد الكرادة – شارع النضال – قرب المسرح الوطني",
-        "ku": "کەڕادە – شەقامی نیزال – نزیک شانۆی نیشتمانی"
-      },
-      "map_link": "https://maps.app.goo.gl/LnybfKCevvgWa7pQA",
-      "lat": 33.30591,
-      "lng": 44.430811,
-      "quantity": 1
-    }
+[
+  {
+    "id": "ATM_1",
+    "title": "Karrada – Al-Nidal Street – Near the National Theater",
+    "address": {
+      "en": "Karrada – Al-Nidal Street – Near the National Theater",
+      "ar": "فرع بغداد الكرادة – شارع النضال – قرب المسرح الوطني",
+      "ku": "کەڕادە – شەقامی نیزال – نزیک شانۆی نیشتمانی"
+    },
+    "latitude": 33.30591,
+    "longitude": 44.430811,
+    "map_link": "https://maps.app.goo.gl/LnybfKCevvgWa7pQA",
+    "type": "ATM"
   }
-}
+]
