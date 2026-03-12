@@ -8,9 +8,7 @@
       "ku": "دهۆک - نێزیک مزگەفتا ڕۆناهی"
     },
     "latitude": 36.849928,
-    "longitude": 42.988668,
-    "map_link": "https://maps.app.goo.gl/QoyHikfu3c81YeNh6",
-    "type": "ATM"
+    "longitude": 42.988668
   },
   {
     "id": "ATM_2",
@@ -21,9 +19,7 @@
       "ku": "ئاکرێ - خرگا"
     },
     "latitude": 36.754094,
-    "longitude": 43.898677,
-    "map_link": "https://maps.app.goo.gl/CaLCcX1MDMkriekH9",
-    "type": "ATM"
+    "longitude": 43.898677
   },
   {
     "id": "ATM_3",
@@ -34,9 +30,7 @@
       "ku": "ئاکرێ - خواندنگەها رزگاری"
     },
     "latitude": 36.729328,
-    "longitude": 43.871761,
-    "map_link": "https://maps.app.goo.gl/YWPuApQVua7fBN3j9",
-    "type": "ATM"
+    "longitude": 43.871761
   },
   {
     "id": "ATM_4",
@@ -47,9 +41,7 @@
       "ku": "ئاکرێ - جادا گشتی بەردەم پارکا ئاکرێ"
     },
     "latitude": 36.725695,
-    "longitude": 43.843476,
-    "map_link": "https://maps.app.goo.gl/dzKcvxY9NtKJAoYU6",
-    "type": "ATM"
+    "longitude": 43.843476
   },
   {
     "id": "ATM_5",
@@ -60,9 +52,7 @@
       "ku": "زاخۆ - بەردەم نەخۆشخانا بێدارێ"
     },
     "latitude": 37.146063,
-    "longitude": 42.645656,
-    "map_link": "https://maps.app.goo.gl/sVdbBuniKHR3tAos8",
-    "type": "ATM"
+    "longitude": 42.645656
   },
   {
     "id": "ATM_6",
@@ -73,9 +63,7 @@
       "ku": "زاخۆ - تەنیشت ڕێڤەبەرییا ئاسایشا زاخۆ"
     },
     "latitude": 37.139109,
-    "longitude": 42.710782,
-    "map_link": "https://maps.app.goo.gl/TMx7sfRrdHGRX2Nw5",
-    "type": "ATM"
+    "longitude": 42.710782
   },
   {
     "id": "ATM_7",
@@ -86,9 +74,7 @@
       "ku": "زاخۆ - بەرامبەر کۆچکا هونەری"
     },
     "latitude": 37.166566,
-    "longitude": 42.688999,
-    "map_link": "https://maps.app.goo.gl/rLFbvvgjFvfzXpux6",
-    "type": "ATM"
+    "longitude": 42.688999
   },
   {
     "id": "ATM_8",
@@ -99,9 +85,7 @@
       "ku": "ئامێدی - بەردەم سولاڤ بانک"
     },
     "latitude": 37.088391,
-    "longitude": 43.487396,
-    "map_link": "https://maps.app.goo.gl/eZcM9ngJxUZQ6QbH6",
-    "type": "ATM"
+    "longitude": 43.487396
   },
   {
     "id": "ATM_9",
@@ -112,9 +96,7 @@
       "ku": "شێخان - دبن ڕێڤەبەرییا ئاسایشا شێخان دا"
     },
     "latitude": 36.697814,
-    "longitude": 43.350828,
-    "map_link": "https://maps.app.goo.gl/k4BJuG1SFdqRbrMd8",
-    "type": "ATM"
+    "longitude": 43.350828
   },
   {
     "id": "ATM_10",
@@ -125,9 +107,7 @@
       "ku": "دهۆک - سەر مزگەفتا سەباح ئەترۆشی دا"
     },
     "latitude": 36.873244,
-    "longitude": 42.931431,
-    "map_link": "https://maps.app.goo.gl/G8tZegAA7yMWrNw9A",
-    "type": "ATM"
+    "longitude": 42.931431
   },
   {
     "id": "ATM_11",
@@ -138,8 +118,6 @@
       "ku": "دهۆک - تەنیشت ڕێڤەبەرییا تاپۆ یا دهۆکێ"
     },
     "latitude": 36.845636,
-    "longitude": 42.982578,
-    "map_link": "https://maps.app.goo.gl/6yheg6b66JcRhhtf6",
-    "type": "ATM"
+    "longitude": 42.982578
   }
 ]

@@ -6,9 +6,7 @@
       "en": "هەڵەبجە - بانکی هەڵەبجە"
     },
     "latitude": 35.17458,
-    "longitude": 45.99306,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.99306
   },
   {
     "id": "ATM_2",
@@ -17,8 +15,6 @@
       "en": "هەڵەبجە - پشت مۆنۆمێنتی هەڵەبجە"
     },
     "latitude": 35.1842,
-    "longitude": 45.97049,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.97049
   }
 ]

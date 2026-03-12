@@ -8,9 +8,7 @@
       "ku": "شەقامی پارێزگا – باڵەخانەی بانکی جيهان تەنیشت کەناڵی ئاسمانى تورکمانی"
     },
     "latitude": 35.452818,
-    "longitude": 44.382785,
-    "map_link": "https://maps.app.goo.gl/be1s7wE9GzvPLe3m7",
-    "type": "ATM"
+    "longitude": 44.382785
   },
   {
     "id": "ATM_2",
@@ -21,8 +19,6 @@
       "ku": "شەقامی پارێزگای کۆن – فلکەی شارەوانی کۆن"
     },
     "latitude": 35.456219,
-    "longitude": 44.378394,
-    "map_link": "https://maps.app.goo.gl/oCCFzKspFbDTiPVQ9",
-    "type": "ATM"
+    "longitude": 44.378394
   }
 ]

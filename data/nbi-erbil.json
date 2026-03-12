@@ -6,9 +6,7 @@
       "en": "رويال مول"
     },
     "latitude": 36.20202930107593,
-    "longitude": 44.01763271078297,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3219.5415758914064!2d44.01763271078297!3d36.20202930107593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDEyJzA3LjMiTiA0NMKwMDEnMTIuOCJF!5e0!3m2!1sen!2sjo!4v1700756574063!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.01763271078297
   },
   {
     "id": "ATM_2",
@@ -17,9 +15,7 @@
       "en": "شركة كار كروب  HQ"
     },
     "latitude": 36.18649930193928,
-    "longitude": 43.96829871078231,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3220.1801923687426!2d43.96829871078231!3d36.18649930193928!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDExJzExLjQiTiA0M8KwNTgnMTUuMiJF!5e0!3m2!1sen!2sjo!4v1700753415869!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 43.96829871078231
   },
   {
     "id": "ATM_3",
@@ -28,9 +24,7 @@
       "en": "صراف المبنى الرئيسي اسياسيل - اربيل"
     },
     "latitude": 36.18141668008068,
-    "longitude": 43.99086691527271,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3220.389145896946!2d43.99086691527271!3d36.18141668008068!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzbCsDEwJzUzLjEiTiA0M8KwNTknMzUuMCJF!5e0!3m2!1sen!2sjo!4v1624276717376!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 43.99086691527271
   },
   {
     "id": "ATM_4",
@@ -39,9 +33,7 @@
       "en": "صراف آلي شركة تويوتا العراق - اربيل"
     },
     "latitude": 36.17614820519359,
-    "longitude": 43.93934188417638,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d103059.38282714317!2d43.93934188417638!3d36.17614820519359!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40073d48e81b276f%3A0x86ee9715b84fbfe0!2sToyota%20Iraq!5e0!3m2!1sen!2sae!4v1679308536405!5m2!1sen!2sae",
-    "type": "ATM"
+    "longitude": 43.93934188417638
   },
   {
     "id": "ATM_5",
@@ -50,9 +42,7 @@
       "en": "صراف آلي مشروع حسابي - شيرواني"
     },
     "latitude": 36.178079972430936,
-    "longitude": 44.008791076414134,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3220.526308727605!2d44.008791076414134!3d36.178079972430936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDEwJzQxLjEiTiA0NMKwMDAnNDAuOSJF!5e0!3m2!1sen!2sjo!4v1719827959498!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.008791076414134
   },
   {
     "id": "ATM_6",
@@ -61,9 +51,7 @@
       "en": "صراف آلي مشروع حسابي - طريق الموصل"
     },
     "latitude": 36.184332572429156,
-    "longitude": 43.980723076414414,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3220.2692726777764!2d43.980723076414414!3d36.184332572429156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDExJzAzLjYiTiA0M8KwNTgnNTkuOSJF!5e0!3m2!1sen!2sjo!4v1719828091404!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 43.980723076414414
   },
   {
     "id": "ATM_7",
@@ -72,9 +60,7 @@
       "en": "صراف آلي مشروع حسابي -شارع 60"
     },
     "latitude": 36.1996412724245,
-    "longitude": 43.995509476414846,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3219.6397905433037!2d43.995509476414846!3d36.1996412724245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDExJzU4LjciTiA0M8KwNTknNTMuMSJF!5e0!3m2!1sen!2sjo!4v1719828265153!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 43.995509476414846
   },
   {
     "id": "ATM_8",
@@ -83,9 +69,7 @@
       "en": "صراف آلي مشروع حسابي -شارع كويا"
     },
     "latitude": 36.207585972421995,
-    "longitude": 44.13056907641521,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3219.3130199081393!2d44.13056907641521!3d36.207585972421995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDEyJzI3LjMiTiA0NMKwMDcnNTkuMyJF!5e0!3m2!1sen!2sjo!4v1719828040017!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.13056907641521
   },
   {
     "id": "ATM_9",
@@ -94,9 +78,7 @@
       "en": "صراف فاميلي مول اربيل"
     },
     "latitude": 36.20980558007452,
-    "longitude": 44.04497801527337,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3219.2217149512803!2d44.04497801527337!3d36.20980558007452!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzbCsDEyJzM1LjMiTiA0NMKwMDInNDkuOCJF!5e0!3m2!1sen!2sjo!4v1624273673738!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.04497801527337
   },
   {
     "id": "ATM_10",
@@ -105,9 +87,7 @@
       "en": "صراف فرع اربيل"
     },
     "latitude": 36.22030558007199,
-    "longitude": 43.988755715273705,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3218.789725364965!2d43.988755715273705!3d36.22030558007199!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzbCsDEzJzEzLjEiTiA0M8KwNTknMjcuNCJF!5e0!3m2!1sen!2sjo!4v1624270981091!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 43.988755715273705
   },
   {
     "id": "ATM_11",
@@ -116,9 +96,7 @@
       "en": "صراف ماجدي مول اربيل"
     },
     "latitude": 36.19572888007761,
-    "longitude": 44.06671128497254,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3219.8006870158897!2d44.06671128497254!3d36.19572888007761!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x160e7e17c2467fff!2zMzbCsDExJzQ0LjYiTiA0NMKwMDMnNTIuMyJF!5e0!3m2!1sar!2sjo!4v1674383313742!5m2!1sar!2sjo",
-    "type": "ATM"
+    "longitude": 44.06671128497254
   },
   {
     "id": "ATM_12",
@@ -127,9 +105,7 @@
       "en": "صراف مبنى بعثة الامم المتحدة 1 - اربيل"
     },
     "latitude": 36.21138888007415,
-    "longitude": 43.96892241527354,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3219.156581957676!2d43.96892241527354!3d36.21138888007415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzbCsDEyJzQxLjAiTiA0M8KwNTgnMTYuMCJF!5e0!3m2!1sen!2sjo!4v1624276426258!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 43.96892241527354
   },
   {
     "id": "ATM_13",
@@ -138,9 +114,7 @@
       "en": "صراف مبنى بعثة الامم المتحدة 2 - اربيل"
     },
     "latitude": 36.21138888007415,
-    "longitude": 43.96892241527354,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3219.156581957676!2d43.96892241527354!3d36.21138888007415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzbCsDEyJzQxLjAiTiA0M8KwNTgnMTYuMCJF!5e0!3m2!1sen!2sjo!4v1624276466434!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 43.96892241527354
   },
   {
     "id": "ATM_14",
@@ -149,9 +123,7 @@
       "en": "فرع اربيل 3 دينار"
     },
     "latitude": 36.220319300058634,
-    "longitude": 43.98835371078402,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3218.789160828401!2d43.98835371078402!3d36.220319300058634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDEzJzEzLjEiTiA0M8KwNTknMjcuNCJF!5e0!3m2!1sen!2sjo!4v1700752316201!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 43.98835371078402
   },
   {
     "id": "ATM_15",
@@ -160,9 +132,7 @@
       "en": "فرع اربيل دولار"
     },
     "latitude": 36.220319300058634,
-    "longitude": 43.98835371078402,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3218.789160828401!2d43.98835371078402!3d36.220319300058634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDEzJzEzLjEiTiA0M8KwNTknMjcuNCJF!5e0!3m2!1sen!2sjo!4v1700752163149!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 43.98835371078402
   },
   {
     "id": "ATM_16",
@@ -171,9 +141,7 @@
       "en": "فرع الاسكان"
     },
     "latitude": 36.20628210083938,
-    "longitude": 43.99625301078312,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3219.366653233144!2d43.99625301078312!3d36.20628210083938!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDEyJzIyLjYiTiA0M8KwNTknNTUuOCJF!5e0!3m2!1sen!2sjo!4v1700753124548!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 43.99625301078312
   },
   {
     "id": "ATM_17",
@@ -182,9 +150,7 @@
       "en": "فرع الاسكان"
     },
     "latitude": 36.20628210083938,
-    "longitude": 43.99625301078312,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3219.366653233144!2d43.99625301078312!3d36.20628210083938!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDEyJzIyLjYiTiA0M8KwNTknNTUuOCJF!5e0!3m2!1sen!2sjo!4v1700753185885!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 43.99625301078312
   },
   {
     "id": "ATM_18",
@@ -193,9 +159,7 @@
       "en": "فندق بريستوريا"
     },
     "latitude": 36.14749750410631,
-    "longitude": 44.01612451078023,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3221.7829606022096!2d44.01612451078023!3d36.14749750410631!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDA4JzUxLjAiTiA0NMKwMDEnMDcuMyJF!5e0!3m2!1sen!2sjo!4v1700751299845!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.01612451078023
   },
   {
     "id": "ATM_19",
@@ -204,8 +168,6 @@
       "en": "مجدي مول اربيل"
     },
     "latitude": 36.195733201426094,
-    "longitude": 44.06194231078268,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3219.8005093094475!2d44.06194231078268!3d36.195733201426094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzbCsDExJzQ0LjYiTiA0NMKwMDMnNTIuMyJF!5e0!3m2!1sen!2sjo!4v1700754135800!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.06194231078268
   }
 ]

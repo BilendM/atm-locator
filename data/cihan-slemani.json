@@ -8,9 +8,7 @@
       "ku": "بەردەم شارەوانی سلێمانی"
     },
     "latitude": 35.5623437,
-    "longitude": 45.4077282,
-    "map_link": "https://maps.app.goo.gl/3tL4rTmNamRsEKFv8",
-    "type": "ATM"
+    "longitude": 45.4077282
   },
   {
     "id": "ATM_2",
@@ -21,9 +19,7 @@
       "ku": "زانکۆی جيهان - گەڕەکی ولوبە - ژووری پرسگە"
     },
     "latitude": 35.528377,
-    "longitude": 45.41716,
-    "map_link": "https://maps.app.goo.gl/BTvNGVLHjCrNRziw5",
-    "type": "ATM"
+    "longitude": 45.41716
   },
   {
     "id": "ATM_3",
@@ -34,9 +30,7 @@
       "ku": "شەقامی شەکرەکە"
     },
     "latitude": 35.5647566,
-    "longitude": 45.3810855,
-    "map_link": "https://maps.app.goo.gl/2hZRU43QoQ1LKFXF6",
-    "type": "ATM"
+    "longitude": 45.3810855
   },
   {
     "id": "ATM_4",
@@ -47,9 +41,7 @@
       "ku": "لقی کەلار- کەلار - شەقامی حەمە ڕه ش / نزیک گەراجی کۆنی بغداد یان فلکەی مستەفا بەگ"
     },
     "latitude": 34.611969,
-    "longitude": 45.31593,
-    "map_link": "https://maps.app.goo.gl/Xx5hTykHW7DBHyTA7",
-    "type": "ATM"
+    "longitude": 45.31593
   },
   {
     "id": "ATM_5",
@@ -60,9 +52,7 @@
       "ku": "نزیک یاریگای بەکرەجۆی تازە"
     },
     "latitude": 35.5594474,
-    "longitude": 45.356723,
-    "map_link": "https://maps.app.goo.gl/Pf34NJHsZj7Bkfh88",
-    "type": "ATM"
+    "longitude": 45.356723
   },
   {
     "id": "ATM_6",
@@ -73,9 +63,7 @@
       "ku": "قەزای ڕانیە - نزیک قوتابخانەی ڕەنجدەرانی بنەڕەتی"
     },
     "latitude": 36.25239957,
-    "longitude": 44.87177966,
-    "map_link": "https://maps.app.goo.gl/gZHruT7VjCiDnGYP6",
-    "type": "ATM"
+    "longitude": 44.87177966
   },
   {
     "id": "ATM_7",
@@ -86,9 +74,7 @@
       "ku": "قەزای ڕانیە - بەرامبەر پاڕکی دەروازە"
     },
     "latitude": 36.243033,
-    "longitude": 44.879083,
-    "map_link": "https://maps.app.goo.gl/C9RTj1ThUPgP8MHc7",
-    "type": "ATM"
+    "longitude": 44.879083
   },
   {
     "id": "ATM_8",
@@ -99,9 +85,7 @@
       "ku": "قەزای کەلار - شەقامی حەمەڕەش - تەنیشت قایمقامیەتی قەزای کەلار"
     },
     "latitude": 34.619611,
-    "longitude": 45.325122,
-    "map_link": "https://maps.app.goo.gl/6AhTmj98JC9ngJp6A",
-    "type": "ATM"
+    "longitude": 45.325122
   },
   {
     "id": "ATM_9",
@@ -112,9 +96,7 @@
       "ku": "چواریانی مەلیک محمود - باڵەخانەی جيهان مۆتۆرز - بەشی خزمەتگوزاری"
     },
     "latitude": 35.545111,
-    "longitude": 45.45517,
-    "map_link": "https://maps.app.goo.gl/otnrNkdd4toj87g38",
-    "type": "ATM"
+    "longitude": 45.45517
   },
   {
     "id": "ATM_10",
@@ -125,9 +107,7 @@
       "ku": "سیتی ستار مۆڵ - شەقامی سالم -نهۆمی خوارەوە"
     },
     "latitude": 35.558227,
-    "longitude": 45.427414,
-    "map_link": "https://maps.app.goo.gl/tonNxXxMccNgYFGx9",
-    "type": "ATM"
+    "longitude": 45.427414
   },
   {
     "id": "ATM_11",
@@ -138,9 +118,7 @@
       "ku": "فاملی مۆڵ - نهۆمی یەکەم - بەرامبەر كارفور هایپەر ماركێت - شەقامی مەلیک محمود"
     },
     "latitude": 35.541306,
-    "longitude": 45.427981,
-    "map_link": "https://maps.app.goo.gl/vMifv1WZduxwYdtE7",
-    "type": "ATM"
+    "longitude": 45.427981
   },
   {
     "id": "ATM_12",
@@ -151,9 +129,7 @@
       "ku": "لقی سلێمانی - چواریانی مەلیک محمود - بەرامبەر قوتابخانەی خەبات"
     },
     "latitude": 35.536831,
-    "longitude": 45.442091,
-    "map_link": "https://maps.app.goo.gl/6MqknYtRBegNZoLy5",
-    "type": "ATM"
+    "longitude": 45.442091
   },
   {
     "id": "ATM_13",
@@ -164,9 +140,7 @@
       "ku": "کەلار - نەخۆشخانەی لايڤ"
     },
     "latitude": 34.630235,
-    "longitude": 45.313342,
-    "map_link": "https://maps.app.goo.gl/BddaKaJPkFDJrHbR9",
-    "type": "ATM"
+    "longitude": 45.313342
   },
   {
     "id": "ATM_14",
@@ -177,9 +151,7 @@
       "ku": "شەقامی ڕاپەڕین - باڵەخانەی ماجیدی مۆڵ - نهۆمی B - شوێنی تایبەت بە ئامێرەکانی ATM"
     },
     "latitude": 35.564564,
-    "longitude": 45.371365,
-    "map_link": "https://maps.app.goo.gl/HxUhLskyShpjioCG9",
-    "type": "ATM"
+    "longitude": 45.371365
   },
   {
     "id": "ATM_15",
@@ -190,9 +162,7 @@
       "ku": "قەزای شارەزوور - بەرامبەر بانکی شارەزوور"
     },
     "latitude": 35.318761,
-    "longitude": 45.677123,
-    "map_link": "https://maps.app.goo.gl/2bRVuqVRqijt41cp7",
-    "type": "ATM"
+    "longitude": 45.677123
   },
   {
     "id": "ATM_16",
@@ -203,9 +173,7 @@
       "ku": "نزیک قایمقامیەتی قەزای چەمچەماڵ"
     },
     "latitude": 35.533102,
-    "longitude": 44.831677,
-    "map_link": "https://maps.app.goo.gl/jcybAQQnNkzfSxL86",
-    "type": "ATM"
+    "longitude": 44.831677
   },
   {
     "id": "ATM_17",
@@ -216,9 +184,7 @@
       "ku": "قەزای چەمچەماڵ - بەردەم بەرگری شارستانی"
     },
     "latitude": 35.523472,
-    "longitude": 44.81799,
-    "map_link": "https://maps.app.goo.gl/jEKUGkjWoZcFACH18",
-    "type": "ATM"
+    "longitude": 44.81799
   },
   {
     "id": "ATM_18",
@@ -229,9 +195,7 @@
       "ku": "ڕانیە، شەقامی رانیە-چوارقورنە، نزیک بەرێوەبەرایەتی گشتی شارەوانیەکانی ڕاپەڕین"
     },
     "latitude": 36.24325,
-    "longitude": 44.879028,
-    "map_link": "https://www.google.com/maps?q=36.2432502918218,44.8790277999999",
-    "type": "ATM"
+    "longitude": 44.879028
   },
   {
     "id": "ATM_19",
@@ -242,9 +206,7 @@
       "ku": "چەمچەماڵ - نزیک سەرۆکایەتی زانکۆی چەرمۆ"
     },
     "latitude": 35.535123,
-    "longitude": 44.836914,
-    "map_link": "https://www.google.com/maps?q=35.535123,44.836914",
-    "type": "ATM"
+    "longitude": 44.836914
   },
   {
     "id": "ATM_20",
@@ -255,9 +217,7 @@
       "ku": "چەمچەماڵ - نزیک بەرگری شارستانی چەمچەماڵ"
     },
     "latitude": 35.523588,
-    "longitude": 44.818017,
-    "map_link": "https://www.google.com/maps?q=35.523588328575,44.8180170865425",
-    "type": "ATM"
+    "longitude": 44.818017
   },
   {
     "id": "ATM_21",
@@ -268,9 +228,7 @@
       "ku": "سلێمانی، شەقامی سالم، بەردەم سەرۆکایەتی شارەوانی سلێمانی"
     },
     "latitude": 35.56279,
-    "longitude": 45.40775,
-    "map_link": "https://maps.app.goo.gl/Mn9UguNsdYcKi8dJ8",
-    "type": "ATM"
+    "longitude": 45.40775
   },
   {
     "id": "ATM_22",
@@ -281,9 +239,7 @@
       "ku": "سلێمانی، شەقامی سلێمانی - کەرکوک، بەرامبەر بینای پارێزگای سلێمانی"
     },
     "latitude": 35.567664,
-    "longitude": 45.382235,
-    "map_link": "https://maps.app.goo.gl/UEx5NX31DSREqaXR6",
-    "type": "ATM"
+    "longitude": 45.382235
   },
   {
     "id": "ATM_23",
@@ -294,9 +250,7 @@
       "ku": "شارەزوور - بەردەم بانکی شارەزوور"
     },
     "latitude": 35.318898,
-    "longitude": 45.677308,
-    "map_link": "https://www.google.com/maps?q=35.318898,45.677308",
-    "type": "ATM"
+    "longitude": 45.677308
   },
   {
     "id": "ATM_24",
@@ -307,9 +261,7 @@
       "ku": "سلێمانی، کەلار، جیهان بانک"
     },
     "latitude": 34.611966,
-    "longitude": 45.315841,
-    "map_link": "https://maps.app.goo.gl/8JKJd1bqUR5bdTYv8",
-    "type": "ATM"
+    "longitude": 45.315841
   },
   {
     "id": "ATM_25",
@@ -320,8 +272,6 @@
       "ku": "سلێمانی، بەکرەجۆ، بەرامبەر فەرمانگەی دادنووسی سلێمانی"
     },
     "latitude": 35.558512,
-    "longitude": 45.350146,
-    "map_link": "https://maps.app.goo.gl/VGxT62saHyNTTRfe6",
-    "type": "ATM"
+    "longitude": 45.350146
   }
 ]

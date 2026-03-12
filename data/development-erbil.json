@@ -8,9 +8,7 @@
       "ku": "٣٢ پارک،  بەردەم كۆمپانیای PVI بۆ پشكنینی ساڵانەیی ئۆتۆمبیل"
     },
     "latitude": 36.191526,
-    "longitude": 43.950164,
-    "map_link": "https://maps.app.goo.gl/7iMmoE9ZPETyAFRy6",
-    "type": "ATM"
+    "longitude": 43.950164
   },
   {
     "id": "ATM_2",
@@ -21,9 +19,7 @@
       "ku": " بەردەم بەڕێوەبەرایەتی گشتی تەندروستی سۆران "
     },
     "latitude": 36.649745,
-    "longitude": 44.533227,
-    "map_link": "https://maps.app.goo.gl/uAsuL6SALMs2pDd26",
-    "type": "ATM"
+    "longitude": 44.533227
   },
   {
     "id": "ATM_3",
@@ -34,9 +30,7 @@
       "ku": "سۆران - بەردەم کشتوکالی سۆران"
     },
     "latitude": 36.657786,
-    "longitude": 44.542894,
-    "map_link": "https://maps.app.goo.gl/kbWanirKE6WvdtFJ9",
-    "type": "ATM"
+    "longitude": 44.542894
   },
   {
     "id": "ATM_4",
@@ -47,9 +41,7 @@
       "ku": "سۆران - بەردەم نەخۆشخانەی هەرێم"
     },
     "latitude": 36.651781,
-    "longitude": 44.522849,
-    "map_link": "https://maps.app.goo.gl/fzVV68nR226L6VAPA",
-    "type": "ATM"
+    "longitude": 44.522849
   },
   {
     "id": "ATM_5",
@@ -60,9 +52,7 @@
       "ku": "بنەسلاوە نزیک ناوەندی وەرزش و لاوانی بنەسڵاوە"
     },
     "latitude": 36.15956,
-    "longitude": 44.109557,
-    "map_link": "https://maps.app.goo.gl/EynGe4ReMZoxMkHC8",
-    "type": "ATM"
+    "longitude": 44.109557
   },
   {
     "id": "ATM_6",
@@ -73,9 +63,7 @@
       "ku": "بنەسلاوە ، بەرامبەر مزگەوتی ئەحمەدی"
     },
     "latitude": 36.152256,
-    "longitude": 44.109481,
-    "map_link": "https://maps.app.goo.gl/nKGGd91Bhko52iBC9",
-    "type": "ATM"
+    "longitude": 44.109481
   },
   {
     "id": "ATM_7",
@@ -86,9 +74,7 @@
       "ku": " نزیک قایمقامیەتی مێرگەسۆر"
     },
     "latitude": 36.839196,
-    "longitude": 44.300502,
-    "map_link": "https://maps.app.goo.gl/ig36uLt8e9awRRXKA",
-    "type": "ATM"
+    "longitude": 44.300502
   },
   {
     "id": "ATM_8",
@@ -99,9 +85,7 @@
       "ku": "نزیک نەخۆشخانەی مێرگەسۆر"
     },
     "latitude": 36.842998,
-    "longitude": 44.300778,
-    "map_link": "https://maps.app.goo.gl/vECJfHMtBq3vvQYY8",
-    "type": "ATM"
+    "longitude": 44.300778
   },
   {
     "id": "ATM_9",
@@ -112,9 +96,7 @@
       "ku": "بەردەم وێستگەی کارەبای هەریر"
     },
     "latitude": 36.555775,
-    "longitude": 44.35014,
-    "map_link": "https://maps.app.goo.gl/NrsnMcq2yJ2jeTcaA",
-    "type": "ATM"
+    "longitude": 44.35014
   },
   {
     "id": "ATM_10",
@@ -125,9 +107,7 @@
       "ku": "نزیک بنکەی ڤێتێرنەری شەقڵاوە"
     },
     "latitude": 36.391356,
-    "longitude": 44.34363,
-    "map_link": "https://maps.app.goo.gl/w2ETc2KeAqKFe5M68",
-    "type": "ATM"
+    "longitude": 44.34363
   },
   {
     "id": "ATM_11",
@@ -138,8 +118,6 @@
       "ku": "نزیک بەڕێوەبەرایەتی ناحیەی سەلاحەدین"
     },
     "latitude": 36.375609,
-    "longitude": 44.201611,
-    "map_link": "https://maps.app.goo.gl/nCGSJwh62u2F94AY6",
-    "type": "ATM"
+    "longitude": 44.201611
   }
 ]

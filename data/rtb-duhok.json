@@ -6,9 +6,7 @@
       "en": "Batifa"
     },
     "latitude": 37.17688,
-    "longitude": 43.01084,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.01084
   },
   {
     "id": "ATM_2",
@@ -17,9 +15,7 @@
       "en": "Ibrahim Khalil Border Crossing"
     },
     "latitude": 37.14061535167988,
-    "longitude": 42.570833511282686,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.570833511282686
   },
   {
     "id": "ATM_3",
@@ -28,9 +24,7 @@
       "en": "Zakho Card Department"
     },
     "latitude": 37.15801075655055,
-    "longitude": 42.722578913495,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.722578913495
   },
   {
     "id": "ATM_4",
@@ -39,9 +33,7 @@
       "en": "shiga -RD"
     },
     "latitude": 37.166543320452156,
-    "longitude": 42.688993518618226,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.688993518618226
   },
   {
     "id": "ATM_5",
@@ -50,9 +42,7 @@
       "en": "dalal- RD"
     },
     "latitude": 37.13906192180175,
-    "longitude": 42.71076170674748,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.71076170674748
   },
   {
     "id": "ATM_6",
@@ -61,9 +51,7 @@
       "en": "بلدية زاخو"
     },
     "latitude": 37.144173104144656,
-    "longitude": 42.67398609441851,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.67398609441851
   },
   {
     "id": "ATM_7",
@@ -72,9 +60,7 @@
       "en": "بنك رزكاري"
     },
     "latitude": 37.13802974501768,
-    "longitude": 42.56233353909166,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.56233353909166
   },
   {
     "id": "ATM_8",
@@ -83,9 +69,7 @@
       "en": "هيزل"
     },
     "latitude": 37.16108898851737,
-    "longitude": 42.6791301451504,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.6791301451504
   },
   {
     "id": "ATM_9",
@@ -94,9 +78,7 @@
       "en": "Dalal Bank"
     },
     "latitude": 37.152425654365004,
-    "longitude": 42.704943788624306,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.704943788624306
   },
   {
     "id": "ATM_10",
@@ -105,9 +87,7 @@
       "en": "SHEKHAN - STADIUM"
     },
     "latitude": 36.68206504130722,
-    "longitude": 43.34095427116501,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.34095427116501
   },
   {
     "id": "ATM_11",
@@ -116,9 +96,7 @@
       "en": "دائرة بيئة محافظة دهوك"
     },
     "latitude": 36.72418759071108,
-    "longitude": 43.87312008466001,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.87312008466001
   },
   {
     "id": "ATM_12",
@@ -127,9 +105,7 @@
       "en": "shorash park"
     },
     "latitude": 36.73946095421788,
-    "longitude": 43.89788891533999,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.89788891533999
   },
   {
     "id": "ATM_13",
@@ -138,9 +114,7 @@
       "en": "دائره طابو سيميل"
     },
     "latitude": 36.85064748523146,
-    "longitude": 42.86358964233,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.86358964233
   },
   {
     "id": "ATM_14",
@@ -149,9 +123,7 @@
       "en": "Parshad Street"
     },
     "latitude": 36.84180163059842,
-    "longitude": 43.05717389572355,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.05717389572355
   },
   {
     "id": "ATM_15",
@@ -160,9 +132,7 @@
       "en": "Bazar Road"
     },
     "latitude": 36.84970116704465,
-    "longitude": 42.94026372209874,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.94026372209874
   },
   {
     "id": "ATM_16",
@@ -171,9 +141,7 @@
       "en": "Emergency Teaching Hospital"
     },
     "latitude": 36.85762359380764,
-    "longitude": 43.00851943905765,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.00851943905765
   },
   {
     "id": "ATM_17",
@@ -182,9 +150,7 @@
       "en": "Azadi Street"
     },
     "latitude": 36.867806267236844,
-    "longitude": 42.97000495843096,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.97000495843096
   },
   {
     "id": "ATM_18",
@@ -193,9 +159,7 @@
       "en": "Duhok Highway"
     },
     "latitude": 36.63738998966622,
-    "longitude": 43.52291919992105,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.52291919992105
   },
   {
     "id": "ATM_19",
@@ -204,9 +168,7 @@
       "en": "شيخان"
     },
     "latitude": 36.68544210319907,
-    "longitude": 43.345875770049346,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.345875770049346
   },
   {
     "id": "ATM_20",
@@ -215,9 +177,7 @@
       "en": "صحة عمادية"
     },
     "latitude": 37.090453446460735,
-    "longitude": 43.488714403917484,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.488714403917484
   },
   {
     "id": "ATM_21",
@@ -226,9 +186,7 @@
       "en": "مستشفى سميل"
     },
     "latitude": 36.859973014048244,
-    "longitude": 42.83607187659896,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.83607187659896
   },
   {
     "id": "ATM_22",
@@ -237,9 +195,7 @@
       "en": "دهوك كورا"
     },
     "latitude": 36.90457153729968,
-    "longitude": 43.13498985437733,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.13498985437733
   },
   {
     "id": "ATM_23",
@@ -248,9 +204,7 @@
       "en": "شيلاديزي"
     },
     "latitude": 37.032033495217995,
-    "longitude": 43.77308169363911,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.77308169363911
   },
   {
     "id": "ATM_24",
@@ -259,9 +213,7 @@
       "en": "سميل"
     },
     "latitude": 36.86004293453738,
-    "longitude": 42.843464776701396,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.843464776701396
   },
   {
     "id": "ATM_25",
@@ -270,9 +222,7 @@
       "en": "سبنا"
     },
     "latitude": 37.04319881627723,
-    "longitude": 43.3530235879966,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.3530235879966
   },
   {
     "id": "ATM_26",
@@ -281,9 +231,7 @@
       "en": "سرهلدان"
     },
     "latitude": 36.85113713979616,
-    "longitude": 43.02630562321676,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.02630562321676
   },
   {
     "id": "ATM_27",
@@ -292,9 +240,7 @@
       "en": "دوميس"
     },
     "latitude": 36.79224390131896,
-    "longitude": 42.91201894599914,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.91201894599914
   },
   {
     "id": "ATM_28",
@@ -303,9 +249,7 @@
       "en": "رئاسة جامعة دهوك "
     },
     "latitude": 36.8612628900797,
-    "longitude": 42.96984830425142,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.96984830425142
   },
   {
     "id": "ATM_29",
@@ -314,9 +258,7 @@
       "en": "كلية حقوق الانسان"
     },
     "latitude": 36.863860604040866,
-    "longitude": 42.930212766238434,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.930212766238434
   },
   {
     "id": "ATM_30",
@@ -325,9 +267,7 @@
       "en": "كلية / الاسنان - الصيدلة"
     },
     "latitude": 36.84758218849074,
-    "longitude": 42.99904135393624,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.99904135393624
   },
   {
     "id": "ATM_31",
@@ -336,9 +276,7 @@
       "en": "جامعة دهوك "
     },
     "latitude": 36.85219092542621,
-    "longitude": 42.92238268699061,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.92238268699061
   },
   {
     "id": "ATM_32",
@@ -347,9 +285,7 @@
       "en": "سيبا"
     },
     "latitude": 36.73969305962096,
-    "longitude": 43.88341134075533,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.88341134075533
   },
   {
     "id": "ATM_33",
@@ -358,9 +294,7 @@
       "en": "بردرسش المعهد الفني"
     },
     "latitude": 36.50560498451683,
-    "longitude": 43.585296286162276,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.585296286162276
   },
   {
     "id": "ATM_34",
@@ -369,9 +303,7 @@
       "en": "MALTA"
     },
     "latitude": 36.86833207416979,
-    "longitude": 42.94906608640683,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.94906608640683
   },
   {
     "id": "ATM_35",
@@ -380,9 +312,7 @@
       "en": "MATIN"
     },
     "latitude": 36.86457650767049,
-    "longitude": 43.00398680505728,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.00398680505728
   },
   {
     "id": "ATM_36",
@@ -391,9 +321,7 @@
       "en": "GARA"
     },
     "latitude": 36.85612164034382,
-    "longitude": 42.960847484512236,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.960847484512236
   },
   {
     "id": "ATM_37",
@@ -402,9 +330,7 @@
       "en": "DASNIA"
     },
     "latitude": 36.86470699399182,
-    "longitude": 42.98816773751803,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.98816773751803
   },
   {
     "id": "ATM_38",
@@ -413,9 +339,7 @@
       "en": "AMAD 1"
     },
     "latitude": 36.84683638151703,
-    "longitude": 43.00332758233544,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.00332758233544
   },
   {
     "id": "ATM_39",
@@ -424,9 +348,7 @@
       "en": "Cihan Bank - Br. Duhok"
     },
     "latitude": 36.86317324158931,
-    "longitude": 42.98805853390082,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.98805853390082
   },
   {
     "id": "ATM_40",
@@ -435,9 +357,7 @@
       "en": "Duhok Branch ATM "
     },
     "latitude": 36.86290981639019,
-    "longitude": 42.989430245050855,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.989430245050855
   },
   {
     "id": "ATM_41",
@@ -446,9 +366,7 @@
       "en": "دهوك مول"
     },
     "latitude": 36.85228062480585,
-    "longitude": 42.88443026019515,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.88443026019515
   },
   {
     "id": "ATM_42",
@@ -457,9 +375,7 @@
       "en": "جامعة نوروز/ دهوك"
     },
     "latitude": 36.859976431235154,
-    "longitude": 42.8955638369072,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.8955638369072
   },
   {
     "id": "ATM_43",
@@ -468,9 +384,7 @@
       "en": "فاملي مول - دهوك"
     },
     "latitude": 36.85227110798369,
-    "longitude": 42.88451487204385,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.88451487204385
   },
   {
     "id": "ATM_44",
@@ -479,9 +393,7 @@
       "en": " بلان بازار3"
     },
     "latitude": 36.84711097161874,
-    "longitude": 43.013170276441066,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.013170276441066
   },
   {
     "id": "ATM_45",
@@ -490,9 +402,7 @@
       "en": "قلعه عقرة 1"
     },
     "latitude": 36.73192744887681,
-    "longitude": 43.87920094753114,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.87920094753114
   },
   {
     "id": "ATM_46",
@@ -501,9 +411,7 @@
       "en": "قلعه عقرة 2"
     },
     "latitude": 36.73192744887681,
-    "longitude": 43.87920094753114,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.87920094753114
   },
   {
     "id": "ATM_47",
@@ -512,9 +420,7 @@
       "en": "قلعه عقرة3"
     },
     "latitude": 36.73192744887681,
-    "longitude": 43.87920094753114,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.87920094753114
   },
   {
     "id": "ATM_48",
@@ -523,9 +429,7 @@
       "en": "رۆڤیا - تەنیشت بەرێوەبەرایەتی پۆلیسی رۆڤیا"
     },
     "latitude": 36.618776,
-    "longitude": 43.702573,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.702573
   },
   {
     "id": "ATM_49",
@@ -534,9 +438,7 @@
       "en": "دهۆک، بەردەم سەرۆکایەتی شارەوانی دهۆک"
     },
     "latitude": 36.003589,
-    "longitude": 44.031576,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.031576
   },
   {
     "id": "ATM_50",
@@ -545,9 +447,7 @@
       "en": "زاخۆ - نزیک سایلویا زاخۆ"
     },
     "latitude": 37.152445,
-    "longitude": 42.704929,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.704929
   },
   {
     "id": "ATM_51",
@@ -556,9 +456,7 @@
       "en": "دهۆک - نزیک بەڕێوەبەرایەتی کارەبای دهۆک, بەردەم داسنیا بانک"
     },
     "latitude": 36.864684,
-    "longitude": 42.988189,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.988189
   },
   {
     "id": "ATM_52",
@@ -567,9 +465,7 @@
       "en": "دهۆک، دۆميز - بەرامبەر بانکێ دۆميز"
     },
     "latitude": 36.792233,
-    "longitude": 42.912022,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.912022
   },
   {
     "id": "ATM_53",
@@ -578,9 +474,7 @@
       "en": "دهۆک - بەرامبەر هۆتیل سەرگلی"
     },
     "latitude": 36.856115,
-    "longitude": 42.960751,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.960751
   },
   {
     "id": "ATM_54",
@@ -589,9 +483,7 @@
       "en": "زاخۆ - تەنيشت بانکي هيزل"
     },
     "latitude": 37.161153,
-    "longitude": 42.679117,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.679117
   },
   {
     "id": "ATM_55",
@@ -600,9 +492,7 @@
       "en": "زاخۆ - بەردەم ناحیا رزگاری"
     },
     "latitude": 37.137985,
-    "longitude": 42.562266,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.562266
   },
   {
     "id": "ATM_56",
@@ -611,9 +501,7 @@
       "en": "سەرسنک - بەردەم ڕێڤەبەریا ناحیا سەرسنک"
     },
     "latitude": 37.043186,
-    "longitude": 43.353029,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.353029
   },
   {
     "id": "ATM_57",
@@ -622,9 +510,7 @@
       "en": "دهۆک - سيميل، ناوەندی بازار"
     },
     "latitude": 36.86008,
-    "longitude": 42.843467,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.843467
   },
   {
     "id": "ATM_58",
@@ -633,9 +519,7 @@
       "en": "شێخان - نزيک بانکی شێخان"
     },
     "latitude": 36.685478,
-    "longitude": 43.346061,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.346061
   },
   {
     "id": "ATM_59",
@@ -644,9 +528,7 @@
       "en": "دهۆک - شێلادزێ"
     },
     "latitude": 37.03203,
-    "longitude": 43.773083,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.773083
   },
   {
     "id": "ATM_60",
@@ -655,9 +537,7 @@
       "en": "ئاکری - نزیک بەرێوەبەرایەتی هاتووچوو ئاکری"
     },
     "latitude": 36.739689,
-    "longitude": 43.883488,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.883488
   },
   {
     "id": "ATM_61",
@@ -666,9 +546,7 @@
       "en": "دهۆک - چرە."
     },
     "latitude": 36.637447,
-    "longitude": 43.523008,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.523008
   },
   {
     "id": "ATM_62",
@@ -677,9 +555,7 @@
       "en": "دهۆک - زاویتە."
     },
     "latitude": 36.904595,
-    "longitude": 43.134903,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.134903
   },
   {
     "id": "ATM_63",
@@ -688,9 +564,7 @@
       "en": "ئاکری - نزیک بەرێوەبەرایەتی شارەوانی ئاکری"
     },
     "latitude": 36.731973,
-    "longitude": 43.879224,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.879224
   },
   {
     "id": "ATM_64",
@@ -699,9 +573,7 @@
       "en": "دهۆک - نزیک کۆلێژی پزیشکی ددان و پزیشکی"
     },
     "latitude": 36.847582,
-    "longitude": 42.999025,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.999025
   },
   {
     "id": "ATM_65",
@@ -710,9 +582,7 @@
       "en": "دهۆک - شەقامي ئەنوەر ماي"
     },
     "latitude": 36.861303,
-    "longitude": 42.969789,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.969789
   },
   {
     "id": "ATM_66",
@@ -721,9 +591,7 @@
       "en": "زاخۆ - نزيک ياريگای زاخۆ"
     },
     "latitude": 37.144226,
-    "longitude": 42.673975,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.673975
   },
   {
     "id": "ATM_67",
@@ -732,9 +600,7 @@
       "en": "بەردەڕەش - بەرامبەر پارکي ئەفرين"
     },
     "latitude": 36.505618,
-    "longitude": 43.585277,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.585277
   },
   {
     "id": "ATM_68",
@@ -743,9 +609,7 @@
       "en": "ئامێدی - بەردەم قائیمقامیا ئامێدی"
     },
     "latitude": 37.090447,
-    "longitude": 43.48872,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.48872
   },
   {
     "id": "ATM_69",
@@ -754,9 +618,7 @@
       "en": "دهۆک - KRO بەرامبەر Maximall"
     },
     "latitude": 36.867816,
-    "longitude": 42.969997,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.969997
   },
   {
     "id": "ATM_70",
@@ -765,9 +627,7 @@
       "en": "دهۆک - نێزیک نەخوشخانا تەنگاڤیان یا کەڤن"
     },
     "latitude": 36.857704,
-    "longitude": 43.008523,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.008523
   },
   {
     "id": "ATM_71",
@@ -776,9 +636,7 @@
       "en": "دهۆک - جادا جەوازاتیت کەڤن"
     },
     "latitude": 36.84976,
-    "longitude": 42.940281,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.940281
   },
   {
     "id": "ATM_72",
@@ -787,9 +645,7 @@
       "en": "دهۆک - نزارکێ"
     },
     "latitude": 36.841771,
-    "longitude": 43.057132,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.057132
   },
   {
     "id": "ATM_73",
@@ -798,9 +654,7 @@
       "en": "زاخۆ - تەنیشت ڕێڤەبەرییا ئاسایشا زاخۆ"
     },
     "latitude": 37.139109,
-    "longitude": 42.710782,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.710782
   },
   {
     "id": "ATM_74",
@@ -809,9 +663,7 @@
       "en": "زاخۆ - بەرامبەر کۆچکا هونەری"
     },
     "latitude": 37.166566,
-    "longitude": 42.688999,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.688999
   },
   {
     "id": "ATM_75",
@@ -820,9 +672,7 @@
       "en": "دهۆک - سێمێل تاپۆ."
     },
     "latitude": 36.850673,
-    "longitude": 42.863616,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.863616
   },
   {
     "id": "ATM_76",
@@ -831,9 +681,7 @@
       "en": "ئاکرێ - تەنیشت مزگەفتا شورەش"
     },
     "latitude": 36.739298,
-    "longitude": 43.89783,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.89783
   },
   {
     "id": "ATM_77",
@@ -842,9 +690,7 @@
       "en": "ئاکرێ - بەردەم ڕوداو مارکێت"
     },
     "latitude": 36.72405,
-    "longitude": 43.873158,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.873158
   },
   {
     "id": "ATM_78",
@@ -853,9 +699,7 @@
       "en": "زاخۆ - لسەر جادا گورستانا تلکەبەرێ"
     },
     "latitude": 37.157925,
-    "longitude": 42.722627,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 42.722627
   },
   {
     "id": "ATM_79",
@@ -864,8 +708,6 @@
       "en": "شێخان - بەردەم یاریگەها شێخان"
     },
     "latitude": 36.681996,
-    "longitude": 43.34096,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 43.34096
   }
 ]

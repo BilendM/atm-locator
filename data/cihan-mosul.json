@@ -8,9 +8,7 @@
       "ku": "ناحیەی الدركزلية - شەقامی الزهور- نزیک بازاری نەبی يونس"
     },
     "latitude": 36.337532,
-    "longitude": 43.136816,
-    "map_link": "https://maps.app.goo.gl/zXpc5biXJZBtW44R7",
-    "type": "ATM"
+    "longitude": 43.136816
   },
   {
     "id": "ATM_2",
@@ -21,8 +19,6 @@
       "ku": "لقی موسل- گەڕەکی الزهور - نزیک فلکەی سيدتي الجميلة - گۆڵدن مۆڵ"
     },
     "latitude": 36.374984,
-    "longitude": 43.179138,
-    "map_link": "https://maps.app.goo.gl/PvdLja4XMkCdhy1f8",
-    "type": "ATM"
+    "longitude": 43.179138
   }
 ]

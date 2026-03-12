@@ -8,9 +8,7 @@
       "ku": "ڕانیە - شەقامی پێنجی ئازار نزیک نەخۆشخانەی منداڵبوونی ڕانیە"
     },
     "latitude": 36.261807,
-    "longitude": 44.867657,
-    "map_link": "https://maps.app.goo.gl/UbsaVCMzJo5wnjuQ6",
-    "type": "ATM"
+    "longitude": 44.867657
   },
   {
     "id": "ATM_2",
@@ -21,9 +19,7 @@
       "ku": "سلێمانی - نزیک قوتابخانەی ئامادەیی تافانی کچان"
     },
     "latitude": 35.544035,
-    "longitude": 45.434825,
-    "map_link": "https://maps.app.goo.gl/N75iXoiPJSjqhdnQ7",
-    "type": "ATM"
+    "longitude": 45.434825
   },
   {
     "id": "ATM_3",
@@ -34,8 +30,6 @@
       "ku": "سلێمانی - بەرامبەر پارکی شەهیدان"
     },
     "latitude": 35.556136,
-    "longitude": 45.456174,
-    "map_link": "https://maps.app.goo.gl/jQ4Cqk1u9N2EZBSX8",
-    "type": "ATM"
+    "longitude": 45.456174
   }
 ]

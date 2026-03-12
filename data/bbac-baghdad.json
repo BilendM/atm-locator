@@ -6,9 +6,7 @@
       "en": "Al Karrada Area, Al Arasat Street, BBAC Building"
     },
     "latitude": 33.2951635,
-    "longitude": 44.4289513,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.4289513
   },
   {
     "id": "ATM_54",
@@ -17,9 +15,7 @@
       "en": "Baghdad, Al Jadrieh, Al Jamia Street, Opposite Coral Baghdad Hotel (ATM 24/7)"
     },
     "latitude": 33.28341711995275,
-    "longitude": 44.393861148884454,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.393861148884454
   },
   {
     "id": "ATM_53",
@@ -28,9 +24,7 @@
       "en": "Al Warda Hypermarket,Al Waseq Street, Karrada District, Baghdad"
     },
     "latitude": 33.3093560845806,
-    "longitude": 44.4287203284332,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.4287203284332
   },
   {
     "id": "ATM_2",
@@ -39,9 +33,7 @@
       "en": "Al Karrada Area, Al Arasat Street, BBAC Building"
     },
     "latitude": 33.2952216740767,
-    "longitude": 44.4311474014828,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.4311474014828
   },
   {
     "id": "ATM_48",
@@ -50,9 +42,7 @@
       "en": "Al Mansour Street, Al Mansour - Baghdad"
     },
     "latitude": 33.31789,
-    "longitude": 44.34594,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.34594
   },
   {
     "id": "ATM_60",
@@ -61,9 +51,7 @@
       "en": "Dream City Mall, Rabihi Street (ATM, 24/7)"
     },
     "latitude": 33.3185743615073,
-    "longitude": 44.4452145697216,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.4452145697216
   },
   {
     "id": "ATM_59",
@@ -72,9 +60,7 @@
       "en": "Karadah - alarasat street (ATM 24/7)"
     },
     "latitude": 33.2952216740767,
-    "longitude": 44.4311474014828,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.4311474014828
   },
   {
     "id": "ATM_61",
@@ -83,8 +69,6 @@
       "en": "Yarmouk Hotel (ATM 24/7)"
     },
     "latitude": 33.3003526556542,
-    "longitude": 44.3425687602304,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.3425687602304
   }
 ]

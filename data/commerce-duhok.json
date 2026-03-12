@@ -8,9 +8,7 @@
       "ku": "دهۆک - KRO بەرامبەر Maximall"
     },
     "latitude": 36.867816,
-    "longitude": 42.969997,
-    "map_link": "https://maps.app.goo.gl/PXuvDsUnEVfCtBYEA",
-    "type": "ATM"
+    "longitude": 42.969997
   },
   {
     "id": "ATM_2",
@@ -21,9 +19,7 @@
       "ku": "دهۆک - بەرامبەر تەربیا گشتی"
     },
     "latitude": 36.852925,
-    "longitude": 43.00155,
-    "map_link": "https://maps.app.goo.gl/jVauzzZKcXWuJ2BGA",
-    "type": "ATM"
+    "longitude": 43.00155
   },
   {
     "id": "ATM_3",
@@ -34,8 +30,6 @@
       "ku": "دهۆک - بەردەم حدیقە دهۆک مۆڵ"
     },
     "latitude": 36.865927,
-    "longitude": 42.958589,
-    "map_link": "https://maps.app.goo.gl/mpRM2SLwuwVY7YN38",
-    "type": "ATM"
+    "longitude": 42.958589
   }
 ]

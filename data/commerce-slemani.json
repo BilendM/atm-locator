@@ -8,9 +8,7 @@
       "ku": "پەیمانگای کلتوری کوردی"
     },
     "latitude": 35.56155,
-    "longitude": 45.42936,
-    "map_link": "https://maps.app.goo.gl/eDrFKjA8WuytdZhD9",
-    "type": "ATM"
+    "longitude": 45.42936
   },
   {
     "id": "ATM_2",
@@ -21,9 +19,7 @@
       "ku": "بەرامبەر بانکی خوێن"
     },
     "latitude": 35.564769,
-    "longitude": 45.444579,
-    "map_link": "https://maps.app.goo.gl/d9pnq3GppNtzkJ7f7",
-    "type": "ATM"
+    "longitude": 45.444579
   },
   {
     "id": "ATM_3",
@@ -34,9 +30,7 @@
       "ku": "شەقامی سالم، پەروەردەی سلێمانی"
     },
     "latitude": 35.565368,
-    "longitude": 45.398944,
-    "map_link": "https://maps.app.goo.gl/1b5Y6XmaxU8Z8Ajx9",
-    "type": "ATM"
+    "longitude": 45.398944
   },
   {
     "id": "ATM_4",
@@ -47,9 +41,7 @@
       "ku": "بانکی مەڵکەنی"
     },
     "latitude": 35.580851,
-    "longitude": 45.423549,
-    "map_link": "https://maps.app.goo.gl/P91Lb5PgirgsVbSS8",
-    "type": "ATM"
+    "longitude": 45.423549
   },
   {
     "id": "ATM_5",
@@ -60,9 +52,7 @@
       "ku": "شەقامی ابراهیم پاشا، قوتابخانەی گۆیژە"
     },
     "latitude": 35.556273,
-    "longitude": 45.45115,
-    "map_link": "https://maps.app.goo.gl/41J5U3CHLb1o8nzo9",
-    "type": "ATM"
+    "longitude": 45.45115
   },
   {
     "id": "ATM_6",
@@ -73,9 +63,7 @@
       "ku": "سەروەری، قوتابخانەی US"
     },
     "latitude": 35.583761,
-    "longitude": 45.405194,
-    "map_link": "https://maps.app.goo.gl/iUWJzN7VURfkGCxi9",
-    "type": "ATM"
+    "longitude": 45.405194
   },
   {
     "id": "ATM_7",
@@ -86,9 +74,7 @@
       "ku": "شەقامی مەلیک مەحموود، نزیک هەڵەبجە گروپ"
     },
     "latitude": 35.548587,
-    "longitude": 45.410105,
-    "map_link": "https://maps.app.goo.gl/6gQjsFGAPWvm5Hdv6",
-    "type": "ATM"
+    "longitude": 45.410105
   },
   {
     "id": "ATM_8",
@@ -99,9 +85,7 @@
       "ku": "تووی مەلیک - باخچەی مامۆستا فەرەیدوون علی امین"
     },
     "latitude": 35.572747,
-    "longitude": 45.45684,
-    "map_link": "https://maps.app.goo.gl/oUZM1YeLsw9jkvjo8",
-    "type": "ATM"
+    "longitude": 45.45684
   },
   {
     "id": "ATM_9",
@@ -112,9 +96,7 @@
       "ku": "مزگەوتی قازی محمد"
     },
     "latitude": 35.568176,
-    "longitude": 45.438953,
-    "map_link": "https://maps.app.goo.gl/iU5QoTq22yHBudvK7",
-    "type": "ATM"
+    "longitude": 45.438953
   },
   {
     "id": "ATM_10",
@@ -125,9 +107,7 @@
       "ku": "شەقامی مەلیک مەحموود، نەخۆشخانەی ڤێتێرنەری"
     },
     "latitude": 35.580735,
-    "longitude": 45.401385,
-    "map_link": "https://maps.app.goo.gl/orqGf1DE9RpySzq29",
-    "type": "ATM"
+    "longitude": 45.401385
   },
   {
     "id": "ATM_11",
@@ -138,9 +118,7 @@
       "ku": "باخی گشتی"
     },
     "latitude": 35.556302,
-    "longitude": 45.43375,
-    "map_link": "https://maps.app.goo.gl/cGHCceV888qR8GWt7",
-    "type": "ATM"
+    "longitude": 45.43375
   },
   {
     "id": "ATM_12",
@@ -151,9 +129,7 @@
       "ku": "شەقامی سالم، مطعم طبیخ"
     },
     "latitude": 35.565888,
-    "longitude": 45.394243,
-    "map_link": "https://maps.app.goo.gl/iQxGfPjfpprgYpyTA",
-    "type": "ATM"
+    "longitude": 45.394243
   },
   {
     "id": "ATM_13",
@@ -164,9 +140,7 @@
       "ku": "کانی با، پەیمانگای ناشناڵ"
     },
     "latitude": 35.536714,
-    "longitude": 45.46694,
-    "map_link": "https://maps.app.goo.gl/2PyykLRKQqE1EhAE9",
-    "type": "ATM"
+    "longitude": 45.46694
   },
   {
     "id": "ATM_14",
@@ -177,9 +151,7 @@
       "ku": "بەکرەجۆ، بەڕێوبەرایەتی کار و کاروباری کۆمەڵایەتی"
     },
     "latitude": 35.553716,
-    "longitude": 45.363938,
-    "map_link": "https://maps.app.goo.gl/1wesnGsjXXyAio4D6",
-    "type": "ATM"
+    "longitude": 45.363938
   },
   {
     "id": "ATM_15",
@@ -190,8 +162,6 @@
       "ku": "دوکان - هۆڵی شەهیذ ڕەسول حەمە زێڕ"
     },
     "latitude": 35.93222,
-    "longitude": 44.96672,
-    "map_link": "https://www.google.com/maps?q=35.932222,44.966722",
-    "type": "ATM"
+    "longitude": 44.96672
   }
 ]

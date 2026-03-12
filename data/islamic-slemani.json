@@ -8,9 +8,7 @@
       "ku": "پەیمانگای کلتوری کوردی"
     },
     "latitude": 35.56155,
-    "longitude": 45.42936,
-    "map_link": "https://maps.app.goo.gl/eDrFKjA8WuytdZhD9",
-    "type": "ATM"
+    "longitude": 45.42936
   },
   {
     "id": "ATM_2",
@@ -21,9 +19,7 @@
       "ku": "تووی مەلیک - باخچەی مامۆستا فەرەیدوون علی امین"
     },
     "latitude": 35.572747,
-    "longitude": 45.45684,
-    "map_link": "https://maps.app.goo.gl/oUZM1YeLsw9jkvjo8",
-    "type": "ATM"
+    "longitude": 45.45684
   },
   {
     "id": "ATM_3",
@@ -34,9 +30,7 @@
       "ku": "شارەزوور - بەردەم فەرمانگەی ڕۆشنبیری و هونەری شارەزوور"
     },
     "latitude": 35.317346,
-    "longitude": 45.681845,
-    "map_link": "https://maps.app.goo.gl/96zixrPb1mxgCrXVA",
-    "type": "ATM"
+    "longitude": 45.681845
   },
   {
     "id": "ATM_4",
@@ -47,9 +41,7 @@
       "ku": "ڕانیە - نزیک یاریگای کێوەڕەش"
     },
     "latitude": 36.257541,
-    "longitude": 44.894333,
-    "map_link": "https://maps.app.goo.gl/4FGW5KhKDCs9RpGu8",
-    "type": "ATM"
+    "longitude": 44.894333
   },
   {
     "id": "ATM_5",
@@ -60,9 +52,7 @@
       "ku": "سلێمانی - نزیک قوتابخانەی ئامادەیی تافانی کچان"
     },
     "latitude": 35.544035,
-    "longitude": 45.434825,
-    "map_link": "https://maps.app.goo.gl/N75iXoiPJSjqhdnQ7",
-    "type": "ATM"
+    "longitude": 45.434825
   },
   {
     "id": "ATM_6",
@@ -73,9 +63,7 @@
       "ku": "سلێمانی - بەرامبەر پارکی شەهیدان"
     },
     "latitude": 35.556136,
-    "longitude": 45.456174,
-    "map_link": "https://maps.app.goo.gl/jQ4Cqk1u9N2EZBSX8",
-    "type": "ATM"
+    "longitude": 45.456174
   },
   {
     "id": "ATM_7",
@@ -86,9 +74,7 @@
       "ku": "سلێمانی - فلکەی ماردین"
     },
     "latitude": 35.53897,
-    "longitude": 45.476311,
-    "map_link": "https://maps.app.goo.gl/whT2kjgkxU3BZG3n6",
-    "type": "ATM"
+    "longitude": 45.476311
   },
   {
     "id": "ATM_8",
@@ -99,9 +85,7 @@
       "ku": "کفری - بەردەم قایمقامییەتی قەزای کفری"
     },
     "latitude": 34.69482,
-    "longitude": 44.95735,
-    "map_link": "https://maps.app.goo.gl/R2Q1U1VzFheeCmXe8",
-    "type": "ATM"
+    "longitude": 44.95735
   },
   {
     "id": "ATM_9",
@@ -112,8 +96,6 @@
       "ku": "گەڕەکی کوردسات، قوتابخانەی کەریم زەندی کچان"
     },
     "latitude": 35.58808,
-    "longitude": 45.43469,
-    "map_link": "https://maps.app.goo.gl/bL5gGWzUcDzifDjz8",
-    "type": "ATM"
+    "longitude": 45.43469
   }
 ]

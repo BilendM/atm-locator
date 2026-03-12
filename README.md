@@ -71,12 +71,12 @@ The ATM dataset should be formatted securely as follows:
   {
     "id": "unique-uuid-or-id",
     "title": "Main Branch ATM",
-    "type": "ATM",
     "latitude": 36.1911,
     "longitude": 44.0092,
     "description": "24/7 Access, USD & IQD",
-    "address": "60m Road, Erbil",
-    "map_link": "https://maps.google.com/..."
+    "address": {
+      "en": "Address in English"
+    }
   }
 ]
 ```

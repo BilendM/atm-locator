@@ -6,9 +6,7 @@
       "en": "فندق بابل 2"
     },
     "latitude": 33.29120745742169,
-    "longitude": 44.38766971064927,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3335.0556351369023!2d44.38766971064927!3d33.29120745742169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE3JzI4LjMiTiA0NMKwMjMnMjQuOSJF!5e0!3m2!1sen!2sjo!4v1700751184826!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.38766971064927
   },
   {
     "id": "ATM_2",
@@ -17,9 +15,7 @@
       "en": "صراف آلي محطة كاش ماني"
     },
     "latitude": 33.32200745593721,
-    "longitude": 44.19445107471976,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3333.877899522515!2d44.19445107471976!3d33.32200745593721!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE5JzE5LjIiTiA0NMKwMTEnNDkuMyJF!5e0!3m2!1sen!2sjo!4v1737288562909!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.19445107471976
   },
   {
     "id": "ATM_3",
@@ -28,9 +24,7 @@
       "en": "أسواق زمان الطيب"
     },
     "latitude": 33.402938451626305,
-    "longitude": 44.40042971065426,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3330.7786555510106!2d44.40042971065426!3d33.402938451626305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDI0JzEwLjYiTiA0NMKwMjQnMTAuOCJF!5e0!3m2!1sen!2sjo!4v1700757156241!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.40042971065426
   },
   {
     "id": "ATM_4",
@@ -39,9 +33,7 @@
       "en": "الأدارة العامة"
     },
     "latitude": 33.313430456270225,
-    "longitude": 44.4199197106503,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3334.2059651042205!2d44.4199197106503!3d33.313430456270225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE4JzQ4LjMiTiA0NMKwMjUnMjEuMCJF!5e0!3m2!1sen!2sjo!4v1700752113545!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.4199197106503
   },
   {
     "id": "ATM_5",
@@ -50,9 +42,7 @@
       "en": "التجهيزات الزراعية"
     },
     "latitude": 33.37157046074015,
-    "longitude": 44.38561131453532,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3331.9806785092837!2d44.38561131453532!3d33.37157046074015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xfc25bfd41cd5d472!2zMzPCsDIyJzE3LjYiTiA0NMKwMjMnMTYuMSJF!5e0!3m2!1sen!2sjo!4v1653925037159!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.38561131453532
   },
   {
     "id": "ATM_6",
@@ -61,9 +51,7 @@
       "en": "الجامعة الامريكية في بغداد"
     },
     "latitude": 33.28184745790646,
-    "longitude": 44.25263371064902,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3335.4133534757093!2d44.25263371064902!3d33.28184745790646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE2JzU0LjYiTiA0NMKwMTUnMTguOCJF!5e0!3m2!1sen!2sjo!4v1700750944854!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.25263371064902
   },
   {
     "id": "ATM_7",
@@ -72,9 +60,7 @@
       "en": "الخطوط الجوية العراقية"
     },
     "latitude": 33.258048459138465,
-    "longitude": 44.23326071064792,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3336.3224972928165!2d44.23326071064792!3d33.258048459138465!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE1JzI5LjAiTiA0NMKwMTQnMDkuMCJF!5e0!3m2!1sen!2sjo!4v1700752973884!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.23326071064792
   },
   {
     "id": "ATM_8",
@@ -83,9 +69,7 @@
       "en": "الشركة العامة للاتصالات"
     },
     "latitude": 33.31898845598225,
-    "longitude": 44.412033710650576,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3333.9933831527933!2d44.412033710650576!3d33.31898845598225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE5JzA4LjMiTiA0NMKwMjQnNTIuNiJF!5e0!3m2!1sen!2sjo!4v1700752650687!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.412033710650576
   },
   {
     "id": "ATM_9",
@@ -94,9 +78,7 @@
       "en": "الشركة العامة للنقل البري"
     },
     "latitude": 33.34406845468199,
-    "longitude": 44.41440271065152,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3333.033735102795!2d44.41440271065152!3d33.34406845468199!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDIwJzM4LjYiTiA0NMKwMjUnMDEuMSJF!5e0!3m2!1sen!2sjo!4v1700754025185!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.41440271065152
   },
   {
     "id": "ATM_10",
@@ -105,9 +87,7 @@
       "en": "الفرع الرئيسي  1"
     },
     "latitude": 33.31341668081332,
-    "longitude": 44.424688684804195,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3334.206491947875!2d44.424688684804195!3d33.31341668081332!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE4JzQ4LjMiTiA0NMKwMjUnMjEuMCJF!5e0!3m2!1sar!2sjo!4v1624269327463!5m2!1sar!2sjo",
-    "type": "ATM"
+    "longitude": 44.424688684804195
   },
   {
     "id": "ATM_11",
@@ -116,9 +96,7 @@
       "en": "الفرع الرئيسي 3"
     },
     "latitude": 33.313430456270225,
-    "longitude": 44.4199197106503,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3334.2059651042205!2d44.4199197106503!3d33.313430456270225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE4JzQ4LjMiTiA0NMKwMjUnMjEuMCJF!5e0!3m2!1sen!2sjo!4v1700754070628!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.4199197106503
   },
   {
     "id": "ATM_12",
@@ -127,9 +105,7 @@
       "en": "المديرية العامة لنقل الطاقة المنطقة الوسطى"
     },
     "latitude": 33.370214453325474,
-    "longitude": 44.39893971065276,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3332.032618263563!2d44.39893971065276!3d33.370214453325474!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDIyJzEyLjgiTiA0NMKwMjQnMDUuNSJF!5e0!3m2!1sen!2sjo!4v1700751663024!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.39893971065276
   },
   {
     "id": "ATM_13",
@@ -138,9 +114,7 @@
       "en": "النادي الثقافي النفطي"
     },
     "latitude": 33.31999445593024,
-    "longitude": 44.4234897106505,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3333.954902389853!2d44.4234897106505!3d33.31999445593024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE5JzEyLjAiTiA0NMKwMjUnMzMuOSJF!5e0!3m2!1sen!2sjo!4v1700755549913!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.4234897106505
   },
   {
     "id": "ATM_14",
@@ -149,9 +123,7 @@
       "en": "شركة ببيسي التاجي"
     },
     "latitude": 33.46437444843252,
-    "longitude": 44.27729971065707,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3328.421533045002!2d44.27729971065707!3d33.46437444843252!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDI3JzUxLjciTiA0NMKwMTYnNDcuNiJF!5e0!3m2!1sen!2sjo!4v1700755650971!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.27729971065707
   },
   {
     "id": "ATM_15",
@@ -160,9 +132,7 @@
       "en": "شركة توزيع المنتجات النفطية"
     },
     "latitude": 33.279904458007046,
-    "longitude": 44.43911971064894,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3335.4875994487143!2d44.43911971064894!3d33.279904458007046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE2JzQ3LjYiTiA0NMKwMjYnMzAuMSJF!5e0!3m2!1sen!2sjo!4v1700755603573!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.43911971064894
   },
   {
     "id": "ATM_16",
@@ -171,9 +141,7 @@
       "en": "شركة نهج العراق"
     },
     "latitude": 33.336714455063365,
-    "longitude": 44.41629971065142,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3333.315190910332!2d44.41629971065142!3d33.336714455063365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDIwJzEyLjIiTiA0NMKwMjUnMDguMCJF!5e0!3m2!1sen!2sjo!4v1700755340296!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.41629971065142
   },
   {
     "id": "ATM_17",
@@ -182,9 +150,7 @@
       "en": "صحارى مول"
     },
     "latitude": 33.25139045948289,
-    "longitude": 44.34972371064754,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3336.5767360148448!2d44.34972371064754!3d33.25139045948289!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE1JzA1LjAiTiA0NMKwMjEnMDguMyJF!5e0!3m2!1sen!2sjo!4v1700756613845!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.34972371064754
   },
   {
     "id": "ATM_18",
@@ -193,9 +159,7 @@
       "en": "صراف أسواق فري تايم"
     },
     "latitude": 33.38302898079328,
-    "longitude": 44.322334685056575,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3331.5417032117252!2d44.322334685056575!3d33.38302898079328!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xa0f9aaa367b9dc94!2zMzPCsDIyJzU4LjkiTiA0NMKwMTknMTIuNSJF!5e0!3m2!1sar!2sjo!4v1674541637837!5m2!1sar!2sjo",
-    "type": "ATM"
+    "longitude": 44.322334685056575
   },
   {
     "id": "ATM_19",
@@ -204,9 +168,7 @@
       "en": "صراف البنك المركزي العراقي 1"
     },
     "latitude": 33.33747218080638,
-    "longitude": 44.391339115196516,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3333.2861934040084!2d44.391339115196516!3d33.33747218080638!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDIwJzE0LjkiTiA0NMKwMjMnMzYuNyJF!5e0!3m2!1sen!2sjo!4v1624271040696!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.391339115196516
   },
   {
     "id": "ATM_20",
@@ -215,9 +177,7 @@
       "en": "صراف البنك المركزي العراقي- الجادرية"
     },
     "latitude": 33.2880277808207,
-    "longitude": 44.384672415195254,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3335.177165278729!2d44.384672415195254!3d33.2880277808207!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE3JzE2LjkiTiA0NMKwMjMnMTIuNyJF!5e0!3m2!1sen!2sjo!4v1624275269505!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.384672415195254
   },
   {
     "id": "ATM_21",
@@ -226,9 +186,7 @@
       "en": "صراف الشركة العامة للمعدات الهندسية الثقيلة"
     },
     "latitude": 33.271861080825424,
-    "longitude": 44.424866915194784,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3335.7949124219176!2d44.424866915194784!3d33.271861080825424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE2JzE4LjciTiA0NMKwMjUnMzcuNCJF!5e0!3m2!1sen!2sjo!4v1624273275889!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.424866915194784
   },
   {
     "id": "ATM_22",
@@ -237,9 +195,7 @@
       "en": "صراف الفرع الرئيسي 2"
     },
     "latitude": 33.31341668081335,
-    "longitude": 44.42031131519587,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3334.206491947874!2d44.42031131519587!3d33.31341668081335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE4JzQ4LjMiTiA0NMKwMjUnMjEuMCJF!5e0!3m2!1sen!2sjo!4v1624270397578!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.42031131519587
   },
   {
     "id": "ATM_23",
@@ -248,9 +204,7 @@
       "en": "صراف المبنى الرئيسي اسياسيل 1 - المنصور"
     },
     "latitude": 33.3062221808155,
-    "longitude": 44.33753351519554,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3334.4816199449665!2d44.33753351519554!3d33.3062221808155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE4JzIyLjQiTiA0NMKwMjAnMjMuMCJF!5e0!3m2!1sen!2sjo!4v1624275618020!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.33753351519554
   },
   {
     "id": "ATM_24",
@@ -259,9 +213,7 @@
       "en": "صراف المبنى الرئيسي اسياسيل 2 - المنصور"
     },
     "latitude": 33.3062221808155,
-    "longitude": 44.33753351519554,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3334.4816199449665!2d44.33753351519554!3d33.3062221808155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE4JzIyLjQiTiA0NMKwMjAnMjMuMCJF!5e0!3m2!1sen!2sjo!4v1624275677741!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.33753351519554
   },
   {
     "id": "ATM_25",
@@ -270,9 +222,7 @@
       "en": "صراف المديرية العامة لأنتاج الطاقة الكهربائية للمنطقة الوسطى"
     },
     "latitude": 33.33152778080808,
-    "longitude": 44.40795021519637,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3333.5136647777026!2d44.40795021519637!3d33.33152778080808!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE5JzUzLjUiTiA0NMKwMjQnMzYuNSJF!5e0!3m2!1sen!2sjo!4v1624273763319!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.40795021519637
   },
   {
     "id": "ATM_26",
@@ -281,9 +231,7 @@
       "en": "صراف المنصور مول"
     },
     "latitude": 33.32091668081113,
-    "longitude": 44.350616915196014,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3333.919625225585!2d44.350616915196014!3d33.32091668081113!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE5JzE1LjMiTiA0NMKwMjEnMTAuMSJF!5e0!3m2!1sen!2sjo!4v1624270611405!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.350616915196014
   },
   {
     "id": "ATM_27",
@@ -292,9 +240,7 @@
       "en": "صراف آلي أسواق القلعة"
     },
     "latitude": 33.28268935071263,
-    "longitude": 44.294712396345496,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d208.46132386564705!2d44.294712396345496!3d33.28268935071263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9a5064c7bfbf48bc!2zMzPCsDE2JzU3LjYiTiA0NMKwMTcnNDAuNyJF!5e0!3m2!1sar!2sjo!4v1667483333364!5m2!1sar!2sjo",
-    "type": "ATM"
+    "longitude": 44.294712396345496
   },
   {
     "id": "ATM_28",
@@ -303,9 +249,7 @@
       "en": "صراف آلي الشركة العامة لأدارة النقل الخاص"
     },
     "latitude": 33.3499874544863,
-    "longitude": 44.352829074721164,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3332.8071604151023!2d44.352829074721164!3d33.3499874544863!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDIwJzU5LjkiTiA0NMKwMjEnMTkuNSJF!5e0!3m2!1sen!2sjo!4v1735544718297!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.352829074721164
   },
   {
     "id": "ATM_29",
@@ -314,9 +258,7 @@
       "en": "صراف آلي الشركة العامة لتنفيذ مشاريع النقل و المواصلات"
     },
     "latitude": 33.3439344548003,
-    "longitude": 44.35772107472076,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3333.038864101819!2d44.35772107472076!3d33.3439344548003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDIwJzM4LjIiTiA0NMKwMjEnMzcuMSJF!5e0!3m2!1sen!2sjo!4v1735544457673!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.35772107472076
   },
   {
     "id": "ATM_30",
@@ -325,9 +267,7 @@
       "en": "صراف آلي الشركة العامة لفحص و تأهيل المنظومات الكهربائية"
     },
     "latitude": 33.33616145520341,
-    "longitude": 44.42125807472055,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3333.336353366865!2d44.42125807472055!3d33.33616145520341!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDIwJzEwLjIiTiA0NMKwMjUnMjUuOCJF!5e0!3m2!1sen!2sjo!4v1735544788620!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.42125807472055
   },
   {
     "id": "ATM_31",
@@ -336,9 +276,7 @@
       "en": "صراف آلي الشركة العامة للمنتجات الغذائية"
     },
     "latitude": 33.29172545750607,
-    "longitude": 44.446230074718315,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3335.0358357279406!2d44.446230074718315!3d33.29172545750607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE3JzMwLjIiTiA0NMKwMjYnNTUuNyJF!5e0!3m2!1sen!2sjo!4v1735544947457!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.446230074718315
   },
   {
     "id": "ATM_32",
@@ -347,9 +285,7 @@
       "en": "صراف آلي الشركة العامة للمنتجات الغذائية / مصنع المأمون"
     },
     "latitude": 33.29903245712777,
-    "longitude": 44.44945507471868,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3334.7565127658504!2d44.44945507471868!3d33.29903245712777!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE3JzU2LjUiTiA0NMKwMjcnMDcuMyJF!5e0!3m2!1sen!2sjo!4v1735544981809!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.44945507471868
   },
   {
     "id": "ATM_33",
@@ -358,9 +294,7 @@
       "en": "صراف آلي العيادات الشعبية"
     },
     "latitude": 33.34009445499703,
-    "longitude": 44.337075076182494,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3333.185836747646!2d44.337075076182494!3d33.34009445499703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDIwJzI0LjMiTiA0NMKwMjAnMjIuNyJF!5e0!3m2!1sen!2sjo!4v1721127903817!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.337075076182494
   },
   {
     "id": "ATM_34",
@@ -369,9 +303,7 @@
       "en": "صراف آلي تكسي كريم"
     },
     "latitude": 33.30815341580115,
-    "longitude": 44.342429454519156,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d208.40048574448602!2d44.342429454519156!3d33.30815341580115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x22ed491f3745c8a5!2zMzPCsDE4JzI5LjQiTiA0NMKwMjAnMzMuNCJF!5e0!3m2!1sen!2sjo!4v1659527159163!5m2!1sen!2sjo'",
-    "type": "ATM"
+    "longitude": 44.342429454519156
   },
   {
     "id": "ATM_35",
@@ -380,9 +312,7 @@
       "en": "صراف آلي دائرة التدريب و بحوث الطاقة"
     },
     "latitude": 33.36157645388509,
-    "longitude": 44.3923120747216,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3332.363439580134!2d44.3923120747216!3d33.36157645388509!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDIxJzQxLjciTiA0NMKwMjMnNDEuNiJF!5e0!3m2!1sen!2sjo!4v1735544866053!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.3923120747216
   },
   {
     "id": "ATM_36",
@@ -391,9 +321,7 @@
       "en": "صراف آلي دائرة التشغيل والتحكم"
     },
     "latitude": 33.31194445645609,
-    "longitude": 44.52008507618163,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3334.26279619685!2d44.52008507618163!3d33.31194445645609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE4JzQzLjAiTiA0NMKwMzEnMjEuNiJF!5e0!3m2!1sen!2sjo!4v1719832986992!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.52008507618163
   },
   {
     "id": "ATM_37",
@@ -402,9 +330,7 @@
       "en": "صراف آلي دائرة التقاعد و الضمان الاجتماعي للعمال"
     },
     "latitude": 33.37130345338039,
-    "longitude": 44.396832074722084,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3331.990905958341!2d44.396832074722084!3d33.37130345338039!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDIyJzE2LjciTiA0NMKwMjMnNTcuOSJF!5e0!3m2!1sen!2sjo!4v1735544755341!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.396832074722084
   },
   {
     "id": "ATM_38",
@@ -413,9 +339,7 @@
       "en": "صراف آلي دائرة الطب العدلي"
     },
     "latitude": 33.328661119337475,
-    "longitude": 44.479157170820855,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d833.405837262629!2d44.479157170820855!3d33.328661119337475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc7ee33dea19d9b48!2zMzPCsDE5JzQzLjIiTiA0NMKwMjgnNDMuMCJF!5e0!3m2!1sar!2sjo!4v1655895790810!5m2!1sar!2sjo",
-    "type": "ATM"
+    "longitude": 44.479157170820855
   },
   {
     "id": "ATM_39",
@@ -424,9 +348,7 @@
       "en": "صراف آلي شركة الشرق الأوسط لصناعة مواد التعبئة والتغليف"
     },
     "latitude": 33.2374644676734,
-    "longitude": 44.457511314531466,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3337.108360619896!2d44.457511314531466!3d33.2374644676734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc3665843bafbcd67!2zMzPCsDE0JzE0LjkiTiA0NMKwMjcnMzQuOSJF!5e0!3m2!1sen!2sjo!4v1653923418488!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.457511314531466
   },
   {
     "id": "ATM_40",
@@ -435,9 +357,7 @@
       "en": "صراف آلي شركة تسويق النفط"
     },
     "latitude": 33.33849245508253,
-    "longitude": 44.45037907472061,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3333.247147472297!2d44.45037907472061!3d33.33849245508253!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDIwJzE4LjYiTiA0NMKwMjcnMTAuNiJF!5e0!3m2!1sen!2sjo!4v1735544687053!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.45037907472061
   },
   {
     "id": "ATM_41",
@@ -446,9 +366,7 @@
       "en": "صراف آلي شركة سوبر سيل"
     },
     "latitude": 33.31007445655298,
-    "longitude": 44.31029507626852,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3334.334309935105!2d44.31029507626852!3d33.31007445655298!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE4JzM2LjMiTiA0NMKwMTgnNDYuMyJF!5e0!3m2!1sen!2sjo!4v1731227729996!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.31029507626852
   },
   {
     "id": "ATM_42",
@@ -457,9 +375,7 @@
       "en": "صراف آلي شركة مابين النهرين العامة للبذور"
     },
     "latitude": 33.30968145657354,
-    "longitude": 44.4285840761816,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3334.349338841267!2d44.4285840761816!3d33.30968145657354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE4JzM0LjgiTiA0NMKwMjUnNTIuMiJF!5e0!3m2!1sen!2sjo!4v1719833158733!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.4285840761816
   },
   {
     "id": "ATM_43",
@@ -468,9 +384,7 @@
       "en": "صراف آلي شركة وادي الرافدين"
     },
     "latitude": 33.46561344847977,
-    "longitude": 44.3781730747266,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3328.373956800802!2d44.3781730747266!3d33.46561344847977!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDI3JzU2LjIiTiA0NMKwMjInNTAuNyJF!5e0!3m2!1sen!2sjo!4v1735544574693!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.3781730747266
   },
   {
     "id": "ATM_44",
@@ -479,9 +393,7 @@
       "en": "صراف آلي فرع زيونة 1"
     },
     "latitude": 33.32636628080958,
-    "longitude": 44.46033758565518,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3333.7111482055393!2d44.46033758565518!3d33.32636628080958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb7e2b8d91c8422a5!2zMzPCsDE5JzM0LjkiTiA0NMKwMjcnMjkuMyJF!5e0!3m2!1sar!2sjo!4v1661431617926!5m2!1sar!2sjo",
-    "type": "ATM"
+    "longitude": 44.46033758565518
   },
   {
     "id": "ATM_45",
@@ -490,9 +402,7 @@
       "en": "صراف آلي فرع زيونة 2"
     },
     "latitude": 33.32636628080958,
-    "longitude": 44.46033758565518,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3333.7111482055393!2d44.46033758565518!3d33.32636628080958!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb7e2b8d91c8422a5!2zMzPCsDE5JzM0LjkiTiA0NMKwMjcnMjkuMyJF!5e0!3m2!1sar!2sjo!4v1661431816328!5m2!1sar!2sjo",
-    "type": "ATM"
+    "longitude": 44.46033758565518
   },
   {
     "id": "ATM_46",
@@ -501,9 +411,7 @@
       "en": "صراف آلي فندق بغداد"
     },
     "latitude": 33.31868845610652,
-    "longitude": 44.41250607626861,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3334.0048583263015!2d44.41250607626861!3d33.31868845610652!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE5JzA3LjMiTiA0NMKwMjQnNTQuMyJF!5e0!3m2!1sen!2sjo!4v1733128960903!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.41250607626861
   },
   {
     "id": "ATM_47",
@@ -512,9 +420,7 @@
       "en": "صراف آلي محطة الشعلة"
     },
     "latitude": 33.35959245398541,
-    "longitude": 44.28149007627027,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3332.4394128506765!2d44.28149007627027!3d33.35959245398541!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDIxJzM0LjUiTiA0NMKwMTcnMDIuNiJF!5e0!3m2!1sen!2sjo!4v1731227593322!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.28149007627027
   },
   {
     "id": "ATM_48",
@@ -523,9 +429,7 @@
       "en": "صراف آلي محطة العامرية"
     },
     "latitude": 33.3019844569722,
-    "longitude": 44.29453507626827,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3334.643651977456!2d44.29453507626827!3d33.3019844569722!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE4JzA3LjEiTiA0NMKwMTcnNDkuNiJF!5e0!3m2!1sen!2sjo!4v1733128705110!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.29453507626827
   },
   {
     "id": "ATM_49",
@@ -534,9 +438,7 @@
       "en": "صراف آلي محطة جنوب بغداد الحرارية"
     },
     "latitude": 33.28948445762228,
-    "longitude": 44.45020507471816,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3335.1214910367667!2d44.45020507471816!3d33.28948445762228!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE3JzIyLjEiTiA0NMKwMjcnMTAuMCJF!5e0!3m2!1sen!2sjo!4v1735544910628!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.45020507471816
   },
   {
     "id": "ATM_50",
@@ -545,9 +447,7 @@
       "en": "صراف آلي محطة حي الجهاد"
     },
     "latitude": 33.271694458540736,
-    "longitude": 44.28254507626726,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3335.801277857527!2d44.28254507626726!3d33.271694458540736!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE2JzE4LjEiTiA0NMKwMTcnMDYuNCJF!5e0!3m2!1sen!2sjo!4v1731227461094!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.28254507626726
   },
   {
     "id": "ATM_51",
@@ -556,9 +456,7 @@
       "en": "صراف آلي محطة كهرباء جنوب بغداد الغازية الثانية"
     },
     "latitude": 33.2875,
-    "longitude": 44.4592222,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3335.1973365494487!2d44.4592222!3d33.2875!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE3JzE1LjAiTiA0NMKwMjcnMzMuMiJF!5e0!3m2!1sen!2str!4v1748246320337!5m2!1sen!2str",
-    "type": "ATM"
+    "longitude": 44.4592222
   },
   {
     "id": "ATM_52",
@@ -567,9 +465,7 @@
       "en": "صراف آلي مركز البحث والتطوير النفطي"
     },
     "latitude": 33.44855844936689,
-    "longitude": 44.37940307472578,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3329.0287133263473!2d44.37940307472578!3d33.44855844936689!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDI2JzU0LjgiTiA0NMKwMjInNTUuMSJF!5e0!3m2!1sen!2sjo!4v1735544612869!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.37940307472578
   },
   {
     "id": "ATM_53",
@@ -578,9 +474,7 @@
       "en": "صراف آلي مستشفى الكرخ للولادة"
     },
     "latitude": 33.33864745507442,
-    "longitude": 44.38235807472051,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3333.2412155247816!2d44.38235807472051!3d33.33864745507442!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDIwJzE5LjEiTiA0NMKwMjMnMDUuOCJF!5e0!3m2!1sen!2sjo!4v1735544655033!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.38235807472051
   },
   {
     "id": "ATM_54",
@@ -589,9 +483,7 @@
       "en": "صراف آلي معهد التدريب النفطي"
     },
     "latitude": 33.37048445342293,
-    "longitude": 44.39368607472213,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3332.0222764787172!2d44.39368607472213!3d33.37048445342293!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDIyJzEzLjciTiA0NMKwMjMnNDYuNSJF!5e0!3m2!1sen!2sjo!4v1735545128169!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.39368607472213
   },
   {
     "id": "ATM_55",
@@ -600,9 +492,7 @@
       "en": "صراف دريم ستي مول"
     },
     "latitude": 33.318527780811856,
-    "longitude": 44.44311691519598,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3334.0110042142096!2d44.44311691519598!3d33.318527780811856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE5JzA2LjciTiA0NMKwMjYnNDMuMSJF!5e0!3m2!1sen!2sjo!4v1626008129445!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.44311691519598
   },
   {
     "id": "ATM_56",
@@ -611,9 +501,7 @@
       "en": "صراف سوق العراق للأوراق المالية"
     },
     "latitude": 33.306749980815226,
-    "longitude": 44.42431131519577,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3334.4614379030763!2d44.42431131519577!3d33.306749980815226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE4JzI0LjMiTiA0NMKwMjUnMzUuNCJF!5e0!3m2!1sen!2sjo!4v1624274828712!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.42431131519577
   },
   {
     "id": "ATM_57",
@@ -622,9 +510,7 @@
       "en": "صراف شركة بغداد للمشروبات الغازية 1"
     },
     "latitude": 33.237638880835526,
-    "longitude": 44.46292241519388,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3337.101703618088!2d44.46292241519388!3d33.237638880835526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE0JzE1LjUiTiA0NMKwMjcnNTQuNCJF!5e0!3m2!1sen!2sjo!4v1624273476611!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.46292241519388
   },
   {
     "id": "ATM_58",
@@ -633,9 +519,7 @@
       "en": "صراف شركة بغداد للمشروبات الغازية 1"
     },
     "latitude": 33.237638880835526,
-    "longitude": 44.46292241519388,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3337.101703618088!2d44.46292241519388!3d33.237638880835526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE0JzE1LjUiTiA0NMKwMjcnNTQuNCJF!5e0!3m2!1sen!2sjo!4v1624273476611!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.46292241519388
   },
   {
     "id": "ATM_59",
@@ -644,9 +528,7 @@
       "en": "صراف شركة بغداد للمشروبات الغازية 2"
     },
     "latitude": 33.237638880835526,
-    "longitude": 44.46292241519388,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3337.101703618088!2d44.46292241519388!3d33.237638880835526!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE0JzE1LjUiTiA0NMKwMjcnNTQuNCJF!5e0!3m2!1sen!2sjo!4v1624275124156!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.46292241519388
   },
   {
     "id": "ATM_60",
@@ -655,9 +537,7 @@
       "en": "صراف شركة خطوط الأنابيب النفطية 1"
     },
     "latitude": 33.279888880823094,
-    "longitude": 44.439505715195025,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3335.4881946690566!2d44.439505715195025!3d33.279888880823094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE2JzQ3LjYiTiA0NMKwMjYnMzAuMSJF!5e0!3m2!1sen!2sjo!4v1624271983928!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.439505715195025
   },
   {
     "id": "ATM_61",
@@ -666,9 +546,7 @@
       "en": "صراف شركة خطوط الأنابيب النفطية 2"
     },
     "latitude": 33.279888880823094,
-    "longitude": 44.439505715195025,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3335.4881946690566!2d44.439505715195025!3d33.279888880823094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE2JzQ3LjYiTiA0NMKwMjYnMzAuMSJF!5e0!3m2!1sen!2sjo!4v1624272067788!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.439505715195025
   },
   {
     "id": "ATM_62",
@@ -677,9 +555,7 @@
       "en": "صراف شركة زين العراق للأتصالات"
     },
     "latitude": 33.28208328082248,
-    "longitude": 44.37908911519497,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3335.40434194203!2d44.37908911519497!3d33.28208328082248!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE2JzU1LjUiTiA0NMKwMjInNTIuNiJF!5e0!3m2!1sen!2sjo!4v1624274052432!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.37908911519497
   },
   {
     "id": "ATM_63",
@@ -688,9 +564,7 @@
       "en": "صراف فرع الجادرية 1"
     },
     "latitude": 33.28319438082208,
-    "longitude": 44.39239461519504,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3335.361882563929!2d44.39239461519504!3d33.28319438082208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE2JzU5LjUiTiA0NMKwMjMnNDAuNSJF!5e0!3m2!1sen!2sjo!4v1624275726690!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.39239461519504
   },
   {
     "id": "ATM_64",
@@ -699,9 +573,7 @@
       "en": "صراف فرع الجادرية 2"
     },
     "latitude": 33.28319438082208,
-    "longitude": 44.39239461519504,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3335.361882563929!2d44.39239461519504!3d33.28319438082208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE2JzU5LjUiTiA0NMKwMjMnNDAuNSJF!5e0!3m2!1sen!2sjo!4v1624275829761!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.39239461519504
   },
   {
     "id": "ATM_65",
@@ -710,9 +582,7 @@
       "en": "صراف فرع العرصات"
     },
     "latitude": 33.29986107344946,
-    "longitude": 44.43098067598878,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3334.724834019836!2d44.43098067598878!3d33.29986107344946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE3JzU5LjUiTiA0NMKwMjYnMDAuOCJF!5e0!3m2!1sen!2siq!4v1747822070454!5m2!1sen!2siq",
-    "type": "ATM"
+    "longitude": 44.43098067598878
   },
   {
     "id": "ATM_66",
@@ -721,9 +591,7 @@
       "en": "صراف فرع الكاظمية"
     },
     "latitude": 33.36674998079799,
-    "longitude": 44.342394615197186,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3332.165311018048!2d44.342394615197186!3d33.36674998079799!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDIyJzAwLjMiTiA0NMKwMjAnNDAuNSJF!5e0!3m2!1sen!2sjo!4v1624274215473!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.342394615197186
   },
   {
     "id": "ATM_67",
@@ -732,9 +600,7 @@
       "en": "صراف فرع المنصور 2"
     },
     "latitude": 33.3248332808101,
-    "longitude": 44.34495021519616,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3333.7697968927723!2d44.34495021519616!3d33.3248332808101!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE5JzI5LjQiTiA0NMKwMjAnNDkuNyJF!5e0!3m2!1sen!2sjo!4v1624277355350!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.34495021519616
   },
   {
     "id": "ATM_68",
@@ -743,9 +609,7 @@
       "en": "صراف فرع المنصور 2"
     },
     "latitude": 33.29672218081826,
-    "longitude": 44.28856131519531,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3334.844833020365!2d44.28856131519531!3d33.29672218081826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE3JzQ4LjIiTiA0NMKwMTcnMjYuNyJF!5e0!3m2!1sen!2sjo!4v1624277381732!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.28856131519531
   },
   {
     "id": "ATM_69",
@@ -754,9 +618,7 @@
       "en": "صراف فرع جميلة"
     },
     "latitude": 33.37169438079655,
-    "longitude": 44.41950571519738,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3331.975931851254!2d44.41950571519738!3d33.37169438079655!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDIyJzE4LjEiTiA0NMKwMjUnMTguMSJF!5e0!3m2!1sen!2sjo!4v1626008370080!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.41950571519738
   },
   {
     "id": "ATM_70",
@@ -765,9 +627,7 @@
       "en": "صراف فندق بابل"
     },
     "latitude": 33.291194380819775,
-    "longitude": 44.388061315195145,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3335.056134957597!2d44.388061315195145!3d33.291194380819775!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE3JzI4LjMiTiA0NMKwMjMnMjQuOSJF!5e0!3m2!1sen!2sjo!4v1624271612794!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.388061315195145
   },
   {
     "id": "ATM_71",
@@ -776,9 +636,7 @@
       "en": "صراف ماي ماركت مول"
     },
     "latitude": 33.37413888079588,
-    "longitude": 44.368394615197396,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3331.882294059859!2d44.368394615197396!3d33.37413888079588!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDIyJzI2LjkiTiA0NMKwMjInMTQuMSJF!5e0!3m2!1sen!2sjo!4v1624275056893!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.368394615197396
   },
   {
     "id": "ATM_72",
@@ -787,9 +645,7 @@
       "en": "صراف مبنى بعثة الامم المتحدة 1 - المنطقة الخضراء"
     },
     "latitude": 33.31958328081173,
-    "longitude": 44.40339461519589,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3333.9706304793367!2d44.40339461519589!3d33.31958328081173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE5JzEwLjUiTiA0NMKwMjQnMjAuMSJF!5e0!3m2!1sen!2sjo!4v1624275362295!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.40339461519589
   },
   {
     "id": "ATM_73",
@@ -798,9 +654,7 @@
       "en": "صراف مبنى بعثة الامم المتحدة 2 - المنطقة الخضراء"
     },
     "latitude": 33.31958328081173,
-    "longitude": 44.40339461519589,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3333.9706304793367!2d44.40339461519589!3d33.31958328081173!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE5JzEwLjUiTiA0NMKwMjQnMjAuMSJF!5e0!3m2!1sen!2sjo!4v1624275539148!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.40339461519589
   },
   {
     "id": "ATM_74",
@@ -809,9 +663,7 @@
       "en": "صراف محطة البياع"
     },
     "latitude": 33.26758775875637,
-    "longitude": 44.33509177451091,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3335.9581563172223!2d44.33509177451091!3d33.26758775875637!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE2JzAzLjMiTiA0NMKwMjAnMTUuNiJF!5e0!3m2!1sen!2sjo!4v1721644455149!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.33509177451091
   },
   {
     "id": "ATM_75",
@@ -820,9 +672,7 @@
       "en": "صراف محطة كهرباء الدورة الغازية"
     },
     "latitude": 33.25855558082927,
-    "longitude": 44.37297801519434,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3336.303130775702!2d44.37297801519434!3d33.25855558082927!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE1JzMwLjgiTiA0NMKwMjInMzAuNiJF!5e0!3m2!1sen!2sjo!4v1624274550047!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.37297801519434
   },
   {
     "id": "ATM_76",
@@ -831,9 +681,7 @@
       "en": "صراف وزارة الأعمار والأسكان"
     },
     "latitude": 33.324898463155854,
-    "longitude": 44.38883168546587,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3333.7673032303214!2d44.38883168546587!3d33.324898463155854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x268067186f783fc!2zMzPCsDE5JzI5LjYiTiA0NMKwMjMnMTEuOSJF!5e0!3m2!1sar!2sjo!4v1663748934024!5m2!1sar!2sjo",
-    "type": "ATM"
+    "longitude": 44.38883168546587
   },
   {
     "id": "ATM_77",
@@ -842,9 +690,7 @@
       "en": "صراف وزارة التخطيط 1"
     },
     "latitude": 33.32238888081085,
-    "longitude": 44.400144615196,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3333.8633084930166!2d44.400144615196!3d33.32238888081085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE5JzIwLjYiTiA0NMKwMjQnMDguNCJF!5e0!3m2!1sen!2sjo!4v1624272581987!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.400144615196
   },
   {
     "id": "ATM_78",
@@ -853,9 +699,7 @@
       "en": "صراف وزارة التخطيط 2"
     },
     "latitude": 33.32238888081085,
-    "longitude": 44.400144615196,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3333.8633084930166!2d44.400144615196!3d33.32238888081085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE5JzIwLjYiTiA0NMKwMjQnMDguNCJF!5e0!3m2!1sen!2sjo!4v1624272665878!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.400144615196
   },
   {
     "id": "ATM_79",
@@ -864,9 +708,7 @@
       "en": "صراف وزارة الصحة"
     },
     "latitude": 33.34741668080349,
-    "longitude": 44.379172415196656,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3332.9055719924627!2d44.379172415196656!3d33.34741668080349!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDIwJzUwLjciTiA0NMKwMjInNTIuOSJF!5e0!3m2!1sen!2sjo!4v1624272498537!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.379172415196656
   },
   {
     "id": "ATM_80",
@@ -875,9 +717,7 @@
       "en": "صراف وزارة العمل 1"
     },
     "latitude": 33.37324998079602,
-    "longitude": 44.396005715197376,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3331.9163445193244!2d44.396005715197376!3d33.37324998079602!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDIyJzIzLjciTiA0NMKwMjMnNTMuNSJF!5e0!3m2!1sen!2sjo!4v1624272263765!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.396005715197376
   },
   {
     "id": "ATM_81",
@@ -886,9 +726,7 @@
       "en": "صراف وزارة العمل 2"
     },
     "latitude": 33.37324998079602,
-    "longitude": 44.396005715197376,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3331.9163445193244!2d44.396005715197376!3d33.37324998079602!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDIyJzIzLjciTiA0NMKwMjMnNTMuNSJF!5e0!3m2!1sen!2sjo!4v1624272348804!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.396005715197376
   },
   {
     "id": "ATM_82",
@@ -897,9 +735,7 @@
       "en": "صراف وزارة الكهرباء"
     },
     "latitude": 33.320305580811386,
-    "longitude": 44.366700215195884,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3333.9430012638572!2d44.366700215195884!3d33.320305580811386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE5JzEzLjEiTiA0NMKwMjInMDguMCJF!5e0!3m2!1sen!2sjo!4v1624272134453!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.366700215195884
   },
   {
     "id": "ATM_83",
@@ -908,9 +744,7 @@
       "en": "صراف وزارة النفط 1"
     },
     "latitude": 33.34074998080552,
-    "longitude": 44.43145021519659,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3333.1607481283836!2d44.43145021519659!3d33.34074998080552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDIwJzI2LjciTiA0NMKwMjYnMDEuMSJF!5e0!3m2!1sen!2sjo!4v1624272822085!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.43145021519659
   },
   {
     "id": "ATM_84",
@@ -919,9 +753,7 @@
       "en": "صراف وزارة النفط 2"
     },
     "latitude": 33.34074998080552,
-    "longitude": 44.43145021519659,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3333.1607481283836!2d44.43145021519659!3d33.34074998080552!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDIwJzI2LjciTiA0NMKwMjYnMDEuMSJF!5e0!3m2!1sen!2sjo!4v1624272890666!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.43145021519659
   },
   {
     "id": "ATM_85",
@@ -930,9 +762,7 @@
       "en": "صراف وزارة النقل"
     },
     "latitude": 33.34758328080353,
-    "longitude": 44.441589115196784,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3332.8991945947914!2d44.441589115196784!3d33.34758328080353!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDIwJzUxLjMiTiA0NMKwMjYnMzcuNiJF!5e0!3m2!1sen!2sjo!4v1624272430138!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.441589115196784
   },
   {
     "id": "ATM_86",
@@ -941,9 +771,7 @@
       "en": "صراف وزارة الهجرة والمهجرين"
     },
     "latitude": 33.31971346342398,
-    "longitude": 44.401599685466124,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3333.965650809982!2d44.401599685466124!3d33.31971346342398!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xe89bd4144ef4c364!2zMzPCsDE5JzExLjAiTiA0NMKwMjMnNTcuOSJF!5e0!3m2!1sar!2sjo!4v1665650209766!5m2!1sar!2sjo",
-    "type": "ATM"
+    "longitude": 44.401599685466124
   },
   {
     "id": "ATM_87",
@@ -952,9 +780,7 @@
       "en": "فرع اليرموك 1"
     },
     "latitude": 33.30033915694873,
-    "longitude": 44.33570201064973,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3334.7065561410795!2d44.33570201064973!3d33.30033915694873!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE4JzAxLjIiTiA0NMKwMjAnMTcuOCJF!5e0!3m2!1sen!2sjo!4v1700756883960!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.33570201064973
   },
   {
     "id": "ATM_88",
@@ -963,9 +789,7 @@
       "en": "فرع اليرموك 2"
     },
     "latitude": 33.30033915694873,
-    "longitude": 44.33570201064973,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3334.7065561410795!2d44.33570201064973!3d33.30033915694873!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE4JzAxLjIiTiA0NMKwMjAnMTcuOCJF!5e0!3m2!1sen!2sjo!4v1700756935268!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.33570201064973
   },
   {
     "id": "ATM_89",
@@ -974,9 +798,7 @@
       "en": "فرع بغداد مول"
     },
     "latitude": 33.31166668081388,
-    "longitude": 44.36242241519581,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3334.2734192961107!2d44.36242241519581!3d33.31166668081388!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDE4JzQyLjAiTiA0NMKwMjEnNTIuNiJF!5e0!3m2!1sen!2sjo!4v1624273234328!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.36242241519581
   },
   {
     "id": "ATM_90",
@@ -985,9 +807,7 @@
       "en": "كرزات الموصل"
     },
     "latitude": 33.29672545713598,
-    "longitude": 44.28816971064956,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3334.8447077728592!2d44.28816971064956!3d33.29672545713598!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE3JzQ4LjIiTiA0NMKwMTcnMjYuNyJF!5e0!3m2!1sen!2sjo!4v1700753615454!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.28816971064956
   },
   {
     "id": "ATM_91",
@@ -996,9 +816,7 @@
       "en": "محطة ابو دشير - جنة العراق"
     },
     "latitude": 33.221888899999996,
-    "longitude": 44.3836389,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3337.702724214246!2d44.3836389!3d33.221888899999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDEzJzE4LjgiTiA0NMKwMjMnMDEuMSJF!5e0!3m2!1sen!2sjo!4v1700749750812!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.3836389
   },
   {
     "id": "ATM_92",
@@ -1007,9 +825,7 @@
       "en": "محطة البلديات - جنة العراق"
     },
     "latitude": 33.33130845534354,
-    "longitude": 44.47640571065105,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3333.522056908909!2d44.47640571065105!3d33.33130845534354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE5JzUyLjciTiA0NMKwMjgnNDQuNCJF!5e0!3m2!1sen!2sjo!4v1700751262866!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.47640571065105
   },
   {
     "id": "ATM_93",
@@ -1018,9 +834,7 @@
       "en": "محطة الحرية - جنة العراق"
     },
     "latitude": 33.34893645442937,
-    "longitude": 44.31331571065185,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3332.847394473248!2d44.31331571065185!3d33.34893645442937!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDIwJzU2LjIiTiA0NMKwMTgnNTcuMiJF!5e0!3m2!1sen!2sjo!4v1700752835842!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.31331571065185
   },
   {
     "id": "ATM_94",
@@ -1029,9 +843,7 @@
       "en": "محطة الدورة الحرارية"
     },
     "latitude": 33.25855465911216,
-    "longitude": 44.37259511064792,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3336.303165975479!2d44.37259511064792!3d33.25855465911216!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE1JzMwLjgiTiA0NMKwMjInMzAuNiJF!5e0!3m2!1sen!2sjo!4v1700751762568!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.37259511064792
   },
   {
     "id": "ATM_95",
@@ -1040,9 +852,7 @@
       "en": "محطة الزعفرانية - جنة العراق"
     },
     "latitude": 33.26314485887459,
-    "longitude": 44.47001121064802,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3336.1278585275363!2d44.47001121064802!3d33.26314485887459!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE1JzQ3LjMiTiA0NMKwMjgnMjEuMyJF!5e0!3m2!1sen!2sjo!4v1700757073987!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.47001121064802
   },
   {
     "id": "ATM_96",
@@ -1051,9 +861,7 @@
       "en": "محطة النهضة - جنة العراق"
     },
     "latitude": 33.348952454428556,
-    "longitude": 44.41106371065197,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3332.846781974649!2d44.41106371065197!3d33.348952454428556!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDIwJzU2LjIiTiA0NMKwMjQnNDkuMSJF!5e0!3m2!1sen!2sjo!4v1700754619393!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.41106371065197
   },
   {
     "id": "ATM_97",
@@ -1062,9 +870,7 @@
       "en": "محطة بغداد الجديدة - جنة العراق"
     },
     "latitude": 33.315308456173064,
-    "longitude": 44.47790271065031,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3334.1341390159014!2d44.47790271065031!3d33.315308456173064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE4JzU1LjEiTiA0NMKwMjgnNDkuNyJF!5e0!3m2!1sen!2sjo!4v1700751224753!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.47790271065031
   },
   {
     "id": "ATM_98",
@@ -1073,9 +879,7 @@
       "en": "محطة حي الاعلام - جنة العراق"
     },
     "latitude": 33.23909746011892,
-    "longitude": 44.33324571064688,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3337.0460313514095!2d44.33324571064688!3d33.23909746011892!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE0JzIwLjciTiA0NMKwMjAnMDkuMCJF!5e0!3m2!1sen!2sjo!4v1700750699794!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.33324571064688
   },
   {
     "id": "ATM_99",
@@ -1084,9 +888,7 @@
       "en": "محطة حي اور - جنة العراق"
     },
     "latitude": 33.39856745185334,
-    "longitude": 44.41191671065395,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3330.946212350285!2d44.41191671065395!3d33.39856745185334!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDIzJzU0LjgiTiA0NMKwMjQnNTIuMiJF!5e0!3m2!1sen!2sjo!4v1700756757684!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.41191671065395
   },
   {
     "id": "ATM_100",
@@ -1095,9 +897,7 @@
       "en": "محطة كهرباء الدورة الغازية  2"
     },
     "latitude": 33.25855465911216,
-    "longitude": 44.37259511064792,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3336.303165975479!2d44.37259511064792!3d33.25855465911216!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE1JzMwLjgiTiA0NMKwMjInMzAuNiJF!5e0!3m2!1sen!2sjo!4v1700751716028!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.37259511064792
   },
   {
     "id": "ATM_101",
@@ -1106,9 +906,7 @@
       "en": "مديرية توزيع كهرباء الكرخ"
     },
     "latitude": 33.33973345490677,
-    "longitude": 44.33728471065142,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3333.199652941574!2d44.33728471065142!3d33.33973345490677!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDIwJzIzLjAiTiA0NMKwMjAnMjMuNSJF!5e0!3m2!1sen!2sjo!4v1700752067079!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.33728471065142
   },
   {
     "id": "ATM_102",
@@ -1117,9 +915,7 @@
       "en": "مستشفى مارينا"
     },
     "latitude": 33.37989545282288,
-    "longitude": 44.410504710653086,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3331.6617617403126!2d44.410504710653086!3d33.37989545282288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDIyJzQ3LjYiTiA0NMKwMjQnNDcuMSJF!5e0!3m2!1sen!2sjo!4v1700754213891!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.410504710653086
   },
   {
     "id": "ATM_103",
@@ -1128,9 +924,7 @@
       "en": "مسواك"
     },
     "latitude": 33.26445245880701,
-    "longitude": 44.35998171064812,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3336.0779151685565!2d44.35998171064812!3d33.26445245880701!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE1JzUyLjAiTiA0NMKwMjEnNDUuMiJF!5e0!3m2!1sen!2sjo!4v1700754577122!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.35998171064812
   },
   {
     "id": "ATM_104",
@@ -1139,9 +933,7 @@
       "en": "مشاريع الري و البزل"
     },
     "latitude": 33.235924460283016,
-    "longitude": 44.36394971064694,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3337.1671382821023!2d44.36394971064694!3d33.235924460283016!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE0JzA5LjMiTiA0NMKwMjEnNTkuNSJF!5e0!3m2!1sen!2sjo!4v1700753069285!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.36394971064694
   },
   {
     "id": "ATM_105",
@@ -1150,9 +942,7 @@
       "en": "مول القاهرة"
     },
     "latitude": 33.374115453122975,
-    "longitude": 44.38786571065298,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3331.883191497336!2d44.38786571065298!3d33.374115453122975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDIyJzI2LjgiTiA0NMKwMjMnMjUuNiJF!5e0!3m2!1sen!2sjo!4v1700751462571!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.38786571065298
   },
   {
     "id": "ATM_106",
@@ -1161,9 +951,7 @@
       "en": "مول بابلون"
     },
     "latitude": 33.301608356882916,
-    "longitude": 44.3915261106497,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3334.658031519248!2d44.3915261106497!3d33.301608356882916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE4JzA1LjgiTiA0NMKwMjMnMzguOCJF!5e0!3m2!1sen!2sjo!4v1700751122324!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.3915261106497
   },
   {
     "id": "ATM_107",
@@ -1172,9 +960,7 @@
       "en": "وزارة التخطيط 3"
     },
     "latitude": 33.32240045580542,
-    "longitude": 44.39974371065079,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3333.862865700792!2d44.39974371065079!3d33.32240045580542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE5JzIwLjYiTiA0NMKwMjQnMDguNCJF!5e0!3m2!1sen!2sjo!4v1700754480151!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.39974371065079
   },
   {
     "id": "ATM_108",
@@ -1183,9 +969,7 @@
       "en": "وزارة الصحة 2"
     },
     "latitude": 33.34741045450863,
-    "longitude": 44.378766710651874,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3332.905810332603!2d44.378766710651874!3d33.34741045450863!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDIwJzUwLjciTiA0NMKwMjInNTIuOSJF!5e0!3m2!1sen!2sjo!4v1700754324127!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.378766710651874
   },
   {
     "id": "ATM_109",
@@ -1194,9 +978,7 @@
       "en": "وزارة الكهرباء 2"
     },
     "latitude": 33.320312455913616,
-    "longitude": 44.366305710650714,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3333.9427382768445!2d44.366305710650714!3d33.320312455913616!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE5JzEzLjEiTiA0NMKwMjInMDguMCJF!5e0!3m2!1sen!2sjo!4v1700754286445!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.366305710650714
   },
   {
     "id": "ATM_110",
@@ -1205,9 +987,7 @@
       "en": "وزارة النفط 3"
     },
     "latitude": 33.340758454853734,
-    "longitude": 44.43104371065141,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3333.1604238024165!2d44.43104371065141!3d33.340758454853734!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDIwJzI2LjciTiA0NMKwMjYnMDEuMSJF!5e0!3m2!1sen!2sjo!4v1700754438331!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.43104371065141
   },
   {
     "id": "ATM_111",
@@ -1216,9 +996,7 @@
       "en": "وزارة النقل"
     },
     "latitude": 33.347577454499906,
-    "longitude": 44.441209710651854,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3332.8994176244096!2d44.441209710651854!3d33.347577454499906!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDIwJzUxLjMiTiA0NMKwMjYnMzcuNiJF!5e0!3m2!1sen!2sjo!4v1700754529459!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.441209710651854
   },
   {
     "id": "ATM_112",
@@ -1227,9 +1005,7 @@
       "en": "وزارة الهجرة والمهجرين"
     },
     "latitude": 33.31972665594408,
-    "longitude": 44.39683641065054,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3333.9651461764374!2d44.39683641065054!3d33.31972665594408!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE5JzExLjAiTiA0NMKwMjMnNTcuOSJF!5e0!3m2!1sen!2sjo!4v1700754372853!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.39683641065054
   },
   {
     "id": "ATM_113",
@@ -1238,9 +1014,7 @@
       "en": "وفر للتسوق المنزلي"
     },
     "latitude": 33.29419145726713,
-    "longitude": 44.43389571064936,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3334.9415745966908!2d44.43389571064936!3d33.29419145726713!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE3JzM5LjEiTiA0NMKwMjYnMTEuMyJF!5e0!3m2!1sen!2sjo!4v1700756801458!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.43389571064936
   },
   {
     "id": "ATM_114",
@@ -1249,8 +1023,6 @@
       "en": "ياسر و عمر للهدايا"
     },
     "latitude": 33.30967145646519,
-    "longitude": 44.321531710650184,
-    "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3334.349721258299!2d44.321531710650184!3d33.30967145646519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzPCsDE4JzM0LjgiTiA0NMKwMTknMjYuOCJF!5e0!3m2!1sen!2sjo!4v1700756976255!5m2!1sen!2sjo",
-    "type": "ATM"
+    "longitude": 44.321531710650184
   }
 ]

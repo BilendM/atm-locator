@@ -193,10 +193,10 @@ class ATMLocator {
     // GitHub Pages doesn't support directory listing, list all per-city files
     const patterns = [
       // RT Bank files
-      'data/rt-bank-erbil.json',
-      'data/rt-bank-slemani.json',
-      'data/rt-bank-duhok.json',
-      'data/rt-bank-halabja.json',
+      'data/rtb-erbil.json',
+      'data/rtb-slemani.json',
+      'data/rtb-duhok.json',
+      'data/rtb-halabja.json',
       // Cihan Bank files
       'data/cihan-erbil.json',
       'data/cihan-slemani.json',
@@ -261,14 +261,11 @@ class ATMLocator {
           atms.push({
             id: item.id || `ATM_${Math.random()}`,
             title: item.title,
-            address: item.address,
-            description: item.description || null,
+            address: item.address?.en || item.title || null,
             latitude: item.latitude,
             longitude: item.longitude,
-            map_link: item.map_link,
             city: city,
             bank: bank,
-            type: item.type || 'ATM',
           });
         }
       });
@@ -304,7 +301,7 @@ class ATMLocator {
       .join(' ');
 
     const bankNameMapping = {
-      'Rt Bank': 'RT Bank',
+      Rtb: 'RT Bank',
       Nbi: 'NBI',
       Bbac: 'BBAC',
       Cihan: 'Cihan Bank',
@@ -434,7 +431,7 @@ class ATMLocator {
           <div class="popup-title-group">
             <div class="popup-title">${atm.title || atm.bank || 'Location'}</div>
             ${distanceHtml}
-            <div class="popup-subtitle">${atm.bank || ''} • ${atm.type === 'Branch' ? 'Branch' : 'ATM'}</div>
+            <div class="popup-subtitle">${atm.bank || ''} • ATM</div>
           </div>
         </div>
         <div class="popup-body">

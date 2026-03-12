@@ -6,9 +6,7 @@
       "en": "Dokan"
     },
     "latitude": 35.9322,
-    "longitude": 44.9667,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.9667
   },
   {
     "id": "ATM_2",
@@ -17,9 +15,7 @@
       "en": "Charmo"
     },
     "latitude": 35.5324,
-    "longitude": 44.8334,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.8334
   },
   {
     "id": "ATM_3",
@@ -28,9 +24,7 @@
       "en": "Sharazoor District Council"
     },
     "latitude": 35.3174,
-    "longitude": 45.6817,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.6817
   },
   {
     "id": "ATM_4",
@@ -39,9 +33,7 @@
       "en": "chamchamal retirement office"
     },
     "latitude": 35.51885,
-    "longitude": 44.81187,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.81187
   },
   {
     "id": "ATM_5",
@@ -50,9 +42,7 @@
       "en": "chamchamal university"
     },
     "latitude": 35.53381,
-    "longitude": 44.83297,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.83297
   },
   {
     "id": "ATM_6",
@@ -61,9 +51,7 @@
       "en": "ranya maternity"
     },
     "latitude": 35.549244,
-    "longitude": 45.442322,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.442322
   },
   {
     "id": "ATM_7",
@@ -72,9 +60,7 @@
       "en": "politechnic university"
     },
     "latitude": 35.54923376749003,
-    "longitude": 45.44228351505072,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.44228351505072
   },
   {
     "id": "ATM_8",
@@ -83,9 +69,7 @@
       "en": "shahid park"
     },
     "latitude": 35.58057338741248,
-    "longitude": 45.449387972922864,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.449387972922864
   },
   {
     "id": "ATM_9",
@@ -94,9 +78,7 @@
       "en": "mawlana park"
     },
     "latitude": 35.54404885169963,
-    "longitude": 45.42767283433099,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.42767283433099
   },
   {
     "id": "ATM_10",
@@ -105,9 +87,7 @@
       "en": "Tasluja"
     },
     "latitude": 35.5935,
-    "longitude": 45.22828,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.22828
   },
   {
     "id": "ATM_11",
@@ -116,9 +96,7 @@
       "en": "Penjwen"
     },
     "latitude": 35.62661,
-    "longitude": 45.94596,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.94596
   },
   {
     "id": "ATM_12",
@@ -127,9 +105,7 @@
       "en": "Chwarta"
     },
     "latitude": 35.71871,
-    "longitude": 45.56665,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.56665
   },
   {
     "id": "ATM_13",
@@ -138,9 +114,7 @@
       "en": "Halebjai Taza"
     },
     "latitude": 35.31114,
-    "longitude": 45.68843,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.68843
   },
   {
     "id": "ATM_14",
@@ -149,9 +123,7 @@
       "en": "Said Sadiq"
     },
     "latitude": 35.35516,
-    "longitude": 45.85832,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.85832
   },
   {
     "id": "ATM_15",
@@ -160,9 +132,7 @@
       "en": "halabja bank"
     },
     "latitude": 35.17541,
-    "longitude": 45.99081,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.99081
   },
   {
     "id": "ATM_16",
@@ -171,9 +141,7 @@
       "en": "Darbandikhan - city center ST"
     },
     "latitude": 35.11145,
-    "longitude": 45.68736,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.68736
   },
   {
     "id": "ATM_17",
@@ -182,9 +150,7 @@
       "en": "sharawani ST - kalar"
     },
     "latitude": 34.62623,
-    "longitude": 45.31483,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.31483
   },
   {
     "id": "ATM_18",
@@ -193,9 +159,7 @@
       "en": "Chwarqurna"
     },
     "latitude": 36.192646,
-    "longitude": 45.131481,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.131481
   },
   {
     "id": "ATM_19",
@@ -204,9 +168,7 @@
       "en": "Kewarash"
     },
     "latitude": 36.235458,
-    "longitude": 44.868881,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.868881
   },
   {
     "id": "ATM_20",
@@ -215,9 +177,7 @@
       "en": "Qaladza"
     },
     "latitude": 36.19265,
-    "longitude": 45.131454,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.131454
   },
   {
     "id": "ATM_21",
@@ -226,9 +186,7 @@
       "en": "Allay Harem"
     },
     "latitude": 35.56122571195219,
-    "longitude": 45.42987155260109,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.42987155260109
   },
   {
     "id": "ATM_22",
@@ -237,9 +195,7 @@
       "en": "Malkandi"
     },
     "latitude": 35.56784,
-    "longitude": 45.44487,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.44487
   },
   {
     "id": "ATM_23",
@@ -248,9 +204,7 @@
       "en": "Kurdsat"
     },
     "latitude": 35.58808,
-    "longitude": 45.43469,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.43469
   },
   {
     "id": "ATM_24",
@@ -259,9 +213,7 @@
       "en": "darwaza ST"
     },
     "latitude": 36.24468,
-    "longitude": 44.88033,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.88033
   },
   {
     "id": "ATM_25",
@@ -270,9 +222,7 @@
       "en": "AU 773 - 3"
     },
     "latitude": 35.55362,
-    "longitude": 45.36391,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.36391
   },
   {
     "id": "ATM_26",
@@ -281,9 +231,7 @@
       "en": "AU 780 - 1"
     },
     "latitude": 35.53659,
-    "longitude": 45.46698,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.46698
   },
   {
     "id": "ATM_27",
@@ -292,9 +240,7 @@
       "en": "AU 633 - 35"
     },
     "latitude": 35.56591,
-    "longitude": 45.39432,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.39432
   },
   {
     "id": "ATM_28",
@@ -303,9 +249,7 @@
       "en": "AU 689 - 1"
     },
     "latitude": 35.55626,
-    "longitude": 45.43374,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.43374
   },
   {
     "id": "ATM_29",
@@ -314,9 +258,7 @@
       "en": "AU 673 - 43"
     },
     "latitude": 35.580634547115395,
-    "longitude": 45.40141003810896,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.40141003810896
   },
   {
     "id": "ATM_30",
@@ -325,9 +267,7 @@
       "en": "Zanko – Slemani"
     },
     "latitude": 35.568023830814795,
-    "longitude": 45.438998987918474,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.438998987918474
   },
   {
     "id": "ATM_31",
@@ -336,9 +276,7 @@
       "en": "Tanjaro"
     },
     "latitude": 35.548482486854404,
-    "longitude": 45.41006751009408,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.41006751009408
   },
   {
     "id": "ATM_32",
@@ -347,9 +285,7 @@
       "en": "sarwari RD"
     },
     "latitude": 35.5836482896182,
-    "longitude": 45.40519685068118,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.40519685068118
   },
   {
     "id": "ATM_33",
@@ -358,9 +294,7 @@
       "en": "ibrahim basha st"
     },
     "latitude": 35.55630217011554,
-    "longitude": 45.45115145385182,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.45115145385182
   },
   {
     "id": "ATM_34",
@@ -369,9 +303,7 @@
       "en": "Baban Bank-SV"
     },
     "latitude": 35.565305511285935,
-    "longitude": 45.398976017908524,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.398976017908524
   },
   {
     "id": "ATM_35",
@@ -380,9 +312,7 @@
       "en": "zanko st"
     },
     "latitude": 35.56478433121323,
-    "longitude": 45.44462062253922,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.44462062253922
   },
   {
     "id": "ATM_36",
@@ -391,9 +321,7 @@
       "en": "Near Bank Cihan"
     },
     "latitude": 34.61960035153972,
-    "longitude": 45.32517800687933,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.32517800687933
   },
   {
     "id": "ATM_37",
@@ -402,9 +330,7 @@
       "en": "municipality Sulaimani"
     },
     "latitude": 35.562790399102255,
-    "longitude": 45.40774908251313,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.40774908251313
   },
   {
     "id": "ATM_38",
@@ -413,9 +339,7 @@
       "en": "Majidi Mall Sulaimaniyah"
     },
     "latitude": 35.56615519511911,
-    "longitude": 45.372421088052356,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.372421088052356
   },
   {
     "id": "ATM_39",
@@ -424,9 +348,7 @@
       "en": "Safra Market"
     },
     "latitude": 35.56744626707871,
-    "longitude": 45.416896705800085,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.416896705800085
   },
   {
     "id": "ATM_40",
@@ -435,9 +357,7 @@
       "en": "ABC Towers"
     },
     "latitude": 35.53533962093903,
-    "longitude": 45.46389127415425,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.46389127415425
   },
   {
     "id": "ATM_41",
@@ -446,9 +366,7 @@
       "en": "HighQ laboratory"
     },
     "latitude": 35.58990604397077,
-    "longitude": 45.422858509484584,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.422858509484584
   },
   {
     "id": "ATM_42",
@@ -457,9 +375,7 @@
       "en": "المدينة الطبية / كرميان"
     },
     "latitude": 34.61859,
-    "longitude": 45.32443,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.32443
   },
   {
     "id": "ATM_43",
@@ -468,9 +384,7 @@
       "en": " راند كلري"
     },
     "latitude": 35.56274,
-    "longitude": 45.40553,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.40553
   },
   {
     "id": "ATM_44",
@@ -479,9 +393,7 @@
       "en": "فاملي مول - السليمانية"
     },
     "latitude": 35.54237754632534,
-    "longitude": 45.427437572785145,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.427437572785145
   },
   {
     "id": "ATM_45",
@@ -490,9 +402,7 @@
       "en": "سولي فيو"
     },
     "latitude": 35.58990604397077,
-    "longitude": 45.422858509484584,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.422858509484584
   },
   {
     "id": "ATM_46",
@@ -501,9 +411,7 @@
       "en": "زارا ماركيت "
     },
     "latitude": 35.56015751917198,
-    "longitude": 45.432422337229255,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.432422337229255
   },
   {
     "id": "ATM_47",
@@ -512,9 +420,7 @@
       "en": "الثقافة والفن "
     },
     "latitude": 36.252392419119175,
-    "longitude": 44.87176747009614,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.87176747009614
   },
   {
     "id": "ATM_48",
@@ -523,9 +429,7 @@
       "en": "sulaimanya-kirkuk road"
     },
     "latitude": 35.56489119725663,
-    "longitude": 45.38109612060287,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.38109612060287
   },
   {
     "id": "ATM_49",
@@ -534,9 +438,7 @@
       "en": "Bakrajo"
     },
     "latitude": 35.55985430207887,
-    "longitude": 45.35651578337418,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.35651578337418
   },
   {
     "id": "ATM_50",
@@ -545,9 +447,7 @@
       "en": "كلار"
     },
     "latitude": 34.66246,
-    "longitude": 45.24671,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.24671
   },
   {
     "id": "ATM_51",
@@ -556,9 +456,7 @@
       "en": "فرع سليمانية - ATM"
     },
     "latitude": 35.57141407829362,
-    "longitude": 45.40399256687893,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.40399256687893
   },
   {
     "id": "ATM_52",
@@ -567,9 +465,7 @@
       "en": "جمجمال - 1"
     },
     "latitude": 35.53349535905743,
-    "longitude": 44.83266653527294,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.83266653527294
   },
   {
     "id": "ATM_53",
@@ -578,9 +474,7 @@
       "en": "جمجمال - 2"
     },
     "latitude": 35.52360659304133,
-    "longitude": 44.818018465648,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.818018465648
   },
   {
     "id": "ATM_54",
@@ -589,9 +483,7 @@
       "en": "Darwaza Road"
     },
     "latitude": 36.243267939280365,
-    "longitude": 44.87903388950037,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.87903388950037
   },
   {
     "id": "ATM_55",
@@ -600,9 +492,7 @@
       "en": "ڕانیە، شەقامی رانیە-چوارقورنە، نزیک بەرێوەبەرایەتی گشتی شارەوانیەکانی ڕاپەڕین"
     },
     "latitude": 36.24325,
-    "longitude": 44.879028,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.879028
   },
   {
     "id": "ATM_56",
@@ -611,9 +501,7 @@
       "en": "چەمچەماڵ - نزیک سەرۆکایەتی زانکۆی چەرمۆ"
     },
     "latitude": 35.535123,
-    "longitude": 44.836914,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.836914
   },
   {
     "id": "ATM_57",
@@ -622,9 +510,7 @@
       "en": "چەمچەماڵ - نزیک بەرگری شارستانی چەمچەماڵ"
     },
     "latitude": 35.523588,
-    "longitude": 44.818017,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.818017
   },
   {
     "id": "ATM_58",
@@ -633,9 +519,7 @@
       "en": "سلێمانی، شەقامی سالم، بەردەم سەرۆکایەتی شارەوانی سلێمانی"
     },
     "latitude": 35.56279,
-    "longitude": 45.40775,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.40775
   },
   {
     "id": "ATM_59",
@@ -644,9 +528,7 @@
       "en": "سلێمانی، شەقامی سلێمانی - کەرکوک، بەرامبەر بینای پارێزگای سلێمانی"
     },
     "latitude": 35.567664,
-    "longitude": 45.382235,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.382235
   },
   {
     "id": "ATM_60",
@@ -655,9 +537,7 @@
       "en": "سلێمانی، کەلار، جیهان بانک"
     },
     "latitude": 34.611966,
-    "longitude": 45.315841,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.315841
   },
   {
     "id": "ATM_61",
@@ -666,9 +546,7 @@
       "en": "سلێمانی، بەکرەجۆ، بەرامبەر فەرمانگەی دادنووسی سلێمانی"
     },
     "latitude": 35.558512,
-    "longitude": 45.350146,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.350146
   },
   {
     "id": "ATM_62",
@@ -677,9 +555,7 @@
       "en": "پەیمانگای کلتوری کوردی"
     },
     "latitude": 35.56155,
-    "longitude": 45.42936,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.42936
   },
   {
     "id": "ATM_63",
@@ -688,9 +564,7 @@
       "en": "بەرامبەر بانکی خوێن"
     },
     "latitude": 35.564769,
-    "longitude": 45.444579,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.444579
   },
   {
     "id": "ATM_64",
@@ -699,9 +573,7 @@
       "en": "شەقامی سالم، پەروەردەی سلێمانی"
     },
     "latitude": 35.565368,
-    "longitude": 45.398944,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.398944
   },
   {
     "id": "ATM_65",
@@ -710,9 +582,7 @@
       "en": "شەقامی ابراهیم پاشا، قوتابخانەی گۆیژە"
     },
     "latitude": 35.556273,
-    "longitude": 45.45115,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.45115
   },
   {
     "id": "ATM_66",
@@ -721,9 +591,7 @@
       "en": "سەروەری، قوتابخانەی US"
     },
     "latitude": 35.583761,
-    "longitude": 45.405194,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.405194
   },
   {
     "id": "ATM_67",
@@ -732,9 +600,7 @@
       "en": "شەقامی مەلیک مەحموود، نزیک هەڵەبجە گروپ"
     },
     "latitude": 35.548587,
-    "longitude": 45.410105,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.410105
   },
   {
     "id": "ATM_68",
@@ -743,9 +609,7 @@
       "en": "مزگەوتی قازی محمد"
     },
     "latitude": 35.568176,
-    "longitude": 45.438953,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.438953
   },
   {
     "id": "ATM_69",
@@ -754,9 +618,7 @@
       "en": "شەقامی مەلیک مەحموود، نەخۆشخانەی ڤێتێرنەری"
     },
     "latitude": 35.580735,
-    "longitude": 45.401385,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.401385
   },
   {
     "id": "ATM_70",
@@ -765,9 +627,7 @@
       "en": "باخی گشتی"
     },
     "latitude": 35.556302,
-    "longitude": 45.43375,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.43375
   },
   {
     "id": "ATM_71",
@@ -776,9 +636,7 @@
       "en": "شەقامی سالم، مطعم طبیخ"
     },
     "latitude": 35.565888,
-    "longitude": 45.394243,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.394243
   },
   {
     "id": "ATM_72",
@@ -787,9 +645,7 @@
       "en": "کانی با، پەیمانگای ناشناڵ"
     },
     "latitude": 35.536714,
-    "longitude": 45.46694,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.46694
   },
   {
     "id": "ATM_73",
@@ -798,9 +654,7 @@
       "en": "بەکرەجۆ، بەڕێوبەرایەتی کار و کاروباری کۆمەڵایەتی"
     },
     "latitude": 35.553716,
-    "longitude": 45.363938,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.363938
   },
   {
     "id": "ATM_74",
@@ -809,9 +663,7 @@
       "en": "باخچەی هیوا، نزیک بەڕێوەبەرێتی پەروەردەی پشدەر"
     },
     "latitude": 36.19266,
-    "longitude": 45.13151,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.13151
   },
   {
     "id": "ATM_75",
@@ -820,9 +672,7 @@
       "en": "باخچەی ڕاپەڕین"
     },
     "latitude": 36.244612,
-    "longitude": 44.880341,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.880341
   },
   {
     "id": "ATM_76",
@@ -831,9 +681,7 @@
       "en": "بەڕێوەبەرایەتی گشتی تەندروستی ڕاپەڕین"
     },
     "latitude": 36.235495,
-    "longitude": 44.868759,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.868759
   },
   {
     "id": "ATM_77",
@@ -842,9 +690,7 @@
       "en": "بەڕێوەبەرایەتی ناحیەی چوارقوڕنە"
     },
     "latitude": 36.213747,
-    "longitude": 44.827223,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.827223
   },
   {
     "id": "ATM_78",
@@ -853,9 +699,7 @@
       "en": "شەقامی مامۆستایان، قوتابخانەی ڕیسپێکت"
     },
     "latitude": 35.563768,
-    "longitude": 45.437997,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.437997
   },
   {
     "id": "ATM_79",
@@ -864,9 +708,7 @@
       "en": "چەمچەماڵ - باخچەی گشتی"
     },
     "latitude": 35.53242,
-    "longitude": 44.83336,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.83336
   },
   {
     "id": "ATM_80",
@@ -875,9 +717,7 @@
       "en": "ڕزگاری - دەزگای شەهیدان"
     },
     "latitude": 34.6589,
-    "longitude": 45.24284,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.24284
   },
   {
     "id": "ATM_81",
@@ -886,9 +726,7 @@
       "en": "کەلار - بەڕێوەبەرایەتی گەنجینەی گەرمیان"
     },
     "latitude": 34.63488,
-    "longitude": 45.32178,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.32178
   },
   {
     "id": "ATM_82",
@@ -897,9 +735,7 @@
       "en": "دەربەندیخان - نزیک ئاسایشی دەربەندیخان"
     },
     "latitude": 35.10683,
-    "longitude": 45.68768,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.68768
   },
   {
     "id": "ATM_83",
@@ -908,9 +744,7 @@
       "en": "دوکان - هۆڵی شەهیذ ڕەسول حەمە زێڕ"
     },
     "latitude": 35.93222,
-    "longitude": 44.96672,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.96672
   },
   {
     "id": "ATM_84",
@@ -919,9 +753,7 @@
       "en": "سلێمانی - پارکی مەولانا"
     },
     "latitude": 35.544084,
-    "longitude": 45.427674,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.427674
   },
   {
     "id": "ATM_85",
@@ -930,9 +762,7 @@
       "en": "سلێمانی - بەرامبەر پارکی مەلیک مەحمود"
     },
     "latitude": 35.580632,
-    "longitude": 45.449426,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.449426
   },
   {
     "id": "ATM_86",
@@ -941,9 +771,7 @@
       "en": "شارەزوور - بەردەم فەرمانگەی ڕۆشنبیری و هونەری شارەزوور"
     },
     "latitude": 35.317346,
-    "longitude": 45.681845,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 45.681845
   },
   {
     "id": "ATM_87",
@@ -952,9 +780,7 @@
       "en": "ڕانیە - شەقامی پێنجی ئازار نزیک نەخۆشخانەی منداڵبوونی ڕانیە"
     },
     "latitude": 36.261807,
-    "longitude": 44.867657,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.867657
   },
   {
     "id": "ATM_88",
@@ -963,8 +789,6 @@
       "en": "کفری - بەردەم قایمقامییەتی قەزای کفری"
     },
     "latitude": 34.69482,
-    "longitude": 44.95735,
-    "map_link": "",
-    "type": "ATM"
+    "longitude": 44.95735
   }
 ]
