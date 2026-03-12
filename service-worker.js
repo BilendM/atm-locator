@@ -1,4 +1,4 @@
-const CACHE_NAME = 'atm-locator-v2';
+const CACHE_NAME = 'atm-locator';
 const STATIC_ASSETS = [
   '/',
   '/index.html',
@@ -6,7 +6,7 @@ const STATIC_ASSETS = [
   '/app.js',
   '/manifest.json',
   'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css',
-  'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js'
+  'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js',
 ];
 
 const DATA_CACHE = 'atm-data-v2';
@@ -26,19 +26,27 @@ self.addEventListener('install', (event) => {
         }
       }
       return self.skipWaiting();
-    })
+    }),
   );
 });
 
 self.addEventListener('activate', (event) => {
   event.waitUntil(
-    caches.keys().then((cacheNames) => {
-      return Promise.all(
-        cacheNames
-          .filter((name) => name !== CACHE_NAME && name !== DATA_CACHE && name !== TILE_CACHE)
-          .map((name) => caches.delete(name))
-      );
-    }).then(() => self.clients.claim())
+    caches
+      .keys()
+      .then((cacheNames) => {
+        return Promise.all(
+          cacheNames
+            .filter(
+              (name) =>
+                name !== CACHE_NAME &&
+                name !== DATA_CACHE &&
+                name !== TILE_CACHE,
+            )
+            .map((name) => caches.delete(name)),
+        );
+      })
+      .then(() => self.clients.claim()),
   );
 });
 
@@ -49,22 +57,28 @@ self.addEventListener('fetch', (event) => {
   // Handle JSON data files
   if (request.url.includes('data/') && request.url.endsWith('.json')) {
     event.respondWith(
-      caches.open(DATA_CACHE).then(async (cache) => {
-        try {
-          const response = await fetch(request);
-          if (response.ok) {
-            const responseClone = response.clone();
-            cache.put(request, responseClone);
+      caches
+        .open(DATA_CACHE)
+        .then(async (cache) => {
+          try {
+            const response = await fetch(request);
+            if (response.ok) {
+              const responseClone = response.clone();
+              cache.put(request, responseClone);
+            }
+            return response;
+          } catch (e) {
+            const cached = await cache.match(request);
+            if (cached) return cached;
+            throw e;
           }
-          return response;
-        } catch (e) {
-          const cached = await cache.match(request);
-          if (cached) return cached;
-          throw e;
-        }
-      }).catch(() => new Response(JSON.stringify({ error: 'Offline' }), { 
-        headers: { 'Content-Type': 'application/json' }
-      }))
+        })
+        .catch(
+          () =>
+            new Response(JSON.stringify({ error: 'Offline' }), {
+              headers: { 'Content-Type': 'application/json' },
+            }),
+        ),
     );
     return;
   }
@@ -75,7 +89,7 @@ self.addEventListener('fetch', (event) => {
       caches.open(TILE_CACHE).then(async (cache) => {
         const cached = await cache.match(request);
         if (cached) return cached;
-        
+
         try {
           const response = await fetch(request);
           if (response.ok) {
@@ -86,13 +100,11 @@ self.addEventListener('fetch', (event) => {
         } catch (e) {
           return new Response('', { status: 404 });
         }
-      })
+      }),
     );
     return;
   }
 
   // Default: network first, then cache
-  event.respondWith(
-    fetch(request).catch(() => caches.match(request))
-  );
+  event.respondWith(fetch(request).catch(() => caches.match(request)));
 });

@@ -1,6 +1,6 @@
 # ATM Locator PWA
 
-A modern, fast, and offline-first Progressive Web App (PWA) for finding ATM locations via OpenStreetMap. It features a beautiful glassmorphism-inspired UI and supports multiple cities and banks across Iraq and the Kurdistan Region.
+A modern, fast, and offline-first Progressive Web App (PWA) for finding ATM locations in Kurdistan.
 
 ## ✨ Features
 
@@ -38,20 +38,22 @@ atm-locator/
    - Open `app.js`.
    - Locate the `scanDataFiles()` method.
    - Add your newly created JSON file paths to the `patterns` array:
+
    ```javascript
    const patterns = [
-       'data/rt-bank-erbil.json',
-       'data/cihan-slemani.json',
-       // Add new data files here...
+     'data/rt-bank-erbil.json',
+     'data/cihan-slemani.json',
+     // Add new data files here...
    ];
    ```
 
 3. **Serve the Application**:
    - Since the app fetches JSON data locally, you must serve it over HTTP/HTTPS (not `file://`).
+
    ```bash
    # Python 3
    python3 -m http.server 8000
-   
+
    # Node.js (via serve)
    npx serve .
    ```
@@ -78,7 +80,8 @@ The ATM dataset should be formatted securely as follows:
   }
 ]
 ```
-*Note: The app logic automatically infers the `city` and `bank` parameters natively from the file name. However, specifying explicit metadata per internal nodes is valid.*
+
+_Note: The app logic automatically infers the `city` and `bank` parameters natively from the file name. However, specifying explicit metadata per internal nodes is valid._
 
 ## 🎨 Customization
 
