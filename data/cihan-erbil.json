@@ -396,17 +396,6 @@
     "longitude": 44.0109912
   },
   {
-    "id": "ATM_37",
-    "title": "Kirkuk Road - Plaza Branch - Mantikawe District - Next to Cihan Company",
-    "address": {
-      "en": "Kirkuk Road - Plaza Branch - Mantikawe District - Next to Cihan Company",
-      "ar": "طريق كركوك - فرع بلازا - حي منتكاوه – البناية المجاورة لشركة جيهان",
-      "ku": "شەقامی كەركوك - لقی پلازا- گەرەکی مەنتکاوە – باڵەخانەی تەنیشت کۆمپانیای جيهان"
-    },
-    "latitude": 36.156083,
-    "longitude": 44.017945
-  },
-  {
     "id": "ATM_38",
     "title": "Kirkuk Road - Opposite College of Science",
     "address": {
@@ -1188,17 +1177,6 @@
     "longitude": 44.351746
   },
   {
-    "id": "ATM_109",
-    "title": "Koya",
-    "address": {
-      "en": "Koya",
-      "ar": "هەولێر -بەرامبەر ماجیدی مۆل",
-      "ku": "هەولێر -بەرامبەر ماجیدی مۆل"
-    },
-    "latitude": 36.196908,
-    "longitude": 44.060999
-  },
-  {
     "id": "ATM_110",
     "title": "Komari",
     "address": {
@@ -1208,17 +1186,6 @@
     },
     "latitude": 36.197771,
     "longitude": 44.019336
-  },
-  {
-    "id": "ATM_111",
-    "title": "Choman",
-    "address": {
-      "en": "Choman",
-      "ar": "چۆمان- نزیک پارکی قائیمقام",
-      "ku": "چۆمان- نزیک پارکی قائیمقام"
-    },
-    "latitude": 36.63189,
-    "longitude": 44.884451
   },
   {
     "id": "ATM_112",
@@ -1232,28 +1199,6 @@
     "longitude": 44.639102
   },
   {
-    "id": "ATM_113",
-    "title": "Rwandz",
-    "address": {
-      "en": "Rwandz",
-      "ar": "رەواندز - نزیک قایمقامیەتی رەواندز",
-      "ku": "رەواندز - نزیک قایمقامیەتی رەواندز"
-    },
-    "latitude": 36.619854,
-    "longitude": 44.533141
-  },
-  {
-    "id": "ATM_114",
-    "title": "Mergasur",
-    "address": {
-      "en": "Mergasur",
-      "ar": "مێرگەسۆر- نزیک وێستگەی کارەبای مێرگەسۆر",
-      "ku": "مێرگەسۆر- نزیک وێستگەی کارەبای مێرگەسۆر"
-    },
-    "latitude": 36.851543,
-    "longitude": 44.293915
-  },
-  {
     "id": "ATM_115",
     "title": "Soran",
     "address": {
@@ -1263,28 +1208,6 @@
     },
     "latitude": 36.652008,
     "longitude": 44.534052
-  },
-  {
-    "id": "ATM_116",
-    "title": "Delzya",
-    "address": {
-      "en": "Delzya",
-      "ar": "سۆران، دێلزیا- بەردەم کۆلێژی تەکنیکی سۆران",
-      "ku": "سۆران، دێلزیا- بەردەم کۆلێژی تەکنیکی سۆران"
-    },
-    "latitude": 36.695411,
-    "longitude": 44.530562
-  },
-  {
-    "id": "ATM_117",
-    "title": "Qushtapa",
-    "address": {
-      "en": "Qushtapa",
-      "ar": "قوشتەپە - نزیک سەرۆکایەتی شارەوانی قوشتەپە",
-      "ku": "قوشتەپە - نزیک سەرۆکایەتی شارەوانی قوشتەپە"
-    },
-    "latitude": 36.003589,
-    "longitude": 44.031576
   },
   {
     "id": "ATM_118",

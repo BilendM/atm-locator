@@ -253,28 +253,6 @@
     "longitude": 44.031576
   },
   {
-    "id": "ATM_24",
-    "title": "Duhok",
-    "address": {
-      "en": "Duhok",
-      "ar": "دهۆک، دۆميز - بەرامبەر بانکێ دۆميز",
-      "ku": "دهۆک، دۆميز - بەرامبەر بانکێ دۆميز"
-    },
-    "latitude": 36.792233,
-    "longitude": 42.912022
-  },
-  {
-    "id": "ATM_25",
-    "title": "Hizl",
-    "address": {
-      "en": "Hizl",
-      "ar": "زاخۆ - تەنيشت بانکي هيزل",
-      "ku": "زاخۆ - تەنيشت بانکي هيزل"
-    },
-    "latitude": 37.161153,
-    "longitude": 42.679117
-  },
-  {
     "id": "ATM_26",
     "title": "Shekhan",
     "address": {
@@ -284,17 +262,6 @@
     },
     "latitude": 36.685478,
     "longitude": 43.346061
-  },
-  {
-    "id": "ATM_27",
-    "title": "Presidency",
-    "address": {
-      "en": "Presidency",
-      "ar": "دهۆک - شەقامي ئەنوەر ماي",
-      "ku": "دهۆک - شەقامي ئەنوەر ماي"
-    },
-    "latitude": 36.861303,
-    "longitude": 42.969789
   },
   {
     "id": "ATM_28",
