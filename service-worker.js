@@ -62,7 +62,7 @@ self.addEventListener('fetch', (event) => {
         .then(async (cache) => {
           try {
             const response = await fetch(request);
-            if (response.ok) {
+            if (response.ok && request.method === 'GET') {
               const responseClone = response.clone();
               cache.put(request, responseClone);
             }
