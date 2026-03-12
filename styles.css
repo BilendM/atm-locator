@@ -607,7 +607,6 @@ body {
 } /* Hide the triangle tip for cleaner look */
 .leaflet-popup-content {
   margin: 0 !important;
-  width: 300px !important;
 }
 .leaflet-popup-close-button {
   color: var(--text-secondary) !important;
