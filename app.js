@@ -202,21 +202,21 @@ class ATMLocator {
       'data/cihan-slemani.json',
       'data/cihan-duhok.json',
       'data/cihan-kirkuk.json',
-      'data/cihan-najaf.json',
-      'data/cihan-basrah.json',
-      'data/cihan-baghdad.json',
-      'data/cihan-mosul.json',
+      // 'data/cihan-najaf.json',
+      // 'data/cihan-basrah.json',
+      // 'data/cihan-baghdad.json',
+      // 'data/cihan-mosul.json',
       // NBI files
       'data/nbi-erbil.json',
       'data/nbi-slemani.json',
       'data/nbi-duhok.json',
-      'data/nbi-mosul.json',
+      // 'data/nbi-mosul.json',
       'data/nbi-kirkuk.json',
-      'data/nbi-baghdad.json',
-      'data/nbi-basra.json',
-      'data/nbi-other.json',
+      // 'data/nbi-baghdad.json',
+      // 'data/nbi-basra.json',
+      // 'data/nbi-other.json',
       // BBAC files
-      'data/bbac-baghdad.json',
+      // 'data/bbac-baghdad.json',
       'data/bbac-erbil.json',
       'data/bbac-sulaymaniyah.json',
       // Islamic Bank files
@@ -275,56 +275,6 @@ class ATMLocator {
     }
 
     return atms;
-  }
-
-  inferCityFromCoords(lat, lng) {
-    const cities = [
-      { name: 'Erbil', minLat: 36.0, maxLat: 36.6, minLng: 43.8, maxLng: 44.4 },
-      {
-        name: 'Sulaymaniyah',
-        minLat: 35.1,
-        maxLat: 35.9,
-        minLng: 44.9,
-        maxLng: 46.2,
-      },
-      { name: 'Duhok', minLat: 36.8, maxLat: 37.5, minLng: 42.6, maxLng: 43.5 },
-      { name: 'Mosul', minLat: 35.9, maxLat: 36.5, minLng: 42.8, maxLng: 43.5 },
-      {
-        name: 'Kirkuk',
-        minLat: 35.2,
-        maxLat: 35.8,
-        minLng: 44.1,
-        maxLng: 44.7,
-      },
-      {
-        name: 'Baghdad',
-        minLat: 32.9,
-        maxLat: 33.7,
-        minLng: 43.8,
-        maxLng: 44.7,
-      },
-      { name: 'Basra', minLat: 29.8, maxLat: 31.0, minLng: 47.0, maxLng: 48.5 },
-      {
-        name: 'Ninawa',
-        minLat: 36.0,
-        maxLat: 36.6,
-        minLng: 42.5,
-        maxLng: 43.2,
-      },
-    ];
-
-    for (const city of cities) {
-      if (
-        lat >= city.minLat &&
-        lat <= city.maxLat &&
-        lng >= city.minLng &&
-        lng <= city.maxLng
-      ) {
-        return city.name;
-      }
-    }
-
-    return 'Other';
   }
 
   parseFilename(filename) {
@@ -889,42 +839,8 @@ class ATMLocator {
     return R * c;
   }
 
-  formatDistance(km) {
-    if (km < 1) {
-      return `${Math.round(km * 1000)} m`;
-    }
-    return `${km.toFixed(1)} km`;
-  }
-
-  focusOnATM(atm) {
-    this.map.setView([atm.latitude, atm.longitude], 16);
-
-    // Find and open the marker popup
-    const marker = this.markers.find((m) => m.atmData.id === atm.id);
-    if (marker) {
-      marker.openPopup();
-    }
-
-    // Close list on mobile
-    if (window.innerWidth < 768) {
-      const atmListPanel = document.getElementById('atmListPanel');
-      const toggleListFab = document.getElementById('toggleListFab');
-      if (atmListPanel && toggleListFab) {
-        atmListPanel.classList.remove('open');
-        toggleListFab.classList.remove('hidden');
-      }
-    }
-  }
-
-  getDirections(atmId) {
-    const atm = this.atmData.find((a) => a.id === atmId);
-    if (atm) {
-      this.openNavigation(atm);
-    }
-  }
-
-  openNavigation(atm) {
-    const url = `https://www.google.com/maps/dir/?api=1&destination=${atm.latitude},${atm.longitude}`;
+  getDirections(lat, lng) {
+    const url = `https://www.google.com/maps/dir/?api=1&destination=${lat},${lng}`;
     window.open(url, '_blank');
   }
 }
