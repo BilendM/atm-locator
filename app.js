@@ -179,6 +179,13 @@ class ATMLocator {
       this.updateList();
     } catch (error) {
       console.error('Error loading data:', error);
+    } finally {
+      // Hide loading overlay
+      const overlay = document.getElementById('loadingOverlay');
+      if (overlay) {
+        overlay.classList.add('fade-out');
+        setTimeout(() => overlay.remove(), 500);
+      }
     }
   }
 
