@@ -231,7 +231,7 @@ body {
    HEADER & FILTERS
    ========================================== */
 .main-header {
-  margin: 16px;
+  margin: calc(16px + env(safe-area-inset-top, 0px)) 16px 16px 16px;
   border-radius: var(--radius-lg);
   padding: 16px;
   display: flex;
@@ -534,12 +534,15 @@ body {
 } /* Hide the triangle tip for cleaner look */
 .leaflet-popup-content {
   margin: 0 !important;
-  width: 280px !important;
+  width: 300px !important;
 }
 .leaflet-popup-close-button {
   color: var(--text-secondary) !important;
   padding: 12px !important;
   font-size: 20px !important;
+  top: 10px !important;
+  right: 10px !important;
+  z-index: 10 !important;
 }
 
 .popup-container {
@@ -681,7 +684,7 @@ body {
 
   .main-header {
     position: absolute;
-    top: 20px;
+    top: calc(20px + env(safe-area-inset-top, 0px));
     left: 20px;
     width: 360px;
     margin: 0;

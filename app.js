@@ -524,6 +524,11 @@ class ATMLocator {
     const closeBtn = document.getElementById('closeListBtn');
     const dragHandle = listPanel.querySelector('.drag-handle-container');
 
+    // Initial state for desktop: hide FAB since list is open
+    if (window.innerWidth >= 768) {
+      toggleFab.classList.add('hidden');
+    }
+
     // Desktop and Mobile common close logic
     closeBtn.addEventListener('click', () => {
       listPanel.classList.remove('open');
@@ -855,12 +860,10 @@ class ATMLocator {
                 <svg viewBox="0 0 24 24" width="20" height="20" class="spin">
                     <path fill="currentColor" d="M12 6v3l4-4-4-4v3c-4.42 0-8 3.58-8 8 0 1.57.46 3.03 1.24 4.26L6.7 14.8c-.45-.83-.7-1.79-.7-2.8 0-3.31 2.69-6 6-6zm6.76 1.74L17.3 9.2c.44.84.7 1.79.7 2.8 0 3.31-2.69 6-6 6v-3l-4 4 4 4v-3c4.42 0 8-3.58 8-8 0-1.57-.46-3.03-1.24-4.26z"/>
                 </svg>
-                Locating...
             `;
     } else {
       btn.innerHTML = `
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
-                My Location
             `;
     }
   }
