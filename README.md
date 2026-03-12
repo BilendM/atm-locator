@@ -1,105 +1,98 @@
 # ATM Locator PWA
 
-A simple, offline-first Progressive Web App for finding ATM locations using OpenStreetMap. Completely free and open source.
+A modern, fast, and offline-first Progressive Web App (PWA) for finding ATM locations via OpenStreetMap. It features a beautiful glassmorphism-inspired UI and supports multiple cities and banks across Iraq and the Kurdistan Region.
 
-## Features
+## ✨ Features
 
-- **Offline First**: Works without internet connection after first load
-- **OpenStreetMap**: Free, open source maps (no API keys needed)
-- **PWA**: Installable on mobile devices and desktops
-- **Search & Filter**: Find ATMs by name, city, or bank
-- **Geolocation**: Find ATMs near your current location
-- **Navigation**: One-click navigation to any ATM
-- **Multi-city/Multi-bank**: Supports multiple JSON data files
+- **Modern UI/UX**: Sleek, fully responsive design utilizing glassmorphism, floating action buttons, and a smooth bottom-sheet list for mobile users.
+- **Offline First**: Works seamlessly even without an active internet connection using Service Workers.
+- **OpenStreetMap Integration**: Interactive maps powered by Leaflet and Carto tile layers, complete with marker clustering for dense areas.
+- **Geolocation & Routing**: Pinpoints your live location, calculates distances to nearby ATMs, tracks device heading, and offers direct navigation links.
+- **Advanced Filtering**: Quickly filter ATMs by specific cities or banks.
+- **Dark/Light Themes**: Integrated theme toggler that seamlessly switches UI elements and map tile styles.
+- **PWA Ready**: Installable directly to the home screen on iOS, Android, and Desktop environments.
 
-## Project Structure
+## 📂 Project Structure
 
 ```
 atm-locator/
-├── index.html          # Main HTML file
-├── app.js             # Application logic
-├── styles.css         # Styling
-├── manifest.json      # PWA manifest
-├── service-worker.js  # Offline support
-├── data/              # ATM data directory
-│   └── rt-bank-erbil.json  # RT Bank Erbil locations
-└── README.md
+├── index.html          # Main application entry point with modern structure
+├── app.js              # Application logic (Leaflet integration, location, filtering)
+├── styles.css          # Styling & CSS variables (Glassmorphism, Dark/Light modes)
+├── manifest.json       # PWA manifest containing app metadata
+├── service-worker.js   # Offline caching and support
+└── data/               # ATM data directory (split by bank and city)
+    ├── cihan-erbil.json
+    ├── rt-bank-slemani.json
+    └── ...
 ```
 
-## Getting Started
+## 🚀 Getting Started
 
-1. **Add your ATM data**:
-   - Place your JSON files in the `data/` folder
-   - **Important**: Use the naming convention `{bank-name}-{city}.json`
-   - Examples: `rt-bank-erbil.json`, `rt-bank-sulaymaniyah.json`, `kurdistan-bank-dohuk.json`
-   - Each JSON should have a `result` array with ATM objects
-   - The app automatically extracts bank and city from the filename!
+1. **Add or Update ATM Data**:
+   - Place your JSON files securely in the `data/` directory.
+   - **Important**: Use the consistent naming convention `{bank-name}-{city}.json`.
+   - Examples: `rt-bank-erbil.json`, `cihan-slemani.json`, `nbi-baghdad.json`.
 
-2. **Update the file list**:
-   - Open `app.js`
-   - Find the `scanDataFiles()` method
-   - Add your new JSON file to the `patterns` array:
+2. **Update the Internal File Index**:
+   - Open `app.js`.
+   - Locate the `scanDataFiles()` method.
+   - Add your newly created JSON file paths to the `patterns` array:
    ```javascript
    const patterns = [
        'data/rt-bank-erbil.json',
-       'data/rt-bank-sulaymaniyah.json',
-       'data/kurdistan-bank-dohuk.json',
-       // Add more files here...
+       'data/cihan-slemani.json',
+       // Add new data files here...
    ];
    ```
 
-3. **Serve the app**:
-   - Use any static file server
-   - Examples:
-     ```bash
-     # Python 3
-     python -m http.server 8000
-     
-     # Node.js (npx)
-     npx serve .
-     
-     # PHP
-     php -S localhost:8000
-     ```
+3. **Serve the Application**:
+   - Since the app fetches JSON data locally, you must serve it over HTTP/HTTPS (not `file://`).
+   ```bash
+   # Python 3
+   python3 -m http.server 8000
+   
+   # Node.js (via serve)
+   npx serve .
+   ```
 
 4. **Install as PWA**:
-   - Open the app in your browser
-   - Look for the "Install" or "Add to Home Screen" option
-   - Works on iOS, Android, and desktop browsers
+   - Open the web app on your preferred browser.
+   - Select "Install" (Chrome/Edge) or "Add to Home Screen" (iOS Safari).
 
-## JSON Data Format
+## 📄 JSON Data Format
+
+The ATM dataset should be formatted securely as follows:
 
 ```json
-{
-  "result": [
-    {
-      "id": "unique-id",
-      "title": "ATM Location Name",
-      "type": "ATM",
-      "latitude": 36.2224,
-      "longitude": 43.9970,
-      "description": "Optional description"
-    }
-  ]
-}
+[
+  {
+    "id": "unique-uuid-or-id",
+    "title": "Main Branch ATM",
+    "type": "ATM",
+    "latitude": 36.1911,
+    "longitude": 44.0092,
+    "description": "24/7 Access, USD & IQD",
+    "address": "60m Road, Erbil",
+    "map_link": "https://maps.google.com/..."
+  }
+]
 ```
+*Note: The app logic automatically infers the `city` and `bank` parameters natively from the file name. However, specifying explicit metadata per internal nodes is valid.*
 
-**Note**: You don't need to include `city` and `bank` fields in your JSON files - they are automatically extracted from the filename! For example, `rt-bank-erbil.json` will automatically set `bank: "RT Bank"` and `city: "Erbil"` for all ATMs in that file.
+## 🎨 Customization
 
-## Browser Support
+- **Theming**: Edit CSS variables (`--bg-color`, `--glass-bg`) located within `styles.css`.
+- **Map Styles**: Modify the `mapStyles` URLs under `initMap()` within `app.js` to hook up alternative tile providers.
+- **Colors & Markers**: Adjust `bankColors` in `app.js` to change or brand new marker clusters dynamically.
 
-- Chrome/Edge (recommended for best PWA support)
-- Firefox
+## 📱 Browser Support
+
+- Chrome / Edge (Recommended for highest PWA compatibility and installation)
 - Safari (iOS 11.3+)
+- Firefox
 - Samsung Internet
 
-## License
+## 📜 License
 
-MIT License - feel free to use, modify, and distribute!
-
-## Customization
-
-- **Colors**: Edit CSS variables in `styles.css`
-- **Icons**: Replace the SVG data URIs in `manifest.json` and `index.html`
-- **Map style**: Modify the tile layer in `app.js` initMap()
-- **Language**: All text is in English but can be easily translated
+MIT License - feel free to use, modify, and distribute as needed!
