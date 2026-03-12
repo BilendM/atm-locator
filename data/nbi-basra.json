@@ -8,7 +8,7 @@
     "latitude": 30.502833281717812,
     "longitude": 47.831339115125935,
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3437.643669726042!2d47.831339115125935!3d30.502833281717812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDMwJzEwLjIiTiA0N8KwNTAnMDAuNyJF!5e0!3m2!1sen!2sjo!4v1624274666953!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_2",
@@ -19,7 +19,7 @@
     "latitude": 30.52180558171121,
     "longitude": 47.83931131512642,
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3436.9728932373732!2d47.83931131512642!3d30.52180558171121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDMxJzE4LjUiTiA0N8KwNTAnMjkuNCJF!5e0!3m2!1sen!2sjo!4v1624271497427!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_3",
@@ -30,7 +30,7 @@
     "latitude": 30.55866668169813,
     "longitude": 47.7892557151273,
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3435.6685707208594!2d47.7892557151273!3d30.55866668169813!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDMzJzMxLjIiTiA0N8KwNDcnMjkuMiJF!5e0!3m2!1sen!2sjo!4v1624273833313!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_4",
@@ -41,7 +41,7 @@
     "latitude": 30.553354601307895,
     "longitude": 47.798241314456774,
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3435.8566253137556!2d47.798241314456774!3d30.553354601307895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x370ea4c3595595ca!2zMzDCsDMzJzEyLjEiTiA0N8KwNDgnMDEuNiJF!5e0!3m2!1sen!2sjo!4v1653923081056!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_5",
@@ -52,7 +52,7 @@
     "latitude": 30.022805581890164,
     "longitude": 47.946255715114695,
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.4897095486363!2d47.946255715114695!3d30.022805581890164!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDAxJzIyLjEiTiA0N8KwNTYnNTQuNCJF!5e0!3m2!1sen!2sjo!4v1624273613140!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_6",
@@ -63,7 +63,7 @@
     "latitude": 30.5070333,
     "longitude": 47.8381002,
     "map_link": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3437.4952081663823!2d47.8381002!3d30.5070333!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDMwJzE5LjAiTiA0N8KwNTAnMDIuMCJF!5e0!3m2!1sen!2sjo!4v1624276217580!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_7",
@@ -74,7 +74,7 @@
     "latitude": 30.5409545948749,
     "longitude": 47.785104076098555,
     "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3436.295486820516!2d47.785104076098555!3d30.5409545948749!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzDCsDMyJzI3LjQiTiA0N8KwNDcnMTUuNiJF!5e0!3m2!1sen!2sjo!4v1719833225839!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_8",
@@ -85,7 +85,7 @@
     "latitude": 30.52164459580276,
     "longitude": 47.81736507609767,
     "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3436.9785865713893!2d47.81736507609767!3d30.52164459580276!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzDCsDMxJzE3LjkiTiA0N8KwNDknMTEuOCJF!5e0!3m2!1sen!2sjo!4v1719833103739!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_9",
@@ -96,7 +96,7 @@
     "latitude": 30.496554604029075,
     "longitude": 47.795861314455166,
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3437.8655729505954!2d47.795861314455166!3d30.496554604029075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3774be975b60c0ad!2zMzDCsDI5JzQ3LjYiTiA0N8KwNDcnNTMuMCJF!5e0!3m2!1sen!2sjo!4v1653923273015!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_10",
@@ -107,7 +107,7 @@
     "latitude": 30.359643603569722,
     "longitude": 47.620405074583616,
     "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3442.6940597488256!2d47.620405074583616!3d30.359643603569722!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzDCsDIxJzM0LjciTiA0N8KwMzcnMjIuNyJF!5e0!3m2!1sen!2sjo!4v1735545194741!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_11",
@@ -118,7 +118,7 @@
     "latitude": 30.530315595388846,
     "longitude": 47.81054507459108,
     "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3436.6718944159998!2d47.81054507459108!3d30.530315595388846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzDCsDMxJzQ5LjEiTiA0N8KwNDgnNDcuMiJF!5e0!3m2!1sen!2sjo!4v1735545162779!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_12",
@@ -129,7 +129,7 @@
     "latitude": 30.027774626316244,
     "longitude": 47.93277131444284,
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3454.316566432652!2d47.93277131444284!3d30.027774626316244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xca01e12e01b79dbe!2zMzDCsDAxJzQwLjAiTiA0N8KwNTYnMDUuOSJF!5e0!3m2!1sen!2sjo!4v1653923559718!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_13",
@@ -140,7 +140,7 @@
     "latitude": 30.540999981704303,
     "longitude": 47.80311691512677,
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3436.293880781561!2d47.80311691512677!3d30.540999981704303!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDMyJzI3LjYiTiA0N8KwNDgnMTkuMSJF!5e0!3m2!1sen!2sjo!4v1624271884403!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_14",
@@ -151,7 +151,7 @@
     "latitude": 30.5534999816999,
     "longitude": 47.79828351512714,
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3435.851479050822!2d47.79828351512714!3d30.5534999816999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDMzJzEyLjYiTiA0N8KwNDgnMDEuNyJF!5e0!3m2!1sen!2sjo!4v1624274273387!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_15",
@@ -162,7 +162,7 @@
     "latitude": 30.483249981724814,
     "longitude": 47.80714461512558,
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3438.3356531381633!2d47.80714461512558!3d30.483249981724814!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDI4JzU5LjciTiA0N8KwNDgnMzMuNiJF!5e0!3m2!1sen!2sjo!4v1624273914912!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_16",
@@ -173,7 +173,7 @@
     "latitude": 30.47774998172666,
     "longitude": 47.78697801512546,
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3438.5299255028062!2d47.78697801512546!3d30.47774998172666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDI4JzM5LjkiTiA0N8KwNDcnMjEuMCJF!5e0!3m2!1sen!2sjo!4v1624274773242!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_17",
@@ -184,7 +184,7 @@
     "latitude": 30.502833281717812,
     "longitude": 47.831339115125935,
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3437.643669726042!2d47.831339115125935!3d30.502833281717812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDMwJzEwLjIiTiA0N8KwNTAnMDAuNyJF!5e0!3m2!1sen!2sjo!4v1624271317188!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_18",
@@ -195,7 +195,7 @@
     "latitude": 30.502833281717812,
     "longitude": 47.831339115125935,
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3437.643669726042!2d47.831339115125935!3d30.502833281717812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDMwJzEwLjIiTiA0N8KwNTAnMDAuNyJF!5e0!3m2!1sen!2sjo!4v1624272958517!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_19",
@@ -206,7 +206,7 @@
     "latitude": 30.502833281717812,
     "longitude": 47.831339115125935,
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3437.643669726042!2d47.831339115125935!3d30.502833281717812!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDMwJzEwLjIiTiA0N8KwNTAnMDAuNyJF!5e0!3m2!1sen!2sjo!4v1624274666953!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_20",
@@ -217,7 +217,7 @@
     "latitude": 30.5757777816922,
     "longitude": 47.230950215127635,
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3435.062614635798!2d47.230950215127635!3d30.5757777816922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDM0JzMyLjgiTiA0N8KwMTMnNTkuMyJF!5e0!3m2!1sen!2sjo!4v1624271749940!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_21",
@@ -228,7 +228,7 @@
     "latitude": 30.5757777816922,
     "longitude": 47.230950215127635,
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3435.062614635798!2d47.230950215127635!3d30.5757777816922!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDM0JzMyLjgiTiA0N8KwMTMnNTkuMyJF!5e0!3m2!1sen!2sjo!4v1624271812819!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_22",
@@ -239,7 +239,7 @@
     "latitude": 30.060611081876406,
     "longitude": 47.92078351511551,
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3453.171748463168!2d47.92078351511551!3d30.060611081876406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDAzJzM4LjIiTiA0N8KwNTUnMjIuNyJF!5e0!3m2!1sen!2sjo!4v1624270747520!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_23",
@@ -250,7 +250,7 @@
     "latitude": 30.507027781716452,
     "longitude": 47.83808911512607,
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3437.495403237886!2d47.83808911512607!3d30.507027781716452!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDMwJzI1LjMiTiA0N8KwNTAnMjUuMCJF!5e0!3m2!1sen!2sjo!4v1624276057056!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_24",
@@ -261,7 +261,7 @@
     "latitude": 30.507027781716452,
     "longitude": 47.83808911512607,
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3437.495403237886!2d47.83808911512607!3d30.507027781716452!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDMwJzI1LjMiTiA0N8KwNTAnMjUuMCJF!5e0!3m2!1sen!2sjo!4v1624276163965!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_25",
@@ -272,7 +272,7 @@
     "latitude": 30.506166681716646,
     "longitude": 47.83970021512598,
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3437.5258427602757!2d47.83970021512598!3d30.506166681716646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDMwJzIyLjIiTiA0N8KwNTAnMzAuOCJF!5e0!3m2!1sen!2sjo!4v1624270822912!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_26",
@@ -283,7 +283,7 @@
     "latitude": 30.062472181875748,
     "longitude": 47.93161691511544,
     "map_link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3453.1068286647082!2d47.93161691511544!3d30.062472181875748!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzDCsDAzJzQ0LjkiTiA0N8KwNTYnMDEuNyJF!5e0!3m2!1sen!2sjo!4v1624271415304!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_27",
@@ -294,7 +294,7 @@
     "latitude": 30.503557596567926,
     "longitude": 47.83624271053173,
     "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3437.618068081224!2d47.83624271053173!3d30.503557596567926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzDCsDMwJzEyLjgiTiA0N8KwNTAnMTkuOCJF!5e0!3m2!1sen!2sjo!4v1700752731176!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_28",
@@ -305,7 +305,7 @@
     "latitude": 30.50616859644249,
     "longitude": 47.83931971053167,
     "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3437.525775076385!2d47.83931971053167!3d30.50616859644249!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzDCsDMwJzIyLjIiTiA0N8KwNTAnMzAuOCJF!5e0!3m2!1sen!2sjo!4v1700754175175!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_29",
@@ -316,7 +316,7 @@
     "latitude": 30.526244595478172,
     "longitude": 47.81805971053252,
     "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3436.815894968995!2d47.81805971053252!3d30.526244595478172!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzDCsDMxJzM0LjUiTiA0N8KwNDknMTQuMyJF!5e0!3m2!1sen!2sjo!4v1700755764744!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   },
   {
     "id": "ATM_30",
@@ -327,6 +327,6 @@
     "latitude": 30.06070461769667,
     "longitude": 47.91917971051399,
     "map_link": "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3453.168485787992!2d47.91917971051399!3d30.06070461769667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMzDCsDAzJzM4LjUiTiA0N8KwNTUnMTguMyJF!5e0!3m2!1sen!2sjo!4v1700755506636!5m2!1sen!2sjo",
-    "type": "Branch"
+    "type": "ATM"
   }
 ]
