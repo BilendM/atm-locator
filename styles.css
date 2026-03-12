@@ -209,11 +209,9 @@ body {
    ========================================== */
 #themeToggle .icon-sun {
   display: block;
-  padding: 8px;
 }
 #themeToggle .icon-moon {
   display: none;
-  padding: 8px;
 }
 
 [data-theme='dark'] #themeToggle .icon-sun {
@@ -236,7 +234,10 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: var(--bg-base);
+  background-color: var(--bg-glass);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  opacity: 0.6;
   z-index: 9999;
   display: flex;
   flex-direction: column;
@@ -732,11 +733,8 @@ body {
   }
 
   .close-btn {
-    width: 28px;
-    height: 28px;
     padding: 0;
     background: var(--bg-element);
-    padding: 6px;
   }
 
   /* Adjust Map Zoom Controls to be higher when FAB is present */
@@ -811,12 +809,9 @@ body {
 
   /* Ensure closeBtn has border on desktop since it looks nice */
   .close-btn {
-    width: 28px;
-    height: 28px;
     padding: 0;
     background: var(--bg-element);
     border-radius: 8px;
-    padding: 6px;
   }
 
   .leaflet-control-zoom {
