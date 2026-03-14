@@ -1,6 +1,5 @@
 [
   {
-    "id": "ATM_15",
     "title": "60 Meter Street, End of Iskan Tunnel",
     "address": {
       "en": "60 Meter Street, End of Iskan Tunnel"
@@ -9,7 +8,6 @@
     "longitude": 43.9757897
   },
   {
-    "id": "ATM_52",
     "title": "Majidi Mall Gate 3, Koya Street",
     "address": {
       "en": "Majidi Mall Gate 3, Koya Street"
@@ -18,7 +16,6 @@
     "longitude": 44.0661486937649
   },
   {
-    "id": "ATM_51",
     "title": "Erbil, Halabja Street, Opposite Manara Park Entrance",
     "address": {
       "en": "Erbil, Halabja Street, Opposite Manara Park Entrance"
@@ -27,7 +24,6 @@
     "longitude": 44.0005400699538
   },
   {
-    "id": "ATM_27",
     "title": "60 Meter Street, End of Iskan Tunnel (ATM is outside the branch)",
     "address": {
       "en": "60 Meter Street, End of Iskan Tunnel (ATM is outside the branch)"
@@ -36,7 +32,6 @@
     "longitude": 44.0094
   },
   {
-    "id": "ATM_1",
     "title": "60 Meter Street, End of Iskan Tunnel, Super Hotel Building",
     "address": {
       "en": "60 Meter Street, End of Iskan Tunnel, Super Hotel Building"
@@ -45,7 +40,6 @@
     "longitude": 44.0219071109023
   },
   {
-    "id": "ATM_55",
     "title": "100m Street, Opposite Empire Diamond, 32 Park",
     "address": {
       "en": "100m Street, Opposite Empire Diamond, 32 Park"
@@ -54,7 +48,6 @@
     "longitude": 43.96536645767139
   },
   {
-    "id": "ATM_46",
     "title": "Erbil, Ainkawa 2 side, Al-Tajarb Exchange, near Karwan Saray Hotel",
     "address": {
       "en": "Erbil, Ainkawa 2 side, Al-Tajarb Exchange, near Karwan Saray Hotel"
@@ -63,7 +56,6 @@
     "longitude": 43.9963873903941
   },
   {
-    "id": "ATM_9",
     "title": "100 Street, Baharka Bridge Intersection",
     "address": {
       "en": "100 Street, Baharka Bridge Intersection"
@@ -72,7 +64,6 @@
     "longitude": 44.0076622105726
   },
   {
-    "id": "ATM_45",
     "title": "Erbil, Dream City 2 - Car Parking Exit",
     "address": {
       "en": "Erbil, Dream City 2 - Car Parking Exit"
@@ -81,7 +72,6 @@
     "longitude": 43.97369638193227
   },
   {
-    "id": "ATM_24",
     "title": "100 Meter Street, Building C5, Near Quick Wave Exchange Company",
     "address": {
       "en": "100 Meter Street, Building C5, Near Quick Wave Exchange Company"
@@ -90,7 +80,6 @@
     "longitude": 43.9705885826652
   },
   {
-    "id": "ATM_19",
     "title": "100 Meter Street",
     "address": {
       "en": "100 Meter Street"
@@ -99,7 +88,6 @@
     "longitude": 44.047291
   },
   {
-    "id": "ATM_20",
     "title": "Karez Street, Ainkawa District, Next to Holland Bazar Supermarket",
     "address": {
       "en": "Karez Street, Ainkawa District, Next to Holland Bazar Supermarket"
@@ -108,7 +96,6 @@
     "longitude": 43.9905980836811
   },
   {
-    "id": "ATM_41",
     "title": "Maseef Road",
     "address": {
       "en": "Maseef Road"
@@ -117,7 +104,6 @@
     "longitude": 44.0820629844961
   },
   {
-    "id": "ATM_42",
     "title": "40 Meter Street",
     "address": {
       "en": "40 Meter Street"
@@ -126,7 +112,6 @@
     "longitude": 43.9921421668755
   },
   {
-    "id": "ATM_5",
     "title": "English Village, FacingVital Village",
     "address": {
       "en": "English Village, FacingVital Village"
@@ -135,7 +120,6 @@
     "longitude": 43.9678481099738
   },
   {
-    "id": "ATM_29",
     "title": "100 Meter Street, Dream City Compound, Outside International School of Choueifat, Facing Buffalo Restaurant",
     "address": {
       "en": "100 Meter Street, Dream City Compound, Outside International School of Choueifat, Facing Buffalo Restaurant"
@@ -144,7 +128,6 @@
     "longitude": 43.9749758349919
   },
   {
-    "id": "ATM_26",
     "title": "Khanzad Area, Maseef Road, Inside International School of Choueifat",
     "address": {
       "en": "Khanzad Area, Maseef Road, Inside International School of Choueifat"
@@ -153,7 +136,6 @@
     "longitude": 44.1492841014506
   },
   {
-    "id": "ATM_50",
     "title": "Opposite to College of Engineering",
     "address": {
       "en": "Opposite to College of Engineering"
@@ -162,7 +144,6 @@
     "longitude": 44.0202423191021
   },
   {
-    "id": "ATM_10",
     "title": "Baharka Street, Lebanese Village Compound, Gate 1, Facing ABC restaurant",
     "address": {
       "en": "Baharka Street, Lebanese Village Compound, Gate 1, Facing ABC restaurant"
@@ -171,7 +152,6 @@
     "longitude": 44.0116062801714
   },
   {
-    "id": "ATM_25",
     "title": "Baharka Street, Lebanese Village Compound, Gate 2",
     "address": {
       "en": "Baharka Street, Lebanese Village Compound, Gate 2"
@@ -180,7 +160,6 @@
     "longitude": 44.013843335976
   },
   {
-    "id": "ATM_43",
     "title": "40 meter street, infront of Dream City",
     "address": {
       "en": "40 meter street, infront of Dream City"
@@ -189,7 +168,6 @@
     "longitude": 43.9833933281362
   },
   {
-    "id": "ATM_49",
     "title": "Opposite Rozhawa Hospital",
     "address": {
       "en": "Opposite Rozhawa Hospital"
@@ -198,7 +176,6 @@
     "longitude": 43.9688574578604
   },
   {
-    "id": "ATM_30",
     "title": "100 Meter Street, Ainkawa District",
     "address": {
       "en": "100 Meter Street, Ainkawa District"
@@ -207,7 +184,6 @@
     "longitude": 43.9944016728994
   },
   {
-    "id": "ATM_12",
     "title": "Airport Road Connection, ATM Inside View Supermarket",
     "address": {
       "en": "Airport Road Connection, ATM Inside View Supermarket"
@@ -216,7 +192,6 @@
     "longitude": 43.9827088388691
   },
   {
-    "id": "ATM_11",
     "title": "Gulan Street, Facing Sami Abdul Rahman Park",
     "address": {
       "en": "Gulan Street, Facing Sami Abdul Rahman Park"
@@ -225,7 +200,6 @@
     "longitude": 43.9740038399876
   },
   {
-    "id": "ATM_47",
     "title": "Erbil, Shorsh Street, near Fortland Hotel",
     "address": {
       "en": "Erbil, Shorsh Street, near Fortland Hotel"
@@ -234,7 +208,6 @@
     "longitude": 44.0231662533683
   },
   {
-    "id": "ATM_28",
     "title": "NazNazStreet, Behind Park View Compound",
     "address": {
       "en": "NazNazStreet, Behind Park View Compound"
@@ -243,7 +216,6 @@
     "longitude": 43.9803268554199
   },
   {
-    "id": "ATM_7",
     "title": "60 Meter District, Kirkuk Road, Near Francois Hariri Stadium",
     "address": {
       "en": "60 Meter District, Kirkuk Road, Near Francois Hariri Stadium"

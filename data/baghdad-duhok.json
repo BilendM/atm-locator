@@ -1,6 +1,5 @@
 [
   {
-    "id": "ATM_1",
     "title": "Malta",
     "address": {
       "en": "Malta",
@@ -11,7 +10,6 @@
     "longitude": 42.960751
   },
   {
-    "id": "ATM_2",
     "title": "Presidency",
     "address": {
       "en": "Presidency",
@@ -22,7 +20,6 @@
     "longitude": 42.969789
   },
   {
-    "id": "ATM_3",
     "title": "Shahidani",
     "address": {
       "en": "Shahidani",
@@ -33,7 +30,6 @@
     "longitude": 42.988668
   },
   {
-    "id": "ATM_4",
     "title": "Silav",
     "address": {
       "en": "Silav",
@@ -44,7 +40,6 @@
     "longitude": 43.00155
   },
   {
-    "id": "ATM_5",
     "title": "Emergency",
     "address": {
       "en": "Emergency",
@@ -55,7 +50,6 @@
     "longitude": 43.008523
   },
   {
-    "id": "ATM_6",
     "title": "Bazar",
     "address": {
       "en": "Bazar",
@@ -66,7 +60,6 @@
     "longitude": 42.940281
   },
   {
-    "id": "ATM_7",
     "title": "Akre",
     "address": {
       "en": "Akre",
@@ -77,7 +70,6 @@
     "longitude": 43.871761
   },
   {
-    "id": "ATM_8",
     "title": "Solav",
     "address": {
       "en": "Solav",
@@ -88,7 +80,6 @@
     "longitude": 43.487734
   },
   {
-    "id": "ATM_9",
     "title": "Tabu",
     "address": {
       "en": "Tabu",
@@ -99,7 +90,6 @@
     "longitude": 42.863616
   },
   {
-    "id": "ATM_10",
     "title": "Shekhan",
     "address": {
       "en": "Shekhan",
@@ -110,7 +100,6 @@
     "longitude": 43.350828
   },
   {
-    "id": "ATM_11",
     "title": "Sarhldan",
     "address": {
       "en": "Sarhldan",

@@ -256,10 +256,10 @@ class ATMLocator {
     const atms = [];
 
     if (Array.isArray(data)) {
-      data.forEach((item) => {
+      data.forEach((item, index) => {
         if (item.latitude && item.longitude) {
           atms.push({
-            id: item.id || `ATM_${Math.random()}`,
+            id: index + 1,
             title: item.title,
             address: item.address?.en || item.title || null,
             latitude: item.latitude,

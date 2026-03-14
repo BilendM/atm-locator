@@ -1,6 +1,5 @@
 [
   {
-    "id": "ATM_1",
     "title": "Shaways",
     "address": {
       "en": "Shaways",
@@ -11,7 +10,6 @@
     "longitude": 44.085324
   },
   {
-    "id": "ATM_2",
     "title": "Erbil",
     "address": {
       "en": "Erbil",
@@ -22,7 +20,6 @@
     "longitude": 43.941569
   },
   {
-    "id": "ATM_3",
     "title": "Ankawa",
     "address": {
       "en": "Ankawa",
@@ -33,7 +30,6 @@
     "longitude": 43.997118
   },
   {
-    "id": "ATM_4",
     "title": "32",
     "address": {
       "en": "32",
@@ -44,7 +40,6 @@
     "longitude": 43.950164
   },
   {
-    "id": "ATM_5",
     "title": "Dersim",
     "address": {
       "en": "Dersim",
@@ -55,7 +50,6 @@
     "longitude": 44.542894
   },
   {
-    "id": "ATM_6",
     "title": "Harem",
     "address": {
       "en": "Harem",
@@ -66,7 +60,6 @@
     "longitude": 44.522849
   },
   {
-    "id": "ATM_7",
     "title": "Banaslawa",
     "address": {
       "en": "Banaslawa",
@@ -77,7 +70,6 @@
     "longitude": 44.109557
   },
   {
-    "id": "ATM_8",
     "title": "Mergasur",
     "address": {
       "en": "Mergasur",
@@ -88,7 +80,6 @@
     "longitude": 44.300778
   },
   {
-    "id": "ATM_9",
     "title": "Harir",
     "address": {
       "en": "Harir",
@@ -99,7 +90,6 @@
     "longitude": 44.35014
   },
   {
-    "id": "ATM_10",
     "title": "Khalifan",
     "address": {
       "en": "Khalifan",
@@ -110,7 +100,6 @@
     "longitude": 44.405295
   },
   {
-    "id": "ATM_11",
     "title": "Khabat",
     "address": {
       "en": "Khabat",
@@ -121,7 +110,6 @@
     "longitude": 43.66743
   },
   {
-    "id": "ATM_12",
     "title": "Shqlava",
     "address": {
       "en": "Shqlava",
@@ -132,7 +120,6 @@
     "longitude": 44.34363
   },
   {
-    "id": "ATM_13",
     "title": "Sidakan",
     "address": {
       "en": "Sidakan",
@@ -143,7 +130,6 @@
     "longitude": 44.661162
   },
   {
-    "id": "ATM_14",
     "title": "Soran",
     "address": {
       "en": "Soran",
@@ -154,7 +140,6 @@
     "longitude": 44.55008
   },
   {
-    "id": "ATM_15",
     "title": "Pirmam",
     "address": {
       "en": "Pirmam",
@@ -165,7 +150,6 @@
     "longitude": 44.201611
   },
   {
-    "id": "ATM_16",
     "title": "Qushtapa",
     "address": {
       "en": "Qushtapa",
@@ -176,7 +160,6 @@
     "longitude": 44.0351
   },
   {
-    "id": "ATM_17",
     "title": "Ainkawa",
     "address": {
       "en": "Ainkawa",
@@ -187,7 +170,6 @@
     "longitude": 43.99093
   },
   {
-    "id": "ATM_18",
     "title": "Hamreen",
     "address": {
       "en": "Hamreen",
@@ -198,7 +180,6 @@
     "longitude": 44.13808
   },
   {
-    "id": "ATM_19",
     "title": "Bahirka",
     "address": {
       "en": "Bahirka",
@@ -209,7 +190,6 @@
     "longitude": 44.02556
   },
   {
-    "id": "ATM_20",
     "title": "Bawaji",
     "address": {
       "en": "Bawaji",
@@ -220,7 +200,6 @@
     "longitude": 44.62413
   },
   {
-    "id": "ATM_21",
     "title": "Choman",
     "address": {
       "en": "Choman",
@@ -231,7 +210,6 @@
     "longitude": 44.89234
   },
   {
-    "id": "ATM_22",
     "title": "Dilman",
     "address": {
       "en": "Dilman",
@@ -242,7 +220,6 @@
     "longitude": 44.52949
   },
   {
-    "id": "ATM_23",
     "title": "Ble",
     "address": {
       "en": "Ble",

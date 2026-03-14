@@ -1,6 +1,5 @@
 [
   {
-    "id": "ATM_1",
     "title": "Dokan",
     "address": {
       "en": "Dokan"
@@ -9,7 +8,6 @@
     "longitude": 44.9667
   },
   {
-    "id": "ATM_2",
     "title": "Charmo",
     "address": {
       "en": "Charmo"
@@ -18,7 +16,6 @@
     "longitude": 44.8334
   },
   {
-    "id": "ATM_3",
     "title": "Sharazoor District Council",
     "address": {
       "en": "Sharazoor District Council"
@@ -27,7 +24,6 @@
     "longitude": 45.6817
   },
   {
-    "id": "ATM_4",
     "title": "chamchamal retirement office",
     "address": {
       "en": "chamchamal retirement office"
@@ -36,7 +32,6 @@
     "longitude": 44.81187
   },
   {
-    "id": "ATM_5",
     "title": "chamchamal university",
     "address": {
       "en": "chamchamal university"
@@ -45,7 +40,6 @@
     "longitude": 44.83297
   },
   {
-    "id": "ATM_6",
     "title": "ranya maternity",
     "address": {
       "en": "ranya maternity"
@@ -54,7 +48,6 @@
     "longitude": 45.442322
   },
   {
-    "id": "ATM_8",
     "title": "shahid park",
     "address": {
       "en": "shahid park"
@@ -63,7 +56,6 @@
     "longitude": 45.449387972922864
   },
   {
-    "id": "ATM_9",
     "title": "mawlana park",
     "address": {
       "en": "mawlana park"
@@ -72,7 +64,6 @@
     "longitude": 45.42767283433099
   },
   {
-    "id": "ATM_10",
     "title": "Tasluja",
     "address": {
       "en": "Tasluja"
@@ -81,7 +72,6 @@
     "longitude": 45.22828
   },
   {
-    "id": "ATM_11",
     "title": "Penjwen",
     "address": {
       "en": "Penjwen"
@@ -90,7 +80,6 @@
     "longitude": 45.94596
   },
   {
-    "id": "ATM_12",
     "title": "Chwarta",
     "address": {
       "en": "Chwarta"
@@ -99,7 +88,6 @@
     "longitude": 45.56665
   },
   {
-    "id": "ATM_13",
     "title": "Halebjai Taza",
     "address": {
       "en": "Halebjai Taza"
@@ -108,7 +96,6 @@
     "longitude": 45.68843
   },
   {
-    "id": "ATM_14",
     "title": "Said Sadiq",
     "address": {
       "en": "Said Sadiq"
@@ -117,7 +104,6 @@
     "longitude": 45.85832
   },
   {
-    "id": "ATM_15",
     "title": "halabja bank",
     "address": {
       "en": "halabja bank"
@@ -126,7 +112,6 @@
     "longitude": 45.99081
   },
   {
-    "id": "ATM_16",
     "title": "Darbandikhan - city center ST",
     "address": {
       "en": "Darbandikhan - city center ST"
@@ -135,7 +120,6 @@
     "longitude": 45.68736
   },
   {
-    "id": "ATM_17",
     "title": "sharawani ST - kalar",
     "address": {
       "en": "sharawani ST - kalar"
@@ -144,7 +128,6 @@
     "longitude": 45.31483
   },
   {
-    "id": "ATM_18",
     "title": "Chwarqurna",
     "address": {
       "en": "Chwarqurna"
@@ -153,7 +136,6 @@
     "longitude": 45.131481
   },
   {
-    "id": "ATM_19",
     "title": "Kewarash",
     "address": {
       "en": "Kewarash"
@@ -162,7 +144,6 @@
     "longitude": 44.868881
   },
   {
-    "id": "ATM_21",
     "title": "Allay Harem",
     "address": {
       "en": "Allay Harem"
@@ -171,7 +152,6 @@
     "longitude": 45.42987155260109
   },
   {
-    "id": "ATM_22",
     "title": "Malkandi",
     "address": {
       "en": "Malkandi"
@@ -180,7 +160,6 @@
     "longitude": 45.44487
   },
   {
-    "id": "ATM_23",
     "title": "Kurdsat",
     "address": {
       "en": "Kurdsat"
@@ -189,7 +168,6 @@
     "longitude": 45.43469
   },
   {
-    "id": "ATM_24",
     "title": "darwaza ST",
     "address": {
       "en": "darwaza ST"
@@ -198,7 +176,6 @@
     "longitude": 44.88033
   },
   {
-    "id": "ATM_25",
     "title": "AU 773 - 3",
     "address": {
       "en": "AU 773 - 3"
@@ -207,7 +184,6 @@
     "longitude": 45.36391
   },
   {
-    "id": "ATM_26",
     "title": "AU 780 - 1",
     "address": {
       "en": "AU 780 - 1"
@@ -216,7 +192,6 @@
     "longitude": 45.46698
   },
   {
-    "id": "ATM_27",
     "title": "AU 633 - 35",
     "address": {
       "en": "AU 633 - 35"
@@ -225,7 +200,6 @@
     "longitude": 45.39432
   },
   {
-    "id": "ATM_28",
     "title": "AU 689 - 1",
     "address": {
       "en": "AU 689 - 1"
@@ -234,7 +208,6 @@
     "longitude": 45.43374
   },
   {
-    "id": "ATM_29",
     "title": "AU 673 - 43",
     "address": {
       "en": "AU 673 - 43"
@@ -243,7 +216,6 @@
     "longitude": 45.40141003810896
   },
   {
-    "id": "ATM_30",
     "title": "Zanko – Slemani",
     "address": {
       "en": "Zanko – Slemani"
@@ -252,7 +224,6 @@
     "longitude": 45.438998987918474
   },
   {
-    "id": "ATM_31",
     "title": "Tanjaro",
     "address": {
       "en": "Tanjaro"
@@ -261,7 +232,6 @@
     "longitude": 45.41006751009408
   },
   {
-    "id": "ATM_32",
     "title": "sarwari RD",
     "address": {
       "en": "sarwari RD"
@@ -270,7 +240,6 @@
     "longitude": 45.40519685068118
   },
   {
-    "id": "ATM_33",
     "title": "ibrahim basha st",
     "address": {
       "en": "ibrahim basha st"
@@ -279,7 +248,6 @@
     "longitude": 45.45115145385182
   },
   {
-    "id": "ATM_34",
     "title": "Baban Bank-SV",
     "address": {
       "en": "Baban Bank-SV"
@@ -288,7 +256,6 @@
     "longitude": 45.398976017908524
   },
   {
-    "id": "ATM_35",
     "title": "zanko st",
     "address": {
       "en": "zanko st"
@@ -297,7 +264,6 @@
     "longitude": 45.44462062253922
   },
   {
-    "id": "ATM_36",
     "title": "Near Bank Cihan",
     "address": {
       "en": "Near Bank Cihan"
@@ -306,7 +272,6 @@
     "longitude": 45.32517800687933
   },
   {
-    "id": "ATM_37",
     "title": "municipality Sulaimani",
     "address": {
       "en": "municipality Sulaimani"
@@ -315,7 +280,6 @@
     "longitude": 45.40774908251313
   },
   {
-    "id": "ATM_38",
     "title": "Majidi Mall Sulaimaniyah",
     "address": {
       "en": "Majidi Mall Sulaimaniyah"
@@ -324,7 +288,6 @@
     "longitude": 45.372421088052356
   },
   {
-    "id": "ATM_39",
     "title": "Safra Market",
     "address": {
       "en": "Safra Market"
@@ -333,7 +296,6 @@
     "longitude": 45.416896705800085
   },
   {
-    "id": "ATM_40",
     "title": "ABC Towers",
     "address": {
       "en": "ABC Towers"
@@ -342,7 +304,6 @@
     "longitude": 45.46389127415425
   },
   {
-    "id": "ATM_41",
     "title": "HighQ laboratory",
     "address": {
       "en": "HighQ laboratory"
@@ -351,7 +312,6 @@
     "longitude": 45.422858509484584
   },
   {
-    "id": "ATM_42",
     "title": "المدينة الطبية / كرميان",
     "address": {
       "en": "المدينة الطبية / كرميان"
@@ -360,7 +320,6 @@
     "longitude": 45.32443
   },
   {
-    "id": "ATM_43",
     "title": " راند كلري",
     "address": {
       "en": " راند كلري"
@@ -369,7 +328,6 @@
     "longitude": 45.40553
   },
   {
-    "id": "ATM_44",
     "title": "فاملي مول - السليمانية",
     "address": {
       "en": "فاملي مول - السليمانية"
@@ -378,7 +336,6 @@
     "longitude": 45.427437572785145
   },
   {
-    "id": "ATM_46",
     "title": "زارا ماركيت ",
     "address": {
       "en": "زارا ماركيت "
@@ -387,7 +344,6 @@
     "longitude": 45.432422337229255
   },
   {
-    "id": "ATM_47",
     "title": "الثقافة والفن ",
     "address": {
       "en": "الثقافة والفن "
@@ -396,7 +352,6 @@
     "longitude": 44.87176747009614
   },
   {
-    "id": "ATM_48",
     "title": "sulaimanya-kirkuk road",
     "address": {
       "en": "sulaimanya-kirkuk road"
@@ -405,7 +360,6 @@
     "longitude": 45.38109612060287
   },
   {
-    "id": "ATM_49",
     "title": "Bakrajo",
     "address": {
       "en": "Bakrajo"
@@ -414,7 +368,6 @@
     "longitude": 45.35651578337418
   },
   {
-    "id": "ATM_50",
     "title": "كلار",
     "address": {
       "en": "كلار"
@@ -423,7 +376,6 @@
     "longitude": 45.24671
   },
   {
-    "id": "ATM_51",
     "title": "فرع سليمانية - ATM",
     "address": {
       "en": "فرع سليمانية - ATM"
@@ -432,7 +384,6 @@
     "longitude": 45.40399256687893
   },
   {
-    "id": "ATM_52",
     "title": "جمجمال - 1",
     "address": {
       "en": "جمجمال - 1"
@@ -441,7 +392,6 @@
     "longitude": 44.83266653527294
   },
   {
-    "id": "ATM_53",
     "title": "جمجمال - 2",
     "address": {
       "en": "جمجمال - 2"
@@ -450,7 +400,6 @@
     "longitude": 44.818018465648
   },
   {
-    "id": "ATM_54",
     "title": "Darwaza Road",
     "address": {
       "en": "Darwaza Road"
@@ -459,7 +408,6 @@
     "longitude": 44.87903388950037
   },
   {
-    "id": "ATM_56",
     "title": "چەمچەماڵ - نزیک سەرۆکایەتی زانکۆی چەرمۆ",
     "address": {
       "en": "چەمچەماڵ - نزیک سەرۆکایەتی زانکۆی چەرمۆ"
@@ -468,7 +416,6 @@
     "longitude": 44.836914
   },
   {
-    "id": "ATM_59",
     "title": "سلێمانی، شەقامی سلێمانی - کەرکوک، بەرامبەر بینای پارێزگای سلێمانی",
     "address": {
       "en": "سلێمانی، شەقامی سلێمانی - کەرکوک، بەرامبەر بینای پارێزگای سلێمانی"
@@ -477,7 +424,6 @@
     "longitude": 45.382235
   },
   {
-    "id": "ATM_60",
     "title": "سلێمانی، کەلار، جیهان بانک",
     "address": {
       "en": "سلێمانی، کەلار، جیهان بانک"
@@ -486,7 +432,6 @@
     "longitude": 45.315841
   },
   {
-    "id": "ATM_61",
     "title": "سلێمانی، بەکرەجۆ، بەرامبەر فەرمانگەی دادنووسی سلێمانی",
     "address": {
       "en": "سلێمانی، بەکرەجۆ، بەرامبەر فەرمانگەی دادنووسی سلێمانی"
@@ -495,7 +440,6 @@
     "longitude": 45.350146
   },
   {
-    "id": "ATM_62",
     "title": "پەیمانگای کلتوری کوردی",
     "address": {
       "en": "پەیمانگای کلتوری کوردی"
@@ -504,7 +448,6 @@
     "longitude": 45.42936
   },
   {
-    "id": "ATM_64",
     "title": "شەقامی سالم، پەروەردەی سلێمانی",
     "address": {
       "en": "شەقامی سالم، پەروەردەی سلێمانی"
@@ -513,7 +456,6 @@
     "longitude": 45.398944
   },
   {
-    "id": "ATM_66",
     "title": "سەروەری، قوتابخانەی US",
     "address": {
       "en": "سەروەری، قوتابخانەی US"
@@ -522,7 +464,6 @@
     "longitude": 45.405194
   },
   {
-    "id": "ATM_67",
     "title": "شەقامی مەلیک مەحموود، نزیک هەڵەبجە گروپ",
     "address": {
       "en": "شەقامی مەلیک مەحموود، نزیک هەڵەبجە گروپ"
@@ -531,7 +472,6 @@
     "longitude": 45.410105
   },
   {
-    "id": "ATM_68",
     "title": "مزگەوتی قازی محمد",
     "address": {
       "en": "مزگەوتی قازی محمد"
@@ -540,7 +480,6 @@
     "longitude": 45.438953
   },
   {
-    "id": "ATM_69",
     "title": "شەقامی مەلیک مەحموود، نەخۆشخانەی ڤێتێرنەری",
     "address": {
       "en": "شەقامی مەلیک مەحموود، نەخۆشخانەی ڤێتێرنەری"
@@ -549,7 +488,6 @@
     "longitude": 45.401385
   },
   {
-    "id": "ATM_71",
     "title": "شەقامی سالم، مطعم طبیخ",
     "address": {
       "en": "شەقامی سالم، مطعم طبیخ"
@@ -558,7 +496,6 @@
     "longitude": 45.394243
   },
   {
-    "id": "ATM_72",
     "title": "کانی با، پەیمانگای ناشناڵ",
     "address": {
       "en": "کانی با، پەیمانگای ناشناڵ"
@@ -567,7 +504,6 @@
     "longitude": 45.46694
   },
   {
-    "id": "ATM_73",
     "title": "بەکرەجۆ، بەڕێوبەرایەتی کار و کاروباری کۆمەڵایەتی",
     "address": {
       "en": "بەکرەجۆ، بەڕێوبەرایەتی کار و کاروباری کۆمەڵایەتی"
@@ -576,7 +512,6 @@
     "longitude": 45.363938
   },
   {
-    "id": "ATM_75",
     "title": "باخچەی ڕاپەڕین",
     "address": {
       "en": "باخچەی ڕاپەڕین"
@@ -585,7 +520,6 @@
     "longitude": 44.880341
   },
   {
-    "id": "ATM_76",
     "title": "بەڕێوەبەرایەتی گشتی تەندروستی ڕاپەڕین",
     "address": {
       "en": "بەڕێوەبەرایەتی گشتی تەندروستی ڕاپەڕین"
@@ -594,7 +528,6 @@
     "longitude": 44.868759
   },
   {
-    "id": "ATM_77",
     "title": "بەڕێوەبەرایەتی ناحیەی چوارقوڕنە",
     "address": {
       "en": "بەڕێوەبەرایەتی ناحیەی چوارقوڕنە"
@@ -603,7 +536,6 @@
     "longitude": 44.827223
   },
   {
-    "id": "ATM_78",
     "title": "شەقامی مامۆستایان، قوتابخانەی ڕیسپێکت",
     "address": {
       "en": "شەقامی مامۆستایان، قوتابخانەی ڕیسپێکت"
@@ -612,7 +544,6 @@
     "longitude": 45.437997
   },
   {
-    "id": "ATM_80",
     "title": "ڕزگاری - دەزگای شەهیدان",
     "address": {
       "en": "ڕزگاری - دەزگای شەهیدان"
@@ -621,7 +552,6 @@
     "longitude": 45.24284
   },
   {
-    "id": "ATM_81",
     "title": "کەلار - بەڕێوەبەرایەتی گەنجینەی گەرمیان",
     "address": {
       "en": "کەلار - بەڕێوەبەرایەتی گەنجینەی گەرمیان"
@@ -630,7 +560,6 @@
     "longitude": 45.32178
   },
   {
-    "id": "ATM_82",
     "title": "دەربەندیخان - نزیک ئاسایشی دەربەندیخان",
     "address": {
       "en": "دەربەندیخان - نزیک ئاسایشی دەربەندیخان"
@@ -639,7 +568,6 @@
     "longitude": 45.68768
   },
   {
-    "id": "ATM_85",
     "title": "سلێمانی - بەرامبەر پارکی مەلیک مەحمود",
     "address": {
       "en": "سلێمانی - بەرامبەر پارکی مەلیک مەحمود"
@@ -648,7 +576,6 @@
     "longitude": 45.449426
   },
   {
-    "id": "ATM_86",
     "title": "شارەزوور - بەردەم فەرمانگەی ڕۆشنبیری و هونەری شارەزوور",
     "address": {
       "en": "شارەزوور - بەردەم فەرمانگەی ڕۆشنبیری و هونەری شارەزوور"
@@ -657,7 +584,6 @@
     "longitude": 45.681845
   },
   {
-    "id": "ATM_87",
     "title": "ڕانیە - شەقامی پێنجی ئازار نزیک نەخۆشخانەی منداڵبوونی ڕانیە",
     "address": {
       "en": "ڕانیە - شەقامی پێنجی ئازار نزیک نەخۆشخانەی منداڵبوونی ڕانیە"
@@ -666,7 +592,6 @@
     "longitude": 44.867657
   },
   {
-    "id": "ATM_88",
     "title": "کفری - بەردەم قایمقامییەتی قەزای کفری",
     "address": {
       "en": "کفری - بەردەم قایمقامییەتی قەزای کفری"

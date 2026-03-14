@@ -1,6 +1,5 @@
 [
   {
-    "id": "ATM_1",
     "title": "Kurdish",
     "address": {
       "en": "Kurdish",
@@ -11,7 +10,6 @@
     "longitude": 45.42936
   },
   {
-    "id": "ATM_2",
     "title": "Blood",
     "address": {
       "en": "Blood",
@@ -22,7 +20,6 @@
     "longitude": 45.444579
   },
   {
-    "id": "ATM_3",
     "title": "Salim",
     "address": {
       "en": "Salim",
@@ -33,7 +30,6 @@
     "longitude": 45.398944
   },
   {
-    "id": "ATM_4",
     "title": "Malkandi",
     "address": {
       "en": "Malkandi",
@@ -44,7 +40,6 @@
     "longitude": 45.423549
   },
   {
-    "id": "ATM_5",
     "title": "Goizha",
     "address": {
       "en": "Goizha",
@@ -55,7 +50,6 @@
     "longitude": 45.45115
   },
   {
-    "id": "ATM_6",
     "title": "United",
     "address": {
       "en": "United",
@@ -66,7 +60,6 @@
     "longitude": 45.405194
   },
   {
-    "id": "ATM_7",
     "title": "Halabja",
     "address": {
       "en": "Halabja",
@@ -77,7 +70,6 @@
     "longitude": 45.410105
   },
   {
-    "id": "ATM_8",
     "title": "Tuyimalik",
     "address": {
       "en": "Tuyimalik",
@@ -88,7 +80,6 @@
     "longitude": 45.45684
   },
   {
-    "id": "ATM_9",
     "title": "Mamostayan",
     "address": {
       "en": "Mamostayan",
@@ -99,7 +90,6 @@
     "longitude": 45.438953
   },
   {
-    "id": "ATM_10",
     "title": "Sulaimany",
     "address": {
       "en": "Sulaimany",
@@ -110,7 +100,6 @@
     "longitude": 45.401385
   },
   {
-    "id": "ATM_11",
     "title": "Public",
     "address": {
       "en": "Public",
@@ -121,7 +110,6 @@
     "longitude": 45.43375
   },
   {
-    "id": "ATM_12",
     "title": "Tabeekh",
     "address": {
       "en": "Tabeekh",
@@ -132,7 +120,6 @@
     "longitude": 45.394243
   },
   {
-    "id": "ATM_13",
     "title": "National",
     "address": {
       "en": "National",
@@ -143,7 +130,6 @@
     "longitude": 45.46694
   },
   {
-    "id": "ATM_14",
     "title": "Elderly",
     "address": {
       "en": "Elderly",
@@ -154,7 +140,6 @@
     "longitude": 45.363938
   },
   {
-    "id": "ATM_15",
     "title": "Dokan",
     "address": {
       "en": "Dokan",

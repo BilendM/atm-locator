@@ -1,6 +1,5 @@
 [
   {
-    "id": "ATM_1",
     "title": "Ranya",
     "address": {
       "en": "Ranya",
@@ -11,7 +10,6 @@
     "longitude": 44.867657
   },
   {
-    "id": "ATM_2",
     "title": "Suli",
     "address": {
       "en": "Suli",
@@ -22,7 +20,6 @@
     "longitude": 45.434825
   },
   {
-    "id": "ATM_3",
     "title": "Peshkawtn",
     "address": {
       "en": "Peshkawtn",

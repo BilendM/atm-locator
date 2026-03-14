@@ -1,6 +1,5 @@
 [
   {
-    "id": "ATM_1",
     "title": "Family Mall - Barza Street (Highway) - Duhok to Semel Road - Opposite Afro City or Duhok Terminal",
     "address": {
       "en": "Family Mall - Barza Street (Highway) - Duhok to Semel Road - Opposite Afro City or Duhok Terminal",
@@ -11,7 +10,6 @@
     "longitude": 42.885371
   },
   {
-    "id": "ATM_2",
     "title": "Cihan University - Hoshki District",
     "address": {
       "en": "Cihan University - Hoshki District",
@@ -22,7 +20,6 @@
     "longitude": 42.88587
   },
   {
-    "id": "ATM_3",
     "title": "Duhok Mall - KRO Street - Opposite MEDIA SARAY Restaurant or Beside Turkish Consulate",
     "address": {
       "en": "Duhok Mall - KRO Street - Opposite MEDIA SARAY Restaurant or Beside Turkish Consulate",
@@ -33,7 +30,6 @@
     "longitude": 42.957391
   },
   {
-    "id": "ATM_4",
     "title": "Domiz - Opposite Domiz Bank",
     "address": {
       "en": "Domiz - Opposite Domiz Bank",
@@ -44,7 +40,6 @@
     "longitude": 42.912023
   },
   {
-    "id": "ATM_5",
     "title": "Zakho - Near Shabanki Bridge",
     "address": {
       "en": "Zakho - Near Shabanki Bridge",
@@ -55,7 +50,6 @@
     "longitude": 42.6839002
   },
   {
-    "id": "ATM_6",
     "title": "Zakho - Zakho Branch - Bidar District - Ibrahim Khalil Street",
     "address": {
       "en": "Zakho - Zakho Branch - Bidar District - Ibrahim Khalil Street",
@@ -66,7 +60,6 @@
     "longitude": 42.663321
   },
   {
-    "id": "ATM_7",
     "title": "Zakho - Near Hezel Bank",
     "address": {
       "en": "Zakho - Near Hezel Bank",
@@ -77,7 +70,6 @@
     "longitude": 42.679127
   },
   {
-    "id": "ATM_8",
     "title": "Zakho - Near Zakho International Stadium",
     "address": {
       "en": "Zakho - Near Zakho International Stadium",
@@ -88,7 +80,6 @@
     "longitude": 42.674439
   },
   {
-    "id": "ATM_9",
     "title": "Semel - Beside Semel Directorate of Education",
     "address": {
       "en": "Semel - Beside Semel Directorate of Education",
@@ -99,7 +90,6 @@
     "longitude": 42.836089
   },
   {
-    "id": "ATM_10",
     "title": "Anwar Mai Street",
     "address": {
       "en": "Anwar Mai Street",
@@ -110,7 +100,6 @@
     "longitude": 42.969789
   },
   {
-    "id": "ATM_11",
     "title": "Duhok Branch - Zakho Road - Opposite Mazi Market, Near Dilshad Palace Hotel",
     "address": {
       "en": "Duhok Branch - Zakho Road - Opposite Mazi Market, Near Dilshad Palace Hotel",
@@ -121,7 +110,6 @@
     "longitude": 42.978259
   },
   {
-    "id": "ATM_12",
     "title": "Near Barzani Park",
     "address": {
       "en": "Near Barzani Park",
@@ -132,7 +120,6 @@
     "longitude": 43.003041
   },
   {
-    "id": "ATM_13",
     "title": "Near Kurdistan Television (KTV)",
     "address": {
       "en": "Near Kurdistan Television (KTV)",
@@ -143,7 +130,6 @@
     "longitude": 42.930251
   },
   {
-    "id": "ATM_14",
     "title": "Near Haji Ibrahim Mosque",
     "address": {
       "en": "Near Haji Ibrahim Mosque",
@@ -154,7 +140,6 @@
     "longitude": 42.949136
   },
   {
-    "id": "ATM_15",
     "title": "Near Gali Mosque",
     "address": {
       "en": "Near Gali Mosque",
@@ -165,7 +150,6 @@
     "longitude": 43.003999
   },
   {
-    "id": "ATM_16",
     "title": "Near Maternity Hospital",
     "address": {
       "en": "Near Maternity Hospital",
@@ -176,7 +160,6 @@
     "longitude": 42.98807257
   },
   {
-    "id": "ATM_17",
     "title": "Vin Hospital - Malta Street - Near Karzan Gas Station",
     "address": {
       "en": "Vin Hospital - Malta Street - Near Karzan Gas Station",
@@ -187,7 +170,6 @@
     "longitude": 42.952562
   },
   {
-    "id": "ATM_18",
     "title": "Opposite Duhok Directorate of Religious Affairs",
     "address": {
       "en": "Opposite Duhok Directorate of Religious Affairs",
@@ -198,7 +180,6 @@
     "longitude": 43.01323293
   },
   {
-    "id": "ATM_19",
     "title": "Opposite Serheldan Bank",
     "address": {
       "en": "Opposite Serheldan Bank",
@@ -209,7 +190,6 @@
     "longitude": 43.026227
   },
   {
-    "id": "ATM_20",
     "title": "Opposite Duhok Technical Institute",
     "address": {
       "en": "Opposite Duhok Technical Institute",
@@ -220,7 +200,6 @@
     "longitude": 42.922415
   },
   {
-    "id": "ATM_21",
     "title": "Rovia",
     "address": {
       "en": "Rovia",
@@ -231,7 +210,6 @@
     "longitude": 43.702573
   },
   {
-    "id": "ATM_22",
     "title": "Zakho",
     "address": {
       "en": "Zakho",
@@ -242,7 +220,6 @@
     "longitude": 42.683914
   },
   {
-    "id": "ATM_23",
     "title": "Duhok",
     "address": {
       "en": "Duhok",
@@ -253,7 +230,6 @@
     "longitude": 44.031576
   },
   {
-    "id": "ATM_26",
     "title": "Shekhan",
     "address": {
       "en": "Shekhan",
@@ -264,7 +240,6 @@
     "longitude": 43.346061
   },
   {
-    "id": "ATM_28",
     "title": "Zakho",
     "address": {
       "en": "Zakho",
@@ -275,7 +250,6 @@
     "longitude": 42.673975
   },
   {
-    "id": "ATM_29",
     "title": "Bardarash",
     "address": {
       "en": "Bardarash",

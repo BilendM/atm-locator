@@ -1,6 +1,5 @@
 [
   {
-    "id": "ATM_1",
     "title": "Azadi",
     "address": {
       "en": "Azadi",
@@ -11,7 +10,6 @@
     "longitude": 42.969997
   },
   {
-    "id": "ATM_2",
     "title": "Silav",
     "address": {
       "en": "Silav",
@@ -22,7 +20,6 @@
     "longitude": 43.00155
   },
   {
-    "id": "ATM_3",
     "title": "Milan",
     "address": {
       "en": "Milan",

@@ -1,6 +1,5 @@
 [
   {
-    "id": "ATM_17",
     "title": "King Mahmood Street, 60 Meter Road near Talary Hunar, Shazad Building",
     "address": {
       "en": "King Mahmood Street, 60 Meter Road near Talary Hunar, Shazad Building"
@@ -9,7 +8,6 @@
     "longitude": 45.3883083
   },
   {
-    "id": "ATM_32",
     "title": "Kirkuk-Sulaimani Road, Facing the American University of Iraq - Sulaimani (AUS), Ground Floor",
     "address": {
       "en": "Kirkuk-Sulaimani Road, Facing the American University of Iraq - Sulaimani (AUS), Ground Floor"
@@ -18,7 +16,6 @@
     "longitude": 45.3535293672099
   },
   {
-    "id": "ATM_31",
     "title": "Sulaimani-Kirkuk Road, Ground Floor",
     "address": {
       "en": "Sulaimani-Kirkuk Road, Ground Floor"
@@ -27,7 +24,6 @@
     "longitude": 45.3710801818254
   },
   {
-    "id": "ATM_3",
     "title": "King Mahmood Street, 60 Meter Road near Talary Hunar, Shazad Building",
     "address": {
       "en": "King Mahmood Street, 60 Meter Road near Talary Hunar, Shazad Building"
@@ -36,7 +32,6 @@
     "longitude": 45.3903768734764
   },
   {
-    "id": "ATM_58",
     "title": "City Star Mall (ATM, 24/7)",
     "address": {
       "en": "City Star Mall (ATM, 24/7)"
@@ -45,7 +40,6 @@
     "longitude": 45.4277188206117
   },
   {
-    "id": "ATM_18",
     "title": "King Mahmoud Street beside Sharazoor Terminal, First Floor opposite Carrefour",
     "address": {
       "en": "King Mahmoud Street beside Sharazoor Terminal, First Floor opposite Carrefour"
@@ -54,7 +48,6 @@
     "longitude": 45.301657829689
   },
   {
-    "id": "ATM_14",
     "title": "Bakhtiary Street, Ground Floor",
     "address": {
       "en": "Bakhtiary Street, Ground Floor"
@@ -63,7 +56,6 @@
     "longitude": 45.4078769361079
   },
   {
-    "id": "ATM_21",
     "title": "Fakhir Sheikh Tayeb Qaiwani Educational Center, Sulaymaniyah Heights",
     "address": {
       "en": "Fakhir Sheikh Tayeb Qaiwani Educational Center, Sulaymaniyah Heights"
@@ -72,7 +64,6 @@
     "longitude": 45.4571297572277
   },
   {
-    "id": "ATM_37",
     "title": "Ali Naji 103, Badirkhan Street, Alley 25, Sahand Building, Ground Floor",
     "address": {
       "en": "Ali Naji 103, Badirkhan Street, Alley 25, Sahand Building, Ground Floor"
@@ -81,7 +72,6 @@
     "longitude": 45.4247236483374
   },
   {
-    "id": "ATM_57",
     "title": "Qrga, Mardin Roundabout, near Nimaat Khan Funeral Hall",
     "address": {
       "en": "Qrga, Mardin Roundabout, near Nimaat Khan Funeral Hall"
@@ -90,7 +80,6 @@
     "longitude": 45.476311
   },
   {
-    "id": "ATM_22",
     "title": "Salim Street, Qaiwan Towers",
     "address": {
       "en": "Salim Street, Qaiwan Towers"
@@ -99,7 +88,6 @@
     "longitude": 45.4310929392966
   },
   {
-    "id": "ATM_38",
     "title": "Salim Street, Near Qaiwan Plus Mall",
     "address": {
       "en": "Salim Street, Near Qaiwan Plus Mall"
@@ -108,7 +96,6 @@
     "longitude": 45.4320906562136
   },
   {
-    "id": "ATM_56",
     "title": "Hawary taza, 60m street, near Hawar Petrol Station",
     "address": {
       "en": "Hawary taza, 60m street, near Hawar Petrol Station"
@@ -117,7 +104,6 @@
     "longitude": 45.449426
   },
   {
-    "id": "ATM_23",
     "title": "Sulaymaniyah Heights",
     "address": {
       "en": "Sulaymaniyah Heights"

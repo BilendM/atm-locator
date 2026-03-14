@@ -1,6 +1,5 @@
 [
   {
-    "id": "ATM_1",
     "title": "Bardarash",
     "address": {
       "en": "Bardarash",
@@ -11,7 +10,6 @@
     "longitude": 43.585277
   },
   {
-    "id": "ATM_2",
     "title": "Zagros",
     "address": {
       "en": "Zagros",
@@ -22,7 +20,6 @@
     "longitude": 42.710782
   },
   {
-    "id": "ATM_3",
     "title": "Niniveh",
     "address": {
       "en": "Niniveh",
@@ -33,7 +30,6 @@
     "longitude": 42.931431
   },
   {
-    "id": "ATM_4",
     "title": "Directorate",
     "address": {
       "en": "Directorate",
@@ -44,7 +40,6 @@
     "longitude": 42.982578
   },
   {
-    "id": "ATM_5",
     "title": "Akre",
     "address": {
       "en": "Akre",
@@ -55,7 +50,6 @@
     "longitude": 43.89783
   },
   {
-    "id": "ATM_6",
     "title": "Akre",
     "address": {
       "en": "Akre",
@@ -66,7 +60,6 @@
     "longitude": 43.873158
   },
   {
-    "id": "ATM_7",
     "title": "Zakho",
     "address": {
       "en": "Zakho",
@@ -77,7 +70,6 @@
     "longitude": 42.722627
   },
   {
-    "id": "ATM_8",
     "title": "Shekhan",
     "address": {
       "en": "Shekhan",
@@ -88,7 +80,6 @@
     "longitude": 43.34096
   },
   {
-    "id": "ATM_9",
     "title": "Pirs",
     "address": {
       "en": "Pirs",
@@ -99,7 +90,6 @@
     "longitude": 43.87412
   },
   {
-    "id": "ATM_10",
     "title": "Sipa",
     "address": {
       "en": "Sipa",
@@ -110,7 +100,6 @@
     "longitude": 43.89067
   },
   {
-    "id": "ATM_11",
     "title": "Sarsang",
     "address": {
       "en": "Sarsang",
@@ -121,7 +110,6 @@
     "longitude": 43.34035
   },
   {
-    "id": "ATM_12",
     "title": "Semel",
     "address": {
       "en": "Semel",

@@ -1,6 +1,5 @@
 [
   {
-    "id": "ATM_1",
     "title": "Shahidani",
     "address": {
       "en": "Shahidani",
@@ -11,7 +10,6 @@
     "longitude": 42.988668
   },
   {
-    "id": "ATM_2",
     "title": "Akre",
     "address": {
       "en": "Akre",
@@ -22,7 +20,6 @@
     "longitude": 43.898677
   },
   {
-    "id": "ATM_3",
     "title": "Akre",
     "address": {
       "en": "Akre",
@@ -33,7 +30,6 @@
     "longitude": 43.871761
   },
   {
-    "id": "ATM_4",
     "title": "Akre",
     "address": {
       "en": "Akre",
@@ -44,7 +40,6 @@
     "longitude": 43.843476
   },
   {
-    "id": "ATM_5",
     "title": "Ibrahim",
     "address": {
       "en": "Ibrahim",
@@ -55,7 +50,6 @@
     "longitude": 42.645656
   },
   {
-    "id": "ATM_6",
     "title": "Zagros",
     "address": {
       "en": "Zagros",
@@ -66,7 +60,6 @@
     "longitude": 42.710782
   },
   {
-    "id": "ATM_7",
     "title": "Technical",
     "address": {
       "en": "Technical",
@@ -77,7 +70,6 @@
     "longitude": 42.688999
   },
   {
-    "id": "ATM_8",
     "title": "Silav",
     "address": {
       "en": "Silav",
@@ -88,7 +80,6 @@
     "longitude": 43.487396
   },
   {
-    "id": "ATM_9",
     "title": "Shekhan",
     "address": {
       "en": "Shekhan",
@@ -99,7 +90,6 @@
     "longitude": 43.350828
   },
   {
-    "id": "ATM_10",
     "title": "Niniveh",
     "address": {
       "en": "Niniveh",
@@ -110,7 +100,6 @@
     "longitude": 42.931431
   },
   {
-    "id": "ATM_11",
     "title": "Directorate",
     "address": {
       "en": "Directorate",

@@ -1,6 +1,5 @@
 [
   {
-    "id": "ATM_1",
     "title": "32",
     "address": {
       "en": "32",
@@ -11,7 +10,6 @@
     "longitude": 43.950164
   },
   {
-    "id": "ATM_2",
     "title": "Barzan",
     "address": {
       "en": "Barzan",
@@ -22,7 +20,6 @@
     "longitude": 44.533227
   },
   {
-    "id": "ATM_3",
     "title": "Dersim",
     "address": {
       "en": "Dersim",
@@ -33,7 +30,6 @@
     "longitude": 44.542894
   },
   {
-    "id": "ATM_4",
     "title": "Harem",
     "address": {
       "en": "Harem",
@@ -44,7 +40,6 @@
     "longitude": 44.522849
   },
   {
-    "id": "ATM_5",
     "title": "Banaslawa",
     "address": {
       "en": "Banaslawa",
@@ -55,7 +50,6 @@
     "longitude": 44.109557
   },
   {
-    "id": "ATM_6",
     "title": "Banaslawa",
     "address": {
       "en": "Banaslawa",
@@ -66,7 +60,6 @@
     "longitude": 44.109481
   },
   {
-    "id": "ATM_7",
     "title": "Mergasur",
     "address": {
       "en": "Mergasur",
@@ -77,7 +70,6 @@
     "longitude": 44.300502
   },
   {
-    "id": "ATM_8",
     "title": "Mergasur",
     "address": {
       "en": "Mergasur",
@@ -88,7 +80,6 @@
     "longitude": 44.300778
   },
   {
-    "id": "ATM_9",
     "title": "Harir",
     "address": {
       "en": "Harir",
@@ -99,7 +90,6 @@
     "longitude": 44.35014
   },
   {
-    "id": "ATM_10",
     "title": "Shqlava",
     "address": {
       "en": "Shqlava",
@@ -110,7 +100,6 @@
     "longitude": 44.34363
   },
   {
-    "id": "ATM_11",
     "title": "Pirmam",
     "address": {
       "en": "Pirmam",
