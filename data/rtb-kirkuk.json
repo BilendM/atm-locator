@@ -1,0 +1,71 @@
+[
+  {
+    "title": "فرع كركوك",
+    "type": "ATM",
+    "latitude": 35.45384427359665,
+    "longitude": 44.38368980964034,
+    "openTime": null,
+    "closeTime": null,
+    "description": "كركوك – شارع المحافظة – مقابل مستشفى الاطفال - جهازي صراف آلي متوفران في هذا الموقع",
+    "phoneNumber": null,
+    "email": null,
+    "managerName": null,
+    "workingHours": []
+  },
+  {
+    "id": "fb281a41-47de-49fa-88cc-08da4203be09",
+    "title": "كركوك مول ",
+    "type": "ATM",
+    "latitude": 35.45611,
+    "longitude": 44.37841,
+    "openTime": null,
+    "closeTime": null,
+    "description": "كركوك مول ",
+    "phoneNumber": null,
+    "email": null,
+    "managerName": null,
+    "workingHours": []
+  },
+  {
+    "id": "b0ee4331-1224-47ad-ca0c-08dcc5a12ed1",
+    "title": "طق طق",
+    "type": "ATM",
+    "latitude": 35.88576263552861,
+    "longitude": 44.58926041296115,
+    "openTime": null,
+    "closeTime": null,
+    "description": "ناحية طق طق",
+    "phoneNumber": null,
+    "email": null,
+    "managerName": null,
+    "workingHours": []
+  },
+  {
+    "id": "ce6715e3-06ca-41ae-ca21-08dcc5a12ed1",
+    "title": "شركة البرهم",
+    "type": "ATM",
+    "latitude": 35.46663739223368,
+    "longitude": 44.54753030315994,
+    "openTime": null,
+    "closeTime": null,
+    "description": "شركة البرهم",
+    "phoneNumber": null,
+    "email": null,
+    "managerName": null,
+    "workingHours": []
+  },
+  {
+    "id": "e447fe85-db2e-4718-ca23-08dcc5a12ed1",
+    "title": " زهرة كركوك",
+    "type": "ATM",
+    "latitude": 35.4484619447024,
+    "longitude": 44.57035320000082,
+    "openTime": null,
+    "closeTime": null,
+    "description": "زهرة كركوك",
+    "phoneNumber": null,
+    "email": null,
+    "managerName": null,
+    "workingHours": []
+  }
+]
