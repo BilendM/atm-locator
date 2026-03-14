@@ -1,7 +1,7 @@
 {
-  "name": "Kurdistan ATM Locator",
-  "short_name": "Kurdistan ATM Locator",
-  "description": "Find Kurdistan ATM locations near you",
+  "name": "Kurdistan ATM Locations",
+  "short_name": "KRI ATMs",
+  "description": "Find ATM locations near you",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",

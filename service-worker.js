@@ -1,4 +1,4 @@
-const CACHE_NAME = 'atm-locator';
+const CACHE_NAME = 'kri-atms';
 const STATIC_ASSETS = [
   '/',
   '/index.html',
