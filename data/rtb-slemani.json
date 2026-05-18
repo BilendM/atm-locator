@@ -1,179 +1,27 @@
 [
   {
-    "title": "Dokan",
+    "title": "AU 633 - 35",
     "address": {
-      "en": "Dokan"
+      "en": "AU 633 - 35"
     },
-    "latitude": 35.9322,
-    "longitude": 44.9667
+    "latitude": 35.56591,
+    "longitude": 45.39432
   },
   {
-    "title": "Charmo",
+    "title": "AU 673 - 43",
     "address": {
-      "en": "Charmo"
+      "en": "AU 673 - 43"
     },
-    "latitude": 35.5324,
-    "longitude": 44.8334
+    "latitude": 35.58063455,
+    "longitude": 45.40141004
   },
   {
-    "title": "Sharazoor District Council",
+    "title": "AU 689 - 1",
     "address": {
-      "en": "Sharazoor District Council"
+      "en": "AU 689 - 1"
     },
-    "latitude": 35.3174,
-    "longitude": 45.6817
-  },
-  {
-    "title": "chamchamal retirement office",
-    "address": {
-      "en": "chamchamal retirement office"
-    },
-    "latitude": 35.51885,
-    "longitude": 44.81187
-  },
-  {
-    "title": "chamchamal university",
-    "address": {
-      "en": "chamchamal university"
-    },
-    "latitude": 35.53381,
-    "longitude": 44.83297
-  },
-  {
-    "title": "ranya maternity",
-    "address": {
-      "en": "ranya maternity"
-    },
-    "latitude": 35.549244,
-    "longitude": 45.442322
-  },
-  {
-    "title": "shahid park",
-    "address": {
-      "en": "shahid park"
-    },
-    "latitude": 35.58057338741248,
-    "longitude": 45.449387972922864
-  },
-  {
-    "title": "mawlana park",
-    "address": {
-      "en": "mawlana park"
-    },
-    "latitude": 35.54404885169963,
-    "longitude": 45.42767283433099
-  },
-  {
-    "title": "Tasluja",
-    "address": {
-      "en": "Tasluja"
-    },
-    "latitude": 35.5935,
-    "longitude": 45.22828
-  },
-  {
-    "title": "Penjwen",
-    "address": {
-      "en": "Penjwen"
-    },
-    "latitude": 35.62661,
-    "longitude": 45.94596
-  },
-  {
-    "title": "Chwarta",
-    "address": {
-      "en": "Chwarta"
-    },
-    "latitude": 35.71871,
-    "longitude": 45.56665
-  },
-  {
-    "title": "Halebjai Taza",
-    "address": {
-      "en": "Halebjai Taza"
-    },
-    "latitude": 35.31114,
-    "longitude": 45.68843
-  },
-  {
-    "title": "Said Sadiq",
-    "address": {
-      "en": "Said Sadiq"
-    },
-    "latitude": 35.35516,
-    "longitude": 45.85832
-  },
-  {
-    "title": "halabja bank",
-    "address": {
-      "en": "halabja bank"
-    },
-    "latitude": 35.17541,
-    "longitude": 45.99081
-  },
-  {
-    "title": "Darbandikhan - city center ST",
-    "address": {
-      "en": "Darbandikhan - city center ST"
-    },
-    "latitude": 35.11145,
-    "longitude": 45.68736
-  },
-  {
-    "title": "sharawani ST - kalar",
-    "address": {
-      "en": "sharawani ST - kalar"
-    },
-    "latitude": 34.62623,
-    "longitude": 45.31483
-  },
-  {
-    "title": "Chwarqurna",
-    "address": {
-      "en": "Chwarqurna"
-    },
-    "latitude": 36.192646,
-    "longitude": 45.131481
-  },
-  {
-    "title": "Kewarash",
-    "address": {
-      "en": "Kewarash"
-    },
-    "latitude": 36.235458,
-    "longitude": 44.868881
-  },
-  {
-    "title": "Allay Harem",
-    "address": {
-      "en": "Allay Harem"
-    },
-    "latitude": 35.56122571195219,
-    "longitude": 45.42987155260109
-  },
-  {
-    "title": "Malkandi",
-    "address": {
-      "en": "Malkandi"
-    },
-    "latitude": 35.56784,
-    "longitude": 45.44487
-  },
-  {
-    "title": "Kurdsat",
-    "address": {
-      "en": "Kurdsat"
-    },
-    "latitude": 35.58808,
-    "longitude": 45.43469
-  },
-  {
-    "title": "darwaza ST",
-    "address": {
-      "en": "darwaza ST"
-    },
-    "latitude": 36.24468,
-    "longitude": 44.88033
+    "latitude": 35.55626,
+    "longitude": 45.43374
   },
   {
     "title": "AU 773 - 3",
@@ -192,220 +40,396 @@
     "longitude": 45.46698
   },
   {
-    "title": "AU 633 - 35",
+    "title": "Allay Harem",
     "address": {
-      "en": "AU 633 - 35"
+      "en": "Allay Harem"
     },
-    "latitude": 35.56591,
-    "longitude": 45.39432
+    "latitude": 35.56122571,
+    "longitude": 45.42987155
   },
   {
-    "title": "AU 689 - 1",
+    "title": "Azmar-SV",
     "address": {
-      "en": "AU 689 - 1"
+      "en": "Azmar-SV"
     },
-    "latitude": 35.55626,
-    "longitude": 45.43374
-  },
-  {
-    "title": "AU 673 - 43",
-    "address": {
-      "en": "AU 673 - 43"
-    },
-    "latitude": 35.580634547115395,
-    "longitude": 45.40141003810896
-  },
-  {
-    "title": "Zanko – Slemani",
-    "address": {
-      "en": "Zanko – Slemani"
-    },
-    "latitude": 35.568023830814795,
-    "longitude": 45.438998987918474
-  },
-  {
-    "title": "Tanjaro",
-    "address": {
-      "en": "Tanjaro"
-    },
-    "latitude": 35.548482486854404,
-    "longitude": 45.41006751009408
-  },
-  {
-    "title": "sarwari RD",
-    "address": {
-      "en": "sarwari RD"
-    },
-    "latitude": 35.5836482896182,
-    "longitude": 45.40519685068118
-  },
-  {
-    "title": "ibrahim basha st",
-    "address": {
-      "en": "ibrahim basha st"
-    },
-    "latitude": 35.55630217011554,
-    "longitude": 45.45115145385182
+    "latitude": 35.56478433,
+    "longitude": 45.44462062
   },
   {
     "title": "Baban Bank-SV",
     "address": {
       "en": "Baban Bank-SV"
     },
-    "latitude": 35.565305511285935,
-    "longitude": 45.398976017908524
+    "latitude": 35.56530551,
+    "longitude": 45.39897602
   },
   {
-    "title": "zanko st",
+    "title": "Baban str",
     "address": {
-      "en": "zanko st"
+      "en": "Baban str"
     },
-    "latitude": 35.56478433121323,
-    "longitude": 45.44462062253922
+    "latitude": 35.54411437,
+    "longitude": 45.42767854
   },
   {
-    "title": "Near Bank Cihan",
+    "title": "Branch",
     "address": {
-      "en": "Near Bank Cihan"
+      "en": "Branch"
     },
-    "latitude": 34.61960035153972,
-    "longitude": 45.32517800687933
+    "latitude": 35.57141408,
+    "longitude": 45.40399257
   },
   {
-    "title": "municipality Sulaimani",
+    "title": "Chamchamal - 1",
     "address": {
-      "en": "municipality Sulaimani"
+      "en": "Chamchamal - 1"
     },
-    "latitude": 35.562790399102255,
-    "longitude": 45.40774908251313
+    "latitude": 35.53349536,
+    "longitude": 44.83266654
+  },
+  {
+    "title": "Chamchamal - 2",
+    "address": {
+      "en": "Chamchamal - 2"
+    },
+    "latitude": 35.52360659,
+    "longitude": 44.81801847
+  },
+  {
+    "title": "Charmo",
+    "address": {
+      "en": "Charmo"
+    },
+    "latitude": 35.5324,
+    "longitude": 44.8334
+  },
+  {
+    "title": "Chwarqurna",
+    "address": {
+      "en": "Chwarqurna"
+    },
+    "latitude": 36.192646,
+    "longitude": 45.131481
+  },
+  {
+    "title": "Chwarta",
+    "address": {
+      "en": "Chwarta"
+    },
+    "latitude": 35.71871,
+    "longitude": 45.56665
+  },
+  {
+    "title": "Cihan Bank - Br. Kalar",
+    "address": {
+      "en": "Cihan Bank - Br. Kalar"
+    },
+    "latitude": 34.61960035,
+    "longitude": 45.32517801
+  },
+  {
+    "title": "Darbandikhan - city center ST",
+    "address": {
+      "en": "Darbandikhan - city center ST"
+    },
+    "latitude": 35.11145,
+    "longitude": 45.68736
+  },
+  {
+    "title": "Dokan",
+    "address": {
+      "en": "Dokan"
+    },
+    "latitude": 35.9322,
+    "longitude": 44.9667
+  },
+  {
+    "title": "FAMILY MALL",
+    "address": {
+      "en": "FAMILY MALL"
+    },
+    "latitude": 35.54237755,
+    "longitude": 45.42743757
+  },
+  {
+    "title": "Goezha",
+    "address": {
+      "en": "Goezha"
+    },
+    "latitude": 35.55630217,
+    "longitude": 45.45115145
+  },
+  {
+    "title": "Halebjai Taza",
+    "address": {
+      "en": "Halebjai Taza"
+    },
+    "latitude": 35.31114,
+    "longitude": 45.68843
+  },
+  {
+    "title": "Kewarash",
+    "address": {
+      "en": "Kewarash"
+    },
+    "latitude": 36.235458,
+    "longitude": 44.868881
+  },
+  {
+    "title": "Kurdsat",
+    "address": {
+      "en": "Kurdsat"
+    },
+    "latitude": 35.58808,
+    "longitude": 45.43469
+  },
+  {
+    "title": "Majdi Mall - Suleymaniyeh - 1",
+    "address": {
+      "en": "Majdi Mall - Suleymaniyeh - 1"
+    },
+    "latitude": 35.5598543,
+    "longitude": 45.35651578
+  },
+  {
+    "title": "Majdi Mall - Suleymaniyeh - 2",
+    "address": {
+      "en": "Majdi Mall - Suleymaniyeh - 2"
+    },
+    "latitude": 35.5648912,
+    "longitude": 45.38109612
   },
   {
     "title": "Majidi Mall Sulaimaniyah",
     "address": {
       "en": "Majidi Mall Sulaimaniyah"
     },
-    "latitude": 35.56615519511911,
-    "longitude": 45.372421088052356
+    "latitude": 35.5661552,
+    "longitude": 45.37242109
   },
   {
-    "title": "Safra Market",
+    "title": "Malkandi",
     "address": {
-      "en": "Safra Market"
+      "en": "Malkandi"
     },
-    "latitude": 35.56744626707871,
-    "longitude": 45.416896705800085
+    "latitude": 35.56784,
+    "longitude": 45.44487
   },
   {
-    "title": "ABC Towers",
+    "title": "Penjwen",
     "address": {
-      "en": "ABC Towers"
+      "en": "Penjwen"
     },
-    "latitude": 35.53533962093903,
-    "longitude": 45.46389127415425
+    "latitude": 35.62661,
+    "longitude": 45.94596
   },
   {
-    "title": "HighQ laboratory",
+    "title": "Qaladza",
     "address": {
-      "en": "HighQ laboratory"
+      "en": "Qaladza"
     },
-    "latitude": 35.58990604397077,
-    "longitude": 45.422858509484584
+    "latitude": 36.19265,
+    "longitude": 45.131454
   },
   {
-    "title": "المدينة الطبية / كرميان",
+    "title": "RAND GALLERY",
     "address": {
-      "en": "المدينة الطبية / كرميان"
-    },
-    "latitude": 34.61859,
-    "longitude": 45.32443
-  },
-  {
-    "title": " راند كلري",
-    "address": {
-      "en": " راند كلري"
+      "en": "RAND GALLERY"
     },
     "latitude": 35.56274,
     "longitude": 45.40553
   },
   {
-    "title": "فاملي مول - السليمانية",
+    "title": "Rand Galary-Suleymaniah",
     "address": {
-      "en": "فاملي مول - السليمانية"
+      "en": "Rand Galary-Suleymaniah"
     },
-    "latitude": 35.54237754632534,
-    "longitude": 45.427437572785145
+    "latitude": 35.5627904,
+    "longitude": 45.40774908
   },
   {
-    "title": "زارا ماركيت ",
+    "title": "Ranya",
     "address": {
-      "en": "زارا ماركيت "
+      "en": "Ranya"
     },
-    "latitude": 35.56015751917198,
-    "longitude": 45.432422337229255
+    "latitude": 36.24468,
+    "longitude": 44.88033
   },
   {
-    "title": "الثقافة والفن ",
+    "title": "Rizgari District- kalar",
     "address": {
-      "en": "الثقافة والفن "
-    },
-    "latitude": 36.252392419119175,
-    "longitude": 44.87176747009614
-  },
-  {
-    "title": "sulaimanya-kirkuk road",
-    "address": {
-      "en": "sulaimanya-kirkuk road"
-    },
-    "latitude": 35.56489119725663,
-    "longitude": 45.38109612060287
-  },
-  {
-    "title": "Bakrajo",
-    "address": {
-      "en": "Bakrajo"
-    },
-    "latitude": 35.55985430207887,
-    "longitude": 45.35651578337418
-  },
-  {
-    "title": "كلار",
-    "address": {
-      "en": "كلار"
+      "en": "Rizgari District- kalar"
     },
     "latitude": 34.66246,
     "longitude": 45.24671
   },
   {
-    "title": "فرع سليمانية - ATM",
+    "title": "SULI VIEW",
     "address": {
-      "en": "فرع سليمانية - ATM"
+      "en": "SULI VIEW"
     },
-    "latitude": 35.57141407829362,
-    "longitude": 45.40399256687893
+    "latitude": 35.58990604,
+    "longitude": 45.42285851
   },
   {
-    "title": "جمجمال - 1",
+    "title": "Said Sadiq",
     "address": {
-      "en": "جمجمال - 1"
+      "en": "Said Sadiq"
     },
-    "latitude": 35.53349535905743,
-    "longitude": 44.83266653527294
+    "latitude": 35.35516,
+    "longitude": 45.85832
   },
   {
-    "title": "جمجمال - 2",
+    "title": "Sarwari",
     "address": {
-      "en": "جمجمال - 2"
+      "en": "Sarwari"
     },
-    "latitude": 35.52360659304133,
-    "longitude": 44.818018465648
+    "latitude": 35.58364829,
+    "longitude": 45.40519685
   },
   {
-    "title": "Darwaza Road",
+    "title": "Sharazoor District Council",
     "address": {
-      "en": "Darwaza Road"
+      "en": "Sharazoor District Council"
     },
-    "latitude": 36.243267939280365,
-    "longitude": 44.87903388950037
+    "latitude": 35.3174,
+    "longitude": 45.6817
+  },
+  {
+    "title": "Tanjaro",
+    "address": {
+      "en": "Tanjaro"
+    },
+    "latitude": 35.54848249,
+    "longitude": 45.41006751
+  },
+  {
+    "title": "Tasluja",
+    "address": {
+      "en": "Tasluja"
+    },
+    "latitude": 35.5935,
+    "longitude": 45.22828
+  },
+  {
+    "title": "ZARA MARKET",
+    "address": {
+      "en": "ZARA MARKET"
+    },
+    "latitude": 35.56015752,
+    "longitude": 45.43242234
+  },
+  {
+    "title": "Zanko â Slemani",
+    "address": {
+      "en": "Zanko â Slemani"
+    },
+    "latitude": 35.56802383,
+    "longitude": 45.43899899
+  },
+  {
+    "title": "abc twoer",
+    "address": {
+      "en": "abc twoer"
+    },
+    "latitude": 35.53533962,
+    "longitude": 45.46389127
+  },
+  {
+    "title": "chamchamal retirement office",
+    "address": {
+      "en": "chamchamal retirement office"
+    },
+    "latitude": 35.51885,
+    "longitude": 44.81187
+  },
+  {
+    "title": "chamchamal university",
+    "address": {
+      "en": "chamchamal university"
+    },
+    "latitude": 35.53381,
+    "longitude": 44.83297
+  },
+  {
+    "title": "culture and art /rania",
+    "address": {
+      "en": "culture and art /rania"
+    },
+    "latitude": 36.25239242,
+    "longitude": 44.87176747
+  },
+  {
+    "title": "garmian Education- kalar",
+    "address": {
+      "en": "garmian Education- kalar"
+    },
+    "latitude": 34.61859,
+    "longitude": 45.32443
+  },
+  {
+    "title": "municipalitie rapareen /rania",
+    "address": {
+      "en": "municipalitie rapareen /rania"
+    },
+    "latitude": 36.24326794,
+    "longitude": 44.87903389
+  },
+  {
+    "title": "politechnic university",
+    "address": {
+      "en": "politechnic university"
+    },
+    "latitude": 35.549244,
+    "longitude": 45.442322
+  },
+  {
+    "title": "ranya maternity",
+    "address": {
+      "en": "ranya maternity"
+    },
+    "latitude": 36.261807,
+    "longitude": 44.867657
+  },
+  {
+    "title": "shahid park",
+    "address": {
+      "en": "shahid park"
+    },
+    "latitude": 35.580632,
+    "longitude": 45.449426
+  },
+  {
+    "title": "sharawani ST - kalar",
+    "address": {
+      "en": "sharawani ST - kalar"
+    },
+    "latitude": 34.62623,
+    "longitude": 45.31483
+  },
+  {
+    "title": "Ø³ÙÙÙØ§ÙÙØ©",
+    "address": {
+      "en": "Ø³ÙÙÙØ§ÙÙØ©"
+    },
+    "latitude": 35.56744627,
+    "longitude": 45.41689671
+  },
+  {
+    "title": "Sulaymaniyah Branch",
+    "address": {
+      "en": "Bakhtiari Street, opposite Grand Millennium Hotel"
+    },
+    "latitude": 35.571,
+    "longitude": 45.404
+  },
+  {
+    "title": "mawlana park",
+    "address": {
+      "en": "mawlana park"
+    },
+    "latitude": 35.54404885169963,
+    "longitude": 45.42767283433099
   },
   {
     "title": "چەمچەماڵ - نزیک سەرۆکایەتی زانکۆی چەرمۆ",
@@ -568,28 +592,12 @@
     "longitude": 45.68768
   },
   {
-    "title": "سلێمانی - بەرامبەر پارکی مەلیک مەحمود",
-    "address": {
-      "en": "سلێمانی - بەرامبەر پارکی مەلیک مەحمود"
-    },
-    "latitude": 35.580632,
-    "longitude": 45.449426
-  },
-  {
     "title": "شارەزوور - بەردەم فەرمانگەی ڕۆشنبیری و هونەری شارەزوور",
     "address": {
       "en": "شارەزوور - بەردەم فەرمانگەی ڕۆشنبیری و هونەری شارەزوور"
     },
     "latitude": 35.317346,
     "longitude": 45.681845
-  },
-  {
-    "title": "ڕانیە - شەقامی پێنجی ئازار نزیک نەخۆشخانەی منداڵبوونی ڕانیە",
-    "address": {
-      "en": "ڕانیە - شەقامی پێنجی ئازار نزیک نەخۆشخانەی منداڵبوونی ڕانیە"
-    },
-    "latitude": 36.261807,
-    "longitude": 44.867657
   },
   {
     "title": "کفری - بەردەم قایمقامییەتی قەزای کفری",

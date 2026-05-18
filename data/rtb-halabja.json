@@ -14,5 +14,13 @@
     },
     "latitude": 35.1842,
     "longitude": 45.97049
+  },
+  {
+    "title": "halabja bank",
+    "address": {
+      "en": "halabja bank"
+    },
+    "latitude": 35.17541,
+    "longitude": 45.99081
   }
 ]

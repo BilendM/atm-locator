@@ -1,11 +1,699 @@
 [
   {
+    "title": "32 Park Branch",
+    "address": {
+      "en": "32 Park Branch"
+    },
+    "latitude": 36.19148516,
+    "longitude": 43.95015195
+  },
+  {
+    "title": "Al Hayat (Pepsi)",
+    "address": {
+      "en": "Al Hayat (Pepsi)"
+    },
+    "latitude": 36.16209517,
+    "longitude": 43.9948654
+  },
+  {
+    "title": "Al Motanazah St",
+    "address": {
+      "en": "Al Motanazah St"
+    },
+    "latitude": 36.22971719,
+    "longitude": 43.9919226
+  },
+  {
     "title": "Ankawa Asayish Office",
     "address": {
       "en": "Ankawa Asayish Office"
     },
-    "latitude": 36.22242064094361,
-    "longitude": 43.997059053012855
+    "latitude": 36.22242064,
+    "longitude": 43.99705905
+  },
+  {
+    "title": "Ankawa District",
+    "address": {
+      "en": "Ankawa District"
+    },
+    "latitude": 36.24028141,
+    "longitude": 43.98727707
+  },
+  {
+    "title": "Ankawa Holiday Hotel",
+    "address": {
+      "en": "Ankawa Holiday Hotel"
+    },
+    "latitude": 36.22855,
+    "longitude": 44.004829
+  },
+  {
+    "title": "Appellate Court of Erbil",
+    "address": {
+      "en": "Appellate Court of Erbil"
+    },
+    "latitude": 36.18333864,
+    "longitude": 43.98074643
+  },
+  {
+    "title": "Aram Village",
+    "address": {
+      "en": "Aram Village"
+    },
+    "latitude": 36.24497083,
+    "longitude": 44.04141402
+  },
+  {
+    "title": "Azadi Bank",
+    "address": {
+      "en": "Azadi Bank"
+    },
+    "latitude": 36.65191296,
+    "longitude": 44.53384149
+  },
+  {
+    "title": "Bahrka Municipality",
+    "address": {
+      "en": "Bahrka Municipality"
+    },
+    "latitude": 36.31542149,
+    "longitude": 44.03276339
+  },
+  {
+    "title": "Bank Sork",
+    "address": {
+      "en": "Bank Sork"
+    },
+    "latitude": 36.39827273,
+    "longitude": 44.3290813
+  },
+  {
+    "title": "Barzan",
+    "address": {
+      "en": "Barzan"
+    },
+    "latitude": 36.64974079,
+    "longitude": 44.53323171
+  },
+  {
+    "title": "Binaslawa grand stadium",
+    "address": {
+      "en": "Binaslawa grand stadium"
+    },
+    "latitude": 36.15967126,
+    "longitude": 44.10950246
+  },
+  {
+    "title": "Bnaslawa bank",
+    "address": {
+      "en": "Bnaslawa bank"
+    },
+    "latitude": 36.15891958,
+    "longitude": 44.12492483
+  },
+  {
+    "title": "Board of Investment",
+    "address": {
+      "en": "Board of Investment"
+    },
+    "latitude": 36.19321019,
+    "longitude": 44.02638978
+  },
+  {
+    "title": "Childbirth Hospital - Erbil",
+    "address": {
+      "en": "Childbirth Hospital - Erbil"
+    },
+    "latitude": 36.21586828,
+    "longitude": 44.03361963
+  },
+  {
+    "title": "Choman Stadium",
+    "address": {
+      "en": "Choman Stadium"
+    },
+    "latitude": 36.63730245,
+    "longitude": 44.88962183
+  },
+  {
+    "title": "Diana",
+    "address": {
+      "en": "Diana"
+    },
+    "latitude": 36.67828412,
+    "longitude": 44.53663025
+  },
+  {
+    "title": "District Commissioner of Joman",
+    "address": {
+      "en": "District Commissioner of Joman"
+    },
+    "latitude": 36.63171104,
+    "longitude": 44.88456846
+  },
+  {
+    "title": "Divan Hotel",
+    "address": {
+      "en": "Divan Hotel"
+    },
+    "latitude": 36.19695562,
+    "longitude": 43.97669572
+  },
+  {
+    "title": "Emergency Management Center",
+    "address": {
+      "en": "Emergency Management Center"
+    },
+    "latitude": 36.19960993,
+    "longitude": 43.99808607
+  },
+  {
+    "title": "Erbil Directorate of Health",
+    "address": {
+      "en": "Erbil Directorate of Health"
+    },
+    "latitude": 36.19227912,
+    "longitude": 44.00365174
+  },
+  {
+    "title": "Erbil International Airport",
+    "address": {
+      "en": "Erbil International Airport"
+    },
+    "latitude": 36.23357,
+    "longitude": 43.95539
+  },
+  {
+    "title": "Erbil Provincial Council",
+    "address": {
+      "en": "Erbil Provincial Council"
+    },
+    "latitude": 36.18614058,
+    "longitude": 43.99672246
+  },
+  {
+    "title": "Erbil construction laboratorie",
+    "address": {
+      "en": "Erbil construction laboratorie"
+    },
+    "latitude": 36.20533623,
+    "longitude": 43.99995981
+  },
+  {
+    "title": "Faculty of Arts Salahaddin University",
+    "address": {
+      "en": "Faculty of Arts Salahaddin University"
+    },
+    "latitude": 36.15850861,
+    "longitude": 44.0137708
+  },
+  {
+    "title": "Family Mall Erbil",
+    "address": {
+      "en": "Family Mall Erbil"
+    },
+    "latitude": 36.21079652,
+    "longitude": 44.04653597
+  },
+  {
+    "title": "Ganjan City",
+    "address": {
+      "en": "Ganjan City"
+    },
+    "latitude": 36.29268421,
+    "longitude": 44.03355556
+  },
+  {
+    "title": "General Directorate of Soran Municipalities",
+    "address": {
+      "en": "General Directorate of Soran Municipalities"
+    },
+    "latitude": 36.63765893,
+    "longitude": 44.55869999
+  },
+  {
+    "title": "Governor's Office of Qushtapa District",
+    "address": {
+      "en": "Governor's Office of Qushtapa District"
+    },
+    "latitude": 36.00415658,
+    "longitude": 44.03732871
+  },
+  {
+    "title": "Gulan Janar",
+    "address": {
+      "en": "Gulan Janar"
+    },
+    "latitude": 36.16696602,
+    "longitude": 44.05050415
+  },
+  {
+    "title": "Gulan bank",
+    "address": {
+      "en": "Gulan bank"
+    },
+    "latitude": 36.2682284,
+    "longitude": 43.66199352
+  },
+  {
+    "title": "Harem",
+    "address": {
+      "en": "Harem"
+    },
+    "latitude": 36.65190111,
+    "longitude": 44.52291837
+  },
+  {
+    "title": "Harir Electricity Station",
+    "address": {
+      "en": "Harir Electricity Station"
+    },
+    "latitude": 36.54920922,
+    "longitude": 44.35823165
+  },
+  {
+    "title": "Harir National Card Office",
+    "address": {
+      "en": "Harir National Card Office"
+    },
+    "latitude": 36.54896444,
+    "longitude": 44.35195893
+  },
+  {
+    "title": "Hawler Mall",
+    "address": {
+      "en": "Hawler Mall"
+    },
+    "latitude": 36.19677083,
+    "longitude": 44.01631924
+  },
+  {
+    "title": "Headquarter Erbil",
+    "address": {
+      "en": "Headquarter Erbil"
+    },
+    "latitude": 36.21638,
+    "longitude": 43.99938
+  },
+  {
+    "title": "Headquarter Erbil",
+    "address": {
+      "en": "Headquarter Erbil"
+    },
+    "latitude": 36.18041,
+    "longitude": 44.02426
+  },
+  {
+    "title": "Hotel Sipan",
+    "address": {
+      "en": "Hotel Sipan"
+    },
+    "latitude": 36.21137311,
+    "longitude": 43.98012049
+  },
+  {
+    "title": "Khabat Youth Center",
+    "address": {
+      "en": "Khabat Youth Center"
+    },
+    "latitude": 36.2693277,
+    "longitude": 43.66746719
+  },
+  {
+    "title": "Khalifan Agricultural Department",
+    "address": {
+      "en": "Khalifan Agricultural Department"
+    },
+    "latitude": 36.60401762,
+    "longitude": 44.4005618
+  },
+  {
+    "title": "Koy Sanjaq",
+    "address": {
+      "en": "Koy Sanjaq"
+    },
+    "latitude": 36.08192756,
+    "longitude": 44.62896458
+  },
+  {
+    "title": "KurdNeft",
+    "address": {
+      "en": "KurdNeft"
+    },
+    "latitude": 36.26195003,
+    "longitude": 44.01476092
+  },
+  {
+    "title": "KurdNeft",
+    "address": {
+      "en": "KurdNeft"
+    },
+    "latitude": 36.86816283,
+    "longitude": 44.06173886
+  },
+  {
+    "title": "Kurdistan Standardization & Quality Control Authority",
+    "address": {
+      "en": "Kurdistan Standardization & Quality Control Authority"
+    },
+    "latitude": 36.17189227,
+    "longitude": 43.98078666
+  },
+  {
+    "title": "Majidi Land Erbil",
+    "address": {
+      "en": "Majidi Land Erbil"
+    },
+    "latitude": 36.2081562,
+    "longitude": 44.13962497
+  },
+  {
+    "title": "Majidi Market 3",
+    "address": {
+      "en": "Majidi Market 3"
+    },
+    "latitude": 36.26209471,
+    "longitude": 44.08973929
+  },
+  {
+    "title": "Mergasur",
+    "address": {
+      "en": "Mergasur"
+    },
+    "latitude": 36.85155509,
+    "longitude": 44.29391378
+  },
+  {
+    "title": "Mergasur District Office",
+    "address": {
+      "en": "Mergasur District Office"
+    },
+    "latitude": 36.83912421,
+    "longitude": 44.30055919
+  },
+  {
+    "title": "Mergasur National Library",
+    "address": {
+      "en": "Mergasur National Library"
+    },
+    "latitude": 36.84289394,
+    "longitude": 44.30083937
+  },
+  {
+    "title": "Ministry of Peshmrega Affairs",
+    "address": {
+      "en": "Ministry of Peshmrega Affairs"
+    },
+    "latitude": 36.22390267,
+    "longitude": 44.05424598
+  },
+  {
+    "title": "Ministry of Trade and Industry",
+    "address": {
+      "en": "Ministry of Trade and Industry"
+    },
+    "latitude": 36.19683448,
+    "longitude": 44.02426383
+  },
+  {
+    "title": "Ministry of Transport and Communications",
+    "address": {
+      "en": "Ministry of Transport and Communications"
+    },
+    "latitude": 36.17180457,
+    "longitude": 44.01433144
+  },
+  {
+    "title": "Nanakali Hospital",
+    "address": {
+      "en": "Nanakali Hospital"
+    },
+    "latitude": 36.16444275,
+    "longitude": 44.0099202
+  },
+  {
+    "title": "Nishtiman Bazar",
+    "address": {
+      "en": "Nishtiman Bazar"
+    },
+    "latitude": 36.18544101,
+    "longitude": 44.01097485
+  },
+  {
+    "title": "Park View market",
+    "address": {
+      "en": "Park View market"
+    },
+    "latitude": 36.20877839,
+    "longitude": 43.98214444
+  },
+  {
+    "title": "Pirmam",
+    "address": {
+      "en": "Pirmam"
+    },
+    "latitude": 36.38133081,
+    "longitude": 44.20147244
+  },
+  {
+    "title": "Pirmam Gulan Road",
+    "address": {
+      "en": "Pirmam Gulan Road"
+    },
+    "latitude": 36.3928397,
+    "longitude": 44.18759572
+  },
+  {
+    "title": "Presidency of Salahaddin University - Erbil",
+    "address": {
+      "en": "Presidency of Salahaddin University - Erbil"
+    },
+    "latitude": 36.14784749,
+    "longitude": 44.02932077
+  },
+  {
+    "title": "Qalat Bank",
+    "address": {
+      "en": "Qalat Bank"
+    },
+    "latitude": 36.16237877,
+    "longitude": 43.9688264
+  },
+  {
+    "title": "Rawanduz Stadium",
+    "address": {
+      "en": "Rawanduz Stadium"
+    },
+    "latitude": 36.61118334,
+    "longitude": 44.51863419
+  },
+  {
+    "title": "Rizgary Teaching Hospital",
+    "address": {
+      "en": "Rizgary Teaching Hospital"
+    },
+    "latitude": 36.19266092,
+    "longitude": 44.03665348
+  },
+  {
+    "title": "Rwanduz Qaimqamiya",
+    "address": {
+      "en": "Rwanduz Qaimqamiya"
+    },
+    "latitude": 36.61962056,
+    "longitude": 44.53325075
+  },
+  {
+    "title": "SAS Automotive Trade & Services",
+    "address": {
+      "en": "SAS Automotive Trade & Services"
+    },
+    "latitude": 36.17597341,
+    "longitude": 43.94154748
+  },
+  {
+    "title": "Salahaddin University - College of Science",
+    "address": {
+      "en": "Salahaddin University - College of Science"
+    },
+    "latitude": 36.152109,
+    "longitude": 44.01860405
+  },
+  {
+    "title": "Sami Abdulrahman Park",
+    "address": {
+      "en": "Sami Abdulrahman Park"
+    },
+    "latitude": 36.18433825,
+    "longitude": 43.98329868
+  },
+  {
+    "title": "Sarwaran - 2",
+    "address": {
+      "en": "Sarwaran - 2"
+    },
+    "latitude": 36.17918996,
+    "longitude": 44.0082495
+  },
+  {
+    "title": "Shaqlawa Education",
+    "address": {
+      "en": "Shaqlawa Education"
+    },
+    "latitude": 36.40973146,
+    "longitude": 44.31149486
+  },
+  {
+    "title": "Shaqlawa Sabirawa",
+    "address": {
+      "en": "Shaqlawa Sabirawa"
+    },
+    "latitude": 36.39135839,
+    "longitude": 44.34364251
+  },
+  {
+    "title": "Shawes",
+    "address": {
+      "en": "Shawes"
+    },
+    "latitude": 36.24970857,
+    "longitude": 44.08530781
+  },
+  {
+    "title": "ShowMarket Koya",
+    "address": {
+      "en": "ShowMarket Koya"
+    },
+    "latitude": 36.20586908,
+    "longitude": 44.1220694
+  },
+  {
+    "title": "ShowMarket Pirmam",
+    "address": {
+      "en": "ShowMarket Pirmam"
+    },
+    "latitude": 36.38064,
+    "longitude": 44.20202
+  },
+  {
+    "title": "Soran Police Directorate",
+    "address": {
+      "en": "Soran Police Directorate"
+    },
+    "latitude": 36.65300668,
+    "longitude": 44.551541
+  },
+  {
+    "title": "Soran Technical College",
+    "address": {
+      "en": "Soran Technical College"
+    },
+    "latitude": 36.69525474,
+    "longitude": 44.53065692
+  },
+  {
+    "title": "Tablo Mall",
+    "address": {
+      "en": "Tablo Mall"
+    },
+    "latitude": 36.21638,
+    "longitude": 44.01362
+  },
+  {
+    "title": "Taqtaq Bank",
+    "address": {
+      "en": "Taqtaq Bank"
+    },
+    "latitude": 35.88576264,
+    "longitude": 44.58926041
+  },
+  {
+    "title": "University of Kurdistan HewlÃªr",
+    "address": {
+      "en": "University of Kurdistan HewlÃªr"
+    },
+    "latitude": 36.18227357,
+    "longitude": 44.00671127
+  },
+  {
+    "title": "WOW Tower",
+    "address": {
+      "en": "WOW Tower"
+    },
+    "latitude": 36.17280648,
+    "longitude": 43.96212782
+  },
+  {
+    "title": "Zanko Bank",
+    "address": {
+      "en": "Zanko Bank"
+    },
+    "latitude": 36.14164114,
+    "longitude": 44.02019235
+  },
+  {
+    "title": "banky koya",
+    "address": {
+      "en": "banky koya"
+    },
+    "latitude": 36.09204409,
+    "longitude": 44.63908632
+  },
+  {
+    "title": "blann bazar Roya Towers",
+    "address": {
+      "en": "blann bazar Roya Towers"
+    },
+    "latitude": 36.19217,
+    "longitude": 43.96791
+  },
+  {
+    "title": "kindergarten BALE",
+    "address": {
+      "en": "kindergarten BALE"
+    },
+    "latitude": 36.86796485,
+    "longitude": 44.06169966
+  },
+  {
+    "title": "life tower",
+    "address": {
+      "en": "life tower"
+    },
+    "latitude": 36.18174797,
+    "longitude": 43.95111134
+  },
+  {
+    "title": "qamar al fajr exchange",
+    "address": {
+      "en": "qamar al fajr exchange"
+    },
+    "latitude": 36.17463126,
+    "longitude": 44.02050353
+  },
+  {
+    "title": "Erbil 32 Park Branch",
+    "address": {
+      "en": "Erbil 32 Park, opposite Empire"
+    },
+    "latitude": 36.201264466141865,
+    "longitude": 43.964266218297944
+  },
+  {
+    "title": "Erbil Airport Office",
+    "address": {
+      "en": "Erbil International Airport"
+    },
+    "latitude": 36.237,
+    "longitude": 43.963
+  },
+  {
+    "title": "Erbil Branch",
+    "address": {
+      "en": "Gulan Street, Road 40, opposite the Turkish Consulate"
+    },
+    "latitude": 36.21595251735234,
+    "longitude": 43.999672275642965
   },
   {
     "title": "مديرية مرور سوران",
@@ -16,246 +704,6 @@
     "longitude": 44.512469953275286
   },
   {
-    "title": "Pirmam Gulan Road",
-    "address": {
-      "en": "Pirmam Gulan Road"
-    },
-    "latitude": 36.39283969862767,
-    "longitude": 44.18759572321649
-  },
-  {
-    "title": "Rwandz stadium",
-    "address": {
-      "en": "Rwandz stadium"
-    },
-    "latitude": 36.61118334464741,
-    "longitude": 44.518634186505004
-  },
-  {
-    "title": "Choman Stadium",
-    "address": {
-      "en": "Choman Stadium"
-    },
-    "latitude": 36.63730244594618,
-    "longitude": 44.8896218250657
-  },
-  {
-    "title": "Shaqlawa Sabirawa",
-    "address": {
-      "en": "Shaqlawa Sabirawa"
-    },
-    "latitude": 36.39135839049644,
-    "longitude": 44.343642508669994
-  },
-  {
-    "title": "Khabat Youth Center",
-    "address": {
-      "en": "Khabat Youth Center"
-    },
-    "latitude": 36.26932770143744,
-    "longitude": 43.66746718650499
-  },
-  {
-    "title": "Harir Electricity Station",
-    "address": {
-      "en": "Harir Electricity Station"
-    },
-    "latitude": 36.54920922336508,
-    "longitude": 44.35823164998951
-  },
-  {
-    "title": "Mergasur National Library",
-    "address": {
-      "en": "Mergasur National Library"
-    },
-    "latitude": 36.842893941193445,
-    "longitude": 44.30083936933311
-  },
-  {
-    "title": "Mergasur District Office",
-    "address": {
-      "en": "Mergasur District Office"
-    },
-    "latitude": 36.83912421203664,
-    "longitude": 44.300559193108796
-  },
-  {
-    "title": "Banaslawa Football Stadium",
-    "address": {
-      "en": "Banaslawa Football Stadium"
-    },
-    "latitude": 36.1596712575835,
-    "longitude": 44.109502457670004
-  },
-  {
-    "title": "Diana",
-    "address": {
-      "en": "Diana"
-    },
-    "latitude": 36.678284122377484,
-    "longitude": 44.53663025390245
-  },
-  {
-    "title": "Harem",
-    "address": {
-      "en": "Harem"
-    },
-    "latitude": 36.651901112591254,
-    "longitude": 44.522918373009986
-  },
-  {
-    "title": "Barzan kawa st",
-    "address": {
-      "en": "Barzan kawa st"
-    },
-    "latitude": 36.64974078970756,
-    "longitude": 44.53323171154254
-  },
-  {
-    "title": "32 Park ",
-    "address": {
-      "en": "32 Park "
-    },
-    "latitude": 36.19148516108281,
-    "longitude": 43.95015195174588
-  },
-  {
-    "title": "شارع المنتزه ",
-    "address": {
-      "en": "شارع المنتزه "
-    },
-    "latitude": 36.22971718835233,
-    "longitude": 43.99192260042421
-  },
-  {
-    "title": "كويه",
-    "address": {
-      "en": "كويه"
-    },
-    "latitude": 36.09204408833981,
-    "longitude": 44.63908632490611
-  },
-  {
-    "title": "فندق سیپان",
-    "address": {
-      "en": "فندق سیپان"
-    },
-    "latitude": 36.211373113132886,
-    "longitude": 43.98012049138303
-  },
-  {
-    "title": "Erbil Distribution Center",
-    "address": {
-      "en": "Erbil Distribution Center"
-    },
-    "latitude": 36.17597340721697,
-    "longitude": 43.94154747617029
-  },
-  {
-    "title": "بيرمام",
-    "address": {
-      "en": "بيرمام"
-    },
-    "latitude": 36.38133080546671,
-    "longitude": 44.2014724423024
-  },
-  {
-    "title": "شاويس ",
-    "address": {
-      "en": "شاويس "
-    },
-    "latitude": 36.24970856573183,
-    "longitude": 44.085307813494985
-  },
-  {
-    "title": "قائم مقام جومان",
-    "address": {
-      "en": "قائم مقام جومان"
-    },
-    "latitude": 36.63171104126707,
-    "longitude": 44.88456846348616
-  },
-  {
-    "title": "محكمة اربيل ",
-    "address": {
-      "en": "محكمة اربيل "
-    },
-    "latitude": 36.183338637183276,
-    "longitude": 43.98074643362182
-  },
-  {
-    "title": "كلية التربية/شقلاوة",
-    "address": {
-      "en": "كلية التربية/شقلاوة"
-    },
-    "latitude": 36.409731455378186,
-    "longitude": 44.31149486242624
-  },
-  {
-    "title": "مصرف كولان",
-    "address": {
-      "en": "مصرف كولان"
-    },
-    "latitude": 36.26822840027464,
-    "longitude": 43.66199351910406
-  },
-  {
-    "title": "سوق اربيل الكبير",
-    "address": {
-      "en": "سوق اربيل الكبير"
-    },
-    "latitude": 36.185441010642414,
-    "longitude": 44.01097484577322
-  },
-  {
-    "title": "قاضي محمد ",
-    "address": {
-      "en": "قاضي محمد "
-    },
-    "latitude": 36.179189955106615,
-    "longitude": 44.00824949740681
-  },
-  {
-    "title": "مجلس محافظة اربيل",
-    "address": {
-      "en": "مجلس محافظة اربيل"
-    },
-    "latitude": 36.186140576305384,
-    "longitude": 43.996722457753236
-  },
-  {
-    "title": "بارك سامي عبد الرحمن",
-    "address": {
-      "en": "بارك سامي عبد الرحمن"
-    },
-    "latitude": 36.184338252281414,
-    "longitude": 43.983298682543186
-  },
-  {
-    "title": "فاميلي مول/ هەولێر",
-    "address": {
-      "en": "فاميلي مول/ هەولێر"
-    },
-    "latitude": 36.21079651513707,
-    "longitude": 44.046535974898084
-  },
-  {
-    "title": "شركة الحياة / بيبسي",
-    "address": {
-      "en": "شركة الحياة / بيبسي"
-    },
-    "latitude": 36.16209516895379,
-    "longitude": 43.994865400320144
-  },
-  {
-    "title": "فندق ديفان",
-    "address": {
-      "en": "فندق ديفان"
-    },
-    "latitude": 36.196955616200675,
-    "longitude": 43.97669571725563
-  },
-  {
     "title": "تابلو مول",
     "address": {
       "en": "تابلو مول"
@@ -264,356 +712,12 @@
     "longitude": 44.01362
   },
   {
-    "title": " المقرالرئيسي",
-    "address": {
-      "en": " المقرالرئيسي"
-    },
-    "latitude": 36.21638,
-    "longitude": 43.99938
-  },
-  {
-    "title": "شركة قمر الفجر",
-    "address": {
-      "en": "شركة قمر الفجر"
-    },
-    "latitude": 36.174634722069335,
-    "longitude": 44.02048961651697
-  },
-  {
-    "title": "جامعة كردستان",
-    "address": {
-      "en": "جامعة كردستان"
-    },
-    "latitude": 36.18227357108548,
-    "longitude": 44.00671126512119
-  },
-  {
-    "title": "مطار اربيل - القادمون",
-    "address": {
-      "en": "مطار اربيل - القادمون"
-    },
-    "latitude": 36.23357,
-    "longitude": 43.95539
-  },
-  {
-    "title": "فيو ماركت",
-    "address": {
-      "en": "فيو ماركت"
-    },
-    "latitude": 36.208778392656264,
-    "longitude": 43.982144436113565
-  },
-  {
-    "title": "ماجدي ماركت 3",
-    "address": {
-      "en": "ماجدي ماركت 3"
-    },
-    "latitude": 36.262094711296626,
-    "longitude": 44.08973928635255
-  },
-  {
-    "title": "بلان بازار ",
-    "address": {
-      "en": "بلان بازار "
-    },
-    "latitude": 36.19217,
-    "longitude": 43.96791
-  },
-  {
-    "title": "مستشفى الولادة",
-    "address": {
-      "en": "مستشفى الولادة"
-    },
-    "latitude": 36.21586828,
-    "longitude": 44.03361963
-  },
-  {
-    "title": "شو ماركت - طريق كوية",
-    "address": {
-      "en": "شو ماركت - طريق كوية"
-    },
-    "latitude": 36.20586908387763,
-    "longitude": 44.12206939632757
-  },
-  {
-    "title": " مستشفى رزكاري",
-    "address": {
-      "en": " مستشفى رزكاري"
-    },
-    "latitude": 36.19266091531509,
-    "longitude": 44.03665347668401
-  },
-  {
-    "title": "كلية العلوم",
-    "address": {
-      "en": "كلية العلوم"
-    },
-    "latitude": 36.1521090009183,
-    "longitude": 44.01860404903681
-  },
-  {
-    "title": "طريق بنصلاوة القديم",
-    "address": {
-      "en": "طريق بنصلاوة القديم"
-    },
-    "latitude": 36.16696601793696,
-    "longitude": 44.05050415297506
-  },
-  {
-    "title": "كلية الاداب",
-    "address": {
-      "en": "كلية الاداب"
-    },
-    "latitude": 36.158508613364084,
-    "longitude": 44.01377080469774
-  },
-  {
-    "title": "بنك زانكو",
-    "address": {
-      "en": "بنك زانكو"
-    },
-    "latitude": 36.141641138746905,
-    "longitude": 44.02019235112862
-  },
-  {
-    "title": "تابلو مول2",
-    "address": {
-      "en": "تابلو مول2"
-    },
-    "latitude": 36.171804566132934,
-    "longitude": 44.01433144288079
-  },
-  {
-    "title": "فندق عنكاوا هوليداي",
-    "address": {
-      "en": "فندق عنكاوا هوليداي"
-    },
-    "latitude": 36.22855,
-    "longitude": 44.004829
-  },
-  {
-    "title": "مصرف القلعة ",
-    "address": {
-      "en": "مصرف القلعة "
-    },
-    "latitude": 36.17189226662579,
-    "longitude": 43.98078666174877
-  },
-  {
-    "title": "وزارة التجارة",
-    "address": {
-      "en": "وزارة التجارة"
-    },
-    "latitude": 36.19683447901035,
-    "longitude": 44.02426383146328
-  },
-  {
-    "title": "ارام ستي",
-    "address": {
-      "en": "ارام ستي"
-    },
-    "latitude": 36.24497082862031,
-    "longitude": 44.041414018865034
-  },
-  {
-    "title": "واو تاوەر",
-    "address": {
-      "en": "واو تاوەر"
-    },
-    "latitude": 36.17280647689859,
-    "longitude": 43.96212781740406
-  },
-  {
-    "title": "سورك بنك",
-    "address": {
-      "en": "سورك بنك"
-    },
-    "latitude": 36.398272727919185,
-    "longitude": 44.32908130138597
-  },
-  {
-    "title": "مديرية صحة اربيل",
-    "address": {
-      "en": "مديرية صحة اربيل"
-    },
-    "latitude": 36.19227911786361,
-    "longitude": 44.003651741824925
-  },
-  {
-    "title": "هولير مول",
-    "address": {
-      "en": "هولير مول"
-    },
-    "latitude": 36.196770834071195,
-    "longitude": 44.016319236582405
-  },
-  {
-    "title": "مديرية الاستثمار ",
-    "address": {
-      "en": "مديرية الاستثمار "
-    },
-    "latitude": 36.19321019219106,
-    "longitude": 44.02638978206865
-  },
-  {
-    "title": "مطعم هولير",
-    "address": {
-      "en": "مطعم هولير"
-    },
-    "latitude": 36.20533623,
-    "longitude": 43.99995981
-  },
-  {
-    "title": "قوشتبة",
-    "address": {
-      "en": "قوشتبة"
-    },
-    "latitude": 36.0041565794165,
-    "longitude": 44.037328712554604
-  },
-  {
-    "title": "كوي ",
-    "address": {
-      "en": "كوي "
-    },
-    "latitude": 36.08192755600066,
-    "longitude": 44.628964583831745
-  },
-  {
-    "title": "كنجان سيتي ",
-    "address": {
-      "en": "كنجان سيتي "
-    },
-    "latitude": 36.29268420601479,
-    "longitude": 44.03355556006566
-  },
-  {
-    "title": " سوران",
-    "address": {
-      "en": " سوران"
-    },
-    "latitude": 36.6376589272706,
-    "longitude": 44.55869999066027
-  },
-  {
-    "title": "خليفان",
-    "address": {
-      "en": "خليفان"
-    },
-    "latitude": 36.60401761535458,
-    "longitude": 44.40056179504314
-  },
-  {
-    "title": "حرير",
-    "address": {
-      "en": "حرير"
-    },
-    "latitude": 36.548964436858974,
-    "longitude": 44.35195893249198
-  },
-  {
-    "title": "سوران",
-    "address": {
-      "en": "سوران"
-    },
-    "latitude": 36.65191296375531,
-    "longitude": 44.533841490109516
-  },
-  {
-    "title": "روفيا",
-    "address": {
-      "en": "روفيا"
-    },
-    "latitude": 36.61857948128348,
-    "longitude": 43.70246496268476
-  },
-  {
-    "title": "رواندوز",
-    "address": {
-      "en": "رواندوز"
-    },
-    "latitude": 36.61962055959003,
-    "longitude": 44.53325075254256
-  },
-  {
-    "title": "Mergasur",
-    "address": {
-      "en": "Mergasur"
-    },
-    "latitude": 36.85155508626541,
-    "longitude": 44.29391378085979
-  },
-  {
-    "title": "ديلزيا",
-    "address": {
-      "en": "ديلزيا"
-    },
-    "latitude": 36.69525474259728,
-    "longitude": 44.53065692482459
-  },
-  {
-    "title": "كورد نفط /مقابل القرية اللبنانية",
-    "address": {
-      "en": "كورد نفط /مقابل القرية اللبنانية"
-    },
-    "latitude": 36.261950025325675,
-    "longitude": 44.01476092358303
-  },
-  {
-    "title": "مستشفى نانكلي",
-    "address": {
-      "en": "مستشفى نانكلي"
-    },
-    "latitude": 36.16444274972246,
-    "longitude": 44.00992019623291
-  },
-  {
-    "title": "بلدية بحركة ",
-    "address": {
-      "en": "بلدية بحركة "
-    },
-    "latitude": 36.31542148748969,
-    "longitude": 44.03276338580377
-  },
-  {
     "title": "كورد نفط / مقابل فاملي مول",
     "address": {
       "en": "كورد نفط / مقابل فاملي مول"
     },
     "latitude": 36.20882124741754,
     "longitude": 44.043879850301686
-  },
-  {
-    "title": "لايف تاور",
-    "address": {
-      "en": "لايف تاور"
-    },
-    "latitude": 36.18174796716854,
-    "longitude": 43.95111134132292
-  },
-  {
-    "title": "كوالتي كونترول",
-    "address": {
-      "en": "كوالتي كونترول"
-    },
-    "latitude": 36.16237876504773,
-    "longitude": 43.96882640324062
-  },
-  {
-    "title": "بلدية عنكاوا",
-    "address": {
-      "en": "بلدية عنكاوا"
-    },
-    "latitude": 36.240281411722115,
-    "longitude": 43.98727707367573
-  },
-  {
-    "title": "بلي",
-    "address": {
-      "en": "بلي"
-    },
-    "latitude": 36.86816283,
-    "longitude": 44.06173886
   },
   {
     "title": "مصيف، صلاح الدين",

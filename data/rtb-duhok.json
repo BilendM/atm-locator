@@ -1,347 +1,315 @@
 [
   {
-    "title": "Batifa",
+    "title": "11 AYLOOL ST. / Branch",
     "address": {
-      "en": "Batifa"
+      "en": "11 AYLOOL ST. / Branch"
     },
-    "latitude": 37.17688,
-    "longitude": 43.01084
-  },
-  {
-    "title": "Ibrahim Khalil Border Crossing",
-    "address": {
-      "en": "Ibrahim Khalil Border Crossing"
-    },
-    "latitude": 37.14061535167988,
-    "longitude": 42.570833511282686
-  },
-  {
-    "title": "Zakho Card Department",
-    "address": {
-      "en": "Zakho Card Department"
-    },
-    "latitude": 37.15801075655055,
-    "longitude": 42.722578913495
-  },
-  {
-    "title": "shiga -RD",
-    "address": {
-      "en": "shiga -RD"
-    },
-    "latitude": 37.166543320452156,
-    "longitude": 42.688993518618226
-  },
-  {
-    "title": "dalal- RD",
-    "address": {
-      "en": "dalal- RD"
-    },
-    "latitude": 37.13906192180175,
-    "longitude": 42.71076170674748
-  },
-  {
-    "title": "بلدية زاخو",
-    "address": {
-      "en": "بلدية زاخو"
-    },
-    "latitude": 37.144173104144656,
-    "longitude": 42.67398609441851
-  },
-  {
-    "title": "بنك رزكاري",
-    "address": {
-      "en": "بنك رزكاري"
-    },
-    "latitude": 37.13802974501768,
-    "longitude": 42.56233353909166
-  },
-  {
-    "title": "هيزل",
-    "address": {
-      "en": "هيزل"
-    },
-    "latitude": 37.16108898851737,
-    "longitude": 42.6791301451504
-  },
-  {
-    "title": "Dalal Bank",
-    "address": {
-      "en": "Dalal Bank"
-    },
-    "latitude": 37.152425654365004,
-    "longitude": 42.704943788624306
-  },
-  {
-    "title": "SHEKHAN - STADIUM",
-    "address": {
-      "en": "SHEKHAN - STADIUM"
-    },
-    "latitude": 36.68206504130722,
-    "longitude": 43.34095427116501
-  },
-  {
-    "title": "دائرة بيئة محافظة دهوك",
-    "address": {
-      "en": "دائرة بيئة محافظة دهوك"
-    },
-    "latitude": 36.72418759071108,
-    "longitude": 43.87312008466001
-  },
-  {
-    "title": "shorash park",
-    "address": {
-      "en": "shorash park"
-    },
-    "latitude": 36.73946095421788,
-    "longitude": 43.89788891533999
-  },
-  {
-    "title": "دائره طابو سيميل",
-    "address": {
-      "en": "دائره طابو سيميل"
-    },
-    "latitude": 36.85064748523146,
-    "longitude": 42.86358964233
-  },
-  {
-    "title": "Parshad Street",
-    "address": {
-      "en": "Parshad Street"
-    },
-    "latitude": 36.84180163059842,
-    "longitude": 43.05717389572355
-  },
-  {
-    "title": "Bazar Road",
-    "address": {
-      "en": "Bazar Road"
-    },
-    "latitude": 36.84970116704465,
-    "longitude": 42.94026372209874
-  },
-  {
-    "title": "Emergency Teaching Hospital",
-    "address": {
-      "en": "Emergency Teaching Hospital"
-    },
-    "latitude": 36.85762359380764,
-    "longitude": 43.00851943905765
-  },
-  {
-    "title": "Azadi Street",
-    "address": {
-      "en": "Azadi Street"
-    },
-    "latitude": 36.867806267236844,
-    "longitude": 42.97000495843096
-  },
-  {
-    "title": "Duhok Highway",
-    "address": {
-      "en": "Duhok Highway"
-    },
-    "latitude": 36.63738998966622,
-    "longitude": 43.52291919992105
-  },
-  {
-    "title": "صحة عمادية",
-    "address": {
-      "en": "صحة عمادية"
-    },
-    "latitude": 37.090453446460735,
-    "longitude": 43.488714403917484
-  },
-  {
-    "title": "مستشفى سميل",
-    "address": {
-      "en": "مستشفى سميل"
-    },
-    "latitude": 36.859973014048244,
-    "longitude": 42.83607187659896
-  },
-  {
-    "title": "دهوك كورا",
-    "address": {
-      "en": "دهوك كورا"
-    },
-    "latitude": 36.90457153729968,
-    "longitude": 43.13498985437733
-  },
-  {
-    "title": "شيلاديزي",
-    "address": {
-      "en": "شيلاديزي"
-    },
-    "latitude": 37.032033495217995,
-    "longitude": 43.77308169363911
-  },
-  {
-    "title": "سميل",
-    "address": {
-      "en": "سميل"
-    },
-    "latitude": 36.86004293453738,
-    "longitude": 42.843464776701396
-  },
-  {
-    "title": "سبنا",
-    "address": {
-      "en": "سبنا"
-    },
-    "latitude": 37.04319881627723,
-    "longitude": 43.3530235879966
-  },
-  {
-    "title": "سرهلدان",
-    "address": {
-      "en": "سرهلدان"
-    },
-    "latitude": 36.85113713979616,
-    "longitude": 43.02630562321676
-  },
-  {
-    "title": "دوميس",
-    "address": {
-      "en": "دوميس"
-    },
-    "latitude": 36.79224390131896,
-    "longitude": 42.91201894599914
-  },
-  {
-    "title": "رئاسة جامعة دهوك ",
-    "address": {
-      "en": "رئاسة جامعة دهوك "
-    },
-    "latitude": 36.8612628900797,
-    "longitude": 42.96984830425142
-  },
-  {
-    "title": "كلية حقوق الانسان",
-    "address": {
-      "en": "كلية حقوق الانسان"
-    },
-    "latitude": 36.863860604040866,
-    "longitude": 42.930212766238434
-  },
-  {
-    "title": "كلية / الاسنان - الصيدلة",
-    "address": {
-      "en": "كلية / الاسنان - الصيدلة"
-    },
-    "latitude": 36.84758218849074,
-    "longitude": 42.99904135393624
-  },
-  {
-    "title": "جامعة دهوك ",
-    "address": {
-      "en": "جامعة دهوك "
-    },
-    "latitude": 36.85219092542621,
-    "longitude": 42.92238268699061
-  },
-  {
-    "title": "بردرسش المعهد الفني",
-    "address": {
-      "en": "بردرسش المعهد الفني"
-    },
-    "latitude": 36.50560498451683,
-    "longitude": 43.585296286162276
-  },
-  {
-    "title": "MALTA",
-    "address": {
-      "en": "MALTA"
-    },
-    "latitude": 36.86833207416979,
-    "longitude": 42.94906608640683
-  },
-  {
-    "title": "MATIN",
-    "address": {
-      "en": "MATIN"
-    },
-    "latitude": 36.86457650767049,
-    "longitude": 43.00398680505728
-  },
-  {
-    "title": "GARA",
-    "address": {
-      "en": "GARA"
-    },
-    "latitude": 36.85612164034382,
-    "longitude": 42.960847484512236
-  },
-  {
-    "title": "DASNIA",
-    "address": {
-      "en": "DASNIA"
-    },
-    "latitude": 36.86470699399182,
-    "longitude": 42.98816773751803
+    "latitude": 36.86290982,
+    "longitude": 42.98943025
   },
   {
     "title": "AMAD 1",
     "address": {
       "en": "AMAD 1"
     },
-    "latitude": 36.84683638151703,
-    "longitude": 43.00332758233544
+    "latitude": 36.84683638,
+    "longitude": 43.00332758
+  },
+  {
+    "title": "Akre Department of Environment",
+    "address": {
+      "en": "Akre Department of Environment"
+    },
+    "latitude": 36.72418759,
+    "longitude": 43.87312008
+  },
+  {
+    "title": "Amedi Health Directorate1",
+    "address": {
+      "en": "Amedi Health Directorate1"
+    },
+    "latitude": 37.09045345,
+    "longitude": 43.4887144
+  },
+  {
+    "title": "Azadi Street",
+    "address": {
+      "en": "Azadi Street"
+    },
+    "latitude": 36.86780627,
+    "longitude": 42.97000496
+  },
+  {
+    "title": "Bardarash Technical Institute 1",
+    "address": {
+      "en": "Bardarash Technical Institute 1"
+    },
+    "latitude": 36.50560498,
+    "longitude": 43.58529629
+  },
+  {
+    "title": "Bazar Road",
+    "address": {
+      "en": "Bazar Road"
+    },
+    "latitude": 36.84970117,
+    "longitude": 42.94026372
+  },
+  {
+    "title": "Blann Bazzar - Duhok",
+    "address": {
+      "en": "Blann Bazzar - Duhok"
+    },
+    "latitude": 36.84711097,
+    "longitude": 43.01317028
   },
   {
     "title": "Cihan Bank - Br. Duhok",
     "address": {
       "en": "Cihan Bank - Br. Duhok"
     },
-    "latitude": 36.86317324158931,
-    "longitude": 42.98805853390082
+    "latitude": 36.86317324,
+    "longitude": 42.98805853
   },
   {
-    "title": "Duhok Branch ATM ",
+    "title": "DASNIA1",
     "address": {
-      "en": "Duhok Branch ATM "
+      "en": "DASNIA1"
     },
-    "latitude": 36.86290981639019,
-    "longitude": 42.989430245050855
+    "latitude": 36.86470699,
+    "longitude": 42.98816774
   },
   {
-    "title": "دهوك مول",
+    "title": "DOHUK MALL / QAZI MOHAMMED ST.",
     "address": {
-      "en": "دهوك مول"
+      "en": "DOHUK MALL / QAZI MOHAMMED ST."
     },
-    "latitude": 36.85228062480585,
-    "longitude": 42.88443026019515
+    "latitude": 36.85228062,
+    "longitude": 42.88443026
   },
   {
-    "title": "جامعة نوروز/ دهوك",
+    "title": "Duhok Highway | Remote",
     "address": {
-      "en": "جامعة نوروز/ دهوك"
+      "en": "Duhok Highway | Remote"
     },
-    "latitude": 36.859976431235154,
-    "longitude": 42.8955638369072
+    "latitude": 36.63738999,
+    "longitude": 43.5229192
   },
   {
-    "title": "فاملي مول - دهوك",
+    "title": "Dumis",
     "address": {
-      "en": "فاملي مول - دهوك"
+      "en": "Dumis"
     },
-    "latitude": 36.85227110798369,
-    "longitude": 42.88451487204385
+    "latitude": 36.7922439,
+    "longitude": 42.91201895
   },
   {
-    "title": " بلان بازار3",
+    "title": "FAMILY MALLÂ  / DOHUK - SEMEL ROAD",
     "address": {
-      "en": " بلان بازار3"
+      "en": "FAMILY MALLÂ  / DOHUK - SEMEL ROAD"
     },
-    "latitude": 36.84711097161874,
-    "longitude": 43.013170276441066
+    "latitude": 36.85227111,
+    "longitude": 42.88451487
   },
   {
-    "title": "قلعه عقرة 1",
+    "title": "GARA1",
     "address": {
-      "en": "قلعه عقرة 1"
+      "en": "GARA1"
     },
-    "latitude": 36.73192744887681,
-    "longitude": 43.87920094753114
+    "latitude": 36.85612164,
+    "longitude": 42.96084748
+  },
+  {
+    "title": "Khabat Health Center",
+    "address": {
+      "en": "Khabat Health Center"
+    },
+    "latitude": 36.85762359,
+    "longitude": 43.00851944
+  },
+  {
+    "title": "MALTA1",
+    "address": {
+      "en": "MALTA1"
+    },
+    "latitude": 36.86833207,
+    "longitude": 42.94906609
+  },
+  {
+    "title": "MATIN1",
+    "address": {
+      "en": "MATIN1"
+    },
+    "latitude": 36.86457651,
+    "longitude": 43.00398681
+  },
+  {
+    "title": "Nawroz University",
+    "address": {
+      "en": "Nawroz University"
+    },
+    "latitude": 36.85997643,
+    "longitude": 42.89556384
+  },
+  {
+    "title": "Old Akre Stadium",
+    "address": {
+      "en": "Old Akre Stadium"
+    },
+    "latitude": 36.73192745,
+    "longitude": 43.87920095
+  },
+  {
+    "title": "Parshad Street",
+    "address": {
+      "en": "Parshad Street"
+    },
+    "latitude": 36.84180163,
+    "longitude": 43.0571739
+  },
+  {
+    "title": "Ruvia",
+    "address": {
+      "en": "Ruvia"
+    },
+    "latitude": 36.61857948,
+    "longitude": 43.70246496
+  },
+  {
+    "title": "SHEKHAN 1",
+    "address": {
+      "en": "SHEKHAN 1"
+    },
+    "latitude": 36.6854421,
+    "longitude": 43.34587577
+  },
+  {
+    "title": "Sarhaldan Bank",
+    "address": {
+      "en": "Sarhaldan Bank"
+    },
+    "latitude": 36.85113714,
+    "longitude": 43.02630562
+  },
+  {
+    "title": "Sbna",
+    "address": {
+      "en": "Sbna"
+    },
+    "latitude": 37.04319882,
+    "longitude": 43.35302359
+  },
+  {
+    "title": "Semel",
+    "address": {
+      "en": "Semel"
+    },
+    "latitude": 36.86004293,
+    "longitude": 42.84346478
+  },
+  {
+    "title": "Semel General Hospital",
+    "address": {
+      "en": "Semel General Hospital"
+    },
+    "latitude": 36.85997301,
+    "longitude": 42.83607188
+  },
+  {
+    "title": "Shekhan Education Directorate",
+    "address": {
+      "en": "Shekhan Education Directorate"
+    },
+    "latitude": 36.68206504,
+    "longitude": 43.34095427
+  },
+  {
+    "title": "Sheladze1",
+    "address": {
+      "en": "Sheladze1"
+    },
+    "latitude": 37.0320335,
+    "longitude": 43.77308169
+  },
+  {
+    "title": "Shorash Park",
+    "address": {
+      "en": "Shorash Park"
+    },
+    "latitude": 36.73946095,
+    "longitude": 43.89788892
+  },
+  {
+    "title": "Tabu Simele Directorate",
+    "address": {
+      "en": "Tabu Simele Directorate"
+    },
+    "latitude": 36.85064749,
+    "longitude": 42.86358964
+  },
+  {
+    "title": "The presidency of the University of Dohuk",
+    "address": {
+      "en": "The presidency of the University of Dohuk"
+    },
+    "latitude": 36.86126289,
+    "longitude": 42.9698483
+  },
+  {
+    "title": "Zawita sub-district directorate",
+    "address": {
+      "en": "Zawita sub-district directorate"
+    },
+    "latitude": 36.90457154,
+    "longitude": 43.13498985
+  },
+  {
+    "title": "college / dentistry - medicine 1",
+    "address": {
+      "en": "college / dentistry - medicine 1"
+    },
+    "latitude": 36.84758219,
+    "longitude": 42.99904135
+  },
+  {
+    "title": "college of humanity 1",
+    "address": {
+      "en": "college of humanity 1"
+    },
+    "latitude": 36.8638606,
+    "longitude": 42.93021277
+  },
+  {
+    "title": "sipa1",
+    "address": {
+      "en": "sipa1"
+    },
+    "latitude": 36.73969306,
+    "longitude": 43.88341134
+  },
+  {
+    "title": "zanko duhok1",
+    "address": {
+      "en": "zanko duhok1"
+    },
+    "latitude": 36.85219093,
+    "longitude": 42.92238269
+  },
+  {
+    "title": "Duhok Branch",
+    "address": {
+      "en": "11 September Street, Korek Telecom intersection"
+    },
+    "latitude": 37.013,
+    "longitude": 43.089
+  },
+  {
+    "title": "Duhok Office (Dry Port)",
+    "address": {
+      "en": "Sumel District - Seji Road - next to the American University"
+    },
+    "latitude": 37.05,
+    "longitude": 43.1
   },
   {
     "title": "رۆڤیا - تەنیشت بەرێوەبەرایەتی پۆلیسی رۆڤیا",
@@ -358,30 +326,6 @@
     },
     "latitude": 36.003589,
     "longitude": 44.031576
-  },
-  {
-    "title": "دهۆک - بەرامبەر هۆتیل سەرگلی",
-    "address": {
-      "en": "دهۆک - بەرامبەر هۆتیل سەرگلی"
-    },
-    "latitude": 36.856115,
-    "longitude": 42.960751
-  },
-  {
-    "title": "زاخۆ - تەنيشت بانکي هيزل",
-    "address": {
-      "en": "زاخۆ - تەنيشت بانکي هيزل"
-    },
-    "latitude": 37.161153,
-    "longitude": 42.679117
-  },
-  {
-    "title": "زاخۆ - بەردەم ناحیا رزگاری",
-    "address": {
-      "en": "زاخۆ - بەردەم ناحیا رزگاری"
-    },
-    "latitude": 37.137985,
-    "longitude": 42.562266
   },
   {
     "title": "شێخان - نزيک بانکی شێخان",
@@ -424,22 +368,6 @@
     "longitude": 43.879224
   },
   {
-    "title": "دهۆک - شەقامي ئەنوەر ماي",
-    "address": {
-      "en": "دهۆک - شەقامي ئەنوەر ماي"
-    },
-    "latitude": 36.861303,
-    "longitude": 42.969789
-  },
-  {
-    "title": "زاخۆ - نزيک ياريگای زاخۆ",
-    "address": {
-      "en": "زاخۆ - نزيک ياريگای زاخۆ"
-    },
-    "latitude": 37.144226,
-    "longitude": 42.673975
-  },
-  {
     "title": "دهۆک - نێزیک نەخوشخانا تەنگاڤیان یا کەڤن",
     "address": {
       "en": "دهۆک - نێزیک نەخوشخانا تەنگاڤیان یا کەڤن"
@@ -464,14 +392,6 @@
     "longitude": 43.057132
   },
   {
-    "title": "زاخۆ - تەنیشت ڕێڤەبەرییا ئاسایشا زاخۆ",
-    "address": {
-      "en": "زاخۆ - تەنیشت ڕێڤەبەرییا ئاسایشا زاخۆ"
-    },
-    "latitude": 37.139109,
-    "longitude": 42.710782
-  },
-  {
     "title": "ئاکرێ - تەنیشت مزگەفتا شورەش",
     "address": {
       "en": "ئاکرێ - تەنیشت مزگەفتا شورەش"
@@ -486,14 +406,6 @@
     },
     "latitude": 36.72405,
     "longitude": 43.873158
-  },
-  {
-    "title": "زاخۆ - لسەر جادا گورستانا تلکەبەرێ",
-    "address": {
-      "en": "زاخۆ - لسەر جادا گورستانا تلکەبەرێ"
-    },
-    "latitude": 37.157925,
-    "longitude": 42.722627
   },
   {
     "title": "شێخان - بەردەم یاریگەها شێخان",

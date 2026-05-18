@@ -197,6 +197,8 @@ class ATMLocator {
       'data/rtb-slemani.json',
       'data/rtb-duhok.json',
       'data/rtb-halabja.json',
+      'data/rtb-kirkuk.json',
+      'data/rtb-zakho.json',
       // Cihan Bank files
       'data/cihan-erbil.json',
       'data/cihan-slemani.json',
@@ -290,6 +292,7 @@ class ATMLocator {
       mosul: 'Mosul',
       kirkuk: 'Kirkuk',
       basra: 'Basra',
+      zakho: 'Zakho',
     };
 
     city =
