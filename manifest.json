@@ -1,7 +1,7 @@
 {
   "name": "Kurdistan ATM Locations",
   "short_name": "KRI ATMs",
-  "description": "Find ATM locations near you",
+  "description": "Find ATM and bank branch locations across Kurdistan. Browse ATMs in Erbil, Duhok, Sulaymaniyah, Kirkuk, Zakho, and Halabja.",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#ffffff",

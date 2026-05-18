@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bilendm.github.io/atm-locator/sitemap.xml
